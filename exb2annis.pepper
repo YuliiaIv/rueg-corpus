@@ -2,6 +2,7 @@
 <pepper-job id="trttqfob" version="1.0">
 	<importer name="EXMARaLDAImporter" path="./exb/RUEG/">
 		<customization>
+		  <property key="pepper.before.readMeta">meta</property>
 			<property key="mapTimeline">false
 			</property>
 		</customization>
