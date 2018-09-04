@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pepper-job id="trttqfob" version="1.0">
+	<importer name="EXMARaLDAImporter" path="./exb/RUEG/">
+		<customization>
+			<property key="mapTimeline">false
+			</property>
+		</customization>
+	</importer>
+	<exporter name="ANNISExporter" path="./annis/">
+		<customization>
+			<property key="corpusName">RUEG-snapshot
+			</property>
+		</customization>
+	</exporter>
+</pepper-job>
