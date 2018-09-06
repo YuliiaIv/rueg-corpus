@@ -8,7 +8,7 @@
   </importer>
   <manipulator name="OrderRelationAdder">
     <customization>
-      <property key="segmentation-layers">{ip,norm}</property>
+      <property key="segmentation-layers">{dipl,norm}</property>
     </customization>
   </manipulator>
   <exporter name="ANNISExporter" path="./annis/">
