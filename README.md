@@ -4,3 +4,5 @@ See [the wiki](https://scm.cms.hu-berlin.de/rueg-pd/rueg-corpus/wikis/Tools/Git-
 
 Whenever you update files in this repository, the corpus will be automatically converted to ANNIS and will be accessible at https://korpling.org/annis3-snapshot/#_c=UlVFRy1zbmFwc2hvdA
 with the user-name `rueg` and the password `ewnpzqat`.
+
+We have more info on stuff in our chat: https://team.korpling.org/rueg/
