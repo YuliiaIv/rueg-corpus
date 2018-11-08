@@ -1,0 +1,166 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0 
+xmax = 45.31868508925945 
+tiers? <exists> 
+size = 5 
+item []: 
+    item [1]: 
+        class = "IntervalTier" 
+        name = "SPK0|t|v" 
+        xmin = 0.0 
+        xmax = 45.31868508925945 
+        intervals: size = 32 
+        intervals [1]: 
+            xmin = 0.0 
+            xmax = 0.04666531268385057 
+            text = "" 
+        intervals [2]: 
+            xmin = 0.04666531268385057 
+            xmax = 0.7399785297010589 
+            text = "hei:=ei " 
+        intervals [3]: 
+            xmin = 0.7399785297010589 
+            xmax = 0.9999709860825121 
+            text = "(-) " 
+        intervals [4]: 
+            xmin = 0.9999709860825121 
+            xmax = 2.5532592511306813 
+            text = "du ich bin grade unterwegs " 
+        intervals [5]: 
+            xmin = 2.5532592511306813 
+            xmax = 5.113184975501912 
+            text = "u:nd hier war frade fast ein unfall " 
+        intervals [6]: 
+            xmin = 5.113184975501912 
+            xmax = 5.479841003732166 
+            text = "(-) " 
+        intervals [7]: 
+            xmin = 5.479841003732166 
+            xmax = 6.6998056067528315 
+            text = "ich hab aber nur zugeguckt " 
+        intervals [8]: 
+            xmin = 6.6998056067528315 
+            xmax = 8.946407088818209 
+            text = "also ähm ich war da jetz nich drin verwickelt " 
+        intervals [9]: 
+            xmin = 8.946407088818209 
+            xmax = 9.406393742416165 
+            text = "(-) " 
+        intervals [10]: 
+            xmin = 9.406393742416165 
+            xmax = 10.099706959433373 
+            text = "ä:hm " 
+        intervals [11]: 
+            xmin = 10.099706959433373 
+            xmax = 10.553027139790778 
+            text = "(-) " 
+        intervals [12]: 
+            xmin = 10.553027139790778 
+            xmax = 13.10628639092146 
+            text = "ja da is irgendwie ein ball auf die straße gerollt " 
+        intervals [13]: 
+            xmin = 13.10628639092146 
+            xmax = 16.846177878870055 
+            text = "und (-) daraufhin is ein (-) hund (-) auch dazu gelaufen  " 
+        intervals [14]: 
+            xmin = 16.846177878870055 
+            xmax = 19.03944757501103 
+            text = "und (-) dann war irgendwie so =n bisschen chaos " 
+        intervals [15]: 
+            xmin = 19.03944757501103 
+            xmax = 21.35271378948191 
+            text = "und dann s/ sind natürlich die autos mussten bremsen " 
+        intervals [16]: 
+            xmin = 21.35271378948191 
+            xmax = 23.539317012382337 
+            text = "und der eine is dem andern hinten reingefahren " 
+        intervals [17]: 
+            xmin = 23.539317012382337 
+            xmax = 24.152632550512948 
+            text = "(-) " 
+        intervals [18]: 
+            xmin = 24.152632550512948 
+            xmax = 25.819250860650463 
+            text = "war irgendwie n bisschen wirr alles " 
+        intervals [19]: 
+            xmin = 25.819250860650463 
+            xmax = 26.705891801643624 
+            text = "(-) " 
+        intervals [20]: 
+            xmin = 26.705891801643624 
+            xmax = 27.285874973571485 
+            text = "ä:hm " 
+        intervals [21]: 
+            xmin = 27.285874973571485 
+            xmax = 27.885857565220988 
+            text = "(-) " 
+        intervals [22]: 
+            xmin = 27.885857565220988 
+            xmax = 30.252455565616266 
+            text = "aber ich dachte echt erst das dem hund irgend was passiert " 
+        intervals [23]: 
+            xmin = 30.252455565616266 
+            xmax = 32.572388253327695 
+            text = "oder eben (-) dass der kinderwagen raufrollt " 
+        intervals [24]: 
+            xmin = 32.572388253327695 
+            xmax = 33.97234763384321 
+            text = "(--) " 
+        intervals [25]: 
+            xmin = 33.97234763384321 
+            xmax = 36.598938090619946 
+            text = "ja aber ich es sieht jetz erstma ganz gut aus " 
+        intervals [26]: 
+            xmin = 36.598938090619946 
+            xmax = 36.79226581459589 
+            text = "(-) " 
+        intervals [27]: 
+            xmin = 36.79226581459589 
+            xmax = 38.66554479519047 
+            text = "glaub die ham jetz die polizei angerufen " 
+        intervals [28]: 
+            xmin = 38.66554479519047 
+            xmax = 40.03883828274379 
+            text = "(--) " 
+        intervals [29]: 
+            xmin = 40.03883828274379 
+            xmax = 40.45882609689844 
+            text = "ja " 
+        intervals [30]: 
+            xmin = 40.45882609689844 
+            xmax = 42.425494294910685 
+            text = "(--) " 
+        intervals [31]: 
+            xmin = 42.425494294910685 
+            xmax = 43.51207084107038 
+            text = "wollt ich nurma erzählen " 
+        intervals [32]: 
+            xmin = 43.51207084107038 
+            xmax = 45.31868508925945 
+            text = "(-) mach =s gut " 
+    item [2]: 
+        class = "IntervalTier" 
+        name = "SPK1|t|v" 
+        xmin = 0.0 
+        xmax = 45.31868508925945 
+        intervals: size = 0 
+    item [3]: 
+        class = "IntervalTier" 
+        name = "NO_SPEAKER|d|nv" 
+        xmin = 0.0 
+        xmax = 45.31868508925945 
+        intervals: size = 0 
+    item [4]: 
+        class = "IntervalTier" 
+        name = "NO_SPEAKER|d|comment" 
+        xmin = 0.0 
+        xmax = 45.31868508925945 
+        intervals: size = 0 
+    item [5]: 
+        class = "IntervalTier" 
+        name = "NO_SPEAKER|d|annonymisierung" 
+        xmin = 0.0 
+        xmax = 45.31868508925945 
+        intervals: size = 0 
