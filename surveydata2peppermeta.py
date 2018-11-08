@@ -5,7 +5,8 @@ import numpy as np
 import os
 import pandas
 
-parser = ArgumentParser()
+parser = ArgumentParser(description='This script extracts document meta data from the RUEG questionnaire results'
+                                    ' and processes it to .meta files.')
 parser.add_argument('survey_results_file', type=str, help='path to survey answers file (csv)')
 parser.add_argument('target_dir', type=str, help='output directory for .meta-files')
 args = parser.parse_args()
