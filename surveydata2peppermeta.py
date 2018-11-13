@@ -1,15 +1,22 @@
 from argparse import ArgumentParser
 from collections import defaultdict
 from functools import partial
+import logging
 import numpy as np
 import os
 import pandas
+import re
 
 parser = ArgumentParser(description='This script extracts document meta data from the RUEG questionnaire results'
                                     ' and processes it to .meta files.')
 parser.add_argument('survey_results_file', type=str, help='path to survey answers file (csv)')
 parser.add_argument('target_dir', type=str, help='output directory for .meta-files')
+parser.add_argument('-d', action='store_true', help='activate debug logging')
 args = parser.parse_args()
+
+log_level = logging.DEBUG if args.d else logging.INFO
+logging.basicConfig(level=log_level)
+logger = logging.getLogger(__name__)
 
 raw_data = pandas.read_table(args.survey_results_file, sep=',')
 raw_data['datestamp'] = pandas.to_datetime(raw_data['datestamp'])
@@ -136,11 +143,13 @@ for name, function in target_to_extractor.items():
 
 out_kv = defaultdict(set)
 for code in data['speaker-id']:
-    if not pandas.isnull(code):
+    if not pandas.isnull(code) and re.match(r'(DE|US|RU|GR|TR)(bi|mo)[0-9][0-9](M|F)(R|G|D|E|T)_.+', code):
         for name in data:
             if not name.startswith('_'):
                 val = data[data['speaker-id'] == code][name]
                 out_kv[code].add('='.join((name, str(val.values[0]))))
+    else:
+        logger.debug('Dropped code {}'.format(code))
 for file_name, metadata in out_kv.items():
     with open(os.path.join(args.target_dir, '{}.meta'.format(file_name)), 'w') as f:
         f.write(os.linesep.join(sorted(metadata) + ['']))
