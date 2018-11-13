@@ -12,6 +12,7 @@ parser = ArgumentParser(description='This script extracts document meta data fro
 parser.add_argument('survey_results_file', type=str, help='path to survey answers file (csv)')
 parser.add_argument('target_dir', type=str, help='output directory for .meta-files')
 parser.add_argument('-d', action='store_true', help='activate debug logging')
+parser.add_argument('-r', action='store_true', help='activate relaxed mode (codes don\'t have to match code pattern)')
 args = parser.parse_args()
 
 log_level = logging.DEBUG if args.d else logging.INFO
@@ -143,13 +144,15 @@ for name, function in target_to_extractor.items():
 
 out_kv = defaultdict(set)
 for code in data['speaker-id']:
-    if not pandas.isnull(code) and re.match(r'(DE|US|RU|GR|TR)(bi|mo)[0-9][0-9](M|F)(R|G|D|E|T)_.+', code):
+    if not pandas.isnull(code) and (args.r or re.match(r'(DE|US|RU|GR|TR)(bi|mo)[0-9][0-9](M|F)(R|G|D|E|T)', code)):
         for name in data:
             if not name.startswith('_'):
                 val = data[data['speaker-id'] == code][name]
                 out_kv[code].add('='.join((name, str(val.values[0]))))
     else:
-        logger.debug('Dropped code {}'.format(code))
+        logger.warn('Dropped code {}'.format(code))
+if not os.path.exists(args.target_dir):
+    os.mkdir(args.target_dir)
 for file_name, metadata in out_kv.items():
     with open(os.path.join(args.target_dir, '{}.meta'.format(file_name)), 'w') as f:
         f.write(os.linesep.join(sorted(metadata) + ['']))
