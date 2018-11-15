@@ -169,30 +169,31 @@
 <tli id="T158" time="61.226124164603796"/>
 <tli id="T159" time="61.46410165474167"/>
 <tli id="T160" time="62.310732989899165"/>
-<tli id="T161" time="62.68274998525933"/>
-<tli id="T162" time="62.96176273177945"/>
-<tli id="T163" time="63.147771229459536"/>
-<tli id="T164" time="63.33377972713962"/>
-<tli id="T165" time="63.89180522017987"/>
-<tli id="T166" time="64.17081796669999"/>
-<tli id="T167" time="64.72884345974023"/>
-<tli id="T168" time="65.00785620626036"/>
-<tli id="T169" time="66.12390719234085"/>
-<tli id="T170" time="67.09053351988287"/>
-<tli id="T171" time="67.14256033421384"/>
-<tli id="T172" time="67.35066759153773"/>
-<tli id="T173" time="67.50674803453064"/>
-<tli id="T174" time="67.71485529185453"/>
-<tli id="T175" time="68.02701617784037"/>
-<tli id="T176" time="68.23512343516425"/>
-<tli id="T177" time="68.44323069248814"/>
-<tli id="T178" time="68.703364764143"/>
-<tli id="T179" time="68.85944520713592"/>
-<tli id="T180" time="69.06755246445981"/>
-<tli id="T181" time="69.48376697910763"/>
-<tli id="T182" time="69.65042669075281"/>
-<tli id="T183" time="69.99841216866794"/>
-<tli id="T184" time="70.23040248727803"/>
+<tli id="T161" time="62.60405408239468"/>
+<tli id="T162" time="62.82404490176632"/>
+<tli id="T163" time="62.97070544801408"/>
+<tli id="T164" time="63.11736599426184"/>
+<tli id="T165" time="63.55734763300511"/>
+<tli id="T166" time="63.777338452376746"/>
+<tli id="T167" time="64.21732009112002"/>
+<tli id="T168" time="64.43731091049165"/>
+<tli id="T169" time="65.31727418797819"/>
+<tli id="T170" time="66.12390719234085"/>
+<tli id="T171" time="67.09053351988287"/>
+<tli id="T172" time="67.14256033421384"/>
+<tli id="T173" time="67.35066759153773"/>
+<tli id="T174" time="67.50674803453064"/>
+<tli id="T175" time="67.71485529185453"/>
+<tli id="T176" time="68.02701617784037"/>
+<tli id="T177" time="68.23512343516425"/>
+<tli id="T178" time="68.44323069248814"/>
+<tli id="T179" time="68.703364764143"/>
+<tli id="T180" time="68.85944520713592"/>
+<tli id="T181" time="69.06755246445981"/>
+<tli id="T182" time="69.48376697910763"/>
+<tli id="T183" time="69.65042669075281"/>
+<tli id="T184" time="69.99841216866794"/>
+<tli id="T185" time="70.23040248727803"/>
 </common-timeline>
 <tier id="TIE0" category="dipl" type="t" display-name="[dipl]">
 <event start="T0" end="T1">&#228;:hm</event>
@@ -224,6 +225,7 @@
 <event start="T26" end="T27">dem</event>
 <event start="T27" end="T28">parkplatz</event>
 <event start="T28" end="T29">beobachtet</event>
+<event start="T29" end="T30">(--)</event>
 <event start="T30" end="T31">ich</event>
 <event start="T31" end="T32">&#228;hm</event>
 <event start="T32" end="T33">stand</event>
@@ -251,6 +253,7 @@
 <event start="T54" end="T55">parkplatzes</event>
 <event start="T55" end="T56">gegangn</event>
 <event start="T56" end="T57">sind</event>
+<event start="T57" end="T58">(-)</event>
 <event start="T58" end="T59">und</event>
 <event start="T59" end="T60">als</event>
 <event start="T60" end="T61">der</event>
@@ -280,6 +283,7 @@
 <event start="T84" end="T85">hund</event>
 <event start="T85" end="T86">einer</event>
 <event start="T86" end="T87">frau</event>
+<event start="T87" end="T88">(-)</event>
 <event start="T88" end="T89">a:h</event>
 <event start="T89" end="T90">dem</event>
 <event start="T90" end="T91">fu&#223;ball</event>
@@ -361,31 +365,35 @@
 <event start="T166" end="T167">w&#252;rden</event>
 <event start="T167" end="T168">sie</event>
 <event start="T168" end="T169">kontaktdaten</event>
-<event start="T169" end="T170">(-)</event>
-<event start="T170" end="T171">m</event>
-<event start="T171" end="T172">wenn</event>
-<event start="T172" end="T173">sie</event>
-<event start="T173" end="T174">noch</event>
-<event start="T174" end="T175">fragen</event>
-<event start="T175" end="T176">habm</event>
-<event start="T176" end="T177">dann</event>
-<event start="T177" end="T178">geben</event>
-<event start="T178" end="T179">sie</event>
-<event start="T179" end="T180">gern</event>
-<event start="T180" end="T181">bescheid</event>
-<event start="T181" end="T182">(-)</event>
-<event start="T182" end="T183">vielen</event>
-<event start="T183" end="T184">dank</event>
+<event start="T169" end="T170">austauschen</event>
+<event start="T170" end="T171">(-)</event>
+<event start="T171" end="T172">m</event>
+<event start="T172" end="T173">wenn</event>
+<event start="T173" end="T174">sie</event>
+<event start="T174" end="T175">noch</event>
+<event start="T175" end="T176">fragen</event>
+<event start="T176" end="T177">habm</event>
+<event start="T177" end="T178">dann</event>
+<event start="T178" end="T179">geben</event>
+<event start="T179" end="T180">sie</event>
+<event start="T180" end="T181">gern</event>
+<event start="T181" end="T182">bescheid</event>
+<event start="T182" end="T183">(-)</event>
+<event start="T183" end="T184">vielen</event>
+<event start="T184" end="T185">dank</event>
 </tier>
 <tier id="TIE1" category="cu" type="a" display-name="[cu]">
 <event start="T0" end="T6">&#228;:hm (-) hallo (-) DEmo3MD hier </event>
 <event start="T6" end="T17">ich sollte mich zu:r fallnummer ef sechzehn als &#228;h zeuge melden </event>
 <event start="T17" end="T18">(-) </event>
 <event start="T18" end="T29">und zwar hab ich den auffahrunfall &#228;:hm auf dem parkplatz beobachtet </event>
+<event start="T29" end="T30">(--)</event>
 <event start="T30" end="T57">ich &#228;hm stand n bisschen abseits (-) u:nd hab gesehen wie ein mann mit seiner frau und nem kinderwagen &#228;:hm (-) &#228;:h entlang des parkplatzes gegangn sind </event>
+<event start="T57" end="T58">(-)</event>
 <event start="T58" end="T76">und als der mann den parkplatz &#252;berqueren (-) wollte is ihm ein &#228;hm fu&#223;ball (-) ausser hand gefallen </event>
 <event start="T76" end="T77">(-) </event>
 <event start="T77" end="T87">woraufhin auf der andern seite &#228;:hm der hund einer frau </event>
+<event start="T87" end="T88">(-)</event>
 <event start="T88" end="T101">a:h dem fu&#223;ball entgegen rannte und &#228;hm demnach auf die stra&#223;e gekomm is </event>
 <event start="T101" end="T102">(--) </event>
 <event start="T102" end="T117">a:h und das dazu gef&#252;hrt hat dass das &#228;h der fahrer des blauen fahrzeuges &#228;:hm </event>
@@ -396,11 +404,11 @@
 <event start="T147" end="T148">(--) </event>
 <event start="T148" end="T159">ich hab danach nur gesehen wie sich &#228;:hm alle unternhalten habm </event>
 <event start="T159" end="T160">(--) </event>
-<event start="T160" end="T169">&#228;:hm und es so aussah als w&#252;rden sie kontaktdaten austauschen</event>
-<event start="T169" end="T170">(-) </event>
-<event start="T170" end="T181">m wenn sie noch fragen habm dann geben sie gern bescheid </event>
-<event start="T181" end="T182">(-) </event>
-<event start="T182" end="T184">vielen dank </event>
+<event start="T160" end="T170">&#228;:hm und es so aussah als w&#252;rden sie kontaktdaten austauschen</event>
+<event start="T170" end="T171">(-) </event>
+<event start="T171" end="T182">m wenn sie noch fragen habm dann geben sie gern bescheid </event>
+<event start="T182" end="T183">(-) </event>
+<event start="T183" end="T185">vielen dank </event>
 </tier>
 </basic-body>
 </basic-transcription>
