@@ -1,6 +1,10 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<pepper-job id="exb2annis" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="trttqfob" version="1.0">
   <importer name="TextMessageImporter" path="./txt_iw/RUEG/">
   </importer>
-  <exporter name="EXMARaLDAExporter" path="./exb/"></exporter>
+  <manipulator name="TokenizationMultiplicator">
+	  <property key="tok.names">{dipl,norm}</property>
+  </manipulator>
+  <exporter name="EXMARaLDAExporter" path="./exb/">
+  </exporter>
 </pepper-job>

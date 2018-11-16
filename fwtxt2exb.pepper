@@ -3,6 +3,9 @@
   <importer name="TextImporter" path="./txt_fw/RUEG/">
   </importer>
   <manipulator name="Tokenizer"></manipulator>
+  <manipulator name="TokenizationMultiplicator">
+	  <property key="tok.names">{dipl,norm}</property>
+  </manipulator>
   <exporter name="EXMARaLDAExporter" path="./exb/">
   </exporter>
 </pepper-job>
