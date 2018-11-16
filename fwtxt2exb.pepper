@@ -2,6 +2,7 @@
 <pepper-job id="trttqfob" version="1.0">
   <importer name="TextImporter" path="./txt_fw/RUEG/">
   </importer>
+  <manipulator name="Tokenizer"></manipulator>
   <exporter name="EXMARaLDAExporter" path="./exb/">
   </exporter>
 </pepper-job>
