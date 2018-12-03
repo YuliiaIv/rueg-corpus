@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="trttqfob" version="1.0">
+  <importer name="ExmaraldaImporter" path="./exb_transcription/RUEG/">
+    <property key="ignoreDescription">true</property>
+    <property key="mapTimeline">true</property>
+  </importer>
+  
+  <manipulator name="TokenizeRUEGTranscription">
+  </manipulator>
+  
+   <exporter name="ExmaraldaExporter" path="./exb/">
+    <property key="dropEmptySpeaker">true</property>
+  </exporter>
+ 
+</pepper-job>

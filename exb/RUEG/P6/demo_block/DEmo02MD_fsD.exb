@@ -2,20 +2,38 @@
 <basic-transcription>
 <head>
 <meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P6/demo_block/DEmo02MD_fsD.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
+<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../exb_transcription/RUEG/P6/demo_block/DEmo02MD_fsD.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
 <speakertable>
+<speaker id="DEmo02MD">
+<abbreviation>DEmo02MD</abbreviation>
+<sex value="m"></sex>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="other SPK">
+<abbreviation>other SPK</abbreviation>
+<sex value="u"></sex>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information></ud-speaker-information>
+<comment></comment>
+</speaker>
 </speakertable>
 </head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.06666631592256957"/>
 <tli id="T1" time="0.07999957910708347"/>
-<tli id="T2" time="0.16946147402253164"/>
-<tli id="T3" time="0.3931162113111521"/>
-<tli id="T4" time="0.6167709485997726"/>
-<tli id="T5" time="0.7509637909729449"/>
-<tli id="T6" time="1.1088113706347376"/>
-<tli id="T7" time="1.287735160465634"/>
+<tli id="T2" time="0.16403954099735296"/>
+<tli id="T3" time="0.3741394457230267"/>
+<tli id="T4" time="0.5842393504487005"/>
+<tli id="T5" time="0.7102992932841047"/>
+<tli id="T6" time="1.0464591408451827"/>
+<tli id="T7" time="1.2145390646257217"/>
 <tli id="T8" time="1.4666589502965304"/>
 <tli id="T9" time="1.6095160931536732"/>
 <tli id="T10" time="1.8952303788679588"/>
@@ -105,31 +123,31 @@
 <tli id="T94" time="32.326496590853985"/>
 <tli id="T95" time="32.53982880180621"/>
 <tli id="T96" time="32.913160170972596"/>
-<tli id="T97" time="33.0804320181965"/>
-<tli id="T98" time="33.303461147828365"/>
-<tli id="T99" time="33.63800484227617"/>
-<tli id="T100" time="34.13982038394788"/>
-<tli id="T101" time="34.28701960950491"/>
-<tli id="T102" time="34.63048446913799"/>
-<tli id="T103" time="34.72861728617601"/>
+<tli id="T97" time="33.07715217805485"/>
+<tli id="T98" time="33.29580818749786"/>
+<tli id="T99" time="33.623792201662376"/>
+<tli id="T100" time="34.115768222909146"/>
+<tli id="T101" time="34.265853707790825"/>
+<tli id="T102" time="34.61605317251475"/>
+<tli id="T103" time="34.71611016243587"/>
 <tli id="T104" time="35.366480596923154"/>
 <tli id="T105" time="35.71219306377876"/>
 <tli id="T106" time="36.63409297539373"/>
 <tli id="T107" time="36.97980544224934"/>
-<tli id="T108" time="37.15741644810275"/>
-<tli id="T109" time="37.335027453956165"/>
-<tli id="T110" time="37.51263845980958"/>
-<tli id="T111" time="38.045471477369816"/>
-<tli id="T112" time="38.282286151841035"/>
-<tli id="T113" time="38.519100826312254"/>
-<tli id="T114" time="38.75591550078347"/>
-<tli id="T115" time="38.87432283801908"/>
-<tli id="T116" time="39.0519338438725"/>
-<tli id="T117" time="39.407155855579326"/>
-<tli id="T118" time="39.643970530050545"/>
-<tli id="T119" time="39.880785204521764"/>
-<tli id="T120" time="40.17680354761079"/>
-<tli id="T121" time="40.3544145534642"/>
+<tli id="T108" time="37.149804547851886"/>
+<tli id="T109" time="37.319803653454436"/>
+<tli id="T110" time="37.489802759056985"/>
+<tli id="T111" time="37.99980007586464"/>
+<tli id="T112" time="38.22646555000138"/>
+<tli id="T113" time="38.453131024138116"/>
+<tli id="T114" time="38.679796498274854"/>
+<tli id="T115" time="38.79312923534322"/>
+<tli id="T116" time="38.96312834094577"/>
+<tli id="T117" time="39.30312655215088"/>
+<tli id="T118" time="39.529792026287616"/>
+<tli id="T119" time="39.756457500424354"/>
+<tli id="T120" time="40.03978934309527"/>
+<tli id="T121" time="40.20978844869782"/>
 <tli id="T122" time="40.94645123964223"/>
 <tli id="T123" time="41.93311271529626"/>
 <tli id="T124" time="42.17834219432836"/>
@@ -169,7 +187,7 @@
 <tli id="T158" time="59.75192010108235"/>
 <tli id="T159" time="60.139"/>
 </common-timeline>
-<tier id="TIE0" category="dipl" type="t" display-name="[dipl]">
+<tier id="TIE0" speaker="DEmo02MD" category="dipl" type="t" display-name="DEmo02MD [dipl]">
 <event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">ja</event>
 <event start="T2" end="T3">sch&#246;n</event>
@@ -177,7 +195,7 @@
 <event start="T4" end="T5">tag</event>
 <event start="T5" end="T6">DEmo02MD</event>
 <event start="T6" end="T7">mein</event>
-<event start="T7" end="T8">Name</event>
+<event start="T7" end="T8">Namees</event>
 <event start="T8" end="T9">es</event>
 <event start="T9" end="T10">geht</event>
 <event start="T10" end="T11">um</event>
@@ -291,7 +309,7 @@
 <event start="T118" end="T119">zwei</event>
 <event start="T119" end="T120">autos</event>
 <event start="T120" end="T121">(-)</event>
-<event start="T121" end="T122">eingebogen</event>
+<event start="T121" end="T122">eingebogen(-)</event>
 <event start="T122" end="T123">(-)</event>
 <event start="T123" end="T124">nun</event>
 <event start="T124" end="T125">musste:</event>
@@ -330,7 +348,7 @@
 <event start="T157" end="T158">auf</event>
 <event start="T158" end="T159">wiederh&#246;ren</event>
 </tier>
-<tier id="TIE1" category="cu" type="a" display-name="[cu]">
+<tier id="TIE1" speaker="DEmo02MD" category="cu" type="a" display-name="DEmo02MD [cu]">
 <event start="T0" end="T1">(-) </event>
 <event start="T1" end="T8">ja sch&#246;n guten tag DEmo02MD mein Name</event>
 <event start="T8" end="T15">es geht um den vorfall ef sechzehn </event>

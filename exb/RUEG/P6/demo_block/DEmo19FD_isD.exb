@@ -2,8 +2,26 @@
 <basic-transcription>
 <head>
 <meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P6/demo_block/DEmo19FD_isD.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
+<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../exb_transcription/RUEG/P6/demo_block/DEmo19FD_isD.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
 <speakertable>
+<speaker id="DEmo19FD">
+<abbreviation>DEmo19FD</abbreviation>
+<sex value="f"></sex>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="other SPK">
+<abbreviation>other SPK</abbreviation>
+<sex value="u"></sex>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information></ud-speaker-information>
+<comment></comment>
+</speaker>
 </speakertable>
 </head>
 <basic-body>
@@ -147,7 +165,7 @@
 <tli id="T136" time="44.86703152721219"/>
 <tli id="T137" time="45.31868508925945"/>
 </common-timeline>
-<tier id="TIE0" category="dipl" type="t" display-name="[dipl]">
+<tier id="TIE0" speaker="DEmo19FD" category="dipl" type="t" display-name="DEmo19FD [dipl]">
 <event start="T0" end="T1">hei:=ei</event>
 <event start="T1" end="T2">(-)</event>
 <event start="T2" end="T3">du</event>
@@ -286,7 +304,7 @@
 <event start="T135" end="T136">=s</event>
 <event start="T136" end="T137">gut</event>
 </tier>
-<tier id="TIE1" category="cu" type="a" display-name="[cu]">
+<tier id="TIE1" speaker="DEmo19FD" category="cu" type="a" display-name="DEmo19FD [cu]">
 <event start="T0" end="T1">hei:=ei </event>
 <event start="T1" end="T2">(-) </event>
 <event start="T2" end="T7">du ich bin grade unterwegs </event>

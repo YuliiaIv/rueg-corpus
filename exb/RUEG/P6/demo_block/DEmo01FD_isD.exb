@@ -2,8 +2,26 @@
 <basic-transcription>
 <head>
 <meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P6/demo_block/DEmo01FD_isD.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
+<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../exb_transcription/RUEG/P6/demo_block/DEmo01FD_isD.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
 <speakertable>
+<speaker id="DEmo01FD">
+<abbreviation>DEmo01FD</abbreviation>
+<sex value="f"></sex>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="other SPK">
+<abbreviation>other SPK</abbreviation>
+<sex value="u"></sex>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information></ud-speaker-information>
+<comment></comment>
+</speaker>
 </speakertable>
 </head>
 <basic-body>
@@ -18,17 +36,17 @@
 <tli id="T7" time="2.6800000324731874"/>
 <tli id="T8" time="2.880000035764056"/>
 <tli id="T9" time="3.0800000390549247"/>
-<tli id="T10" time="3.4800000456366615"/>
-<tli id="T11" time="3.750000105295473"/>
-<tli id="T12" time="3.9160013019497057"/>
-<tli id="T13" time="4.026668766385861"/>
-<tli id="T14" time="4.30333742747625"/>
-<tli id="T15" time="4.5800060885666385"/>
-<tli id="T16" time="4.967342214093182"/>
-<tli id="T17" time="5.133343410747415"/>
-<tli id="T18" time="5.299344607401648"/>
-<tli id="T19" time="5.742014465146269"/>
-<tli id="T20" time="5.852681929582424"/>
+<tli id="T10" time="3.4596149447076066"/>
+<tli id="T11" time="3.4748983742122306"/>
+<tli id="T12" time="3.4800000456366615"/>
+<tli id="T13" time="3.536032092230729"/>
+<tli id="T14" time="3.558957236487666"/>
+<tli id="T15" time="3.5818823807446027"/>
+<tli id="T16" time="3.6353743840107886"/>
+<tli id="T17" time="3.67358295777235"/>
+<tli id="T18" time="3.7117915315339114"/>
+<tli id="T19" time="3.727074961038536"/>
+<tli id="T20" time="3.750000105295473"/>
 <tli id="T21" time="6.219307790774946"/>
 <tli id="T22" time="6.3670246832117865"/>
 <tli id="T23" time="6.588600021867048"/>
@@ -139,7 +157,7 @@
 <tli id="T128" time="36.031545243017696"/>
 <tli id="T129" time="36.59592687176254"/>
 </common-timeline>
-<tier id="TIE0" category="dipl" type="t" display-name="[dipl]">
+<tier id="TIE0" speaker="DEmo01FD" category="dipl" type="t" display-name="DEmo01FD [dipl]">
 <event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">he=ey</event>
 <event start="T2" end="T3">ich</event>
@@ -149,18 +167,18 @@
 <event start="T6" end="T7">unterwe=egs</event>
 <event start="T7" end="T8">(-)</event>
 <event start="T8" end="T9">zur</event>
-<event start="T9" end="T10">studie</event>
-<event start="T10" end="T11">(-)</event>
-<event start="T11" end="T12">un=</event>
-<event start="T12" end="T13">du</event>
-<event start="T13" end="T14">wirst</event>
-<event start="T14" end="T15">nicht</event>
-<event start="T15" end="T16">glauben</event>
-<event start="T16" end="T17">was</event>
-<event start="T17" end="T18">mir</event>
-<event start="T18" end="T19">passiert</event>
-<event start="T19" end="T20">is</event>
-<event start="T20" end="T21">(-)</event>
+<event start="T9" end="T12">studie</event>
+<event start="T12" end="T20">(-)</event>
+<event start="T20" end="T19">un=</event>
+<event start="T19" end="T18">du</event>
+<event start="T18" end="T17">wirst</event>
+<event start="T17" end="T16">nicht</event>
+<event start="T16" end="T15">glauben</event>
+<event start="T15" end="T14">was</event>
+<event start="T14" end="T13">mir</event>
+<event start="T13" end="T11">passiert</event>
+<event start="T11" end="T10">is</event>
+<event start="T10" end="T21">(-)</event>
 <event start="T21" end="T22">da</event>
 <event start="T22" end="T23">war</event>
 <event start="T23" end="T24">ne</event>
@@ -270,12 +288,12 @@
 <event start="T127" end="T128">bis</event>
 <event start="T128" end="T129">sp&#228;ter</event>
 </tier>
-<tier id="TIE1" category="cu" type="a" display-name="[cu]">
+<tier id="TIE1" speaker="DEmo01FD" category="cu" type="a" display-name="DEmo01FD [cu]">
 <event start="T0" end="T1">(-) </event>
-<event start="T1" end="T10">he=ey ich bin jetz grad unterwe=egs (-) zur studie </event>
-<event start="T10" end="T11">(-) </event>
-<event start="T11" end="T20">un= du wirst nicht glauben was mir passiert is </event>
-<event start="T20" end="T21">(-) </event>
+<event start="T1" end="T12">he=ey ich bin jetz grad unterwe=egs (-) zur studie </event>
+<event start="T12" end="T20">(-) </event>
+<event start="T11" end="T19">un= du wirst nicht glauben was mir passiert is </event>
+<event start="T10" end="T21">(-) </event>
 <event start="T21" end="T27">da war ne familie unterwegs ne </event>
 <event start="T27" end="T33">und der mann hat ball jespielt </event>
 <event start="T33" end="T34">(-) </event>
