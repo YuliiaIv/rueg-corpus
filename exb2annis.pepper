@@ -11,7 +11,8 @@
   </importer>
   <manipulator name="OrderRelationAdder">
     <customization>
-      <property key="segmentation-layers">{dipl,norm}</property>
+      <!-- empty list will generate order relations between tokens -->
+      <property key="segmentation-layers">{}</property>
     </customization>
   </manipulator>
   <exporter name="ANNISExporter" path="./annis/">
