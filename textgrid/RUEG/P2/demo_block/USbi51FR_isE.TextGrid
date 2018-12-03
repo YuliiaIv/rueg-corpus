@@ -1,0 +1,236 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 48.279319727891156 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "CU" 
+        xmin = 0 
+        xmax = 48.279319727891156 
+        intervals: size = 21 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2860544217687075 
+            text = "(--)" 
+        intervals [2]:
+            xmin = 1.2860544217687075 
+            xmax = 1.8922418988257173 
+            text = "hi" 
+        intervals [3]:
+            xmin = 1.8922418988257173 
+            xmax = 4.671125469196598 
+            text = "i just saw a car accident happen (-) on the street" 
+        intervals [4]:
+            xmin = 4.671125469196598 
+            xmax = 5.2070748299319725 
+            text = "(-)" 
+        intervals [5]:
+            xmin = 5.2070748299319725 
+            xmax = 6.619466472393827 
+            text = "so there was a guy" 
+        intervals [6]:
+            xmin = 6.619466472393827 
+            xmax = 7.803718820861678 
+            text = "and he dropped his ball" 
+        intervals [7]:
+            xmin = 7.803718820861678 
+            xmax = 10.00066929242388 
+            text = "and there was also a woman with a dog" 
+        intervals [8]:
+            xmin = 10.00066929242388 
+            xmax = 11.687414965986395 
+            text = "and the dog ran after the ball" 
+        intervals [9]:
+            xmin = 11.687414965986395 
+            xmax = 12.090408163265305 
+            text = "(-)" 
+        intervals [10]:
+            xmin = 12.090408163265305 
+            xmax = 15.171672100710959 
+            text = "and at (det) same exact time there was two cars that were coming down the street" 
+        intervals [11]:
+            xmin = 15.171672100710959 
+            xmax = 19.267414965986397 
+            text = "so the first car like stopped right in front of the (-) dog" 
+        intervals [12]:
+            xmin = 19.267414965986397 
+            xmax = 21.15061224489796 
+            text = "so that (it=d) like try not to run over it" 
+        intervals [13]:
+            xmin = 21.15061224489796 
+            xmax = 21.407475781363676 
+            text = "(-)" 
+        intervals [14]:
+            xmin = 21.407475781363676 
+            xmax = 25.178817769724162 
+            text = "and (-) the car behind it couldn=t stop quickly enough" 
+        intervals [15]:
+            xmin = 25.178817769724162 
+            xmax = 27.821655328798187 
+            text = "so he like (-) slightly ran into the first car" 
+        intervals [16]:
+            xmin = 27.821655328798187 
+            xmax = 28.584557823129252 
+            text = "(-)" 
+        intervals [17]:
+            xmin = 28.584557823129252 
+            xmax = 32.37825219000869 
+            text = "um (-) thankfully no one was really injured specifically" 
+        intervals [18]:
+            xmin = 32.37825219000869 
+            xmax = 37.94551020408163 
+            text = "but (-) they probably will have to [laughs] pay some money to the o/ other person because they did run into them" 
+        intervals [19]:
+            xmin = 37.94551020408163 
+            xmax = 38.30612244897959 
+            text = "(-)" 
+        intervals [20]:
+            xmin = 38.30612244897959 
+            xmax = 46.91641723356009 
+            text = "a:nd as soon as they found out th/ the guys in the car like they called the police or law enforcement to get them to come" 
+        intervals [21]:
+            xmin = 46.91641723356009 
+            xmax = 48.279319727891156 
+            text = "(--)" 
+    item [2]:
+        class = "TextTier" 
+        name = "IP" 
+        xmin = 0 
+        xmax = 48.279319727891156 
+        points: size = 41 
+        points [1]:
+            number = 1.2860544217687075 
+            mark = "%" 
+        points [2]:
+            number = 1.8922418988257173 
+            mark = "%" 
+        points [3]:
+            number = 3.959508970584437 
+            mark = "%" 
+        points [4]:
+            number = 4.671125469196598 
+            mark = "%" 
+        points [5]:
+            number = 5.788798185941043 
+            mark = "-" 
+        points [6]:
+            number = 6.619466472393827 
+            mark = "%" 
+        points [7]:
+            number = 7.803718820861678 
+            mark = "%" 
+        points [8]:
+            number = 8.250471662821218 
+            mark = "-" 
+        points [9]:
+            number = 9.181882259686667 
+            mark = "-" 
+        points [10]:
+            number = 10.00066929242388 
+            mark = "%" 
+        points [11]:
+            number = 10.531737029022093 
+            mark = "-" 
+        points [12]:
+            number = 11.687414965986395 
+            mark = "%" 
+        points [13]:
+            number = 13.311471022430487 
+            mark = "%" 
+        points [14]:
+            number = 14.013133813542193 
+            mark = "-" 
+        points [15]:
+            number = 15.171672100710959 
+            mark = "%" 
+        points [16]:
+            number = 16.215909627028473 
+            mark = "-" 
+        points [17]:
+            number = 16.984285714285715 
+            mark = "%" 
+        points [18]:
+            number = 17.99017904687668 
+            mark = "-" 
+        points [19]:
+            number = 19.267414965986397 
+            mark = "%" 
+        points [20]:
+            number = 21.15061224489796 
+            mark = "%" 
+        points [21]:
+            number = 22.13175461774065 
+            mark = "%" 
+        points [22]:
+            number = 23.997909283293183 
+            mark = "%" 
+        points [23]:
+            number = 25.178817769724162 
+            mark = "%" 
+        points [24]:
+            number = 26.121275029189114 
+            mark = "-%" 
+        points [25]:
+            number = 27.821655328798187 
+            mark = "%" 
+        points [26]:
+            number = 29.32638766839079 
+            mark = "%" 
+        points [27]:
+            number = 31.55031848311197 
+            mark = "-" 
+        points [28]:
+            number = 32.37825219000869 
+            mark = "%" 
+        points [29]:
+            number = 32.948845406542794 
+            mark = "-" 
+        points [30]:
+            number = 34.61673469387755 
+            mark = "%" 
+        points [31]:
+            number = 36.64899701618477 
+            mark = "-" 
+        points [32]:
+            number = 37.94551020408163 
+            mark = "%" 
+        points [33]:
+            number = 38.877399491241285 
+            mark = "%" 
+        points [34]:
+            number = 39.75484147395696 
+            mark = "-" 
+        points [35]:
+            number = 40.297958725774755 
+            mark = "-" 
+        points [36]:
+            number = 41.13040590877273 
+            mark = "%" 
+        points [37]:
+            number = 42.61714550168901 
+            mark = "-" 
+        points [38]:
+            number = 44.10256385657961 
+            mark = "%" 
+        points [39]:
+            number = 44.93416661133319 
+            mark = "%" 
+        points [40]:
+            number = 45.90163975322605 
+            mark = "%" 
+        points [41]:
+            number = 46.91641723356009 
+            mark = "%" 
+    item [3]:
+        class = "TextTier" 
+        name = "comment" 
+        xmin = 0 
+        xmax = 48.279319727891156 
+        points: size = 1 
+        points [1]:
+            number = 9.181882259686667 
+            mark = "IPB?" 
