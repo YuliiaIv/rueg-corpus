@@ -2,100 +2,172 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="DEmo01FD_isD.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="SPK0">
-<abbreviation>DEmo01FD</abbreviation>
-<sex value="f"/>
-<languages-used></languages-used>
-<l1></l1>
-<l2></l2>
-<ud-speaker-information>
-</ud-speaker-information>
-<comment></comment>
-</speaker>
-<speaker id="SPK1">
-<abbreviation>other SPK</abbreviation>
-<sex value="u"/>
-<languages-used></languages-used>
-<l1></l1>
-<l2></l2>
-<ud-speaker-information>
-</ud-speaker-information>
-<comment></comment>
-</speaker>
-</speakertable></head>
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="DEmo01FD_isD.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable></speakertable></head>
 <basic-body>
 <common-timeline>
-<tli id="T0" time="0.0"/>
-<tli id="T2" time="0.006665924748954925"/>
-<tli id="T3" time="0.6799999995645025"/>
-<tli id="T5" time="0.7065880233892221"/>
-<tli id="T6" time="3.4800000456366615"/>
-<tli id="T4" time="3.750000105295473"/>
-<tli id="T7" time="5.486056068389903"/>
-<tli id="T8" time="3.4596149447076066"/>
-<tli id="T9" time="6.219307790774946"/>
-<tli id="T33" time="8.06576894623546"/>
-<tli id="T10" time="9.678922735482551"/>
-<tli id="T11" time="10.025550822428208"/>
-<tli id="T12" time="14.485054479479054"/>
-<tli id="T13" time="15.158312879123502"/>
-<tli id="T14" time="17.211640658757332"/>
-<tli id="T15" time="18.111317542910534"/>
-<tli id="T16" time="18.671255221822747"/>
-<tli id="T17" time="19.431170643203604"/>
-<tli id="T18" time="21.357622895651584"/>
-<tli id="T36" time="22.83079226517062"/>
-<tli id="T19" time="23.983997246739822"/>
-<tli id="T20" time="24.52393715140517"/>
-<tli id="T21" time="26.21708203763972"/>
-<tli id="T22" time="27.456944040945338"/>
-<tli id="T23" time="27.683585482409807"/>
-<tli id="T24" time="29.150088927179887"/>
-<tli id="T25" time="29.390062218142265"/>
-<tli id="T26" time="31.016547856887268"/>
-<tli id="T27" time="32.24974393544393"/>
-<tli id="T28" time="32.66969719462809"/>
-<tli id="T29" time="33.27629634678299"/>
-<tli id="T30" time="34.002882144419075"/>
-<tli id="T31" time="34.26285320962832"/>
-<tli id="T34" time="35.362730793205884"/>
-<tli id="T32" time="35.74935442864527"/>
-<tli id="T1" time="36.59592687176254"/>
-<tli id="T35" time="36.675"/>
+<tli id="T0" time="0.006665924748954925"/>
+<tli id="T1" time="0.6799999995645025"/>
+<tli id="T2" time="1.0133333383826166"/>
+<tli id="T3" time="1.213333341673485"/>
+<tli id="T4" time="1.4133333449643535"/>
+<tli id="T5" time="1.6800000160188449"/>
+<tli id="T6" time="1.9466666870733362"/>
+<tli id="T7" time="2.6800000324731874"/>
+<tli id="T8" time="2.880000035764056"/>
+<tli id="T9" time="3.0800000390549247"/>
+<tli id="T10" time="3.4800000456366615"/>
+<tli id="T11" time="3.750000105295473"/>
+<tli id="T12" time="3.9160013019497057"/>
+<tli id="T13" time="4.026668766385861"/>
+<tli id="T14" time="4.30333742747625"/>
+<tli id="T15" time="4.5800060885666385"/>
+<tli id="T16" time="4.967342214093182"/>
+<tli id="T17" time="5.133343410747415"/>
+<tli id="T18" time="5.299344607401648"/>
+<tli id="T19" time="5.742014465146269"/>
+<tli id="T20" time="5.852681929582424"/>
+<tli id="T21" time="6.219307790774946"/>
+<tli id="T22" time="6.3670246832117865"/>
+<tli id="T23" time="6.588600021867048"/>
+<tli id="T24" time="6.736316914303889"/>
+<tli id="T25" time="7.253326037832833"/>
+<tli id="T26" time="7.918052053798618"/>
+<tli id="T27" time="8.06576894623546"/>
+<tli id="T28" time="8.259347400945112"/>
+<tli id="T29" time="8.452925855654764"/>
+<tli id="T30" time="8.711030461934298"/>
+<tli id="T31" time="8.90460891664395"/>
+<tli id="T32" time="9.162713522923484"/>
+<tli id="T33" time="9.678922735482551"/>
+<tli id="T34" time="10.025550822428208"/>
+<tli id="T35" time="10.29582377134038"/>
+<tli id="T36" time="10.430960245796467"/>
+<tli id="T37" time="11.039074380848854"/>
+<tli id="T38" time="11.17421085530494"/>
+<tli id="T39" time="11.309347329761026"/>
+<tli id="T40" time="11.444483804217112"/>
+<tli id="T41" time="11.579620278673199"/>
+<tli id="T42" time="11.84989322758537"/>
+<tli id="T43" time="12.322870888181672"/>
+<tli id="T44" time="12.525575599865801"/>
+<tli id="T45" time="12.72828031154993"/>
+<tli id="T46" time="12.998553260462103"/>
+<tli id="T47" time="13.336394446602318"/>
+<tli id="T48" time="13.80937210719862"/>
+<tli id="T49" time="14.485054479479054"/>
+<tli id="T50" time="15.158312879123502"/>
+<tli id="T51" time="15.329423527426322"/>
+<tli id="T52" time="15.443497292961535"/>
+<tli id="T53" time="15.614607941264355"/>
+<tli id="T54" time="15.84275547233478"/>
+<tli id="T55" time="16.070903003405206"/>
+<tli id="T56" time="16.299050534475633"/>
+<tli id="T57" time="16.52719806554606"/>
+<tli id="T58" time="16.81238247938409"/>
+<tli id="T59" time="17.211640658757332"/>
+<tli id="T60" time="18.111317542910534"/>
+<tli id="T61" time="18.671255221822747"/>
+<tli id="T62" time="19.431170643203604"/>
+<tli id="T63" time="19.529963066406065"/>
+<tli id="T64" time="19.678151701209757"/>
+<tli id="T65" time="19.97452897081714"/>
+<tli id="T66" time="20.221510028823293"/>
+<tli id="T67" time="20.369698663626984"/>
+<tli id="T68" time="20.517887298430676"/>
+<tli id="T69" time="20.76486835643683"/>
+<tli id="T70" time="20.91305699124052"/>
+<tli id="T71" time="21.160038049246673"/>
+<tli id="T72" time="21.357622895651584"/>
+<tli id="T73" time="21.56081867075766"/>
+<tli id="T74" time="21.86561233341677"/>
+<tli id="T75" time="21.967210220969807"/>
+<tli id="T76" time="22.11960705229936"/>
+<tli id="T77" time="22.272003883628916"/>
+<tli id="T78" time="22.47519965873499"/>
+<tli id="T79" time="22.678395433841064"/>
+<tli id="T80" time="22.83079226517062"/>
+<tli id="T81" time="23.050450356898086"/>
+<tli id="T82" time="23.215193925693686"/>
+<tli id="T83" time="23.32502297155742"/>
+<tli id="T84" time="23.544681063284887"/>
+<tli id="T85" time="23.983997246739822"/>
+<tli id="T86" time="24.52393715140517"/>
+<tli id="T87" time="24.644876071850497"/>
+<tli id="T88" time="24.826284452518486"/>
+<tli id="T89" time="25.068162293409134"/>
+<tli id="T90" time="25.18910121385446"/>
+<tli id="T91" time="25.43097905474511"/>
+<tli id="T92" time="25.612387435413098"/>
+<tli id="T93" time="25.793795816081087"/>
+<tli id="T94" time="26.21708203763972"/>
+<tli id="T95" time="26.423725704857322"/>
+<tli id="T96" time="26.69925059448079"/>
+<tli id="T97" time="26.905894261698393"/>
+<tli id="T98" time="27.18141915132186"/>
+<tli id="T99" time="27.456944040945338"/>
+<tli id="T100" time="27.683585482409807"/>
+<tli id="T101" time="27.883563224878454"/>
+<tli id="T102" time="28.0835409673471"/>
+<tli id="T103" time="28.416837204794845"/>
+<tli id="T104" time="28.616814947263492"/>
+<tli id="T105" time="29.150088927179887"/>
+<tli id="T106" time="29.390062218142265"/>
+<tli id="T107" time="29.537924548937266"/>
+<tli id="T108" time="29.7350743233306"/>
+<tli id="T109" time="29.833649210527266"/>
+<tli id="T110" time="29.981511541322266"/>
+<tli id="T111" time="30.277236202912267"/>
+<tli id="T112" time="30.4743859773056"/>
+<tli id="T113" time="30.770110638895602"/>
+<tli id="T114" time="31.016547856887268"/>
+<tli id="T115" time="32.24974393544393"/>
+<tli id="T116" time="32.66969719462809"/>
+<tli id="T117" time="33.27629634678299"/>
+<tli id="T118" time="33.63958924560103"/>
+<tli id="T119" time="33.795286202237335"/>
+<tli id="T120" time="34.002882144419075"/>
+<tli id="T121" time="34.26285320962832"/>
+<tli id="T122" time="34.48282872634383"/>
+<tli id="T123" time="34.64781036388047"/>
+<tli id="T124" time="34.86778588059598"/>
+<tli id="T125" time="35.19774915566925"/>
+<tli id="T126" time="35.362730793205884"/>
+<tli id="T127" time="35.74935442864527"/>
+<tli id="T128" time="36.031545243017696"/>
+<tli id="T129" time="36.59592687176254"/>
+<tli id="T130" time="36.675918579"/>
 </common-timeline>
-<tier id="TIE0" speaker="SPK0" category="v" type="t" display-name="DEmo01FD [v]"><event start="T2" end="T3">(-) </event>
-<event start="T3" end="T6">he=ey ich bin jetz grad unterwe=egs (-) zur studie </event>
-<event start="T6" end="T4">(-) </event>
-<event start="T4" end="T8">un= du wirst nicht glauben was mir passiert is </event>
-<event start="T8" end="T9">(-) </event>
-<event start="T9" end="T33">da war ne familie unterwegs ne </event>
-<event start="T33" end="T10">und der mann hat ball jespielt </event>
+<tier id="TIE1" category="cu" type="t" display-name="[cu]"><event start="T0" end="T1">(-) </event>
+<event start="T1" end="T10">he=ey ich bin jetz grad unterwe=egs (-) zur studie </event>
 <event start="T10" end="T11">(-) </event>
-<event start="T11" end="T12">u:nd äh gegenüber w/ is so ne frau gewesen die hat grad ihren einkauf ausgeräumt </event>
-<event start="T12" end="T13">(-) </event>
-<event start="T13" end="T14">und um die ecke sind grad zwei autos jebogen </event>
-<event start="T14" end="T15">(-) </event>
-<event start="T15" end="T16">so </event>
-<event start="T16" end="T17">(-) </event>
-<event start="T17" end="T18">ah ich dachte schon der typ sieht die autos nich </event>
-<event start="T18" end="T36">dann spielt er mit dem ball noch rum </event>
-<event start="T36" end="T19">kann ich eh nich verstehn </event>
-<event start="T19" end="T20">(-) </event>
-<event start="T20" end="T21">so der ball is dann auf die stra:ße </event>
-<event start="T21" end="T22">der hund dem ball nach </event>
-<event start="T22" end="T23">(-) </event>
-<event start="T23" end="T24">und die autos ham gebremst </event>
-<event start="T24" end="T25">(-) </event>
-<event start="T25" end="T26">der eine is dem andern dann hinten drauf </event>
-<event start="T26" end="T27">(--) </event>
-<event start="T27" end="T28">ja </event>
-<event start="T28" end="T29">(-) </event>
-<event start="T29" end="T30">versteh ich nich </event>
-<event start="T30" end="T31">(-) </event>
-<event start="T31" end="T34">isch geh jetz erstma los </event>
-<event start="T34" end="T32">(-) </event>
-<event start="T32" end="T1"> bis später </event>
-</tier><tier id="TIE3" speaker="SPK1" category="v" type="t" display-name="other SPK [v]"></tier><tier id="TIE4" category="nv" type="d" display-name="[nv]"></tier><tier id="TIE1" category="comment" type="d" display-name="[comment]"><event start="T5" end="T6">Pron. hey</event>
-<event start="T13" end="T14">sin mit stimmlosem s</event>
-</tier><tier id="TIE2" category="anonymisierung" type="d" display-name="[anonymisierung]"></tier></basic-body>
+<event start="T11" end="T20">un= du wirst nicht glauben was mir passiert is </event>
+<event start="T20" end="T21">(-) </event>
+<event start="T21" end="T27">da war ne familie unterwegs ne </event>
+<event start="T27" end="T33">und der mann hat ball jespielt </event>
+<event start="T33" end="T34">(-) </event>
+<event start="T34" end="T49">u:nd äh gegenüber w/ is so ne frau gewesen die hat grad ihren einkauf ausgeräumt </event>
+<event start="T49" end="T50">(-) </event>
+<event start="T50" end="T59">und um die ecke sind grad zwei autos jebogen </event>
+<event start="T59" end="T60">(-) </event>
+<event start="T60" end="T61">so </event>
+<event start="T61" end="T62">(-) </event>
+<event start="T62" end="T72">ah ich dachte schon der typ sieht die autos nich </event>
+<event start="T72" end="T80">dann spielt er mit dem ball noch rum </event>
+<event start="T80" end="T85">kann ich eh nich verstehn </event>
+<event start="T85" end="T86">(-) </event>
+<event start="T86" end="T94">so der ball is dann auf die stra:ße </event>
+<event start="T94" end="T99">der hund dem ball nach </event>
+<event start="T99" end="T100">(-) </event>
+<event start="T100" end="T105">und die autos ham gebremst </event>
+<event start="T105" end="T106">(-) </event>
+<event start="T106" end="T114">der eine is dem andern dann hinten drauf </event>
+<event start="T114" end="T115">(--) </event>
+<event start="T115" end="T116">ja </event>
+<event start="T116" end="T117">(-) </event>
+<event start="T117" end="T120">versteh ich nich </event>
+<event start="T120" end="T121">(-) </event>
+<event start="T121" end="T126">isch geh jetz erstma los </event>
+<event start="T126" end="T127">(-) </event>
+<event start="T127" end="T129"> bis später </event>
+</tier></basic-body>
 </basic-transcription>
