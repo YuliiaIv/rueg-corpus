@@ -4,12 +4,12 @@
     <property key="ignoreDescription">true</property>
     <property key="mapTimeline">true</property>
   </importer>
-  
   <manipulator name="TokenizeRUEGTranscription">
   </manipulator>
-  
-   <exporter name="ExmaraldaExporter" path="./exb/">
+  <manipulator name="TokenizationMultiplicator">
+    <property key="tok.names">{dipl,norm}</property>
+  </manipulator>
+  <exporter name="ExmaraldaExporter" path="./exb/">
     <property key="dropEmptySpeaker">true</property>
   </exporter>
- 
 </pepper-job>
