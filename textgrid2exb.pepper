@@ -6,6 +6,9 @@
   </importer>
   <manipulator name="TokenizeRUEGTranscription">
   </manipulator>
+  <manipulator name="TokenizationMultiplicator">
+    <property key="tok.names">{dipl,norm}</property>
+  </manipulator>
   <exporter name="EXMARaLDAExporter" path="./exb/">
   </exporter>
 </pepper-job>
