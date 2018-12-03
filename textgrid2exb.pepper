@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pepper-job id="trttqfob" version="1.0">
   <importer name="TextGridImporter" path="./textgrid/RUEG/">
-    <property key="annoPrimRel">SPK0|t|v={notExistingButCantBeEmpty}</property>
-    <property key="mapUnknownAsToken">false</property>
+    <property key="mapUnknownAsToken">true</property>
   </importer>
   <manipulator name="TokenizeRUEGTranscription">
   </manipulator>
