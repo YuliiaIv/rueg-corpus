@@ -170,7 +170,6 @@ def mode_from_suffix(suffix):
     return 'spoken' if suffix[1] == 's' else ('written' if suffix[1] == 'w' else INVALID_DIGIT)
 
 
-
 _LANG_DIGIT_TO_LANG = {
     'D': 'German',
     'E': 'English',
