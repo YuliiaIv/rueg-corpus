@@ -145,22 +145,22 @@
 <tli id="T116" time="962.3256673073028"/>
 <tli id="T117" time="962.7664561956327"/>
 <tli id="T118" time="962.8154327387804"/>
-<tli id="T119" time="963.3087233975422"/>
-<tli id="T120" time="963.8636753886492"/>
-<tli id="T121" time="963.9869980533397"/>
-<tli id="T122" time="964.2953047150659"/>
-<tli id="T123" time="964.6036113767921"/>
-<tli id="T124" time="964.7885953738278"/>
-<tli id="T125" time="965.1585633678991"/>
-<tli id="T126" time="965.3435473649348"/>
-<tli id="T127" time="965.5901926943158"/>
-<tli id="T128" time="965.8368380236967"/>
-<tli id="T129" time="966.0218220207324"/>
-<tli id="T130" time="966.6384353441847"/>
-<tli id="T131" time="967.3167099999822"/>
-<tli id="T132" time="967.4400326646727"/>
-<tli id="T133" time="967.6866779940536"/>
-<tli id="T134" time="967.7483393263989"/>
+<tli id="T119" time="963.3775546522531"/>
+<tli id="T120" time="964.00994180491"/>
+<tli id="T121" time="964.1504722832782"/>
+<tli id="T122" time="964.5017984791987"/>
+<tli id="T123" time="964.8531246751191"/>
+<tli id="T124" time="965.0639203926714"/>
+<tli id="T125" time="965.485511827776"/>
+<tli id="T126" time="965.6963075453283"/>
+<tli id="T127" time="965.9773685020647"/>
+<tli id="T128" time="966.2584294588011"/>
+<tli id="T129" time="966.4692251763533"/>
+<tli id="T130" time="967.1718775681943"/>
+<tli id="T131" time="967.9447951992194"/>
+<tli id="T132" time="968.0853256775875"/>
+<tli id="T133" time="968.3663866343239"/>
+<tli id="T134" time="968.436651873508"/>
 <tli id="T135" time="968.8582433086127"/>
 <tli id="T136" time="969.0469157236975"/>
 <tli id="T137" time="969.3613697488387"/>
@@ -344,7 +344,7 @@
 <event start="T131" end="T132">şu</event>
 <event start="T132" end="T133">anda</event>
 <event start="T133" end="T134">.</event>
-<event start="T134" end="T135">[[laughing]speech]</event>
+<event start="T134" end="T135">speech</event>
 <event start="T135" end="T136">ama</event>
 <event start="T136" end="T137">b&#246;yle</event>
 <event start="T137" end="T138">bi</event>
@@ -527,7 +527,7 @@
 <event start="T131" end="T132">şu</event>
 <event start="T132" end="T133">anda</event>
 <event start="T133" end="T134">.</event>
-<event start="T134" end="T135">[[laughing]speech]</event>
+<event start="T134" end="T135">speech</event>
 <event start="T135" end="T136">ama</event>
 <event start="T136" end="T137">b&#246;yle</event>
 <event start="T137" end="T138">bi</event>
@@ -758,7 +758,10 @@
 <event start="T179" end="T180">&lt;UNKNOWN&gt;</event>
 <event start="T180" end="T181">&lt;UNKNOWN&gt;</event>
 </tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
+<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
+<event start="T134" end="T135">laughing</event>
+</tier>
+<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
 <event start="T0" end="T7">aşkım az &#246;nce ee yolda y&#252;r&#252;yordum .</event>
 <event start="T7" end="T15">ee b&#246;yle işte şeye doğru yetişmeye çalışıyorum .  </event>
 <event start="T15" end="T20">birazcık hızlı y&#252;r&#252;yodum herhalde .</event>

@@ -4326,7 +4326,14 @@
 <event start="T1071" end="T1072">eng</event>
 <event start="T1072" end="T1073">eng</event>
 </tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
+<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
+<event start="T193" end="T194">swallows</event>
+<event start="T343" end="T344">swallows</event>
+<event start="T542" end="T543">swallows</event>
+<event start="T602" end="T603">tongueclicks</event>
+<event start="T910" end="T911">swallows</event>
+</tier>
+<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
 <event start="T0" end="T1">(--)</event>
 <event start="T1" end="T2">okay</event>
 <event start="T2" end="T3">(-)</event>

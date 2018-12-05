@@ -930,7 +930,10 @@
 <event start="T222" end="T223">eng</event>
 <event start="T223" end="T224">eng</event>
 </tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
+<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
+<event start="T172" end="T173">laughing [wheels]</event>
+</tier>
+<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
 <event start="T0" end="T1">(-)</event>
 <event start="T1" end="T3">um hello</event>
 <event start="T3" end="T16">i was just a witness to a car accident on a parking lot</event>

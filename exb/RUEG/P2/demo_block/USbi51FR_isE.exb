@@ -678,7 +678,10 @@
 <event start="T159" end="T160">eng</event>
 <event start="T160" end="T161">eng</event>
 </tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
+<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
+<event start="T118" end="T119">laughs</event>
+</tier>
+<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
 <event start="T0" end="T1">(--)</event>
 <event start="T1" end="T2">hi</event>
 <event start="T2" end="T13">i just saw a car accident happen (-) on the street</event>
