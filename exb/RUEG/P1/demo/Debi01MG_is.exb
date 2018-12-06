@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/demo/Debi01MG_is.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/demo/Debi01MG_is.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -115,9 +114,9 @@
 <tli id="T86" time="29.916604554865426"/>
 <tli id="T87" time="30.458639455782315"/>
 <tli id="T88" time="32.94687074829932"/>
+<tli id="T89" time="33.013"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">--</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">(--)</event>
 <event start="T1" end="T2">γεια</event>
 <event start="T2" end="T3">σου</event>
 <event start="T3" end="T4">Debi01MG+_P</event>
@@ -204,16 +203,12 @@
 <event start="T85" end="T86">υπάρχουνε</event>
 <event start="T86" end="T87">θύματα</event>
 <event start="T87" end="T88">--</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">--</event>
-<event start="T1" end="T2">γεια</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T1" end="T2">γεια</event>
 <event start="T2" end="T3">σου</event>
 <event start="T3" end="T4">Debi01MG+_P</event>
 <event start="T4" end="T5">είμαι</event>
 <event start="T5" end="T6">ο</event>
 <event start="T6" end="T7">Τέος</event>
-<event start="T7" end="T8">--</event>
 <event start="T8" end="T9">τι</event>
 <event start="T9" end="T10">κάνεις</event>
 <event start="T10" end="T11">κορίτσι</event>
@@ -293,98 +288,94 @@
 <event start="T85" end="T86">υπάρχουνε</event>
 <event start="T86" end="T87">θύματα</event>
 <event start="T87" end="T88">--</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">&lt;UNKNOWN&gt;</event>
-<event start="T1" end="T2">&lt;UNKNOWN&gt;</event>
-<event start="T2" end="T3">&lt;UNKNOWN&gt;</event>
-<event start="T3" end="T4">&lt;UNKNOWN&gt;</event>
-<event start="T4" end="T5">&lt;UNKNOWN&gt;</event>
-<event start="T5" end="T6">&lt;UNKNOWN&gt;</event>
-<event start="T6" end="T7">&lt;UNKNOWN&gt;</event>
-<event start="T7" end="T8">&lt;UNKNOWN&gt;</event>
-<event start="T8" end="T9">&lt;UNKNOWN&gt;</event>
-<event start="T9" end="T10">&lt;UNKNOWN&gt;</event>
-<event start="T10" end="T11">&lt;UNKNOWN&gt;</event>
-<event start="T11" end="T12">&lt;UNKNOWN&gt;</event>
-<event start="T12" end="T13">&lt;UNKNOWN&gt;</event>
-<event start="T13" end="T14">&lt;UNKNOWN&gt;</event>
-<event start="T14" end="T15">&lt;UNKNOWN&gt;</event>
-<event start="T15" end="T16">&lt;UNKNOWN&gt;</event>
-<event start="T16" end="T17">&lt;UNKNOWN&gt;</event>
-<event start="T17" end="T18">&lt;UNKNOWN&gt;</event>
-<event start="T18" end="T19">&lt;UNKNOWN&gt;</event>
-<event start="T19" end="T20">&lt;UNKNOWN&gt;</event>
-<event start="T20" end="T21">&lt;UNKNOWN&gt;</event>
-<event start="T21" end="T22">&lt;UNKNOWN&gt;</event>
-<event start="T22" end="T23">&lt;UNKNOWN&gt;</event>
-<event start="T23" end="T24">&lt;UNKNOWN&gt;</event>
-<event start="T24" end="T25">&lt;UNKNOWN&gt;</event>
-<event start="T25" end="T26">&lt;UNKNOWN&gt;</event>
-<event start="T26" end="T27">&lt;UNKNOWN&gt;</event>
-<event start="T27" end="T28">&lt;UNKNOWN&gt;</event>
-<event start="T28" end="T29">&lt;UNKNOWN&gt;</event>
-<event start="T29" end="T30">&lt;UNKNOWN&gt;</event>
-<event start="T30" end="T31">&lt;UNKNOWN&gt;</event>
-<event start="T31" end="T32">&lt;UNKNOWN&gt;</event>
-<event start="T32" end="T33">&lt;UNKNOWN&gt;</event>
-<event start="T33" end="T34">&lt;UNKNOWN&gt;</event>
-<event start="T34" end="T35">&lt;UNKNOWN&gt;</event>
-<event start="T35" end="T36">&lt;UNKNOWN&gt;</event>
-<event start="T36" end="T37">&lt;UNKNOWN&gt;</event>
-<event start="T37" end="T38">&lt;UNKNOWN&gt;</event>
-<event start="T38" end="T39">&lt;UNKNOWN&gt;</event>
-<event start="T39" end="T40">&lt;UNKNOWN&gt;</event>
-<event start="T40" end="T41">&lt;UNKNOWN&gt;</event>
-<event start="T41" end="T42">&lt;UNKNOWN&gt;</event>
-<event start="T42" end="T43">&lt;UNKNOWN&gt;</event>
-<event start="T43" end="T44">&lt;UNKNOWN&gt;</event>
-<event start="T44" end="T45">&lt;UNKNOWN&gt;</event>
-<event start="T45" end="T46">&lt;UNKNOWN&gt;</event>
-<event start="T46" end="T47">&lt;UNKNOWN&gt;</event>
-<event start="T47" end="T48">&lt;UNKNOWN&gt;</event>
-<event start="T48" end="T49">&lt;UNKNOWN&gt;</event>
-<event start="T49" end="T50">&lt;UNKNOWN&gt;</event>
-<event start="T50" end="T51">&lt;UNKNOWN&gt;</event>
-<event start="T51" end="T52">&lt;UNKNOWN&gt;</event>
-<event start="T52" end="T53">&lt;UNKNOWN&gt;</event>
-<event start="T53" end="T54">&lt;UNKNOWN&gt;</event>
-<event start="T54" end="T55">&lt;UNKNOWN&gt;</event>
-<event start="T56" end="T57">&lt;UNKNOWN&gt;</event>
-<event start="T57" end="T58">&lt;UNKNOWN&gt;</event>
-<event start="T58" end="T59">&lt;UNKNOWN&gt;</event>
-<event start="T59" end="T60">&lt;UNKNOWN&gt;</event>
-<event start="T60" end="T61">&lt;UNKNOWN&gt;</event>
-<event start="T61" end="T62">&lt;UNKNOWN&gt;</event>
-<event start="T62" end="T63">&lt;UNKNOWN&gt;</event>
-<event start="T63" end="T64">&lt;UNKNOWN&gt;</event>
-<event start="T64" end="T65">&lt;UNKNOWN&gt;</event>
-<event start="T65" end="T66">&lt;UNKNOWN&gt;</event>
-<event start="T66" end="T67">&lt;UNKNOWN&gt;</event>
-<event start="T67" end="T68">&lt;UNKNOWN&gt;</event>
-<event start="T68" end="T69">&lt;UNKNOWN&gt;</event>
-<event start="T69" end="T70">&lt;UNKNOWN&gt;</event>
-<event start="T70" end="T71">&lt;UNKNOWN&gt;</event>
-<event start="T71" end="T72">&lt;UNKNOWN&gt;</event>
-<event start="T72" end="T73">&lt;UNKNOWN&gt;</event>
-<event start="T73" end="T74">&lt;UNKNOWN&gt;</event>
-<event start="T74" end="T75">&lt;UNKNOWN&gt;</event>
-<event start="T75" end="T76">&lt;UNKNOWN&gt;</event>
-<event start="T76" end="T77">&lt;UNKNOWN&gt;</event>
-<event start="T77" end="T78">&lt;UNKNOWN&gt;</event>
-<event start="T78" end="T79">&lt;UNKNOWN&gt;</event>
-<event start="T79" end="T80">&lt;UNKNOWN&gt;</event>
-<event start="T80" end="T81">&lt;UNKNOWN&gt;</event>
-<event start="T81" end="T82">&lt;UNKNOWN&gt;</event>
-<event start="T82" end="T83">&lt;UNKNOWN&gt;</event>
-<event start="T83" end="T84">&lt;UNKNOWN&gt;</event>
-<event start="T84" end="T85">&lt;UNKNOWN&gt;</event>
-<event start="T85" end="T86">&lt;UNKNOWN&gt;</event>
-<event start="T86" end="T87">&lt;UNKNOWN&gt;</event>
-<event start="T87" end="T88">&lt;UNKNOWN&gt;</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T1">--</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1"><![CDATA[<UNKNOWN>]]></event>
+<event start="T1" end="T2"><![CDATA[<UNKNOWN>]]></event>
+<event start="T2" end="T3"><![CDATA[<UNKNOWN>]]></event>
+<event start="T3" end="T4"><![CDATA[<UNKNOWN>]]></event>
+<event start="T4" end="T5"><![CDATA[<UNKNOWN>]]></event>
+<event start="T5" end="T6"><![CDATA[<UNKNOWN>]]></event>
+<event start="T6" end="T7"><![CDATA[<UNKNOWN>]]></event>
+<event start="T7" end="T8"><![CDATA[<UNKNOWN>]]></event>
+<event start="T8" end="T9"><![CDATA[<UNKNOWN>]]></event>
+<event start="T9" end="T10"><![CDATA[<UNKNOWN>]]></event>
+<event start="T10" end="T11"><![CDATA[<UNKNOWN>]]></event>
+<event start="T11" end="T12"><![CDATA[<UNKNOWN>]]></event>
+<event start="T12" end="T13"><![CDATA[<UNKNOWN>]]></event>
+<event start="T13" end="T14"><![CDATA[<UNKNOWN>]]></event>
+<event start="T14" end="T15"><![CDATA[<UNKNOWN>]]></event>
+<event start="T15" end="T16"><![CDATA[<UNKNOWN>]]></event>
+<event start="T16" end="T17"><![CDATA[<UNKNOWN>]]></event>
+<event start="T17" end="T18"><![CDATA[<UNKNOWN>]]></event>
+<event start="T18" end="T19"><![CDATA[<UNKNOWN>]]></event>
+<event start="T19" end="T20"><![CDATA[<UNKNOWN>]]></event>
+<event start="T20" end="T21"><![CDATA[<UNKNOWN>]]></event>
+<event start="T21" end="T22"><![CDATA[<UNKNOWN>]]></event>
+<event start="T22" end="T23"><![CDATA[<UNKNOWN>]]></event>
+<event start="T23" end="T24"><![CDATA[<UNKNOWN>]]></event>
+<event start="T24" end="T25"><![CDATA[<UNKNOWN>]]></event>
+<event start="T25" end="T26"><![CDATA[<UNKNOWN>]]></event>
+<event start="T26" end="T27"><![CDATA[<UNKNOWN>]]></event>
+<event start="T27" end="T28"><![CDATA[<UNKNOWN>]]></event>
+<event start="T28" end="T29"><![CDATA[<UNKNOWN>]]></event>
+<event start="T29" end="T30"><![CDATA[<UNKNOWN>]]></event>
+<event start="T30" end="T31"><![CDATA[<UNKNOWN>]]></event>
+<event start="T31" end="T32"><![CDATA[<UNKNOWN>]]></event>
+<event start="T32" end="T33"><![CDATA[<UNKNOWN>]]></event>
+<event start="T33" end="T34"><![CDATA[<UNKNOWN>]]></event>
+<event start="T34" end="T35"><![CDATA[<UNKNOWN>]]></event>
+<event start="T35" end="T36"><![CDATA[<UNKNOWN>]]></event>
+<event start="T36" end="T37"><![CDATA[<UNKNOWN>]]></event>
+<event start="T37" end="T38"><![CDATA[<UNKNOWN>]]></event>
+<event start="T38" end="T39"><![CDATA[<UNKNOWN>]]></event>
+<event start="T39" end="T40"><![CDATA[<UNKNOWN>]]></event>
+<event start="T40" end="T41"><![CDATA[<UNKNOWN>]]></event>
+<event start="T41" end="T42"><![CDATA[<UNKNOWN>]]></event>
+<event start="T42" end="T43"><![CDATA[<UNKNOWN>]]></event>
+<event start="T43" end="T44"><![CDATA[<UNKNOWN>]]></event>
+<event start="T44" end="T45"><![CDATA[<UNKNOWN>]]></event>
+<event start="T45" end="T46"><![CDATA[<UNKNOWN>]]></event>
+<event start="T46" end="T47"><![CDATA[<UNKNOWN>]]></event>
+<event start="T47" end="T48"><![CDATA[<UNKNOWN>]]></event>
+<event start="T48" end="T49"><![CDATA[<UNKNOWN>]]></event>
+<event start="T49" end="T50"><![CDATA[<UNKNOWN>]]></event>
+<event start="T50" end="T51"><![CDATA[<UNKNOWN>]]></event>
+<event start="T51" end="T52"><![CDATA[<UNKNOWN>]]></event>
+<event start="T52" end="T53"><![CDATA[<UNKNOWN>]]></event>
+<event start="T53" end="T54"><![CDATA[<UNKNOWN>]]></event>
+<event start="T54" end="T55"><![CDATA[<UNKNOWN>]]></event>
+<event start="T56" end="T57"><![CDATA[<UNKNOWN>]]></event>
+<event start="T57" end="T58"><![CDATA[<UNKNOWN>]]></event>
+<event start="T58" end="T59"><![CDATA[<UNKNOWN>]]></event>
+<event start="T59" end="T60"><![CDATA[<UNKNOWN>]]></event>
+<event start="T60" end="T61"><![CDATA[<UNKNOWN>]]></event>
+<event start="T61" end="T62"><![CDATA[<UNKNOWN>]]></event>
+<event start="T62" end="T63"><![CDATA[<UNKNOWN>]]></event>
+<event start="T63" end="T64"><![CDATA[<UNKNOWN>]]></event>
+<event start="T64" end="T65"><![CDATA[<UNKNOWN>]]></event>
+<event start="T65" end="T66"><![CDATA[<UNKNOWN>]]></event>
+<event start="T66" end="T67"><![CDATA[<UNKNOWN>]]></event>
+<event start="T67" end="T68"><![CDATA[<UNKNOWN>]]></event>
+<event start="T68" end="T69"><![CDATA[<UNKNOWN>]]></event>
+<event start="T69" end="T70"><![CDATA[<UNKNOWN>]]></event>
+<event start="T70" end="T71"><![CDATA[<UNKNOWN>]]></event>
+<event start="T71" end="T72"><![CDATA[<UNKNOWN>]]></event>
+<event start="T72" end="T73"><![CDATA[<UNKNOWN>]]></event>
+<event start="T73" end="T74"><![CDATA[<UNKNOWN>]]></event>
+<event start="T74" end="T75"><![CDATA[<UNKNOWN>]]></event>
+<event start="T75" end="T76"><![CDATA[<UNKNOWN>]]></event>
+<event start="T76" end="T77"><![CDATA[<UNKNOWN>]]></event>
+<event start="T77" end="T78"><![CDATA[<UNKNOWN>]]></event>
+<event start="T78" end="T79"><![CDATA[<UNKNOWN>]]></event>
+<event start="T79" end="T80"><![CDATA[<UNKNOWN>]]></event>
+<event start="T80" end="T81"><![CDATA[<UNKNOWN>]]></event>
+<event start="T81" end="T82"><![CDATA[<UNKNOWN>]]></event>
+<event start="T82" end="T83"><![CDATA[<UNKNOWN>]]></event>
+<event start="T83" end="T84"><![CDATA[<UNKNOWN>]]></event>
+<event start="T84" end="T85"><![CDATA[<UNKNOWN>]]></event>
+<event start="T85" end="T86"><![CDATA[<UNKNOWN>]]></event>
+<event start="T86" end="T87"><![CDATA[<UNKNOWN>]]></event>
+<event start="T87" end="T88"><![CDATA[<UNKNOWN>]]></event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T1">--</event>
 <event start="T1" end="T4">γεια σου Debi01MG+_P</event>
 <event start="T4" end="T8">είμαι ο Τέος --</event>
 <event start="T8" end="T13">τι κάνεις κορίτσι μου --</event>
@@ -399,6 +390,5 @@
 <event start="T71" end="T82">και το χτύπησε από πίσω ένας άλλος ένα άσπρο αυτοκίνητο βασικά</event>
 <event start="T82" end="T87">- αλλά δεν υπάρχουνε θύματα</event>
 <event start="T87" end="T88">--</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
