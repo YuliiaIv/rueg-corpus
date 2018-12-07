@@ -34,6 +34,7 @@
 <tli id="T171" time="1.430169085679469" type="intp"/>
 <tli id="T6" time="1.5645547428759814"/>
 <tli id="T7" time="1.788530838203502"/>
+<tli id="T174" time="1.9285158977832022" type="intp"/>
 <tli id="T8" time="2.0125069335310224"/>
 <tli id="T9" time="2.326073466989551"/>
 <tli id="T10" time="2.505254343251568"/>
@@ -377,10 +378,11 @@
 <event start="T5" end="T171">you</event>
 <event start="T171" end="T6">are</event>
 <event start="T6" end="T7">never</event>
-<event start="T7" end="T8">gonna</event>
+<event start="T7" end="T174">going</event>
+<event start="T174" end="T8"> to</event>
 <event start="T8" end="T9">believe</event>
 <event start="T9" end="T10">this</event>
-<event start="T10" end="T11">i</event>
+<event start="T10" end="T11">I</event>
 <event start="T11" end="T12">was</event>
 <event start="T12" end="T13">standing</event>
 <event start="T13" end="T14">at</event>
@@ -390,7 +392,7 @@
 <event start="T17" end="T18">the</event>
 <event start="T18" end="T19">street</event>
 <event start="T19" end="T20">and</event>
-<event start="T20" end="T21">i</event>
+<event start="T20" end="T21">I</event>
 <event start="T21" end="T22">saw</event>
 <event start="T22" end="T23">this</event>
 <event start="T23" end="T24">guy</event>
