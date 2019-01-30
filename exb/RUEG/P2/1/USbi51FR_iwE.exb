@@ -115,12 +115,6 @@
 <tli id="T86" time="86"/>
 <tli id="T87" time="87"/>
 <tli id="T88" time="88"/>
-<tli id="T89" time="89"/>
-<tli id="T90" time="90"/>
-<tli id="T91" time="91"/>
-<tli id="T92" time="92"/>
-<tli id="T93" time="93"/>
-<tli id="T94" time="94"/>
 </common-timeline>
 <tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
 <event start="T0" end="T1">hey</event>
@@ -209,14 +203,8 @@
 <event start="T83" end="T84">call</event>
 <event start="T84" end="T85">the</event>
 <event start="T85" end="T86">police</event>
-<event start="T86" end="T87">10/6/18</event>
-<event start="T87" end="T88">,</event>
-<event start="T88" end="T89">15:40</event>
-<event start="T89" end="T90">-</event>
-<event start="T90" end="T91">Mary</event>
-<event start="T91" end="T92">:</event>
-<event start="T92" end="T93">&lt;Media</event>
-<event start="T93" end="T94">omitted&gt;</event>
+<event start="T86" end="T87">&lt;Media</event>
+<event start="T87" end="T88">omitted&gt;</event>
 </tier>
 <tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
 <event start="T0" end="T1">hey</event>
@@ -305,14 +293,8 @@
 <event start="T83" end="T84">call</event>
 <event start="T84" end="T85">the</event>
 <event start="T85" end="T86">police</event>
-<event start="T86" end="T87">10/6/18</event>
-<event start="T87" end="T88">,</event>
-<event start="T88" end="T89">15:40</event>
-<event start="T89" end="T90">-</event>
-<event start="T90" end="T91">Mary</event>
-<event start="T91" end="T92">:</event>
-<event start="T92" end="T93">&lt;Media</event>
-<event start="T93" end="T94">omitted&gt;</event>
+<event start="T86" end="T87">&lt;Media</event>
+<event start="T87" end="T88">omitted&gt;</event>
 </tier>
 <tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
 <event start="T0" end="T1">eng</event>
@@ -403,19 +385,14 @@
 <event start="T85" end="T86">eng</event>
 <event start="T86" end="T87">eng</event>
 <event start="T87" end="T88">eng</event>
-<event start="T88" end="T89">eng</event>
-<event start="T89" end="T90">eng</event>
-<event start="T90" end="T91">eng</event>
-<event start="T91" end="T92">eng</event>
-<event start="T92" end="T93">eng</event>
-<event start="T93" end="T94">eng</event>
 </tier>
 <tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]">
 <event start="T0" end="T86">hey, so I just saw an accident happen. there was a couple walking with a ball and the guy dropped the ball. a woman was standing next to her car and she was holding a dog which ran after the ball. two cars were coming down the street and the first one stopped and the guy behind him didnt stop fast enough and ran into the first car a little. thankfully no one was injured but they did call the police</event>
-<event start="T86" end="T94">10/6/18, 15:40 - Mary: &lt;Media omitted&gt;</event>
+<event start="T86" end="T88">&lt;Media omitted&gt;</event>
 </tier>
 <tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]">
-<event start="T0" end="T94">1</event>
+<event start="T0" end="T86">1</event>
+<event start="T86" end="T88">2</event>
 </tier>
 </basic-body>
 </basic-transcription>
