@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P4/demo/TUmo04FT_isT.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
+<meta-information>
+<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P4/demo/TUmo04FT_isT.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
+<speakertable>
+<speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"/>
+<sex value="u"></sex>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information>
-</ud-speaker-information>
+<ud-speaker-information></ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"/>
+<sex value="u"></sex>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information>
-</ud-speaker-information>
+<ud-speaker-information></ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable></head>
+</speakertable>
+</head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -207,16 +208,17 @@
 <tli id="T179" time="62.84182231784003"/>
 <tli id="T180" time="63.4490022675737"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">(--)</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
+<event start="T0" end="T1">(--)</event>
 <event start="T1" end="T2">aşkım</event>
 <event start="T2" end="T3">az</event>
-<event start="T3" end="T4">önce</event>
+<event start="T3" end="T4">&#246;nce</event>
 <event start="T4" end="T5">ee</event>
 <event start="T5" end="T6">yolda</event>
-<event start="T6" end="T7">yürüyordum</event>
+<event start="T6" end="T7">y&#252;r&#252;yordum</event>
 <event start="T7" end="T8">.</event>
 <event start="T8" end="T9">ee</event>
-<event start="T9" end="T10">böyle</event>
+<event start="T9" end="T10">b&#246;yle</event>
 <event start="T10" end="T11">işte</event>
 <event start="T11" end="T12">şeye</event>
 <event start="T12" end="T13">doğru</event>
@@ -225,19 +227,19 @@
 <event start="T15" end="T16">.</event>
 <event start="T16" end="T17">birazcık</event>
 <event start="T17" end="T18">hızlı</event>
-<event start="T18" end="T19">yürüyodum</event>
+<event start="T18" end="T19">y&#252;r&#252;yodum</event>
 <event start="T19" end="T20">herhalde</event>
 <event start="T20" end="T21">.</event>
 <event start="T21" end="T22">bi</event>
 <event start="T22" end="T23">taraftan</event>
-<event start="T23" end="T24">böyle</event>
+<event start="T23" end="T24">b&#246;yle</event>
 <event start="T24" end="T25">ne</event>
 <event start="T25" end="T26">olduğunu</event>
 <event start="T26" end="T27">a/</event>
 <event start="T27" end="T28">çok</event>
 <event start="T28" end="T29">anlayamadım</event>
 <event start="T29" end="T30">.</event>
-<event start="T30" end="T31">böyle</event>
+<event start="T30" end="T31">b&#246;yle</event>
 <event start="T31" end="T32">hani</event>
 <event start="T32" end="T33">şeyden</event>
 <event start="T33" end="T34">ee</event>
@@ -247,7 +249,7 @@
 <event start="T37" end="T38">arabalar</event>
 <event start="T38" end="T39">falan</event>
 <event start="T39" end="T40">geçiyo</event>
-<event start="T40" end="T41">böyle</event>
+<event start="T40" end="T41">b&#246;yle</event>
 <event start="T41" end="T42">otoparkın</event>
 <event start="T42" end="T43">olduğu</event>
 <event start="T43" end="T44">bi</event>
@@ -260,11 +262,11 @@
 <event start="T50" end="T51">sağ</event>
 <event start="T51" end="T52">taraftan</event>
 <event start="T52" end="T53">da</event>
-<event start="T53" end="T54">böyle</event>
+<event start="T53" end="T54">b&#246;yle</event>
 <event start="T54" end="T55">bi</event>
 <event start="T55" end="T56">tane</event>
 <event start="T56" end="T57">çift</event>
-<event start="T57" end="T58">yürüyo</event>
+<event start="T57" end="T58">y&#252;r&#252;yo</event>
 <event start="T58" end="T59">.</event>
 <event start="T59" end="T60">çiftin</event>
 <event start="T60" end="T61">elinde</event>
@@ -278,9 +280,9 @@
 <event start="T68" end="T69">da</event>
 <event start="T69" end="T70">bebek</event>
 <event start="T70" end="T71">arabasını</event>
-<event start="T71" end="T72">sürüyorlar</event>
+<event start="T71" end="T72">s&#252;r&#252;yorlar</event>
 <event start="T72" end="T73">falan</event>
-<event start="T73" end="T74">böyle</event>
+<event start="T73" end="T74">b&#246;yle</event>
 <event start="T74" end="T75">.</event>
 <event start="T75" end="T76">top</event>
 <event start="T76" end="T77">bi</event>
@@ -288,14 +290,14 @@
 <event start="T78" end="T79">yola</event>
 <event start="T79" end="T80">fırladı</event>
 <event start="T80" end="T81">.</event>
-<event start="T81" end="T82">böyle</event>
+<event start="T81" end="T82">b&#246;yle</event>
 <event start="T82" end="T83">sol</event>
 <event start="T83" end="T84">taraftan</event>
 <event start="T84" end="T85">da</event>
 <event start="T85" end="T86">(-)</event>
-<event start="T86" end="T87">köpek</event>
+<event start="T86" end="T87">k&#246;pek</event>
 <event start="T87" end="T88">işte</event>
-<event start="T88" end="T89">gördü</event>
+<event start="T88" end="T89">g&#246;rd&#252;</event>
 <event start="T89" end="T90">topu</event>
 <event start="T90" end="T91">.</event>
 <event start="T91" end="T92">ona</event>
@@ -305,10 +307,10 @@
 <event start="T95" end="T96">falan</event>
 <event start="T96" end="T97">.</event>
 <event start="T97" end="T98">o</event>
-<event start="T98" end="T99">yüzden</event>
+<event start="T98" end="T99">y&#252;zden</event>
 <event start="T99" end="T100">de</event>
 <event start="T100" end="T101">araba</event>
-<event start="T101" end="T102">böyle</event>
+<event start="T101" end="T102">b&#246;yle</event>
 <event start="T102" end="T103">bi</event>
 <event start="T103" end="T104">anda</event>
 <event start="T104" end="T105">durdu</event>
@@ -336,13 +338,13 @@
 <event start="T126" end="T127">yani</event>
 <event start="T127" end="T128">ona</event>
 <event start="T128" end="T129">çarptığını</event>
-<event start="T129" end="T130">düşünüyorum</event>
+<event start="T129" end="T130">d&#252;ş&#252;n&#252;yorum</event>
 <event start="T130" end="T131">şu</event>
 <event start="T131" end="T132">anda</event>
 <event start="T132" end="T133">.</event>
 <event start="T133" end="T134">speech</event>
 <event start="T134" end="T135">ama</event>
-<event start="T135" end="T136">böyle</event>
+<event start="T135" end="T136">b&#246;yle</event>
 <event start="T136" end="T137">bi</event>
 <event start="T137" end="T138">anda</event>
 <event start="T138" end="T139">gerildim</event>
@@ -355,14 +357,14 @@
 <event start="T145" end="T146">çarpçakmış</event>
 <event start="T146" end="T147">ya</event>
 <event start="T147" end="T148">da</event>
-<event start="T148" end="T149">böyle</event>
-<event start="T149" end="T150">köpeğe</event>
+<event start="T148" end="T149">b&#246;yle</event>
+<event start="T149" end="T150">k&#246;peğe</event>
 <event start="T150" end="T151">çarpçakmış</event>
 <event start="T151" end="T152">gibi</event>
 <event start="T152" end="T153">oldu</event>
 <event start="T153" end="T154">.</event>
 <event start="T154" end="T155">o</event>
-<event start="T155" end="T156">yüzden</event>
+<event start="T155" end="T156">y&#252;zden</event>
 <event start="T156" end="T157">şu</event>
 <event start="T157" end="T158">anda</event>
 <event start="T158" end="T159">hiçbirine</event>
@@ -374,7 +376,7 @@
 <event start="T164" end="T165">ama</event>
 <event start="T165" end="T166">eğer</event>
 <event start="T166" end="T167">daha</event>
-<event start="T167" end="T168">böyle</event>
+<event start="T167" end="T168">b&#246;yle</event>
 <event start="T168" end="T169">tehlikeli</event>
 <event start="T169" end="T170">bir</event>
 <event start="T170" end="T171">şey</event>
@@ -385,15 +387,20 @@
 <event start="T175" end="T176">umrumda</event>
 <event start="T176" end="T177">olmayacaktı</event>
 <event start="T177" end="T178">.</event>
-<event start="T178" end="T179">öyle</event>
+<event start="T178" end="T179">&#246;yle</event>
 <event start="T179" end="T180">.</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T1" end="T2">aşkım</event>
+</tier>
+<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
+<event start="T0" end="T1">(--)</event>
+<event start="T1" end="T2">aşkım</event>
 <event start="T2" end="T3">az</event>
-<event start="T3" end="T4">önce</event>
+<event start="T3" end="T4">&#246;nce</event>
+<event start="T4" end="T5">ee</event>
 <event start="T5" end="T6">yolda</event>
-<event start="T6" end="T7">yürüyordum</event>
+<event start="T6" end="T7">y&#252;r&#252;yordum</event>
 <event start="T7" end="T8">.</event>
-<event start="T9" end="T10">böyle</event>
+<event start="T8" end="T9">ee</event>
+<event start="T9" end="T10">b&#246;yle</event>
 <event start="T10" end="T11">işte</event>
 <event start="T11" end="T12">şeye</event>
 <event start="T12" end="T13">doğru</event>
@@ -402,42 +409,46 @@
 <event start="T15" end="T16">.</event>
 <event start="T16" end="T17">birazcık</event>
 <event start="T17" end="T18">hızlı</event>
-<event start="T18" end="T19">yürüyordum</event>
+<event start="T18" end="T19">y&#252;r&#252;yodum</event>
 <event start="T19" end="T20">herhalde</event>
 <event start="T20" end="T21">.</event>
-<event start="T21" end="T22">bir</event>
+<event start="T21" end="T22">bi</event>
 <event start="T22" end="T23">taraftan</event>
-<event start="T23" end="T24">böyle</event>
+<event start="T23" end="T24">b&#246;yle</event>
 <event start="T24" end="T25">ne</event>
 <event start="T25" end="T26">olduğunu</event>
+<event start="T26" end="T27">a/</event>
 <event start="T27" end="T28">çok</event>
 <event start="T28" end="T29">anlayamadım</event>
 <event start="T29" end="T30">.</event>
-<event start="T30" end="T31">böyle</event>
+<event start="T30" end="T31">b&#246;yle</event>
 <event start="T31" end="T32">hani</event>
 <event start="T32" end="T33">şeyden</event>
+<event start="T33" end="T34">ee</event>
 <event start="T34" end="T35">karşı</event>
 <event start="T35" end="T36">taraftan</event>
+<event start="T36" end="T37">(-)</event>
 <event start="T37" end="T38">arabalar</event>
 <event start="T38" end="T39">falan</event>
-<event start="T39" end="T40">geçiyor</event>
-<event start="T40" end="T41">böyle</event>
+<event start="T39" end="T40">geçiyo</event>
+<event start="T40" end="T41">b&#246;yle</event>
 <event start="T41" end="T42">otoparkın</event>
 <event start="T42" end="T43">olduğu</event>
-<event start="T43" end="T44">bir</event>
+<event start="T43" end="T44">bi</event>
 <event start="T44" end="T45">yerde</event>
 <event start="T45" end="T46">.</event>
 <event start="T46" end="T47">ondan</event>
 <event start="T47" end="T48">sonra</event>
 <event start="T48" end="T49">işte</event>
+<event start="T49" end="T50">ee</event>
 <event start="T50" end="T51">sağ</event>
 <event start="T51" end="T52">taraftan</event>
 <event start="T52" end="T53">da</event>
-<event start="T53" end="T54">böyle</event>
-<event start="T54" end="T55">bir</event>
+<event start="T53" end="T54">b&#246;yle</event>
+<event start="T54" end="T55">bi</event>
 <event start="T55" end="T56">tane</event>
 <event start="T56" end="T57">çift</event>
-<event start="T57" end="T58">yürüyor</event>
+<event start="T57" end="T58">y&#252;r&#252;yo</event>
 <event start="T58" end="T59">.</event>
 <event start="T59" end="T60">çiftin</event>
 <event start="T60" end="T61">elinde</event>
@@ -446,28 +457,29 @@
 <event start="T63" end="T64">top</event>
 <event start="T64" end="T65">var</event>
 <event start="T65" end="T66">.</event>
-<event start="T66" end="T67">bir</event>
+<event start="T66" end="T67">bi</event>
 <event start="T67" end="T68">taraftan</event>
 <event start="T68" end="T69">da</event>
 <event start="T69" end="T70">bebek</event>
 <event start="T70" end="T71">arabasını</event>
-<event start="T71" end="T72">sürüyorlar</event>
+<event start="T71" end="T72">s&#252;r&#252;yorlar</event>
 <event start="T72" end="T73">falan</event>
-<event start="T73" end="T74">böyle</event>
+<event start="T73" end="T74">b&#246;yle</event>
 <event start="T74" end="T75">.</event>
 <event start="T75" end="T76">top</event>
-<event start="T76" end="T77">bir</event>
+<event start="T76" end="T77">bi</event>
 <event start="T77" end="T78">anda</event>
 <event start="T78" end="T79">yola</event>
 <event start="T79" end="T80">fırladı</event>
 <event start="T80" end="T81">.</event>
-<event start="T81" end="T82">böyle</event>
+<event start="T81" end="T82">b&#246;yle</event>
 <event start="T82" end="T83">sol</event>
 <event start="T83" end="T84">taraftan</event>
 <event start="T84" end="T85">da</event>
-<event start="T86" end="T87">köpek</event>
+<event start="T85" end="T86">(-)</event>
+<event start="T86" end="T87">k&#246;pek</event>
 <event start="T87" end="T88">işte</event>
-<event start="T88" end="T89">gördü</event>
+<event start="T88" end="T89">g&#246;rd&#252;</event>
 <event start="T89" end="T90">topu</event>
 <event start="T90" end="T91">.</event>
 <event start="T91" end="T92">ona</event>
@@ -477,11 +489,11 @@
 <event start="T95" end="T96">falan</event>
 <event start="T96" end="T97">.</event>
 <event start="T97" end="T98">o</event>
-<event start="T98" end="T99">yüzden</event>
+<event start="T98" end="T99">y&#252;zden</event>
 <event start="T99" end="T100">de</event>
 <event start="T100" end="T101">araba</event>
-<event start="T101" end="T102">böyle</event>
-<event start="T102" end="T103">bir</event>
+<event start="T101" end="T102">b&#246;yle</event>
+<event start="T102" end="T103">bi</event>
 <event start="T103" end="T104">anda</event>
 <event start="T104" end="T105">durdu</event>
 <event start="T105" end="T106">.</event>
@@ -508,14 +520,14 @@
 <event start="T126" end="T127">yani</event>
 <event start="T127" end="T128">ona</event>
 <event start="T128" end="T129">çarptığını</event>
-<event start="T129" end="T130">düşünüyorum</event>
+<event start="T129" end="T130">d&#252;ş&#252;n&#252;yorum</event>
 <event start="T130" end="T131">şu</event>
 <event start="T131" end="T132">anda</event>
 <event start="T132" end="T133">.</event>
 <event start="T133" end="T134">speech</event>
 <event start="T134" end="T135">ama</event>
-<event start="T135" end="T136">böyle</event>
-<event start="T136" end="T137">bir</event>
+<event start="T135" end="T136">b&#246;yle</event>
+<event start="T136" end="T137">bi</event>
 <event start="T137" end="T138">anda</event>
 <event start="T138" end="T139">gerildim</event>
 <event start="T139" end="T140">.</event>
@@ -524,17 +536,17 @@
 <event start="T142" end="T143">ya</event>
 <event start="T143" end="T144">bebek</event>
 <event start="T144" end="T145">arabasına</event>
-<event start="T145" end="T146">çarpaçakmış</event>
+<event start="T145" end="T146">çarpçakmış</event>
 <event start="T146" end="T147">ya</event>
 <event start="T147" end="T148">da</event>
-<event start="T148" end="T149">böyle</event>
-<event start="T149" end="T150">köpeğe</event>
-<event start="T150" end="T151">çarpaçakmış</event>
+<event start="T148" end="T149">b&#246;yle</event>
+<event start="T149" end="T150">k&#246;peğe</event>
+<event start="T150" end="T151">çarpçakmış</event>
 <event start="T151" end="T152">gibi</event>
 <event start="T152" end="T153">oldu</event>
 <event start="T153" end="T154">.</event>
 <event start="T154" end="T155">o</event>
-<event start="T155" end="T156">yüzden</event>
+<event start="T155" end="T156">y&#252;zden</event>
 <event start="T156" end="T157">şu</event>
 <event start="T157" end="T158">anda</event>
 <event start="T158" end="T159">hiçbirine</event>
@@ -546,7 +558,7 @@
 <event start="T164" end="T165">ama</event>
 <event start="T165" end="T166">eğer</event>
 <event start="T166" end="T167">daha</event>
-<event start="T167" end="T168">böyle</event>
+<event start="T167" end="T168">b&#246;yle</event>
 <event start="T168" end="T169">tehlikeli</event>
 <event start="T169" end="T170">bir</event>
 <event start="T170" end="T171">şey</event>
@@ -557,9 +569,11 @@
 <event start="T175" end="T176">umrumda</event>
 <event start="T176" end="T177">olmayacaktı</event>
 <event start="T177" end="T178">.</event>
-<event start="T178" end="T179">öyle</event>
+<event start="T178" end="T179">&#246;yle</event>
 <event start="T179" end="T180">.</event>
-</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">tur</event>
+</tier>
+<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
+<event start="T0" end="T1">tur</event>
 <event start="T1" end="T2">tur</event>
 <event start="T2" end="T3">tur</event>
 <event start="T3" end="T4">tur</event>
@@ -739,26 +753,31 @@
 <event start="T177" end="T178">tur</event>
 <event start="T178" end="T179">tur</event>
 <event start="T179" end="T180">tur</event>
-</tier><tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T133" end="T134">laughing</event>
-</tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T8">(--) aşkım az önce ee yolda yürüyordum .</event>
-<event start="T8" end="T16">ee böyle işte şeye doğru yetişmeye çalışıyorum .</event>
-<event start="T16" end="T21">birazcık hızlı yürüyodum herhalde .</event>
-<event start="T21" end="T30">bi taraftan böyle ne olduğunu a/ çok anlayamadım .</event>
-<event start="T30" end="T46">böyle hani şeyden ee karşı taraftan (-) arabalar falan geçiyo böyle otoparkın olduğu bi yerde .</event>
-<event start="T46" end="T59">ondan sonra işte ee sağ taraftan da böyle bi tane çift yürüyo .</event>
+</tier>
+<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
+<event start="T133" end="T134">laughing</event>
+</tier>
+<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
+<event start="T0" end="T8">(--) aşkım az &#246;nce ee yolda y&#252;r&#252;yordum .</event>
+<event start="T8" end="T16">ee b&#246;yle işte şeye doğru yetişmeye çalışıyorum .</event>
+<event start="T16" end="T21">birazcık hızlı y&#252;r&#252;yodum herhalde .</event>
+<event start="T21" end="T30">bi taraftan b&#246;yle ne olduğunu a/ çok anlayamadım .</event>
+<event start="T30" end="T46">b&#246;yle hani şeyden ee karşı taraftan (-) arabalar falan geçiyo b&#246;yle otoparkın olduğu bi yerde .</event>
+<event start="T46" end="T59">ondan sonra işte ee sağ taraftan da b&#246;yle bi tane çift y&#252;r&#252;yo .</event>
 <event start="T59" end="T66">çiftin elinde de işte top var . </event>
-<event start="T66" end="T75">bi taraftan da bebek arabasını sürüyorlar falan böyle .</event>
+<event start="T66" end="T75">bi taraftan da bebek arabasını s&#252;r&#252;yorlar falan b&#246;yle .</event>
 <event start="T75" end="T81">top bi anda yola fırladı . </event>
-<event start="T81" end="T91">böyle sol taraftan da (-) köpek işte gördü topu .</event>
+<event start="T81" end="T91">b&#246;yle sol taraftan da (-) k&#246;pek işte g&#246;rd&#252; topu .</event>
 <event start="T91" end="T97">ona doğru koşmaya başladı falan . </event>
-<event start="T97" end="T106">o yüzden de araba böyle bi anda durdu . </event>
+<event start="T97" end="T106">o y&#252;zden de araba b&#246;yle bi anda durdu . </event>
 <event start="T106" end="T112">ve arkadaki araba ona çarptı .</event>
 <event start="T112" end="T119">benim çok korktuğum şey olduğunu biliyosun .</event>
-<event start="T119" end="T134">arkadaki mesafenin ne kadar yakın olduğu için yani ona çarptığını düşünüyorum şu anda . [[laughing]speech]</event>
-<event start="T134" end="T140">ama böyle bi anda gerildim .</event>
-<event start="T140" end="T154">yani sanki ya bebek arabasına çarpçakmış ya da böyle köpeğe çarpçakmış gibi oldu .</event>
-<event start="T154" end="T164">o yüzden şu anda hiçbirine çarpmadıkları için arabaya odaklanabiliyorum . </event>
-<event start="T164" end="T178">ama eğer daha böyle tehlikeli bir şey olmuş olsaydı araba hiç umrumda olmayacaktı . </event>
-<event start="T178" end="T180">öyle . </event>
-</tier></basic-body>
+<event start="T119" end="T134">arkadaki mesafenin ne kadar yakın olduğu için yani ona çarptığını d&#252;ş&#252;n&#252;yorum şu anda . [[laughing]speech]</event>
+<event start="T134" end="T140">ama b&#246;yle bi anda gerildim .</event>
+<event start="T140" end="T154">yani sanki ya bebek arabasına çarpçakmış ya da b&#246;yle k&#246;peğe çarpçakmış gibi oldu .</event>
+<event start="T154" end="T164">o y&#252;zden şu anda hiçbirine çarpmadıkları için arabaya odaklanabiliyorum . </event>
+<event start="T164" end="T178">ama eğer daha b&#246;yle tehlikeli bir şey olmuş olsaydı araba hiç umrumda olmayacaktı . </event>
+<event start="T178" end="T180">&#246;yle . </event>
+</tier>
+</basic-body>
 </basic-transcription>
