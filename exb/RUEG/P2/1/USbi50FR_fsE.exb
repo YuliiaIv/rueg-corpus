@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P2/1/USbi50FR_fsE.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P2/1/USbi50FR_fsE.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -44,6 +43,7 @@
 <tli id="T15" time="3.6031561087686725"/>
 <tli id="T16" time="3.792199018284841"/>
 <tli id="T17" time="3.9865730967901483"/>
+<tli id="T226" time="4.129947175295456" type="intp"/>
 <tli id="T18" time="4.180947175295456"/>
 <tli id="T19" time="4.440112613302533"/>
 <tli id="T20" time="4.634486691807841"/>
@@ -253,8 +253,7 @@
 <tli id="T224" time="60.95496875"/>
 <tli id="T225" time="61.86622916666666"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">(-)</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">um</event>
 <event start="T2" end="T3">hello</event>
 <event start="T3" end="T4">i</event>
@@ -479,11 +478,7 @@
 <event start="T222" end="T223">first</event>
 <event start="T223" end="T224">car</event>
 <event start="T224" end="T225">(-)</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">(-)</event>
-<event start="T1" end="T2">um</event>
-<event start="T2" end="T3">hello</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T2" end="T3">hello</event>
 <event start="T3" end="T4">i</event>
 <event start="T4" end="T5">was</event>
 <event start="T5" end="T6">just</event>
@@ -498,10 +493,10 @@
 <event start="T14" end="T15">parking</event>
 <event start="T15" end="T16">lot</event>
 <event start="T16" end="T17">and</event>
-<event start="T17" end="T18">i=d</event>
+<event start="T17" end="T226">i</event>
+<event start="T226" end="T18">would</event>
 <event start="T18" end="T19">like</event>
-<event start="T19" end="T20">to:</event>
-<event start="T20" end="T21">(-)</event>
+<event start="T19" end="T20">to</event>
 <event start="T21" end="T22">explain</event>
 <event start="T22" end="T23">a</event>
 <event start="T23" end="T24">little</event>
@@ -652,7 +647,7 @@
 <event start="T168" end="T169">front</event>
 <event start="T169" end="T170">of</event>
 <event start="T170" end="T171">the</event>
-<event start="T171" end="T172">[laughing [wheels]]</event>
+<event start="T171" end="T172">wheels</event>
 <event start="T172" end="T173">of</event>
 <event start="T173" end="T174">the</event>
 <event start="T174" end="T175">first</event>
@@ -682,7 +677,6 @@
 <event start="T198" end="T199">first</event>
 <event start="T199" end="T200">one</event>
 <event start="T200" end="T201">so</event>
-<event start="T201" end="T202">n/</event>
 <event start="T202" end="T203">no</event>
 <event start="T203" end="T204">one</event>
 <event start="T204" end="T205">seems</event>
@@ -706,10 +700,7 @@
 <event start="T222" end="T223">first</event>
 <event start="T223" end="T224">car</event>
 <event start="T224" end="T225">(-)</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">eng</event>
-<event start="T1" end="T2">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
 <event start="T4" end="T5">eng</event>
@@ -933,12 +924,8 @@
 <event start="T222" end="T223">eng</event>
 <event start="T223" end="T224">eng</event>
 <event start="T224" end="T225">eng</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
-<event start="T171" end="T172">laughing [wheels]</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T1">(-)</event>
+</tier><tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T171" end="T172">laughing [wheels]</event>
+</tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T3">um hello</event>
 <event start="T3" end="T16">i was just a witness to a car accident on a parking lot</event>
 <event start="T16" end="T27">and i=d like to: (-) explain a little bit what happened</event>
@@ -965,6 +952,5 @@
 <event start="T200" end="T208">so n/ no one seems to be hurt</event>
 <event start="T208" end="T224">but ther:e (--) must be some damages (-) to (-) the rear of the first car</event>
 <event start="T224" end="T225">(-)</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
