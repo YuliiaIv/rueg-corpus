@@ -222,6 +222,7 @@
 <tli id="T194" time="194.0"/>
 <tli id="T195" time="195.0"/>
 <tli id="T196" time="196.0"/>
+<tli id="T383" time="196.8" type="intp"/>
 <tli id="T197" time="197.0"/>
 <tli id="T198" time="198.0"/>
 <tli id="T199" time="199.0"/>
@@ -985,7 +986,8 @@
 <event start="T193" end="T194">Ball</event>
 <event start="T194" end="T195">in</event>
 <event start="T195" end="T196">der</event>
-<event start="T196" end="T197">Hand.</event>
+<event start="T196" end="T383">Hand</event>
+<event start="T383" end="T197">.</event>
 <event start="T197" end="T198">Auf</event>
 <event start="T198" end="T199">dem</event>
 <event start="T199" end="T200">Parkplatz</event>
