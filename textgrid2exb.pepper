@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="trttqfob" version="1.0">
+  <importer name="TextGridImporter" path="./tmp/textgrid/RUEG/">
+    <property key="mapUnknownAsToken">true</property>
+  </importer>
+  <manipulator name="TokenizeRUEGTranscription">
+  </manipulator>
+  <manipulator name="TokenizationMultiplicator">
+    <property key="tok.names">{dipl,norm}</property>
+  </manipulator>
+  <exporter name="EXMARaLDAExporter" path="./exb/">
+  </exporter>
+</pepper-job>

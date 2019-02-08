@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="trttqfob" version="1.0">
+  <importer name="TextMessageImporter" path="./tmp/txt_iw/RUEG/">
+  </importer>
+  <manipulator name="TokenizationMultiplicator">
+	  <property key="tok.names">{dipl,norm}</property>
+  </manipulator>
+  <exporter name="EXMARaLDAExporter" path="./exb/">
+  </exporter>
+</pepper-job>
