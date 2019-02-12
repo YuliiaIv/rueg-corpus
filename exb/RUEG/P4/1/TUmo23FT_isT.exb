@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P4/1/TUmo23FT_isT.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P4/1/TUmo23FT_isT.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -75,8 +74,7 @@
 <tli id="T46" time="18.133028063718605"/>
 <tli id="T47" time="18.92"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">bug&#252;n</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">bugün</event>
 <event start="T1" end="T2">n=oldu</event>
 <event start="T2" end="T3">biliyo</event>
 <event start="T3" end="T4">musunuz</event>
@@ -91,14 +89,14 @@
 <event start="T12" end="T13">ee</event>
 <event start="T13" end="T14">yola</event>
 <event start="T14" end="T15">fırladı</event>
-<event start="T15" end="T16">k&#246;pek</event>
+<event start="T15" end="T16">köpek</event>
 <event start="T16" end="T17">bi</event>
 <event start="T17" end="T18">tane</event>
 <event start="T18" end="T19">kadının</event>
 <event start="T19" end="T20">kucağında</event>
-<event start="T20" end="T21">k&#246;pek</event>
+<event start="T20" end="T21">köpek</event>
 <event start="T21" end="T22">vardı</event>
-<event start="T22" end="T23">k&#246;pek</event>
+<event start="T22" end="T23">köpek</event>
 <event start="T23" end="T24">nerdeyse</event>
 <event start="T24" end="T25">yola</event>
 <event start="T25" end="T26">atlıyodu</event>
@@ -109,7 +107,7 @@
 <event start="T30" end="T31">ee</event>
 <event start="T31" end="T32">arkadaki</event>
 <event start="T32" end="T33">araba</event>
-<event start="T33" end="T34">&#246;ndeki</event>
+<event start="T33" end="T34">öndeki</event>
 <event start="T34" end="T35">araba</event>
 <event start="T35" end="T36">durunca</event>
 <event start="T36" end="T37">aniden</event>
@@ -119,62 +117,56 @@
 <event start="T40" end="T41">ve</event>
 <event start="T41" end="T42">ben</event>
 <event start="T42" end="T43">onları</event>
-<event start="T43" end="T44">g&#246;rd&#252;m</event>
+<event start="T43" end="T44">gördüm</event>
 <event start="T44" end="T45">ve</event>
 <event start="T45" end="T46">şok</event>
 <event start="T46" end="T47">oldum</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">bug&#252;n</event>
-<event start="T1" end="T2">n=oldu</event>
-<event start="T2" end="T3">biliyo</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">bugün</event>
+<event start="T1" end="T2">ne oldu</event>
+<event start="T2" end="T3">biliyor</event>
 <event start="T3" end="T4">musunuz</event>
 <event start="T4" end="T5">yolda</event>
 <event start="T5" end="T6">gelirken</event>
 <event start="T6" end="T7">kaza</event>
 <event start="T7" end="T8">oldu</event>
-<event start="T8" end="T9">bi</event>
+<event start="T8" end="T9">bir</event>
 <event start="T9" end="T10">tane</event>
 <event start="T10" end="T11">top</event>
-<event start="T11" end="T12">(-)</event>
 <event start="T12" end="T13">ee</event>
 <event start="T13" end="T14">yola</event>
 <event start="T14" end="T15">fırladı</event>
-<event start="T15" end="T16">k&#246;pek</event>
-<event start="T16" end="T17">bi</event>
+<event start="T15" end="T16">köpek</event>
+<event start="T16" end="T17">bir</event>
 <event start="T17" end="T18">tane</event>
 <event start="T18" end="T19">kadının</event>
 <event start="T19" end="T20">kucağında</event>
-<event start="T20" end="T21">k&#246;pek</event>
+<event start="T20" end="T21">köpek</event>
 <event start="T21" end="T22">vardı</event>
-<event start="T22" end="T23">k&#246;pek</event>
-<event start="T23" end="T24">nerdeyse</event>
+<event start="T22" end="T23">köpek</event>
+<event start="T23" end="T24">neredeyse</event>
 <event start="T24" end="T25">yola</event>
 <event start="T25" end="T26">atlıyodu</event>
-<event start="T26" end="T27">bi</event>
+<event start="T26" end="T27">bir</event>
 <event start="T27" end="T28">tane</event>
 <event start="T28" end="T29">araba</event>
 <event start="T29" end="T30">gelirken</event>
 <event start="T30" end="T31">ee</event>
 <event start="T31" end="T32">arkadaki</event>
 <event start="T32" end="T33">araba</event>
-<event start="T33" end="T34">&#246;ndeki</event>
+<event start="T33" end="T34">öndeki</event>
 <event start="T34" end="T35">araba</event>
 <event start="T35" end="T36">durunca</event>
 <event start="T36" end="T37">aniden</event>
 <event start="T37" end="T38">ona</event>
 <event start="T38" end="T39">vurdu</event>
-<event start="T39" end="T40">(-)</event>
 <event start="T40" end="T41">ve</event>
 <event start="T41" end="T42">ben</event>
 <event start="T42" end="T43">onları</event>
-<event start="T43" end="T44">g&#246;rd&#252;m</event>
+<event start="T43" end="T44">gördüm</event>
 <event start="T44" end="T45">ve</event>
 <event start="T45" end="T46">şok</event>
 <event start="T46" end="T47">oldum</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">tur</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">tur</event>
 <event start="T1" end="T2">tur</event>
 <event start="T2" end="T3">tur</event>
 <event start="T3" end="T4">tur</event>
@@ -221,17 +213,14 @@
 <event start="T44" end="T45">tur</event>
 <event start="T45" end="T46">tur</event>
 <event start="T46" end="T47">tur</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T4">bug&#252;n n=oldu biliyo musunuz </event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T4">bugün n=oldu biliyo musunuz </event>
 <event start="T4" end="T8">yolda gelirken kaza oldu </event>
 <event start="T8" end="T15">bi tane top (-) ee yola fırladı </event>
-<event start="T15" end="T22">k&#246;pek bi tane kadının kucağında k&#246;pek vardı </event>
-<event start="T22" end="T26">k&#246;pek nerdeyse yola atlıyodu </event>
-<event start="T26" end="T39">bi tane araba gelirken ee arkadaki araba &#246;ndeki araba durunca aniden ona vurdu </event>
+<event start="T15" end="T22">köpek bi tane kadının kucağında köpek vardı </event>
+<event start="T22" end="T26">köpek nerdeyse yola atlıyodu </event>
+<event start="T26" end="T39">bi tane araba gelirken ee arkadaki araba öndeki araba durunca aniden ona vurdu </event>
 <event start="T39" end="T40">(-) </event>
-<event start="T40" end="T44">ve ben onları g&#246;rd&#252;m  </event>
+<event start="T40" end="T44">ve ben onları gördüm  </event>
 <event start="T44" end="T47">ve şok oldum</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>

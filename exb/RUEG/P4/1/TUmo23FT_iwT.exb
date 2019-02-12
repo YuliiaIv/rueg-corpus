@@ -1,79 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url=""></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
-<tli id="T0" time="0"/>
-<tli id="T1" time="1"/>
-<tli id="T2" time="2"/>
-<tli id="T3" time="3"/>
-<tli id="T4" time="4"/>
-<tli id="T5" time="5"/>
-<tli id="T6" time="6"/>
-<tli id="T7" time="7"/>
-<tli id="T8" time="8"/>
-<tli id="T9" time="9"/>
-<tli id="T10" time="10"/>
-<tli id="T11" time="11"/>
-<tli id="T12" time="12"/>
-<tli id="T13" time="13"/>
-<tli id="T14" time="14"/>
-<tli id="T15" time="15"/>
-<tli id="T16" time="16"/>
-<tli id="T17" time="17"/>
-<tli id="T18" time="18"/>
-<tli id="T19" time="19"/>
-<tli id="T20" time="20"/>
-<tli id="T21" time="21"/>
-<tli id="T22" time="22"/>
-<tli id="T23" time="23"/>
-<tli id="T24" time="24"/>
-<tli id="T25" time="25"/>
-<tli id="T26" time="26"/>
-<tli id="T27" time="27"/>
-<tli id="T28" time="28"/>
-<tli id="T29" time="29"/>
-<tli id="T30" time="30"/>
-<tli id="T31" time="31"/>
-<tli id="T32" time="32"/>
-<tli id="T33" time="33"/>
-<tli id="T34" time="34"/>
-<tli id="T35" time="35"/>
-<tli id="T36" time="36"/>
-<tli id="T37" time="37"/>
-<tli id="T38" time="38"/>
-<tli id="T39" time="39"/>
-<tli id="T40" time="40"/>
-<tli id="T41" time="41"/>
-<tli id="T42" time="42"/>
+<tli id="T0" time="0.0"/>
+<tli id="T1" time="1.0"/>
+<tli id="T2" time="2.0"/>
+<tli id="T3" time="3.0"/>
+<tli id="T4" time="4.0"/>
+<tli id="T5" time="5.0"/>
+<tli id="T6" time="6.0"/>
+<tli id="T7" time="7.0"/>
+<tli id="T8" time="8.0"/>
+<tli id="T9" time="9.0"/>
+<tli id="T10" time="10.0"/>
+<tli id="T11" time="11.0"/>
+<tli id="T12" time="12.0"/>
+<tli id="T13" time="13.0"/>
+<tli id="T14" time="14.0"/>
+<tli id="T15" time="15.0"/>
+<tli id="T16" time="16.0"/>
+<tli id="T17" time="17.0"/>
+<tli id="T18" time="18.0"/>
+<tli id="T19" time="19.0"/>
+<tli id="T20" time="20.0"/>
+<tli id="T21" time="21.0"/>
+<tli id="T22" time="22.0"/>
+<tli id="T23" time="23.0"/>
+<tli id="T24" time="24.0"/>
+<tli id="T25" time="25.0"/>
+<tli id="T26" time="26.0"/>
+<tli id="T27" time="27.0"/>
+<tli id="T28" time="28.0"/>
+<tli id="T29" time="29.0"/>
+<tli id="T30" time="30.0"/>
+<tli id="T31" time="31.0"/>
+<tli id="T32" time="32.0"/>
+<tli id="T33" time="33.0"/>
+<tli id="T34" time="34.0"/>
+<tli id="T35" time="35.0"/>
+<tli id="T36" time="36.0"/>
+<tli id="T37" time="37.0"/>
+<tli id="T38" time="38.0"/>
+<tli id="T39" time="39.0"/>
+<tli id="T40" time="40.0"/>
+<tli id="T41" time="41.0"/>
+<tli id="T42" time="42.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">‎Bu</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">‎Bu</event>
 <event start="T1" end="T2">gruba</event>
-<event start="T2" end="T3">g&#246;nderdiğiniz</event>
+<event start="T2" end="T3">gönderdiğiniz</event>
 <event start="T3" end="T4">mesajlar</event>
 <event start="T4" end="T5">artık</event>
 <event start="T5" end="T6">uçtan</event>
@@ -96,11 +94,11 @@
 <event start="T22" end="T23">fırladı</event>
 <event start="T23" end="T24">bi</event>
 <event start="T24" end="T25">kadının</event>
-<event start="T25" end="T26">k&#246;peeği</event>
+<event start="T25" end="T26">köpeeği</event>
 <event start="T26" end="T27">yola</event>
 <event start="T27" end="T28">atlıyodu</event>
 <event start="T28" end="T29">nerdeyse</event>
-<event start="T29" end="T30">&#246;ndeki</event>
+<event start="T29" end="T30">öndeki</event>
 <event start="T30" end="T31">araba</event>
 <event start="T31" end="T32">durunca</event>
 <event start="T32" end="T33">arkadaki</event>
@@ -111,13 +109,11 @@
 <event start="T37" end="T38">olmadı</event>
 <event start="T38" end="T39">kimseye</event>
 <event start="T39" end="T40">‎</event>
-<event start="T40" end="T41">‎&lt;00000007-AUDIO-2018-10-04-16-19-11.opus</event>
-<event start="T41" end="T42">eklendi&gt;</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">‎Bu</event>
+<event start="T40" end="T41"><![CDATA[‎<00000007-AUDIO-2018-10-04-16-19-11.opus]]></event>
+<event start="T41" end="T42"><![CDATA[eklendi>]]></event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">‎Bu</event>
 <event start="T1" end="T2">gruba</event>
-<event start="T2" end="T3">g&#246;nderdiğiniz</event>
+<event start="T2" end="T3">gönderdiğiniz</event>
 <event start="T3" end="T4">mesajlar</event>
 <event start="T4" end="T5">artık</event>
 <event start="T5" end="T6">uçtan</event>
@@ -127,24 +123,24 @@
 <event start="T9" end="T10">korunmaktadır</event>
 <event start="T10" end="T11">.</event>
 <event start="T11" end="T12">noldu</event>
-<event start="T12" end="T13">biliyomusunuz</event>
+<event start="T12" end="T13">biliyor musunuz</event>
 <event start="T13" end="T14">yolda</event>
 <event start="T14" end="T15">kaza</event>
 <event start="T15" end="T16">oldu</event>
-<event start="T16" end="T17">bi</event>
+<event start="T16" end="T17">bir</event>
 <event start="T17" end="T18">araba</event>
 <event start="T18" end="T19">diğerine</event>
 <event start="T19" end="T20">çarptı</event>
 <event start="T20" end="T21">top</event>
 <event start="T21" end="T22">yola</event>
 <event start="T22" end="T23">fırladı</event>
-<event start="T23" end="T24">bi</event>
+<event start="T23" end="T24">bir</event>
 <event start="T24" end="T25">kadının</event>
-<event start="T25" end="T26">k&#246;peeği</event>
+<event start="T25" end="T26">köpeği</event>
 <event start="T26" end="T27">yola</event>
-<event start="T27" end="T28">atlıyodu</event>
-<event start="T28" end="T29">nerdeyse</event>
-<event start="T29" end="T30">&#246;ndeki</event>
+<event start="T27" end="T28">atlıyordu</event>
+<event start="T28" end="T29">neredeyse</event>
+<event start="T29" end="T30">öndeki</event>
 <event start="T30" end="T31">araba</event>
 <event start="T31" end="T32">durunca</event>
 <event start="T32" end="T33">arkadaki</event>
@@ -155,11 +151,9 @@
 <event start="T37" end="T38">olmadı</event>
 <event start="T38" end="T39">kimseye</event>
 <event start="T39" end="T40">‎</event>
-<event start="T40" end="T41">‎&lt;00000007-AUDIO-2018-10-04-16-19-11.opus</event>
-<event start="T41" end="T42">eklendi&gt;</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">tur</event>
+<event start="T40" end="T41"><![CDATA[‎<00000007-AUDIO-2018-10-04-16-19-11.opus]]></event>
+<event start="T41" end="T42"><![CDATA[eklendi>]]></event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">tur</event>
 <event start="T1" end="T2">tur</event>
 <event start="T2" end="T3">tur</event>
 <event start="T3" end="T4">tur</event>
@@ -201,25 +195,20 @@
 <event start="T39" end="T40">tur</event>
 <event start="T40" end="T41">tur</event>
 <event start="T41" end="T42">tur</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]">
-<event start="T0" end="T11">‎Bu gruba g&#246;nderdiğiniz mesajlar artık uçtan uca şifreleme ile korunmaktadır.</event>
+</tier><tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]"><event start="T0" end="T11">‎Bu gruba gönderdiğiniz mesajlar artık uçtan uca şifreleme ile korunmaktadır.</event>
 <event start="T11" end="T13">noldu biliyomusunuz</event>
 <event start="T13" end="T16">yolda kaza oldu</event>
 <event start="T16" end="T20">bi  araba diğerine çarptı</event>
-<event start="T20" end="T35">top yola fırladı bi kadının k&#246;peeği yola atlıyodu nerdeyse &#246;ndeki araba durunca arkadaki ona vurdu</event>
+<event start="T20" end="T35">top yola fırladı bi kadının köpeeği yola atlıyodu nerdeyse öndeki araba durunca arkadaki ona vurdu</event>
 <event start="T35" end="T39">ama bişi olmadı kimseye</event>
 <event start="T39" end="T40">‎</event>
-<event start="T40" end="T42">‎&lt;00000007-AUDIO-2018-10-04-16-19-11.opus eklendi&gt;</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]">
-<event start="T0" end="T11">1</event>
+<event start="T40" end="T42"><![CDATA[‎<00000007-AUDIO-2018-10-04-16-19-11.opus eklendi>]]></event>
+</tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T11">1</event>
 <event start="T11" end="T13">2</event>
 <event start="T13" end="T16">3</event>
 <event start="T16" end="T20">4</event>
 <event start="T20" end="T35">5</event>
 <event start="T35" end="T40">6</event>
 <event start="T40" end="T42">7</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
