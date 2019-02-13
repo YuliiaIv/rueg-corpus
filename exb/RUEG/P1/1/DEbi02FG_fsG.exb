@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/1/DEbi02FG_fsG.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/1/DEbi02FG_fsG.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -118,6 +117,7 @@
 <tli id="T89" time="36.52922819996384"/>
 <tli id="T90" time="36.751913919401254"/>
 <tli id="T91" time="37.04882821198448"/>
+<tli id="T207" time="37.27151393142189" type="intp"/>
 <tli id="T92" time="37.419971077713505"/>
 <tli id="T93" time="37.71688537029673"/>
 <tli id="T94" time="37.939571089734144"/>
@@ -229,13 +229,13 @@
 <tli id="T200" time="70.5465644279179"/>
 <tli id="T201" time="71.04593716564605"/>
 <tli id="T202" time="71.42046671894217"/>
+<tli id="T208" time="72.04468264110236" type="intp"/>
 <tli id="T203" time="72.29436900996643"/>
 <tli id="T204" time="72.79374174769461"/>
 <tli id="T205" time="73.2907419281503"/>
 <tli id="T206" time="73.66349206349206"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">καλησπέρα:</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">καλησπέρα:</event>
 <event start="T1" end="T2">με</event>
 <event start="T2" end="T3">λένε</event>
 <event start="T3" end="T4">Debi02FG</event>
@@ -441,18 +441,16 @@
 <event start="T203" end="T204">(--)</event>
 <event start="T204" end="T205">γεια</event>
 <event start="T205" end="T206">σας</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">καλησπέρα:</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">καλησπέρα</event>
 <event start="T1" end="T2">με</event>
 <event start="T2" end="T3">λένε</event>
 <event start="T3" end="T4">Debi02FG</event>
 <event start="T4" end="T5">και</event>
-<event start="T5" end="T6">εί:δα</event>
+<event start="T5" end="T6">είδα</event>
 <event start="T6" end="T7">είδα</event>
 <event start="T7" end="T8">ένα</event>
 <event start="T8" end="T9">ατύχημα</event>
-<event start="T9" end="T10">και:</event>
+<event start="T9" end="T10">και</event>
 <event start="T10" end="T11">μου</event>
 <event start="T11" end="T12">είπατε</event>
 <event start="T12" end="T13">να</event>
@@ -460,16 +458,14 @@
 <event start="T14" end="T15">τηλέφωνο</event>
 <event start="T15" end="T16">για</event>
 <event start="T16" end="T17">το</event>
-<event start="T17" end="T18">(-)</event>
 <event start="T18" end="T19">για</event>
 <event start="T19" end="T20">την</event>
 <event start="T20" end="T21">κατάσταση</event>
 <event start="T21" end="T22">εμ</event>
 <event start="T22" end="T23">εφ</event>
 <event start="T23" end="T24">δεκαέξι</event>
-<event start="T24" end="T25">(--)</event>
 <event start="T25" end="T26">και</event>
-<event start="T26" end="T27">ε:</event>
+<event start="T26" end="T27">ε</event>
 <event start="T27" end="T28">ναι</event>
 <event start="T28" end="T29">πήρα</event>
 <event start="T29" end="T30">τώρα</event>
@@ -482,15 +478,12 @@
 <event start="T36" end="T37">εγώ</event>
 <event start="T37" end="T38">σαν</event>
 <event start="T38" end="T39">μάρτυρα</event>
-<event start="T39" end="T40">(-)</event>
 <event start="T40" end="T41">ήταν</event>
 <event start="T41" end="T42">εκεί</event>
 <event start="T42" end="T43">μια</event>
 <event start="T43" end="T44">οικογένεια</event>
-<event start="T44" end="T45">(-)</event>
 <event start="T45" end="T46">και</event>
 <event start="T46" end="T47">ένα</event>
-<event start="T47" end="T48">(π)</event>
 <event start="T48" end="T49">ναι</event>
 <event start="T49" end="T50">κι</event>
 <event start="T50" end="T51">ένας</event>
@@ -498,8 +491,7 @@
 <event start="T52" end="T53">είχε</event>
 <event start="T53" end="T54">μια</event>
 <event start="T54" end="T55">μπάλα</event>
-<event start="T55" end="T56">(-)</event>
-<event start="T56" end="T57">και:</event>
+<event start="T56" end="T57">και</event>
 <event start="T57" end="T58">από</event>
 <event start="T58" end="T59">την</event>
 <event start="T59" end="T60">άλλη</event>
@@ -515,13 +507,11 @@
 <event start="T69" end="T70">είχε</event>
 <event start="T70" end="T71">ένα</event>
 <event start="T71" end="T72">σκύλο</event>
-<event start="T72" end="T73">(-)</event>
 <event start="T73" end="T74">και</event>
 <event start="T74" end="T75">είχε</event>
 <event start="T75" end="T76">τα</event>
 <event start="T76" end="T77">ψώνια</event>
 <event start="T77" end="T78">της</event>
-<event start="T78" end="T79">(-)</event>
 <event start="T79" end="T80">και</event>
 <event start="T80" end="T81">εκεί</event>
 <event start="T81" end="T82">στο</event>
@@ -534,7 +524,8 @@
 <event start="T88" end="T89">αυτοκίνητα</event>
 <event start="T89" end="T90">ένα</event>
 <event start="T90" end="T91">πίσω</event>
-<event start="T91" end="T92">απ=το</event>
+<event start="T91" end="T207">από</event>
+<event start="T207" end="T92">το</event>
 <event start="T92" end="T93">άλλο</event>
 <event start="T93" end="T94">ένα</event>
 <event start="T94" end="T95">ήταν</event>
@@ -549,12 +540,10 @@
 <event start="T103" end="T104">ήταν</event>
 <event start="T104" end="T105">ένα</event>
 <event start="T105" end="T106">renault</event>
-<event start="T106" end="T107">(-)</event>
 <event start="T107" end="T108">και</event>
 <event start="T108" end="T109">τώρα</event>
 <event start="T109" end="T110">τι</event>
 <event start="T110" end="T111">έγινε</event>
-<event start="T111" end="T112">(-)</event>
 <event start="T112" end="T113">άφησε</event>
 <event start="T113" end="T114">ο</event>
 <event start="T114" end="T115">κύριος</event>
@@ -588,9 +577,7 @@
 <event start="T142" end="T143">τη</event>
 <event start="T143" end="T144">μπάλα</event>
 <event start="T144" end="T145">είδε</event>
-<event start="T145" end="T146">ο:</event>
-<event start="T146" end="T147">(-)</event>
-<event start="T147" end="T148">ε</event>
+<event start="T145" end="T146">ο</event>
 <event start="T148" end="T149">o</event>
 <event start="T149" end="T150">άλλος</event>
 <event start="T150" end="T151">στο</event>
@@ -604,10 +591,8 @@
 <event start="T158" end="T159">χτυπήσει</event>
 <event start="T159" end="T160">το</event>
 <event start="T160" end="T161">σκύλο</event>
-<event start="T161" end="T162">(-)</event>
 <event start="T162" end="T163">και</event>
 <event start="T163" end="T164">το</event>
-<event start="T164" end="T165">(-)</event>
 <event start="T165" end="T166">αυτοκίνητο</event>
 <event start="T166" end="T167">που</event>
 <event start="T167" end="T168">ήταν</event>
@@ -626,7 +611,6 @@
 <event start="T180" end="T181">κι</event>
 <event start="T181" end="T182">εκεί</event>
 <event start="T182" end="T183">τρακάρανε</event>
-<event start="T183" end="T184">(-)</event>
 <event start="T184" end="T185">ναι</event>
 <event start="T185" end="T186">αυτό</event>
 <event start="T186" end="T187">ήταν</event>
@@ -638,20 +622,16 @@
 <event start="T192" end="T193">δεν</event>
 <event start="T193" end="T194">έγινε</event>
 <event start="T194" end="T195">τίποτα</event>
-<event start="T195" end="T196">(-)</event>
-<event start="T196" end="T197">και:</event>
-<event start="T197" end="T198">(-)</event>
+<event start="T196" end="T197">και</event>
 <event start="T198" end="T199">ναι</event>
-<event start="T199" end="T200">αυτό:</event>
+<event start="T199" end="T200">αυτό</event>
 <event start="T200" end="T201">αυτό</event>
 <event start="T201" end="T202">που</event>
-<event start="T202" end="T203">είδα=γω</event>
-<event start="T203" end="T204">(--)</event>
+<event start="T202" end="T208">είδα</event>
+<event start="T208" end="T203">εγώ</event>
 <event start="T204" end="T205">γεια</event>
 <event start="T205" end="T206">σας</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">gre</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">gre</event>
 <event start="T1" end="T2">gre</event>
 <event start="T2" end="T3">gre</event>
 <event start="T3" end="T4">gre</event>
@@ -857,9 +837,7 @@
 <event start="T203" end="T204">gre</event>
 <event start="T204" end="T205">gre</event>
 <event start="T205" end="T206">gre</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T1">καλησπέρα:</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T1">καλησπέρα:</event>
 <event start="T1" end="T4">με λένε Debi02FG</event>
 <event start="T4" end="T9">και εί:δα είδα ένα ατύχημα</event>
 <event start="T9" end="T25">και: μου είπατε να πάρω τηλέφωνο για το (-) για την κατάσταση εμ εφ δεκαέξι (--)</event>
@@ -885,6 +863,5 @@
 <event start="T191" end="T196">τώρα δεν έγινε τίποτα (-)</event>
 <event start="T196" end="T204">και: (-) ναι αυτό: αυτό που είδα=γω (--)</event>
 <event start="T204" end="T206">γεια σας</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>

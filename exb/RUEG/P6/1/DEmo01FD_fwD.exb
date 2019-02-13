@@ -57,6 +57,7 @@
 <tli id="T29" time="29.0"/>
 <tli id="T30" time="30.0"/>
 <tli id="T31" time="31.0"/>
+<tli id="T130" time="31.051" type="intp"/>
 <tli id="T32" time="32.0"/>
 <tli id="T33" time="33.0"/>
 <tli id="T34" time="34.0"/>
@@ -187,13 +188,15 @@
 <event start="T28" end="T29">dann</event>
 <event start="T29" end="T30">an</event>
 <event start="T30" end="T31">einem</event>
-<event start="T31" end="T32">,,strassenübergang</event>
+<event start="T31" end="T130">,,</event>
+<event start="T130" end="T32">strassenübergang</event>
 <event start="T32" end="T33">wo</event>
 <event start="T33" end="T34">zwei</event>
 <event start="T34" end="T35">autos</event>
 <event start="T35" end="T36">gerade</event>
 <event start="T36" end="T37">einbogen</event>
-<event start="T37" end="T38">.gegenüber</event>
+<event start="T37" end="T129">.</event>
+<event start="T129" end="T38">gegenüber</event>
 <event start="T38" end="T39">war</event>
 <event start="T39" end="T40">noch</event>
 <event start="T40" end="T41">eine</event>
@@ -314,7 +317,8 @@
 <event start="T28" end="T29">dann</event>
 <event start="T29" end="T30">an</event>
 <event start="T30" end="T31">einem</event>
-<event start="T31" end="T32">Straßenübergang</event>
+<event start="T31" end="T130">,,</event>
+<event start="T130" end="T32">Straßenübergang</event>
 <event start="T32" end="T33">wo</event>
 <event start="T33" end="T34">zwei</event>
 <event start="T34" end="T35">Autos</event>
