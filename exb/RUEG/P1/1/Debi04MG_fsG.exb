@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/1/Debi04MG_fsG.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/1/Debi04MG_fsG.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -83,6 +82,7 @@
 <tli id="T54" time="24.794196752177797"/>
 <tli id="T55" time="24.99605115456829"/>
 <tli id="T56" time="25.265190357755614"/>
+<tli id="T102" time="25.46704476014611" type="intp"/>
 <tli id="T57" time="25.60161436173977"/>
 <tli id="T58" time="25.870753564927096"/>
 <tli id="T59" time="26.07260796731759"/>
@@ -129,8 +129,7 @@
 <tli id="T100" time="37.613860049077395"/>
 <tli id="T101" time="37.82838764191076"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">εφ</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">εφ</event>
 <event start="T1" end="T2">δεκαέξι</event>
 <event start="T2" end="T3">(-)</event>
 <event start="T3" end="T4">ε</event>
@@ -231,27 +230,20 @@
 <event start="T98" end="T99">τρακάρει</event>
 <event start="T99" end="T100">απάνω</event>
 <event start="T100" end="T101">του</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">εφ</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">εφ</event>
 <event start="T1" end="T2">δεκαέξι</event>
-<event start="T2" end="T3">(-)</event>
-<event start="T3" end="T4">ε</event>
 <event start="T4" end="T5">περνούσε</event>
 <event start="T5" end="T6">ένα</event>
 <event start="T6" end="T7">ζευγάρι</event>
-<event start="T7" end="T8">με:</event>
+<event start="T7" end="T8">με</event>
 <event start="T8" end="T9">ένα</event>
 <event start="T9" end="T10">μωράκι</event>
-<event start="T10" end="T11">(-)</event>
 <event start="T11" end="T12">με</event>
 <event start="T12" end="T13">καρότσι</event>
-<event start="T13" end="T14">(-)</event>
 <event start="T14" end="T15">απέναντι</event>
 <event start="T15" end="T16">από</event>
 <event start="T16" end="T17">το</event>
 <event start="T17" end="T18">δρόμο</event>
-<event start="T18" end="T19">(-)</event>
 <event start="T19" end="T20">και</event>
 <event start="T20" end="T21">ο</event>
 <event start="T21" end="T22">πατέρας</event>
@@ -259,14 +251,11 @@
 <event start="T23" end="T24">έπαιζε</event>
 <event start="T24" end="T25">μία</event>
 <event start="T25" end="T26">μπάλα</event>
-<event start="T26" end="T27">(-)</event>
-<event start="T27" end="T28">χτυπώντους/</event>
 <event start="T28" end="T29">χτυπώντουτας</event>
 <event start="T29" end="T30">την</event>
 <event start="T30" end="T31">στο</event>
 <event start="T31" end="T32">στο</event>
 <event start="T32" end="T33">έδαφος</event>
-<event start="T33" end="T34">(--)</event>
 <event start="T34" end="T35">και</event>
 <event start="T35" end="T36">τη</event>
 <event start="T36" end="T37">στιγμή</event>
@@ -276,22 +265,19 @@
 <event start="T40" end="T41">δρομάκι</event>
 <event start="T41" end="T42">ήτανε</event>
 <event start="T42" end="T43">σε</event>
-<event start="T43" end="T44">[καταπίνει]</event>
 <event start="T44" end="T45">σε</event>
 <event start="T45" end="T46">πάρκινγκ</event>
 <event start="T46" end="T47">ας</event>
 <event start="T47" end="T48">πούμε</event>
-<event start="T48" end="T49">(--)</event>
-<event start="T49" end="T50">ε</event>
 <event start="T50" end="T51">περνούσανε</event>
 <event start="T51" end="T52">δύο</event>
 <event start="T52" end="T53">αυτοκίνητα</event>
 <event start="T53" end="T54">το</event>
 <event start="T54" end="T55">ένα</event>
 <event start="T55" end="T56">πίσω</event>
-<event start="T56" end="T57">απ=το</event>
+<event start="T56" end="T102">από</event>
+<event start="T102" end="T57">το</event>
 <event start="T57" end="T58">άλλο</event>
-<event start="T58" end="T59">(-)</event>
 <event start="T59" end="T60">έτσι</event>
 <event start="T60" end="T61">όπως</event>
 <event start="T61" end="T62">περνούσε</event>
@@ -299,7 +285,6 @@
 <event start="T63" end="T64">πατέρας</event>
 <event start="T64" end="T65">το</event>
 <event start="T65" end="T66">δρόμο</event>
-<event start="T66" end="T67">(-)</event>
 <event start="T67" end="T68">χτύπησε</event>
 <event start="T68" end="T69">τη</event>
 <event start="T69" end="T70">μπάλα</event>
@@ -307,7 +292,6 @@
 <event start="T71" end="T72">στο</event>
 <event start="T72" end="T73">πόδι</event>
 <event start="T73" end="T74">του</event>
-<event start="T74" end="T75">(-)</event>
 <event start="T75" end="T76">και</event>
 <event start="T76" end="T77">κύλησε</event>
 <event start="T77" end="T78">πάνω</event>
@@ -316,9 +300,7 @@
 <event start="T80" end="T81">ώστε</event>
 <event start="T81" end="T82">ο</event>
 <event start="T82" end="T83">πρώτος</event>
-<event start="T83" end="T84">(-)</event>
 <event start="T84" end="T85">οδηγός</event>
-<event start="T85" end="T86">(-)</event>
 <event start="T86" end="T87">να</event>
 <event start="T87" end="T88">φρενάρει</event>
 <event start="T88" end="T89">απότομα</event>
@@ -334,9 +316,7 @@
 <event start="T98" end="T99">τρακάρει</event>
 <event start="T99" end="T100">απάνω</event>
 <event start="T100" end="T101">του</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">gre</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">gre</event>
 <event start="T1" end="T2">gre</event>
 <event start="T2" end="T3">gre</event>
 <event start="T3" end="T4">gre</event>
@@ -437,18 +417,13 @@
 <event start="T98" end="T99">gre</event>
 <event start="T99" end="T100">gre</event>
 <event start="T100" end="T101">gre</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
-<event start="T43" end="T44">καταπίνει</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T3">εφ δεκαέξι (-)</event>
+</tier><tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T43" end="T44">καταπίνει</event>
+</tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T3">εφ δεκαέξι (-)</event>
 <event start="T3" end="T19">ε περνούσε ένα ζευγάρι με: ένα μωράκι (-) με καρότσι (-) απέναντι από το δρόμο (-) </event>
 <event start="T19" end="T34">και ο πατέρας του έπαιζε μία μπάλα (-) χτυπώντους/ χτυπώντουτας την στο στο έδαφος (--)</event>
 <event start="T34" end="T49">και τη στιγμή που περνούσανε το δρομάκι ήτανε σε [καταπίνει] σε πάρκινγκ ας πούμε (--)</event>
 <event start="T49" end="T59">ε περνούσανε δύο αυτοκίνητα το ένα πίσω απ=το άλλο (-)</event>
 <event start="T59" end="T75">έτσι όπως περνούσε ο πατέρας το δρόμο (-) χτύπησε τη μπάλα του στο πόδι του (-) </event>
 <event start="T75" end="T101">και κύλησε πάνω στο δρόμο ώστε ο πρώτος (-) οδηγός (-) να φρενάρει απότομα κι ο από πίσω του οδηγός ο νεότερος να τρακάρει απάνω του</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
