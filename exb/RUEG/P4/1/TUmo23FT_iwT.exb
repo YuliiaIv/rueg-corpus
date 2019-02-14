@@ -37,6 +37,7 @@
 <tli id="T9" time="9.0"/>
 <tli id="T10" time="10.0"/>
 <tli id="T11" time="11.0"/>
+<tli id="T45" time="11.428571428571429" type="intp"/>
 <tli id="T12" time="12.0"/>
 <tli id="T43" time="12.051" type="intp"/>
 <tli id="T13" time="13.0"/>
@@ -124,7 +125,8 @@
 <event start="T8" end="T9">ile</event>
 <event start="T9" end="T10">korunmaktadır</event>
 <event start="T10" end="T11">.</event>
-<event start="T11" end="T12">noldu</event>
+<event start="T11" end="T45">ne</event>
+<event start="T45" end="T12">oldu</event>
 <event start="T12" end="T43">biliyor </event>
 <event start="T43" end="T13">musunuz</event>
 <event start="T13" end="T14">yolda</event>

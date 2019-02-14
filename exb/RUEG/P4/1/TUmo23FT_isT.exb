@@ -27,6 +27,7 @@
 <common-timeline>
 <tli id="T0" time="0.0"/>
 <tli id="T1" time="0.3988906267968032"/>
+<tli id="T48" time="0.4498906267968032" type="intp"/>
 <tli id="T2" time="0.877559378952967"/>
 <tli id="T3" time="1.3562281311091309"/>
 <tli id="T4" time="1.9146750086246553"/>
@@ -122,7 +123,8 @@
 <event start="T45" end="T46">şok</event>
 <event start="T46" end="T47">oldum</event>
 </tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">bugün</event>
-<event start="T1" end="T2">ne oldu</event>
+<event start="T1" end="T48">ne</event>
+<event start="T48" end="T2">oldu</event>
 <event start="T2" end="T3">biliyor</event>
 <event start="T3" end="T4">musunuz</event>
 <event start="T4" end="T5">yolda</event>
@@ -132,7 +134,6 @@
 <event start="T8" end="T9">bir</event>
 <event start="T9" end="T10">tane</event>
 <event start="T10" end="T11">top</event>
-<event start="T12" end="T13">ee</event>
 <event start="T13" end="T14">yola</event>
 <event start="T14" end="T15">fırladı</event>
 <event start="T15" end="T16">köpek</event>
@@ -145,7 +146,7 @@
 <event start="T22" end="T23">köpek</event>
 <event start="T23" end="T24">neredeyse</event>
 <event start="T24" end="T25">yola</event>
-<event start="T25" end="T26">atlıyodu</event>
+<event start="T25" end="T26">atlıyordu</event>
 <event start="T26" end="T27">bir</event>
 <event start="T27" end="T28">tane</event>
 <event start="T28" end="T29">araba</event>

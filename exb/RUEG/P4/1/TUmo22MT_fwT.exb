@@ -73,6 +73,7 @@
 <tli id="T45" time="45.0"/>
 <tli id="T46" time="46.0"/>
 <tli id="T47" time="47.0"/>
+<tli id="T73" time="47.051" type="intp"/>
 <tli id="T48" time="48.0"/>
 <tli id="T49" time="49.0"/>
 <tli id="T50" time="50.0"/>
@@ -182,7 +183,7 @@
 <event start="T8" end="T9">123</event>
 <event start="T9" end="T10">ab</event>
 <event start="T10" end="T11">456</event>
-<event start="T11" end="T12">plakali</event>
+<event start="T11" end="T12">plakalı</event>
 <event start="T12" end="T13">araç</event>
 <event start="T13" end="T14">yol</event>
 <event start="T14" end="T15">kenarındaki</event>
@@ -204,7 +205,7 @@
 <event start="T30" end="T31">123</event>
 <event start="T31" end="T32">ab</event>
 <event start="T32" end="T33">456</event>
-<event start="T33" end="T34">lplakalı</event>
+<event start="T33" end="T34">plakalı</event>
 <event start="T34" end="T35">araç</event>
 <event start="T35" end="T36">ani</event>
 <event start="T36" end="T37">fren</event>
@@ -218,11 +219,12 @@
 <event start="T44" end="T45">(</event>
 <event start="T45" end="T46">456</event>
 <event start="T46" end="T47">ba</event>
-<event start="T47" end="T48">123)duramayıp</event>
+<event start="T47" end="T73">123)</event>
+<event start="T73" end="T48">duramayıp</event>
 <event start="T48" end="T49">123</event>
 <event start="T49" end="T50">ab</event>
 <event start="T50" end="T51">456</event>
-<event start="T51" end="T52">plakali</event>
+<event start="T51" end="T52">plakalı</event>
 <event start="T52" end="T53">araca</event>
 <event start="T53" end="T54">çarpmıştır</event>
 <event start="T54" end="T55">.</event>
