@@ -1,120 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url=""></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
-<tli id="T0" time="0"/>
-<tli id="T1" time="1"/>
-<tli id="T2" time="2"/>
-<tli id="T3" time="3"/>
-<tli id="T4" time="4"/>
-<tli id="T5" time="5"/>
-<tli id="T6" time="6"/>
-<tli id="T7" time="7"/>
-<tli id="T8" time="8"/>
-<tli id="T9" time="9"/>
-<tli id="T10" time="10"/>
-<tli id="T11" time="11"/>
-<tli id="T12" time="12"/>
-<tli id="T13" time="13"/>
-<tli id="T14" time="14"/>
-<tli id="T15" time="15"/>
-<tli id="T16" time="16"/>
-<tli id="T17" time="17"/>
-<tli id="T18" time="18"/>
-<tli id="T19" time="19"/>
-<tli id="T20" time="20"/>
-<tli id="T21" time="21"/>
-<tli id="T22" time="22"/>
-<tli id="T23" time="23"/>
-<tli id="T24" time="24"/>
-<tli id="T25" time="25"/>
-<tli id="T26" time="26"/>
-<tli id="T27" time="27"/>
-<tli id="T28" time="28"/>
-<tli id="T29" time="29"/>
-<tli id="T30" time="30"/>
-<tli id="T31" time="31"/>
-<tli id="T32" time="32"/>
-<tli id="T33" time="33"/>
-<tli id="T34" time="34"/>
-<tli id="T35" time="35"/>
-<tli id="T36" time="36"/>
-<tli id="T37" time="37"/>
-<tli id="T38" time="38"/>
-<tli id="T39" time="39"/>
-<tli id="T40" time="40"/>
-<tli id="T41" time="41"/>
-<tli id="T42" time="42"/>
-<tli id="T43" time="43"/>
-<tli id="T44" time="44"/>
-<tli id="T45" time="45"/>
-<tli id="T46" time="46"/>
-<tli id="T47" time="47"/>
-<tli id="T48" time="48"/>
-<tli id="T49" time="49"/>
-<tli id="T50" time="50"/>
-<tli id="T51" time="51"/>
-<tli id="T52" time="52"/>
-<tli id="T53" time="53"/>
-<tli id="T54" time="54"/>
-<tli id="T55" time="55"/>
-<tli id="T56" time="56"/>
-<tli id="T57" time="57"/>
-<tli id="T58" time="58"/>
-<tli id="T59" time="59"/>
-<tli id="T60" time="60"/>
-<tli id="T61" time="61"/>
-<tli id="T62" time="62"/>
-<tli id="T63" time="63"/>
-<tli id="T64" time="64"/>
-<tli id="T65" time="65"/>
-<tli id="T66" time="66"/>
-<tli id="T67" time="67"/>
-<tli id="T68" time="68"/>
-<tli id="T69" time="69"/>
-<tli id="T70" time="70"/>
-<tli id="T71" time="71"/>
-<tli id="T72" time="72"/>
-<tli id="T73" time="73"/>
-<tli id="T74" time="74"/>
-<tli id="T75" time="75"/>
-<tli id="T76" time="76"/>
-<tli id="T77" time="77"/>
-<tli id="T78" time="78"/>
-<tli id="T79" time="79"/>
-<tli id="T80" time="80"/>
-<tli id="T81" time="81"/>
-<tli id="T82" time="82"/>
-<tli id="T83" time="83"/>
-<tli id="T84" time="84"/>
-<tli id="T85" time="85"/>
+<tli id="T0" time="0.0"/>
+<tli id="T86" time="0.5714285714285714" type="intp"/>
+<tli id="T1" time="1.0"/>
+<tli id="T2" time="2.0"/>
+<tli id="T87" time="2.949" type="intp"/>
+<tli id="T3" time="3.0"/>
+<tli id="T4" time="4.0"/>
+<tli id="T5" time="5.0"/>
+<tli id="T6" time="6.0"/>
+<tli id="T7" time="7.0"/>
+<tli id="T8" time="8.0"/>
+<tli id="T9" time="9.0"/>
+<tli id="T10" time="10.0"/>
+<tli id="T11" time="11.0"/>
+<tli id="T12" time="12.0"/>
+<tli id="T13" time="13.0"/>
+<tli id="T14" time="14.0"/>
+<tli id="T15" time="15.0"/>
+<tli id="T16" time="16.0"/>
+<tli id="T17" time="17.0"/>
+<tli id="T18" time="18.0"/>
+<tli id="T19" time="19.0"/>
+<tli id="T20" time="20.0"/>
+<tli id="T21" time="21.0"/>
+<tli id="T22" time="22.0"/>
+<tli id="T23" time="23.0"/>
+<tli id="T24" time="24.0"/>
+<tli id="T25" time="25.0"/>
+<tli id="T26" time="26.0"/>
+<tli id="T27" time="27.0"/>
+<tli id="T28" time="28.0"/>
+<tli id="T29" time="29.0"/>
+<tli id="T30" time="30.0"/>
+<tli id="T31" time="31.0"/>
+<tli id="T32" time="32.0"/>
+<tli id="T33" time="33.0"/>
+<tli id="T34" time="34.0"/>
+<tli id="T35" time="35.0"/>
+<tli id="T36" time="36.0"/>
+<tli id="T37" time="37.0"/>
+<tli id="T38" time="38.0"/>
+<tli id="T39" time="39.0"/>
+<tli id="T40" time="40.0"/>
+<tli id="T41" time="41.0"/>
+<tli id="T42" time="42.0"/>
+<tli id="T43" time="43.0"/>
+<tli id="T44" time="44.0"/>
+<tli id="T45" time="45.0"/>
+<tli id="T46" time="46.0"/>
+<tli id="T47" time="47.0"/>
+<tli id="T48" time="48.0"/>
+<tli id="T49" time="49.0"/>
+<tli id="T50" time="50.0"/>
+<tli id="T51" time="51.0"/>
+<tli id="T52" time="52.0"/>
+<tli id="T53" time="53.0"/>
+<tli id="T54" time="54.0"/>
+<tli id="T55" time="55.0"/>
+<tli id="T56" time="56.0"/>
+<tli id="T57" time="57.0"/>
+<tli id="T58" time="58.0"/>
+<tli id="T59" time="59.0"/>
+<tli id="T88" time="59.8" type="intp"/>
+<tli id="T60" time="60.0"/>
+<tli id="T61" time="61.0"/>
+<tli id="T62" time="62.0"/>
+<tli id="T63" time="63.0"/>
+<tli id="T64" time="64.0"/>
+<tli id="T65" time="65.0"/>
+<tli id="T66" time="66.0"/>
+<tli id="T67" time="67.0"/>
+<tli id="T68" time="68.0"/>
+<tli id="T69" time="69.0"/>
+<tli id="T70" time="70.0"/>
+<tli id="T71" time="71.0"/>
+<tli id="T72" time="72.0"/>
+<tli id="T73" time="73.0"/>
+<tli id="T74" time="74.0"/>
+<tli id="T75" time="75.0"/>
+<tli id="T76" time="76.0"/>
+<tli id="T77" time="77.0"/>
+<tli id="T78" time="78.0"/>
+<tli id="T79" time="79.0"/>
+<tli id="T80" time="80.0"/>
+<tli id="T81" time="81.0"/>
+<tli id="T82" time="82.0"/>
+<tli id="T83" time="83.0"/>
+<tli id="T84" time="84.0"/>
+<tli id="T85" time="85.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]">
-<event start="T0" end="T1">﻿nachot</event>
+<tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]"><event start="T0" end="T1">﻿nachot</event>
 <event start="T1" end="T2">proeschetstwija</event>
 <event start="T2" end="T3">f16</event>
 <event start="T3" end="T4">.</event>
@@ -199,96 +200,95 @@
 <event start="T82" end="T83">po</event>
 <event start="T83" end="T84">telefonu</event>
 <event start="T84" end="T85">.</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">﻿nachot</event>
-<event start="T1" end="T2">proeschetstwija</event>
-<event start="T2" end="T3">f16</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T86">на</event>
+<event start="T86" end="T1">счёт</event>
+<event start="T1" end="T2">происшествия</event>
+<event start="T2" end="T87">ф</event>
+<event start="T87" end="T3">шестнадцать</event>
 <event start="T3" end="T4">.</event>
-<event start="T4" end="T5">muschina</event>
-<event start="T5" end="T6">w</event>
-<event start="T6" end="T7">kepki</event>
-<event start="T7" end="T8">igralsja</event>
-<event start="T8" end="T9">s</event>
-<event start="T9" end="T10">metchom</event>
-<event start="T10" end="T11">na</event>
-<event start="T11" end="T12">pechechodnoj</event>
-<event start="T12" end="T13">doroge</event>
+<event start="T4" end="T5">мужчина</event>
+<event start="T5" end="T6">в</event>
+<event start="T6" end="T7">кепке</event>
+<event start="T7" end="T8">игрался / играл</event>
+<event start="T8" end="T9">с</event>
+<event start="T9" end="T10">мячом</event>
+<event start="T10" end="T11">на</event>
+<event start="T11" end="T12">пешеходной</event>
+<event start="T12" end="T13">дороге</event>
 <event start="T13" end="T14">,</event>
-<event start="T14" end="T15">woslene</event>
-<event start="T15" end="T16">nego</event>
-<event start="T16" end="T17">schla</event>
-<event start="T17" end="T18">ego</event>
-<event start="T18" end="T19">naparniza</event>
-<event start="T19" end="T20">c</event>
-<event start="T20" end="T21">maljischom</event>
-<event start="T21" end="T22">w</event>
-<event start="T22" end="T23">kaljaski</event>
+<event start="T14" end="T15">возле</event>
+<event start="T15" end="T16">него</event>
+<event start="T16" end="T17">шла</event>
+<event start="T17" end="T18">его</event>
+<event start="T18" end="T19">напарница</event>
+<event start="T19" end="T20">с</event>
+<event start="T20" end="T21">малышом</event>
+<event start="T21" end="T22">в</event>
+<event start="T22" end="T23">коляски</event>
 <event start="T23" end="T24">.</event>
-<event start="T24" end="T25">muschina</event>
-<event start="T25" end="T26">slutchajna</event>
-<event start="T26" end="T27">brosil</event>
-<event start="T27" end="T28">match</event>
-<event start="T28" end="T29">na</event>
-<event start="T29" end="T30">darogu</event>
+<event start="T24" end="T25">мужчина</event>
+<event start="T25" end="T26">случайно</event>
+<event start="T26" end="T27">бросил</event>
+<event start="T27" end="T28">матч</event>
+<event start="T28" end="T29">на</event>
+<event start="T29" end="T30">дорогу</event>
 <event start="T30" end="T31">.</event>
-<event start="T31" end="T32">na</event>
-<event start="T32" end="T33">parkowke</event>
-<event start="T33" end="T34">stalaja</event>
-<event start="T34" end="T35">djenchina</event>
-<event start="T35" end="T36">kotora</event>
-<event start="T36" end="T37">witaskiwala</event>
-<event start="T37" end="T38">produkti</event>
-<event start="T38" end="T39">is</event>
-<event start="T39" end="T40">maschini</event>
+<event start="T31" end="T32">на</event>
+<event start="T32" end="T33">парковке</event>
+<event start="T33" end="T34">старая</event>
+<event start="T34" end="T35">женщина</event>
+<event start="T35" end="T36">которая</event>
+<event start="T36" end="T37">вытаскивала</event>
+<event start="T37" end="T38">продукты</event>
+<event start="T38" end="T39">из</event>
+<event start="T39" end="T40">машины</event>
 <event start="T40" end="T41">.</event>
-<event start="T41" end="T42">jeja</event>
-<event start="T42" end="T43">sabaka</event>
-<event start="T43" end="T44">poberschala</event>
-<event start="T44" end="T45">sa</event>
-<event start="T45" end="T46">metchom</event>
-<event start="T46" end="T47">i</event>
-<event start="T47" end="T48">podschti</event>
-<event start="T48" end="T49">ne</event>
-<event start="T49" end="T50">popala</event>
-<event start="T50" end="T51">pod</event>
-<event start="T51" end="T52">maschinu</event>
+<event start="T41" end="T42">её</event>
+<event start="T42" end="T43">собака</event>
+<event start="T43" end="T44">побежала</event>
+<event start="T44" end="T45">за</event>
+<event start="T45" end="T46">мячом</event>
+<event start="T46" end="T47">и</event>
+<event start="T47" end="T48">почти</event>
+<event start="T48" end="T49">не</event>
+<event start="T49" end="T50">попала</event>
+<event start="T50" end="T51">под</event>
+<event start="T51" end="T52">машину</event>
 <event start="T52" end="T53">.</event>
-<event start="T53" end="T54">eto</event>
-<event start="T54" end="T55">maschina</event>
-<event start="T55" end="T56">bila</event>
-<event start="T56" end="T57">sinej</event>
+<event start="T53" end="T54">это</event>
+<event start="T54" end="T55">машина</event>
+<event start="T55" end="T56">была</event>
+<event start="T56" end="T57">синей</event>
 <event start="T57" end="T58">,</event>
-<event start="T58" end="T59">a</event>
-<event start="T59" end="T60">sanej</event>
-<event start="T60" end="T61">bila</event>
-<event start="T61" end="T62">belaja</event>
+<event start="T58" end="T59">а</event>
+<event start="T59" end="T88">за</event>
+<event start="T88" end="T60">ней</event>
+<event start="T60" end="T61">была</event>
+<event start="T61" end="T62">белая</event>
 <event start="T62" end="T63">,</event>
-<event start="T63" end="T64">kotoraja</event>
-<event start="T64" end="T65">wresalas</event>
-<event start="T65" end="T66">w</event>
-<event start="T66" end="T67">sad</event>
-<event start="T67" end="T68">sineju</event>
+<event start="T63" end="T64">которая</event>
+<event start="T64" end="T65">врезалась</event>
+<event start="T65" end="T66">в</event>
+<event start="T66" end="T67">зад</event>
+<event start="T67" end="T68">синюю</event>
 <event start="T68" end="T69">.</event>
-<event start="T69" end="T70">muschina</event>
-<event start="T70" end="T71">w</event>
-<event start="T71" end="T72">kepke</event>
-<event start="T72" end="T73">pomogal</event>
-<event start="T73" end="T74">sabirat</event>
-<event start="T74" end="T75">produkti</event>
-<event start="T75" end="T76">s</event>
-<event start="T76" end="T77">daroge</event>
+<event start="T69" end="T70">мужчина</event>
+<event start="T70" end="T71">в</event>
+<event start="T71" end="T72">кепке</event>
+<event start="T72" end="T73">помогал</event>
+<event start="T73" end="T74">собирать</event>
+<event start="T74" end="T75">продукты</event>
+<event start="T75" end="T76">с</event>
+<event start="T76" end="T77">дороге</event>
 <event start="T77" end="T78">.</event>
-<event start="T78" end="T79">a</event>
-<event start="T79" end="T80">woditeli</event>
-<event start="T80" end="T81">maschinji</event>
-<event start="T81" end="T82">swonili</event>
-<event start="T82" end="T83">po</event>
-<event start="T83" end="T84">telefonu</event>
+<event start="T78" end="T79">а</event>
+<event start="T79" end="T80">водители</event>
+<event start="T80" end="T81">машины</event>
+<event start="T81" end="T82">звонили</event>
+<event start="T82" end="T83">по</event>
+<event start="T83" end="T84">телефону</event>
 <event start="T84" end="T85">.</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">rus</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">rus</event>
 <event start="T1" end="T2">rus</event>
 <event start="T2" end="T3">rus</event>
 <event start="T3" end="T4">rus</event>
@@ -373,6 +373,14 @@
 <event start="T82" end="T83">rus</event>
 <event start="T83" end="T84">rus</event>
 <event start="T84" end="T85">rus</event>
-</tier>
-</basic-body>
+</tier><tier id="TIE3" speaker="dipl" category="CU" type="a" display-name="dipl [CU]"><event start="T0" end="T4">cu</event>
+<event start="T4" end="T14">cu</event>
+<event start="T14" end="T24">cu</event>
+<event start="T24" end="T31">cu</event>
+<event start="T31" end="T41">cu</event>
+<event start="T41" end="T53">cu</event>
+<event start="T53" end="T69">cu</event>
+<event start="T69" end="T78">cu</event>
+<event start="T78" end="T85">cu</event>
+</tier></basic-body>
 </basic-transcription>
