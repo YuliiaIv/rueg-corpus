@@ -41,6 +41,8 @@
 <tli id="T13" time="13.0"/>
 <tli id="T14" time="14.0"/>
 <tli id="T15" time="15.0"/>
+<tli id="T79" time="15.666666666666666" type="intp"/>
+<tli id="T80" time="15.777777777777777" type="intp"/>
 <tli id="T16" time="16.0"/>
 <tli id="T17" time="17.0"/>
 <tli id="T18" time="18.0"/>
@@ -120,7 +122,9 @@
 <event start="T12" end="T13">petontas</event>
 <event start="T13" end="T14">tin</event>
 <event start="T14" end="T15">sto</event>
-<event start="T15" end="T16">patoma,se</event>
+<event start="T15" end="T79">patoma</event>
+<event start="T79" end="T80">,</event>
+<event start="T80" end="T16">se</event>
 <event start="T16" end="T17">ena</event>
 <event start="T17" end="T18">parking</event>
 <event start="T18" end="T19">k</event>
@@ -198,7 +202,9 @@
 <event start="T12" end="T13">petontas</event>
 <event start="T13" end="T14">tin</event>
 <event start="T14" end="T15">sto</event>
-<event start="T15" end="T16">patoma,se</event>
+<event start="T15" end="T79">patoma</event>
+<event start="T79" end="T80">,</event>
+<event start="T80" end="T16">se</event>
 <event start="T16" end="T17">ena</event>
 <event start="T17" end="T18">parking</event>
 <event start="T18" end="T19">k</event>
@@ -340,7 +346,8 @@
 <event start="T76" end="T77">gre</event>
 <event start="T77" end="T78">gre</event>
 </tier><tier id="TIE3" speaker="norm" category="v" type="a" display-name="norm [v]"><event start="T0" end="T7">cu</event>
-<event start="T18" end="T26">cu</event>
+<event start="T7" end="T80">cu</event>
+<event start="T80" end="T26">cu</event>
 <event start="T26" end="T32">cu</event>
 <event start="T32" end="T53">cu</event>
 <event start="T53" end="T62">cu</event>

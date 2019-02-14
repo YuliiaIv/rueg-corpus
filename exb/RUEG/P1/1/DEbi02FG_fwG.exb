@@ -120,6 +120,8 @@
 <tli id="T92" time="92.0"/>
 <tli id="T93" time="93.0"/>
 <tli id="T94" time="94.0"/>
+<tli id="T134" time="94.7" type="intp"/>
+<tli id="T133" time="94.8" type="intp"/>
 <tli id="T95" time="95.0"/>
 <tli id="T96" time="96.0"/>
 <tli id="T97" time="97.0"/>
@@ -253,7 +255,9 @@
 <event start="T91" end="T92">ειθελε</event>
 <event start="T92" end="T93">να</event>
 <event start="T93" end="T94">τιν</event>
-<event start="T94" end="T95">αρπαξει.Το</event>
+<event start="T94" end="T134">αρπαξει</event>
+<event start="T134" end="T133">.</event>
+<event start="T133" end="T95">Το</event>
 <event start="T95" end="T96">προτο</event>
 <event start="T96" end="T97">αυτοκινιτο</event>
 <event start="T97" end="T98">ειδε</event>
@@ -385,7 +389,9 @@
 <event start="T91" end="T92">ειθελε</event>
 <event start="T92" end="T93">να</event>
 <event start="T93" end="T94">τιν</event>
-<event start="T94" end="T95">αρπαξει.Το</event>
+<event start="T94" end="T134">αρπαξει</event>
+<event start="T134" end="T133">.</event>
+<event start="T133" end="T95">Το</event>
 <event start="T95" end="T96">προτο</event>
 <event start="T96" end="T97">αυτοκινιτο</event>
 <event start="T97" end="T98">ειδε</event>
