@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/1/DEbi51FR_fsR.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/1/DEbi51FR_fsR.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -238,8 +237,7 @@
 <tli id="T209" time="93.75993526281442"/>
 <tli id="T210" time="95.48662335609832"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">(-)</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">здравствуйте</event>
 <event start="T2" end="T3">я</event>
 <event start="T3" end="T4">звоню</event>
@@ -449,10 +447,7 @@
 <event start="T207" end="T208">её</event>
 <event start="T208" end="T209">аутоверкштат</event>
 <event start="T209" end="T210">(--)</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">(-)</event>
-<event start="T1" end="T2">здравствуйте</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T1" end="T2">здравствуйте</event>
 <event start="T2" end="T3">я</event>
 <event start="T3" end="T4">звоню</event>
 <event start="T4" end="T5">насчёт</event>
@@ -661,9 +656,7 @@
 <event start="T207" end="T208">её</event>
 <event start="T208" end="T209">аутоверкштат</event>
 <event start="T209" end="T210">(--)</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">rus</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">rus</event>
 <event start="T1" end="T2">rus</event>
 <event start="T2" end="T3">rus</event>
 <event start="T3" end="T4">rus</event>
@@ -873,9 +866,7 @@
 <event start="T207" end="T208">rus</event>
 <event start="T208" end="T209">rus</event>
 <event start="T209" end="T210">rus</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T1">(-)</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">здравствуйте</event>
 <event start="T2" end="T9">я звоню насчёт э: дела ф  шестнадцать</event>
 <event start="T9" end="T12">моё имя DEbi51FR</event>
@@ -910,6 +901,5 @@
 <event start="T194" end="T195">(-)</event>
 <event start="T195" end="T209">и: (-) оба водителя начали звонить (-) на в полицию или в её аутоверкштат</event>
 <event start="T209" end="T210">(--)</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
