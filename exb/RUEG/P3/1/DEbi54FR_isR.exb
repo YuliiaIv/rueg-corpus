@@ -1,36 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/1/DEbi54FR_isR.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/1/DEbi54FR_isR.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;/Users/Liza/EXMARaLDA_AutoBackup_2019_02_12_08_47_35.exb at 2019_02_12_08_47_36</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
 <tli id="T1" time="0.6528500696170412"/>
 <tli id="T2" time="0.7176411362082862"/>
 <tli id="T3" time="1.1063875357557564"/>
+<tli id="T134" time="1.3493540354729252" type="intp"/>
 <tli id="T4" time="1.7542982016682065"/>
+<tli id="T135" time="1.8052982016682064" type="intp"/>
+<tli id="T136" time="2.042475857024182" type="intp"/>
 <tli id="T5" time="2.093475857024182"/>
 <tli id="T6" time="2.158916492643198"/>
 <tli id="T7" time="2.5515603063572923"/>
@@ -54,18 +56,21 @@
 <tli id="T25" time="7.91038162689216"/>
 <tli id="T26" time="8.283582116120778"/>
 <tli id="T27" time="8.358222213966501"/>
+<tli id="T137" time="8.680422703195116" type="intp"/>
 <tli id="T28" time="8.731422703195117"/>
 <tli id="T29" time="8.891422022826552"/>
 <tli id="T30" time="9.131421002273703"/>
 <tli id="T31" time="9.21142066208942"/>
 <tli id="T32" time="9.371419981720855"/>
 <tli id="T33" time="9.851417940615159"/>
+<tli id="T138" time="10.360415559325178" type="intp"/>
 <tli id="T34" time="10.411415559325178"/>
 <tli id="T35" time="10.651414538772329"/>
 <tli id="T36" time="10.971413178035197"/>
 <tli id="T37" time="11.211412157482348"/>
 <tli id="T38" time="11.771409776192368"/>
 <tli id="T39" time="11.851409436008085"/>
+<tli id="T139" time="12.360407054718104" type="intp"/>
 <tli id="T40" time="12.411407054718104"/>
 <tli id="T41" time="12.584289711875154"/>
 <tli id="T42" time="12.69954481664652"/>
@@ -74,8 +79,11 @@
 <tli id="T45" time="13.39107544527472"/>
 <tli id="T46" time="13.967350969131552"/>
 <tli id="T47" time="14.31311628344565"/>
+<tli id="T140" time="14.36411628344565" type="intp"/>
 <tli id="T48" time="14.47340758827095"/>
+<tli id="T141" time="14.74299019792155" type="intp"/>
 <tli id="T49" time="14.79399019792155"/>
+<tli id="T142" time="14.983427155159498" type="intp"/>
 <tli id="T50" time="15.034427155159499"/>
 <tli id="T51" time="15.981712128576048"/>
 <tli id="T52" time="16.162378333723158"/>
@@ -91,6 +99,7 @@
 <tli id="T62" time="20.205754197742554"/>
 <tli id="T63" time="20.768368618418776"/>
 <tli id="T64" time="20.955906758644183"/>
+<tli id="T143" time="21.56129024943311" type="intp"/>
 <tli id="T65" time="21.61229024943311"/>
 <tli id="T66" time="21.81362546569197"/>
 <tli id="T67" time="21.886838527381492"/>
@@ -112,16 +121,20 @@
 <tli id="T83" time="27.377818154095696"/>
 <tli id="T84" time="27.670670400853787"/>
 <tli id="T85" time="27.74388346254331"/>
+<tli id="T144" time="27.912522647611876" type="intp"/>
 <tli id="T86" time="27.963522647611875"/>
 <tli id="T87" time="28.587051997202515"/>
+<tli id="T145" time="28.8904020848175" type="intp"/>
 <tli id="T88" time="28.941402084817497"/>
 <tli id="T89" time="29.136555626001254"/>
 <tli id="T90" time="29.429285937776886"/>
 <tli id="T91" time="29.722016249552517"/>
 <tli id="T92" time="30.30747687310378"/>
 <tli id="T93" time="30.502630414287538"/>
+<tli id="T146" time="30.84193749665505" type="intp"/>
 <tli id="T94" time="30.892937496655048"/>
 <tli id="T95" time="31.089299329681726"/>
+<tli id="T147" time="31.140299329681724" type="intp"/>
 <tli id="T96" time="31.48854329690609"/>
 <tli id="T97" time="31.754705941722335"/>
 <tli id="T98" time="32.08740924774264"/>
@@ -130,6 +143,7 @@
 <tli id="T101" time="33.41822247182386"/>
 <tli id="T102" time="33.88400710025228"/>
 <tli id="T103" time="34.083629083864466"/>
+<tli id="T148" time="34.56495437349695" type="intp"/>
 <tli id="T104" time="34.615954373496955"/>
 <tli id="T105" time="35.0116556915064"/>
 <tli id="T106" time="35.30214753182801"/>
@@ -141,6 +155,7 @@
 <tli id="T112" time="36.98700020569337"/>
 <tli id="T113" time="37.451787150207956"/>
 <tli id="T114" time="37.5679838863366"/>
+<tli id="T149" time="37.80747572665822" type="intp"/>
 <tli id="T115" time="37.85847572665822"/>
 <tli id="T116" time="37.94937049077232"/>
 <tli id="T117" time="38.370040473449116"/>
@@ -158,15 +173,15 @@
 <tli id="T129" time="41.767054107209454"/>
 <tli id="T130" time="41.82011659251028"/>
 <tli id="T131" time="42.032366533713585"/>
+<tli id="T150" time="42.72424132792514" type="intp"/>
 <tli id="T132" time="42.775241327925144"/>
 <tli id="T133" time="42.956916099773245"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">(-)</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">э</event>
 <event start="T2" end="T3">привет</event>
-<event start="T3" end="T4">DEbi54FR_P</event>
-<event start="T4" end="T5">прикинь</event>
+<event start="T134" end="T4">DEbi54FR_P</event>
+<event start="T135" end="T136">прикинь</event>
 <event start="T5" end="T6">я</event>
 <event start="T6" end="T7">только</event>
 <event start="T7" end="T8">что</event>
@@ -189,19 +204,20 @@
 <event start="T24" end="T25">коляской</event>
 <event start="T25" end="T26">играл</event>
 <event start="T26" end="T27">с</event>
-<event start="T27" end="T28">мячом</event>
+<event start="T27" end="T137">мячом</event>
 <event start="T28" end="T29">и:</event>
 <event start="T29" end="T30">(-)</event>
 <event start="T30" end="T31">э</event>
 <event start="T31" end="T32">на</event>
 <event start="T32" end="T33">другой</event>
-<event start="T33" end="T34">стороне</event>
+<event start="T33" end="T138">стороне</event>
 <event start="T34" end="T35">там</event>
 <event start="T35" end="T36">была</event>
 <event start="T36" end="T37">ещё</event>
 <event start="T37" end="T38">женщина</event>
 <event start="T38" end="T39">с</event>
-<event start="T39" end="T40">собакой</event>
+<event start="T39" end="T139">собакой</event>
+<event start="T139" end="T40"></event>
 <event start="T40" end="T41">они</event>
 <event start="T41" end="T42">т/</event>
 <event start="T42" end="T43">она</event>
@@ -209,9 +225,9 @@
 <event start="T44" end="T45">видимо</event>
 <event start="T45" end="T46">разгружала</event>
 <event start="T46" end="T47">машину</event>
-<event start="T47" end="T48">не</event>
-<event start="T48" end="T49">знаю</event>
-<event start="T49" end="T50">там</event>
+<event start="T140" end="T48">не</event>
+<event start="T48" end="T141">знаю</event>
+<event start="T49" end="T142">там</event>
 <event start="T50" end="T51">(-)</event>
 <event start="T51" end="T52">и:</event>
 <event start="T52" end="T53">короче</event>
@@ -226,7 +242,8 @@
 <event start="T61" end="T62">и</event>
 <event start="T62" end="T63">тянуть</event>
 <event start="T63" end="T64">за</event>
-<event start="T64" end="T65">верёвку</event>
+<event start="T64" end="T143">верёвку</event>
+<event start="T143" end="T65"></event>
 <event start="T65" end="T66">(-)</event>
 <event start="T66" end="T67">и</event>
 <event start="T67" end="T68">(-)</event>
@@ -247,17 +264,17 @@
 <event start="T82" end="T83">врезалась</event>
 <event start="T83" end="T84">прям</event>
 <event start="T84" end="T85">в</event>
-<event start="T85" end="T86">неё</event>
+<event start="T85" end="T144">неё</event>
 <event start="T86" end="T87">(-)</event>
-<event start="T87" end="T88">прикинь</event>
+<event start="T87" end="T145">прикинь</event>
 <event start="T88" end="T89">я:</event>
 <event start="T89" end="T90">там</event>
 <event start="T90" end="T91">(-)</event>
 <event start="T91" end="T92">вообще</event>
 <event start="T92" end="T93">не</event>
-<event start="T93" end="T94">знаю</event>
+<event start="T93" end="T146">знаю</event>
 <event start="T94" end="T95">они</event>
-<event start="T95" end="T96">короче</event>
+<event start="T147" end="T96">короче</event>
 <event start="T96" end="T97">этот</event>
 <event start="T97" end="T98">мужик</event>
 <event start="T98" end="T99">пошёл</event>
@@ -265,7 +282,7 @@
 <event start="T100" end="T101">женщине</event>
 <event start="T101" end="T102">поднять</event>
 <event start="T102" end="T103">все</event>
-<event start="T103" end="T104">продукты</event>
+<event start="T103" end="T148">продукты</event>
 <event start="T104" end="T105">(-)</event>
 <event start="T105" end="T106">потом</event>
 <event start="T106" end="T107">он</event>
@@ -276,7 +293,7 @@
 <event start="T111" end="T112">с</event>
 <event start="T112" end="T113">ситуации</event>
 <event start="T113" end="T114">не</event>
-<event start="T114" end="T115">(UNK)</event>
+<event start="T114" end="T149">(UNK)</event>
 <event start="T115" end="T116">(-)</event>
 <event start="T116" end="T117">по-моему</event>
 <event start="T117" end="T118">вызвали</event>
@@ -293,78 +310,77 @@
 <event start="T128" end="T129">как</event>
 <event start="T129" end="T130">я</event>
 <event start="T130" end="T131">была</event>
-<event start="T131" end="T132">свидетельницей</event>
+<event start="T131" end="T150">свидетельницей</event>
+<event start="T150" end="T132"></event>
 <event start="T132" end="T133">(-)</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">(-)</event>
-<event start="T1" end="T2">э</event>
-<event start="T2" end="T3">привет</event>
-<event start="T3" end="T4">DEbi54FR_P</event>
-<event start="T4" end="T5">прикинь</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T2" end="T3">Привет</event>
+<event start="T3" end="T134">,</event>
+<event start="T134" end="T4">DEbi54FR_P</event>
+<event start="T4" end="T135">!</event>
+<event start="T135" end="T136">Прикинь</event>
+<event start="T136" end="T5">,</event>
 <event start="T5" end="T6">я</event>
 <event start="T6" end="T7">только</event>
 <event start="T7" end="T8">что</event>
-<event start="T8" end="T9">шла:</event>
+<event start="T8" end="T9">шла</event>
 <event start="T9" end="T10">на</event>
 <event start="T10" end="T11">улице</event>
 <event start="T11" end="T12">мимо</event>
 <event start="T12" end="T13">парковки</event>
 <event start="T13" end="T14">и</event>
 <event start="T14" end="T15">тут</event>
-<event start="T15" end="T16">э:</event>
 <event start="T16" end="T17">один</event>
 <event start="T17" end="T18">мужик</event>
 <event start="T18" end="T19">который</event>
 <event start="T19" end="T20">рядом</event>
-<event start="T20" end="T21">шёл:</event>
+<event start="T20" end="T21">шёл</event>
 <event start="T21" end="T22">с</event>
 <event start="T22" end="T23">женщиной</event>
 <event start="T23" end="T24">с</event>
 <event start="T24" end="T25">коляской</event>
 <event start="T25" end="T26">играл</event>
 <event start="T26" end="T27">с</event>
-<event start="T27" end="T28">мячом</event>
-<event start="T28" end="T29">и:</event>
-<event start="T29" end="T30">(-)</event>
-<event start="T30" end="T31">э</event>
+<event start="T27" end="T137">мячом</event>
+<event start="T137" end="T28">.</event>
+<event start="T28" end="T29">И</event>
 <event start="T31" end="T32">на</event>
 <event start="T32" end="T33">другой</event>
-<event start="T33" end="T34">стороне</event>
+<event start="T33" end="T138">стороне</event>
+<event start="T138" end="T34">,</event>
 <event start="T34" end="T35">там</event>
 <event start="T35" end="T36">была</event>
 <event start="T36" end="T37">ещё</event>
 <event start="T37" end="T38">женщина</event>
 <event start="T38" end="T39">с</event>
-<event start="T39" end="T40">собакой</event>
-<event start="T40" end="T41">они</event>
-<event start="T41" end="T42">т/</event>
-<event start="T42" end="T43">она</event>
+<event start="T39" end="T139">собакой</event>
+<event start="T139" end="T40">.</event>
+<event start="T42" end="T43">Она</event>
 <event start="T43" end="T44">там</event>
 <event start="T44" end="T45">видимо</event>
 <event start="T45" end="T46">разгружала</event>
 <event start="T46" end="T47">машину</event>
-<event start="T47" end="T48">не</event>
-<event start="T48" end="T49">знаю</event>
-<event start="T49" end="T50">там</event>
-<event start="T50" end="T51">(-)</event>
-<event start="T51" end="T52">и:</event>
+<event start="T47" end="T140">.</event>
+<event start="T140" end="T48">Не</event>
+<event start="T48" end="T141">знаю</event>
+<event start="T141" end="T49">,</event>
+<event start="T49" end="T142">там</event>
+<event start="T142" end="T50">,</event>
+<event start="T51" end="T52">и</event>
 <event start="T52" end="T53">короче</event>
-<event start="T53" end="T54">тот</event>
+<event start="T53" end="T54">этот</event>
 <event start="T54" end="T55">парень</event>
 <event start="T55" end="T56">уронил</event>
 <event start="T56" end="T57">мяч</event>
-<event start="T57" end="T58">и:</event>
+<event start="T57" end="T58">и</event>
 <event start="T58" end="T59">собака</event>
 <event start="T59" end="T60">начала</event>
 <event start="T60" end="T61">лаять</event>
 <event start="T61" end="T62">и</event>
 <event start="T62" end="T63">тянуть</event>
 <event start="T63" end="T64">за</event>
-<event start="T64" end="T65">верёвку</event>
-<event start="T65" end="T66">(-)</event>
-<event start="T66" end="T67">и</event>
-<event start="T67" end="T68">(-)</event>
+<event start="T64" end="T143">верёвку</event>
+<event start="T143" end="T65">.</event>
+<event start="T66" end="T67">И</event>
 <event start="T68" end="T69">машина</event>
 <event start="T69" end="T70">как</event>
 <event start="T70" end="T71">раз</event>
@@ -374,25 +390,26 @@
 <event start="T74" end="T75">так</event>
 <event start="T75" end="T76">затормозила</event>
 <event start="T76" end="T77">что</event>
-<event start="T77" end="T78">(-)</event>
 <event start="T78" end="T79">другая</event>
 <event start="T79" end="T80">машина</event>
 <event start="T80" end="T81">за</event>
 <event start="T81" end="T82">ней</event>
 <event start="T82" end="T83">врезалась</event>
-<event start="T83" end="T84">прям</event>
+<event start="T83" end="T84">прямо</event>
 <event start="T84" end="T85">в</event>
-<event start="T85" end="T86">неё</event>
-<event start="T86" end="T87">(-)</event>
-<event start="T87" end="T88">прикинь</event>
-<event start="T88" end="T89">я:</event>
+<event start="T85" end="T144">неё</event>
+<event start="T144" end="T86">.</event>
+<event start="T87" end="T145">Прикинь</event>
+<event start="T145" end="T88">,</event>
+<event start="T88" end="T89">я</event>
 <event start="T89" end="T90">там</event>
-<event start="T90" end="T91">(-)</event>
 <event start="T91" end="T92">вообще</event>
 <event start="T92" end="T93">не</event>
-<event start="T93" end="T94">знаю</event>
-<event start="T94" end="T95">они</event>
-<event start="T95" end="T96">короче</event>
+<event start="T93" end="T146">знаю</event>
+<event start="T146" end="T94">.</event>
+<event start="T94" end="T95">Они</event>
+<event start="T95" end="T147">,</event>
+<event start="T147" end="T96">короче</event>
 <event start="T96" end="T97">этот</event>
 <event start="T97" end="T98">мужик</event>
 <event start="T98" end="T99">пошёл</event>
@@ -400,8 +417,8 @@
 <event start="T100" end="T101">женщине</event>
 <event start="T101" end="T102">поднять</event>
 <event start="T102" end="T103">все</event>
-<event start="T103" end="T104">продукты</event>
-<event start="T104" end="T105">(-)</event>
+<event start="T103" end="T148">продукты</event>
+<event start="T148" end="T104">,</event>
 <event start="T105" end="T106">потом</event>
 <event start="T106" end="T107">он</event>
 <event start="T107" end="T108">пошёл</event>
@@ -411,12 +428,11 @@
 <event start="T111" end="T112">с</event>
 <event start="T112" end="T113">ситуации</event>
 <event start="T113" end="T114">не</event>
-<event start="T114" end="T115">(UNK)</event>
-<event start="T115" end="T116">(-)</event>
-<event start="T116" end="T117">по-моему</event>
+<event start="T114" end="T149">(UNK)</event>
+<event start="T149" end="T115">.</event>
+<event start="T116" end="T117">По-моему</event>
 <event start="T117" end="T118">вызвали</event>
 <event start="T118" end="T119">полицию</event>
-<event start="T119" end="T120">(-)</event>
 <event start="T120" end="T121">и</event>
 <event start="T121" end="T122">мне</event>
 <event start="T122" end="T123">надо</event>
@@ -428,11 +444,9 @@
 <event start="T128" end="T129">как</event>
 <event start="T129" end="T130">я</event>
 <event start="T130" end="T131">была</event>
-<event start="T131" end="T132">свидетельницей</event>
-<event start="T132" end="T133">(-)</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">rus</event>
+<event start="T131" end="T150">свидетельницей</event>
+<event start="T150" end="T132">.</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">rus</event>
 <event start="T1" end="T2">rus</event>
 <event start="T2" end="T3">rus</event>
 <event start="T3" end="T4">rus</event>
@@ -565,33 +579,30 @@
 <event start="T130" end="T131">rus</event>
 <event start="T131" end="T132">rus</event>
 <event start="T132" end="T133">rus</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T1">(-)</event>
-<event start="T1" end="T4">э привет DEbi54FR_P</event>
-<event start="T4" end="T5">прикинь </event>
-<event start="T5" end="T13">я только что шла: на улице мимо парковки</event>
-<event start="T13" end="T28">и тут э: один мужик который рядом шёл: с женщиной с коляской играл с мячом</event>
-<event start="T28" end="T40">и: (-) э на другой стороне там была ещё женщина с собакой</event>
-<event start="T40" end="T47">они т/ она там видимо разгружала машину</event>
-<event start="T47" end="T50">не знаю там</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T1">(-)</event>
+<event start="T1" end="T4">CU</event>
+<event start="T4" end="T5">CU</event>
+<event start="T5" end="T13">CU</event>
+<event start="T13" end="T28">CU</event>
+<event start="T28" end="T40">CU</event>
+<event start="T40" end="T47">CU</event>
+<event start="T47" end="T50">CU</event>
 <event start="T50" end="T51">(-)</event>
-<event start="T51" end="T57">и: короче тот парень уронил мяч</event>
-<event start="T57" end="T65">и: собака начала лаять и тянуть за верёвку</event>
+<event start="T51" end="T57">CU</event>
+<event start="T57" end="T65">CU</event>
 <event start="T65" end="T66">(-)</event>
-<event start="T66" end="T86">и (-) машина как раз проезжала мимо и так затормозила что (-) другая машина за ней врезалась прям в неё</event>
+<event start="T66" end="T86">CU</event>
 <event start="T86" end="T87">(-)</event>
-<event start="T87" end="T88">прикинь</event>
-<event start="T88" end="T94">я: там (-) вообще не знаю</event>
-<event start="T94" end="T95">они</event>
-<event start="T95" end="T104">короче этот мужик пошёл помогать женщине поднять все продукты</event>
+<event start="T87" end="T88">CU</event>
+<event start="T88" end="T94">CU</event>
+<event start="T94" end="T95">CU</event>
+<event start="T95" end="T104">CU</event>
 <event start="T104" end="T105">(-)</event>
-<event start="T105" end="T115">потом он пошёл к водителям разбираться с ситуации не (UNK)</event>
+<event start="T105" end="T115">CU</event>
 <event start="T115" end="T116">(-)</event>
-<event start="T116" end="T119">по-моему вызвали полицию</event>
+<event start="T116" end="T119">CU</event>
 <event start="T119" end="T120">(-)</event>
-<event start="T120" end="T132">и мне надо было даже давать показания так как я была свидетельницей</event>
+<event start="T120" end="T132">CU</event>
 <event start="T132" end="T133">(-)</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>

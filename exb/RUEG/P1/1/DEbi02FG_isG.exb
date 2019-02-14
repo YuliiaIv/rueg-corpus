@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/1/DEbi02FG_isG.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/1/DEbi02FG_isG.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -160,8 +159,7 @@
 <tli id="T131" time="49.661527032452085"/>
 <tli id="T132" time="50.02318959207678"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">γεια</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">γεια</event>
 <event start="T1" end="T2">σου</event>
 <event start="T2" end="T3">Debi02FG_P</event>
 <event start="T3" end="T4">δεν</event>
@@ -293,9 +291,7 @@
 <event start="T129" end="T130">τι</event>
 <event start="T130" end="T131">θα</event>
 <event start="T131" end="T132">γίνει</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">γεια</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">γεια</event>
 <event start="T1" end="T2">σου</event>
 <event start="T2" end="T3">Debi02FG_P</event>
 <event start="T3" end="T4">δεν</event>
@@ -305,18 +301,15 @@
 <event start="T7" end="T8">ήμουν</event>
 <event start="T8" end="T9">στο</event>
 <event start="T9" end="T10">δρόμο</event>
-<event start="T10" end="T11">είδα:</event>
-<event start="T11" end="T12">(-)</event>
+<event start="T10" end="T11">είδα</event>
 <event start="T12" end="T13">ένα</event>
 <event start="T13" end="T14">τράκαμα</event>
-<event start="T14" end="T15">(-)</event>
 <event start="T15" end="T16">ήταν</event>
 <event start="T16" end="T17">έτσι</event>
 <event start="T17" end="T18">όπως</event>
 <event start="T18" end="T19">ήταν</event>
 <event start="T19" end="T20">μια</event>
 <event start="T20" end="T21">οικογένεια</event>
-<event start="T21" end="T22">(-)</event>
 <event start="T22" end="T23">και</event>
 <event start="T23" end="T24">είχαν</event>
 <event start="T24" end="T25">μια</event>
@@ -326,8 +319,6 @@
 <event start="T28" end="T29">είχε</event>
 <event start="T29" end="T30">μια</event>
 <event start="T30" end="T31">μπάλα</event>
-<event start="T31" end="T32">(-)</event>
-<event start="T32" end="T33">στ/</event>
 <event start="T33" end="T34">δίπλα</event>
 <event start="T34" end="T35">στην</event>
 <event start="T35" end="T36">στο</event>
@@ -340,18 +331,16 @@
 <event start="T42" end="T43">είχε</event>
 <event start="T43" end="T44">έναν</event>
 <event start="T44" end="T45">σκύλο</event>
-<event start="T45" end="T46">και:</event>
-<event start="T46" end="T47">(-)</event>
+<event start="T45" end="T46">και</event>
 <event start="T47" end="T48">κάτι</event>
-<event start="T48" end="T49">α:γόρασε</event>
+<event start="T48" end="T49">αγόρασε</event>
 <event start="T49" end="T50">και</event>
 <event start="T50" end="T51">του</event>
-<event start="T51" end="T52">σκορ:/</event>
 <event start="T52" end="T53">το</event>
 <event start="T53" end="T54">σκύλο</event>
 <event start="T54" end="T55">ο</event>
 <event start="T55" end="T56">σκύλος</event>
-<event start="T56" end="T57">είδε:</event>
+<event start="T56" end="T57">είδε</event>
 <event start="T57" end="T58">την</event>
 <event start="T58" end="T59">μπάλα</event>
 <event start="T59" end="T60">ήρθε</event>
@@ -359,7 +348,6 @@
 <event start="T61" end="T62">πιάσει</event>
 <event start="T62" end="T63">την</event>
 <event start="T63" end="T64">μπάλα</event>
-<event start="T64" end="T65">(-)</event>
 <event start="T65" end="T66">κι</event>
 <event start="T66" end="T67">εκεί</event>
 <event start="T67" end="T68">που</event>
@@ -372,7 +360,6 @@
 <event start="T74" end="T75">είχε</event>
 <event start="T75" end="T76">δύο</event>
 <event start="T76" end="T77">αυτοκίνητα</event>
-<event start="T77" end="T78">(-)</event>
 <event start="T78" end="T79">και</event>
 <event start="T79" end="T80">το</event>
 <event start="T80" end="T81">ένα</event>
@@ -380,10 +367,10 @@
 <event start="T82" end="T83">πως</event>
 <event start="T83" end="T84">θα</event>
 <event start="T84" end="T85">τράκαρε</event>
-<event start="T85" end="T86">το:</event>
+<event start="T85" end="T86">το</event>
 <event start="T86" end="T87">το</event>
 <event start="T87" end="T88">σκύλο</event>
-<event start="T88" end="T89">έκανε:</event>
+<event start="T88" end="T89">έκανε</event>
 <event start="T89" end="T90">φρένο</event>
 <event start="T90" end="T91">και</event>
 <event start="T91" end="T92">το</event>
@@ -403,20 +390,18 @@
 <event start="T105" end="T106">και</event>
 <event start="T106" end="T107">το</event>
 <event start="T107" end="T108">τράκαρε</event>
-<event start="T108" end="T109">(-)</event>
 <event start="T109" end="T110">και</event>
 <event start="T110" end="T111">τώρα</event>
 <event start="T111" end="T112">η</event>
 <event start="T112" end="T113">έγινε</event>
 <event start="T113" end="T114">ζημιά</event>
-<event start="T114" end="T115">(-)</event>
 <event start="T115" end="T116">τώρα</event>
 <event start="T116" end="T117">θα</event>
 <event start="T117" end="T118">δούμε</event>
 <event start="T118" end="T119">τι</event>
 <event start="T119" end="T120">θα</event>
 <event start="T120" end="T121">γίνει</event>
-<event start="T121" end="T122">ο:</event>
+<event start="T121" end="T122">ο</event>
 <event start="T122" end="T123">ένας</event>
 <event start="T123" end="T124">πήρε</event>
 <event start="T124" end="T125">τώρα</event>
@@ -427,9 +412,7 @@
 <event start="T129" end="T130">τι</event>
 <event start="T130" end="T131">θα</event>
 <event start="T131" end="T132">γίνει</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">gre</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">gre</event>
 <event start="T1" end="T2">gre</event>
 <event start="T2" end="T3">gre</event>
 <event start="T3" end="T4">gre</event>
@@ -561,9 +544,7 @@
 <event start="T129" end="T130">gre</event>
 <event start="T130" end="T131">gre</event>
 <event start="T131" end="T132">gre</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T3">γεια σου Debi02FG_P</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T3">γεια σου Debi02FG_P</event>
 <event start="T3" end="T7">δεν ξες τι έγινε</event>
 <event start="T7" end="T10">ήμουν στο δρόμο</event>
 <event start="T10" end="T15">είδα: (-) ένα τράκαμα (-)</event>
@@ -579,6 +560,5 @@
 <event start="T109" end="T115">και τώρα η έγινε ζημιά (-)</event>
 <event start="T115" end="T121">τώρα θα δούμε τι θα γίνει</event>
 <event start="T121" end="T132">ο: ένας πήρε τώρα την αστυνομία να δούμε τι θα γίνει </event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
