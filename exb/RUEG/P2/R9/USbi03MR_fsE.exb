@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P2/R9/USbi03MR_fsE.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P2/R9/USbi03MR_fsE.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -139,9 +138,7 @@
 <tli id="T110" time="40.906549159479255"/>
 <tli id="T111" time="41.642125"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">&lt;Q&gt; communication with elicitor &lt;/Q&gt; </event>
-<event start="T1" end="T2">3.4)</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T1" end="T2">(3.4)</event>
 <event start="T2" end="T3">[tongueclicking]</event>
 <event start="T3" end="T4">hello</event>
 <event start="T4" end="T5">u:h</event>
@@ -251,10 +248,7 @@
 <event start="T108" end="T109">was</event>
 <event start="T109" end="T110">hurt</event>
 <event start="T110" end="T111">(-)</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">&lt;Q&gt; communication with elicitor &lt;/Q&gt; </event>
-<event start="T1" end="T2">3.4)</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T1" end="T2">(3.4)</event>
 <event start="T2" end="T3">[tongueclicking]</event>
 <event start="T3" end="T4">hello</event>
 <event start="T4" end="T5">u:h</event>
@@ -364,10 +358,7 @@
 <event start="T108" end="T109">was</event>
 <event start="T109" end="T110">hurt</event>
 <event start="T110" end="T111">(-)</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">eng</event>
-<event start="T1" end="T2">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
 <event start="T4" end="T5">eng</event>
@@ -477,15 +468,12 @@
 <event start="T108" end="T109">eng</event>
 <event start="T109" end="T110">eng</event>
 <event start="T110" end="T111">eng</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
-<event start="T2" end="T3">tongueclicking</event>
+</tier><tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T2" end="T3">tongueclicking</event>
 <event start="T33" end="T34">tongueclicking</event>
 <event start="T46" end="T47">sighing</event>
 <event start="T47" end="T48">tongueclicking</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T3">&lt;Q&gt; communication with elicitor &lt;/Q&gt; (3.4) [tongueclicking]</event>
+</tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T1" end="T2">(3.4)</event>
+<event start="T2" end="T3">[tongueclicking]</event>
 <event start="T3" end="T4">hello</event>
 <event start="T4" end="T17">u:h i have a minor incident report (-) (det) minor incident to report</event>
 <event start="T17" end="T18">(-)</event>
@@ -501,6 +489,5 @@
 <event start="T104" end="T105">(--)</event>
 <event start="T105" end="T110">u:m (-) nobody was hurt</event>
 <event start="T110" end="T111">(-)</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
