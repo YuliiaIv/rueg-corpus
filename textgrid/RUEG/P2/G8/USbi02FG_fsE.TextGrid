@@ -1,0 +1,66 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 18.868481768468488 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "CU" 
+        xmin = 0 
+        xmax = 18.868481768468488 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.2016465364553104 
+            text = "(-)" 
+        intervals [2]:
+            xmin = 0.2016465364553104 
+            xmax = 0.5759816676716643 
+            text = "hi" 
+        intervals [3]:
+            xmin = 0.5759816676716643 
+            xmax = 1.2374662547642794 
+            text = "i=m calling" 
+        intervals [4]:
+            xmin = 1.2374662547642794 
+            xmax = 2.4274052546458624 
+            text = "i w/ was a witness" 
+        intervals [5]:
+            xmin = 2.4274052546458624 
+            xmax = 4.074059403270238 
+            text = "i was standing on the side of the road" 
+        intervals [6]:
+            xmin = 4.074059403270238 
+            xmax = 6.9728336266142765 
+            text = "and i noticed (-) there was a minor accident" 
+        intervals [7]:
+            xmin = 6.9728336266142765 
+            xmax = 9.610997630776197 
+            text = "there was a: (-) ball that rolled out into the street" 
+        intervals [8]:
+            xmin = 9.610997630776197 
+            xmax = 10.922109222560954 
+            text = "and the dog chased after it" 
+        intervals [9]:
+            xmin = 10.922109222560954 
+            xmax = 11.425054474311828 
+            text = "(-)" 
+        intervals [10]:
+            xmin = 11.425054474311828 
+            xmax = 13.6572788463138 
+            text = "there was two car driving ther/ cars driving" 
+        intervals [11]:
+            xmin = 13.6572788463138 
+            xmax = 15.625025883362953 
+            text = "the first car stopped abruptly" 
+        intervals [12]:
+            xmin = 15.625025883362953 
+            xmax = 15.975602360691424 
+            text = "(-)" 
+        intervals [13]:
+            xmin = 15.975602360691424 
+            xmax = 18.868481768468488 
+            text = "and the second car behind him (-) hit the first car" 

@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 21.847760416666667 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "CU" 
+        xmin = 0 
+        xmax = 21.847760416666667 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6643097112642877 
+            text = "(-)" 
+        intervals [2]:
+            xmin = 0.6643097112642877 
+            xmax = 2.059023110669491 
+            text = "the man was playing with the ball" 
+        intervals [3]:
+            xmin = 2.059023110669491 
+            xmax = 2.7072542776804926 
+            text = "(-)" 
+        intervals [4]:
+            xmin = 2.7072542776804926 
+            xmax = 7.527270669088326 
+            text = "it slipped out of his hand (-) to which u:h the dog barked at it" 
+        intervals [5]:
+            xmin = 7.527270669088326 
+            xmax = 8.201347551815944 
+            text = "(-)" 
+        intervals [6]:
+            xmin = 8.201347551815944 
+            xmax = 17.48613062214746 
+            text = "a:nd when the dog (-) ran into the middle of the road the first driver stopped (-) causing the second driver to (-) run into the rear end of his car" 
+        intervals [7]:
+            xmin = 17.48613062214746 
+            xmax = 18.807355974755783 
+            text = "(--)" 
+        intervals [8]:
+            xmin = 18.807355974755783 
+            xmax = 21.02547956328738 
+            text = "and then (-) the first driver called nine one one" 
+        intervals [9]:
+            xmin = 21.02547956328738 
+            xmax = 21.847760416666667 
+            text = "(-)" 
