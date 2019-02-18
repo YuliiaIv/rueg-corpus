@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P2/R9/USbi01MR_fsE.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P2/R9/USbi01MR_fsE.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -210,8 +209,7 @@
 <tli id="T181" time="59.07987981800914"/>
 <tli id="T182" time="59.77496875"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">(--)</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">(--)</event>
 <event start="T1" end="T2">uh</event>
 <event start="T2" end="T3">hello</event>
 <event start="T3" end="T4">i=m</event>
@@ -393,11 +391,7 @@
 <event start="T179" end="T180">police</event>
 <event start="T180" end="T181">line</event>
 <event start="T181" end="T182">(-)</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">(--)</event>
-<event start="T1" end="T2">uh</event>
-<event start="T2" end="T3">hello</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T2" end="T3">hello</event>
 <event start="T3" end="T4">i=m</event>
 <event start="T4" end="T5">calling</event>
 <event start="T5" end="T6">in</event>
@@ -577,9 +571,7 @@
 <event start="T179" end="T180">police</event>
 <event start="T180" end="T181">line</event>
 <event start="T181" end="T182">(-)</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
 <event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
@@ -761,13 +753,9 @@
 <event start="T179" end="T180">eng</event>
 <event start="T180" end="T181">eng</event>
 <event start="T181" end="T182">eng</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
-<event start="T131" end="T132">throatclearing</event>
+</tier><tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T131" end="T132">throatclearing</event>
 <event start="T156" end="T157">throatclearing</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T1">(--)</event>
+</tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T1">(--)</event>
 <event start="T1" end="T3">uh hello</event>
 <event start="T3" end="T18">i=m calling in connection wi:th a case number ef sixte:en uh providing a witness report</event>
 <event start="T18" end="T41">u:h I saw um: the: young man with (det) soccer ball and the woman with (det) baby carriage u:h walking toward the intersection</event>
@@ -782,6 +770,5 @@
 <event start="T165" end="T166">(-)</event>
 <event start="T166" end="T181">and uh the: o/ o/ one of the: drivers uh called the: uh police line</event>
 <event start="T181" end="T182">(-)</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
