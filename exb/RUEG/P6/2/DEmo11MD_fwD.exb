@@ -240,7 +240,7 @@
 <event start="T66" end="T67">hintere</event>
 <event start="T67" end="T68">Wagen</event>
 <event start="T68" end="T69">dem</event>
-<event start="T69" end="T70">Vorderen</event>
+<event start="T69" end="T70">vorderen</event>
 <event start="T70" end="T71">auffuhr</event>
 <event start="T71" end="T72">.</event>
 </tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">deu</event>
@@ -315,5 +315,10 @@
 <event start="T69" end="T70">deu</event>
 <event start="T70" end="T71">deu</event>
 <event start="T71" end="T72">deu</event>
+</tier><tier id="TIE3" speaker="dipl" category="CU" type="a" display-name="dipl [CU]"><event start="T0" end="T1">﻿Tathergang</event>
+<event start="T1" end="T9">Der Unfall fand auf einem Parkplatz statt.</event>
+<event start="T9" end="T31">Ein Mann und eine Frau mit Kinderwagen wollten diesen gerade überqueren, als dem Mann der Fußball auf die Straße rollte.</event>
+<event start="T31" end="T48">Daraufhin rannte der Hund, der Dame die Ihren Einkauf ausräumte, bellend auf die Straße.</event>
+<event start="T48" end="T72">Dies führte dazu, dass die beiden Autos, die gerade vorbeifuhren aprupt anhalten mussten, sodass der hintere Wagen dem Vorderen auffuhr.</event>
 </tier></basic-body>
 </basic-transcription>

@@ -182,6 +182,7 @@
 <tli id="T154" time="52.38281295303998"/>
 <tli id="T155" time="52.629701092975665"/>
 <tli id="T156" time="53.20577341949227"/>
+<tli id="T174" time="53.78184574600887" type="intp"/>
 <tli id="T157" time="54.02873388594456"/>
 <tli id="T158" time="54.76939830575162"/>
 <tli id="T159" time="55.01628644568731"/>
@@ -356,7 +357,8 @@
 <event start="T153" end="T154">abrupt</event>
 <event start="T154" end="T155">(-)</event>
 <event start="T155" end="T156">bremsen</event>
-<event start="T156" end="T157">mussten(-)</event>
+<event start="T156" end="T174">mussten</event>
+<event start="T174" end="T157">(-)</event>
 <event start="T157" end="T158">woraufhin</event>
 <event start="T158" end="T159">der</event>
 <event start="T159" end="T160">(-)</event>
@@ -508,7 +510,8 @@
 <event start="T151" end="T152">und</event>
 <event start="T153" end="T154">abrupt</event>
 <event start="T155" end="T156">bremsen</event>
-<event start="T156" end="T157">mussten</event>
+<event start="T156" end="T174">mussten</event>
+<event start="T174" end="T157"></event>
 <event start="T157" end="T158">woraufhin</event>
 <event start="T158" end="T159">der</event>
 <event start="T160" end="T161">Auffahrunfall</event>

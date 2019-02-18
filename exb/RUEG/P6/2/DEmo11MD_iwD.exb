@@ -36,6 +36,7 @@
 <tli id="T8" time="8.0"/>
 <tli id="T9" time="9.0"/>
 <tli id="T10" time="10.0"/>
+<tli id="T25" time="10.2" type="intp"/>
 <tli id="T11" time="11.0"/>
 <tli id="T12" time="12.0"/>
 <tli id="T13" time="13.0"/>
@@ -84,7 +85,8 @@
 <event start="T7" end="T8">gesehen</event>
 <event start="T8" end="T9">.</event>
 <event start="T9" end="T10">Bei</event>
-<event start="T10" end="T11">5kmh</event>
+<event start="T10" end="T25">5</event>
+<event start="T25" end="T11">km/h</event>
 <event start="T11" end="T12">xD</event>
 <event start="T12" end="T13">mit</event>
 <event start="T13" end="T14">allem</event>
@@ -124,5 +126,10 @@
 </tier><tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]"><event start="T0" end="T12">Oh lol. Gab grad nen auffahrunfall gesehen. Bei 5kmh xD</event>
 <event start="T12" end="T23">mit allrm drum und dran, kinderwagen, hund und co^^</event>
 </tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T23">1</event>
+</tier><tier id="TIE5" speaker="dipl" category="CU" type="a" display-name="dipl [CU]"><event start="T0" end="T3">Oh lol.</event>
+<event start="T3" end="T9">Gab grad nen auffahrunfall gesehen.</event>
+<event start="T9" end="T12">Bei 5 kmh xD</event>
+<event start="T12" end="T18">mit allrm drum und dran,</event>
+<event start="T18" end="T23">kinderwagen, hund und co^^</event>
 </tier></basic-body>
 </basic-transcription>
