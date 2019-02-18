@@ -229,7 +229,7 @@
 <event start="T22" end="T23">the</event>
 <event start="T23" end="T24">ball</event>
 <event start="T24" end="T25">.</event>
-<event start="T25" end="T26">a</event>
+<event start="T25" end="T26">A</event>
 <event start="T26" end="T27">woman</event>
 <event start="T27" end="T28">was</event>
 <event start="T28" end="T29">standing</event>
@@ -382,5 +382,15 @@
 <event start="T86" end="T88"><![CDATA[<Media omitted>]]></event>
 </tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T86">1</event>
 <event start="T86" end="T88">2</event>
+</tier><tier id="TIE5" speaker="dipl" category="CU" type="a" display-name="dipl [CU]"><event start="T0" end="T10">cu</event>
+<event start="T10" end="T18">cu</event>
+<event start="T18" end="T25">cu</event>
+<event start="T25" end="T33">cu</event>
+<event start="T33" end="T45">cu</event>
+<event start="T45" end="T52">cu</event>
+<event start="T52" end="T57">cu</event>
+<event start="T57" end="T66">cu</event>
+<event start="T66" end="T75">cu</event>
+<event start="T75" end="T86">cu</event>
 </tier></basic-body>
 </basic-transcription>

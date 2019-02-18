@@ -345,11 +345,11 @@
 <event start="T154" end="T155">her</event>
 <event start="T155" end="T156">groceries</event>
 <event start="T156" end="T157">.</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T4" end="T5">hey</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T4" end="T5">Hey</event>
 <event start="T5" end="T6">whats</event>
 <event start="T6" end="T7">up</event>
 <event start="T7" end="T8">?</event>
-<event start="T8" end="T9">so</event>
+<event start="T8" end="T9">So</event>
 <event start="T9" end="T10">i</event>
 <event start="T10" end="T11">just</event>
 <event start="T11" end="T12">say</event>
@@ -363,7 +363,7 @@
 <event start="T19" end="T20">parking</event>
 <event start="T20" end="T21">lot</event>
 <event start="T21" end="T22">.</event>
-<event start="T22" end="T23">a</event>
+<event start="T22" end="T23">A</event>
 <event start="T23" end="T24">woman</event>
 <event start="T24" end="T25">was</event>
 <event start="T25" end="T26">unloading</event>
@@ -443,8 +443,8 @@
 <event start="T97" end="T98">drops</event>
 <event start="T98" end="T99">her</event>
 <event start="T99" end="T100">groceries</event>
-<event start="T100" end="T101">)</event>
-<event start="T101" end="T102">.</event>
+<event start="T100" end="T101">.</event>
+<event start="T101" end="T102">)</event>
 <event start="T102" end="T103">The</event>
 <event start="T103" end="T104">first</event>
 <event start="T104" end="T105">car</event>
@@ -665,5 +665,16 @@
 </tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T2">1</event>
 <event start="T2" end="T4">2</event>
 <event start="T4" end="T157">3</event>
+</tier><tier id="TIE5" speaker="dipl" category="CU" type="a" display-name="dipl [CU]"><event start="T4" end="T8">cu</event>
+<event start="T8" end="T22">cu</event>
+<event start="T22" end="T30">cu</event>
+<event start="T30" end="T41">cu</event>
+<event start="T41" end="T67">cu</event>
+<event start="T67" end="T83">cu</event>
+<event start="T83" end="T88">cu</event>
+<event start="T88" end="T102">cu</event>
+<event start="T102" end="T129">cu</event>
+<event start="T129" end="T142">cu</event>
+<event start="T142" end="T157">cu</event>
 </tier></basic-body>
 </basic-transcription>

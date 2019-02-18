@@ -1,0 +1,78 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 41.642125 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "CU" 
+        xmin = 0 
+        xmax = 41.642125 
+        intervals: size = 16 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.430468944958557 
+            text = "<Q> communication with elicitor </Q> (3.4) [tongueclicking]" 
+        intervals [2]:
+            xmin = 3.430468944958557 
+            xmax = 4.02227739751809 
+            text = "hello" 
+        intervals [3]:
+            xmin = 4.02227739751809 
+            xmax = 8.340805217398122 
+            text = "u:h i have a minor incident report (-) (det) minor incident to report" 
+        intervals [4]:
+            xmin = 8.340805217398122 
+            xmax = 8.70987257654926 
+            text = "(-)" 
+        intervals [5]:
+            xmin = 8.70987257654926 
+            xmax = 10.30089843525057 
+            text = "uh this is ef sixteen" 
+        intervals [6]:
+            xmin = 10.30089843525057 
+            xmax = 13.387552791274244 
+            text = "i witnessed a: (falling) accident on a parking lot" 
+        intervals [7]:
+            xmin = 13.387552791274244 
+            xmax = 14.156578610122208 
+            text = "(-) [tongueclicking]" 
+        intervals [8]:
+            xmin = 14.156578610122208 
+            xmax = 16.162283206277035 
+            text = "um: man was playing with a ball" 
+        intervals [9]:
+            xmin = 16.162283206277035 
+            xmax = 16.65328912021379 
+            text = "(-)" 
+        intervals [10]:
+            xmin = 16.65328912021379 
+            xmax = 20.952230692677492 
+            text = "he he u:h (-) [sighing] [tongueclicking] unfortunately lost the ball" 
+        intervals [11]:
+            xmin = 20.952230692677492 
+            xmax = 21.48550863893993 
+            text = "(-)" 
+        intervals [12]:
+            xmin = 21.48550863893993 
+            xmax = 33.3877945984593 
+            text = "u:m a:nd this caused the (-) the womans dog to (-) react to it and run into the middle of the road (-) u:h causing the first (-) the first driver to brake (-) his car" 
+        intervals [13]:
+            xmin = 33.3877945984593 
+            xmax = 37.782984778158514 
+            text = "and then this caused the: (-) driver of the second tar car to rearend him" 
+        intervals [14]:
+            xmin = 37.782984778158514 
+            xmax = 39.394511084189 
+            text = "(--)" 
+        intervals [15]:
+            xmin = 39.394511084189 
+            xmax = 40.906549159479255 
+            text = "u:m (-) nobody was hurt" 
+        intervals [16]:
+            xmin = 40.906549159479255 
+            xmax = 41.642125 
+            text = "(-)" 
