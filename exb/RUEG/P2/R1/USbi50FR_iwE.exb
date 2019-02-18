@@ -31,6 +31,7 @@
 <tli id="T3" time="3.0"/>
 <tli id="T4" time="4.0"/>
 <tli id="T5" time="5.0"/>
+<tli id="T162" time="5.8" type="intp"/>
 <tli id="T6" time="6.0"/>
 <tli id="T7" time="7.0"/>
 <tli id="T8" time="8.0"/>
@@ -346,11 +347,12 @@
 <event start="T155" end="T156">groceries</event>
 <event start="T156" end="T157">.</event>
 </tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T4" end="T5">Hey</event>
-<event start="T5" end="T6">whats</event>
+<event start="T5" end="T162">what</event>
+<event start="T162" end="T6">is</event>
 <event start="T6" end="T7">up</event>
 <event start="T7" end="T8">?</event>
 <event start="T8" end="T9">So</event>
-<event start="T9" end="T10">i</event>
+<event start="T9" end="T10">I</event>
 <event start="T10" end="T11">just</event>
 <event start="T11" end="T12">say</event>
 <event start="T12" end="T13">this</event>
@@ -503,7 +505,8 @@
 <event start="T155" end="T156">groceries</event>
 <event start="T156" end="T157">.</event>
 </tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T4" end="T5">eng</event>
-<event start="T5" end="T6">eng</event>
+<event start="T5" end="T162">eng</event>
+<event start="T162" end="T6">eng</event>
 <event start="T6" end="T7">eng</event>
 <event start="T7" end="T8">eng</event>
 <event start="T8" end="T9">eng</event>
@@ -672,9 +675,13 @@
 <event start="T41" end="T67">cu</event>
 <event start="T67" end="T83">cu</event>
 <event start="T83" end="T88">cu</event>
-<event start="T88" end="T102">cu</event>
-<event start="T102" end="T129">cu</event>
-<event start="T129" end="T142">cu</event>
+<event start="T88" end="T94">cu</event>
+<event start="T94" end="T102">cu</event>
+<event start="T102" end="T112">cu</event>
+<event start="T112" end="T120">cu</event>
+<event start="T120" end="T129">cu</event>
+<event start="T129" end="T134">cu</event>
+<event start="T134" end="T142">cu</event>
 <event start="T142" end="T157">cu</event>
 </tier></basic-body>
 </basic-transcription>

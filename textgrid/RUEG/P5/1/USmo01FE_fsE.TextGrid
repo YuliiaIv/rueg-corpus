@@ -1,0 +1,50 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 28.212244897959184 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "CU" 
+        xmin = 0 
+        xmax = 28.212244897959184 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.5692088246812586 
+            text = "u:m hello i: just witnessed an accident" 
+        intervals [2]:
+            xmin = 2.5692088246812586 
+            xmax = 5.2434282418444464 
+            text = "a:nd (-) two cars were oncoming " 
+        intervals [3]:
+            xmin = 5.2434282418444464 
+            xmax = 6.65931395177874 
+            text = "and i=m tryin to cross the road" 
+        intervals [4]:
+            xmin = 6.65931395177874 
+            xmax = 8.58299610225087 
+            text = "and ther:e is a dog" 
+        intervals [5]:
+            xmin = 8.58299610225087 
+            xmax = 9.368596707098355 
+            text = "(-)" 
+        intervals [6]:
+            xmin = 9.368596707098355 
+            xmax = 13.437235489911572 
+            text = "it upset a dog (-) um: so/" 
+        intervals [7]:
+            xmin = 13.437235489911572 
+            xmax = 15.124912309893293 
+            text = "<Q> communication with elicitor </Q>" 
+        intervals [8]:
+            xmin = 15.124912309893293 
+            xmax = 22.326076997062145 
+            text = "a:nd (-) two: peop/ two: people: two individuals are tryin to: assess the situation" 
+        intervals [9]:
+            xmin = 22.326076997062145 
+            xmax = 28.212244897959184 
+            text = "and i am (-) [tongueclicking] (--) tryin to gain an understanding of what actually happened" 
