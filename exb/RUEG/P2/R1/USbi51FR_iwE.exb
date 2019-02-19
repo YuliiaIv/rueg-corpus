@@ -382,7 +382,8 @@
 <event start="T86" end="T88"><![CDATA[<Media omitted>]]></event>
 </tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T86">1</event>
 <event start="T86" end="T88">2</event>
-</tier><tier id="TIE5" speaker="dipl" category="CU" type="a" display-name="dipl [CU]"><event start="T0" end="T10">cu</event>
+</tier><tier id="TIE5" speaker="dipl" category="CU" type="a" display-name="dipl [CU]"><event start="T0" end="T2">cu</event>
+<event start="T2" end="T10">cu</event>
 <event start="T10" end="T18">cu</event>
 <event start="T18" end="T25">cu</event>
 <event start="T25" end="T33">cu</event>
