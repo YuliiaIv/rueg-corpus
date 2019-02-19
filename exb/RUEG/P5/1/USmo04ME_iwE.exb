@@ -1,113 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url=""></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
-<tli id="T0" time="0"/>
-<tli id="T1" time="1"/>
-<tli id="T2" time="2"/>
-<tli id="T3" time="3"/>
-<tli id="T4" time="4"/>
-<tli id="T5" time="5"/>
-<tli id="T6" time="6"/>
-<tli id="T7" time="7"/>
-<tli id="T8" time="8"/>
-<tli id="T9" time="9"/>
-<tli id="T10" time="10"/>
-<tli id="T11" time="11"/>
-<tli id="T12" time="12"/>
-<tli id="T13" time="13"/>
-<tli id="T14" time="14"/>
-<tli id="T15" time="15"/>
-<tli id="T16" time="16"/>
-<tli id="T17" time="17"/>
-<tli id="T18" time="18"/>
-<tli id="T19" time="19"/>
-<tli id="T20" time="20"/>
-<tli id="T21" time="21"/>
-<tli id="T22" time="22"/>
-<tli id="T23" time="23"/>
-<tli id="T24" time="24"/>
-<tli id="T25" time="25"/>
-<tli id="T26" time="26"/>
-<tli id="T27" time="27"/>
-<tli id="T28" time="28"/>
-<tli id="T29" time="29"/>
-<tli id="T30" time="30"/>
-<tli id="T31" time="31"/>
-<tli id="T32" time="32"/>
-<tli id="T33" time="33"/>
-<tli id="T34" time="34"/>
-<tli id="T35" time="35"/>
-<tli id="T36" time="36"/>
-<tli id="T37" time="37"/>
-<tli id="T38" time="38"/>
-<tli id="T39" time="39"/>
-<tli id="T40" time="40"/>
-<tli id="T41" time="41"/>
-<tli id="T42" time="42"/>
-<tli id="T43" time="43"/>
-<tli id="T44" time="44"/>
-<tli id="T45" time="45"/>
-<tli id="T46" time="46"/>
-<tli id="T47" time="47"/>
-<tli id="T48" time="48"/>
-<tli id="T49" time="49"/>
-<tli id="T50" time="50"/>
-<tli id="T51" time="51"/>
-<tli id="T52" time="52"/>
-<tli id="T53" time="53"/>
-<tli id="T54" time="54"/>
-<tli id="T55" time="55"/>
-<tli id="T56" time="56"/>
-<tli id="T57" time="57"/>
-<tli id="T58" time="58"/>
-<tli id="T59" time="59"/>
-<tli id="T60" time="60"/>
-<tli id="T61" time="61"/>
-<tli id="T62" time="62"/>
-<tli id="T63" time="63"/>
-<tli id="T64" time="64"/>
-<tli id="T65" time="65"/>
-<tli id="T66" time="66"/>
-<tli id="T67" time="67"/>
-<tli id="T68" time="68"/>
-<tli id="T69" time="69"/>
-<tli id="T70" time="70"/>
+<tli id="T0" time="0.0"/>
+<tli id="T1" time="1.0"/>
+<tli id="T2" time="2.0"/>
+<tli id="T3" time="3.0"/>
+<tli id="T4" time="4.0"/>
+<tli id="T5" time="5.0"/>
+<tli id="T6" time="6.0"/>
+<tli id="T7" time="7.0"/>
+<tli id="T8" time="8.0"/>
+<tli id="T9" time="9.0"/>
+<tli id="T10" time="10.0"/>
+<tli id="T11" time="11.0"/>
+<tli id="T12" time="12.0"/>
+<tli id="T13" time="13.0"/>
+<tli id="T14" time="14.0"/>
+<tli id="T15" time="15.0"/>
+<tli id="T16" time="16.0"/>
+<tli id="T17" time="17.0"/>
+<tli id="T18" time="18.0"/>
+<tli id="T19" time="19.0"/>
+<tli id="T20" time="20.0"/>
+<tli id="T21" time="21.0"/>
+<tli id="T22" time="22.0"/>
+<tli id="T23" time="23.0"/>
+<tli id="T24" time="24.0"/>
+<tli id="T25" time="25.0"/>
+<tli id="T26" time="26.0"/>
+<tli id="T27" time="27.0"/>
+<tli id="T28" time="28.0"/>
+<tli id="T29" time="29.0"/>
+<tli id="T30" time="30.0"/>
+<tli id="T31" time="31.0"/>
+<tli id="T32" time="32.0"/>
+<tli id="T33" time="33.0"/>
+<tli id="T34" time="34.0"/>
+<tli id="T35" time="35.0"/>
+<tli id="T36" time="36.0"/>
+<tli id="T37" time="37.0"/>
+<tli id="T38" time="38.0"/>
+<tli id="T39" time="39.0"/>
+<tli id="T40" time="40.0"/>
+<tli id="T41" time="41.0"/>
+<tli id="T42" time="42.0"/>
+<tli id="T43" time="43.0"/>
+<tli id="T44" time="44.0"/>
+<tli id="T45" time="45.0"/>
+<tli id="T46" time="46.0"/>
+<tli id="T47" time="47.0"/>
+<tli id="T48" time="48.0"/>
+<tli id="T49" time="49.0"/>
+<tli id="T71" time="49.666666666666664" type="intp"/>
+<tli id="T50" time="50.0"/>
+<tli id="T51" time="51.0"/>
+<tli id="T52" time="52.0"/>
+<tli id="T53" time="53.0"/>
+<tli id="T54" time="54.0"/>
+<tli id="T55" time="55.0"/>
+<tli id="T56" time="56.0"/>
+<tli id="T57" time="57.0"/>
+<tli id="T58" time="58.0"/>
+<tli id="T59" time="59.0"/>
+<tli id="T60" time="60.0"/>
+<tli id="T61" time="61.0"/>
+<tli id="T62" time="62.0"/>
+<tli id="T63" time="63.0"/>
+<tli id="T64" time="64.0"/>
+<tli id="T65" time="65.0"/>
+<tli id="T66" time="66.0"/>
+<tli id="T67" time="67.0"/>
+<tli id="T68" time="68.0"/>
+<tli id="T69" time="69.0"/>
+<tli id="T70" time="70.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">‎Nachrichten</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">‎Nachrichten</event>
 <event start="T1" end="T2">an</event>
 <event start="T2" end="T3">diese</event>
 <event start="T3" end="T4">Gruppe</event>
 <event start="T4" end="T5">sind</event>
 <event start="T5" end="T6">jetzt</event>
 <event start="T6" end="T7">mit</event>
-<event start="T7" end="T8">Ende-zu-Ende-Verschl&#252;sselung</event>
-<event start="T8" end="T9">gesch&#252;tzt</event>
+<event start="T7" end="T8">Ende-zu-Ende-Verschlüsselung</event>
+<event start="T8" end="T9">geschützt</event>
 <event start="T9" end="T10">.</event>
 <event start="T10" end="T11">yooo</event>
 <event start="T11" end="T12">i</event>
@@ -166,23 +165,21 @@
 <event start="T64" end="T65">i</event>
 <event start="T65" end="T66">bet</event>
 <event start="T66" end="T67">‎</event>
-<event start="T67" end="T68">‎&lt;Anhang</event>
+<event start="T67" end="T68"><![CDATA[‎<Anhang]]></event>
 <event start="T68" end="T69">:</event>
-<event start="T69" end="T70">00000003-AUDIO-2018-10-31-12-56-38.opus&gt;</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">‎Nachrichten</event>
+<event start="T69" end="T70"><![CDATA[00000003-AUDIO-2018-10-31-12-56-38.opus>]]></event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">‎Nachrichten</event>
 <event start="T1" end="T2">an</event>
 <event start="T2" end="T3">diese</event>
 <event start="T3" end="T4">Gruppe</event>
 <event start="T4" end="T5">sind</event>
 <event start="T5" end="T6">jetzt</event>
 <event start="T6" end="T7">mit</event>
-<event start="T7" end="T8">Ende-zu-Ende-Verschl&#252;sselung</event>
-<event start="T8" end="T9">gesch&#252;tzt</event>
+<event start="T7" end="T8">Ende-zu-Ende-Verschlüsselung</event>
+<event start="T8" end="T9">geschützt</event>
 <event start="T9" end="T10">.</event>
 <event start="T10" end="T11">yooo</event>
-<event start="T11" end="T12">i</event>
+<event start="T11" end="T12">I</event>
 <event start="T12" end="T13">just</event>
 <event start="T13" end="T14">saw</event>
 <event start="T14" end="T15">a</event>
@@ -193,7 +190,7 @@
 <event start="T19" end="T20">spurred</event>
 <event start="T20" end="T21">accident</event>
 <event start="T21" end="T22">.</event>
-<event start="T22" end="T23">everyone</event>
+<event start="T22" end="T23">Everyone</event>
 <event start="T23" end="T24">is</event>
 <event start="T24" end="T25">cool</event>
 <event start="T25" end="T26">but</event>
@@ -205,7 +202,7 @@
 <event start="T31" end="T32">.</event>
 <event start="T32" end="T33">couple</event>
 <event start="T33" end="T34">with</event>
-<event start="T34" end="T35">naby</event>
+<event start="T34" end="T35">baby</event>
 <event start="T35" end="T36">carriage</event>
 <event start="T36" end="T37">lost</event>
 <event start="T37" end="T38">their</event>
@@ -220,13 +217,14 @@
 <event start="T46" end="T47">,</event>
 <event start="T47" end="T48">and</event>
 <event start="T48" end="T49">it</event>
-<event start="T49" end="T50">mustve</event>
+<event start="T49" end="T71">must</event>
+<event start="T71" end="T50">have</event>
 <event start="T50" end="T51">freaked</event>
 <event start="T51" end="T52">the</event>
 <event start="T52" end="T53">driver</event>
 <event start="T53" end="T54">out</event>
 <event start="T54" end="T55">.</event>
-<event start="T55" end="T56">they</event>
+<event start="T55" end="T56">They</event>
 <event start="T56" end="T57">braked</event>
 <event start="T57" end="T58">hard</event>
 <event start="T58" end="T59">and</event>
@@ -235,15 +233,13 @@
 <event start="T61" end="T62">new</event>
 <event start="T62" end="T63">bumper</event>
 <event start="T63" end="T64">now</event>
-<event start="T64" end="T65">i</event>
+<event start="T64" end="T65">I</event>
 <event start="T65" end="T66">bet</event>
 <event start="T66" end="T67">‎</event>
-<event start="T67" end="T68">‎&lt;Anhang</event>
+<event start="T67" end="T68"><![CDATA[‎<Anhang]]></event>
 <event start="T68" end="T69">:</event>
-<event start="T69" end="T70">00000003-AUDIO-2018-10-31-12-56-38.opus&gt;</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">eng</event>
+<event start="T69" end="T70"><![CDATA[00000003-AUDIO-2018-10-31-12-56-38.opus>]]></event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
 <event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
@@ -313,17 +309,12 @@
 <event start="T67" end="T68">eng</event>
 <event start="T68" end="T69">eng</event>
 <event start="T69" end="T70">eng</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]">
-<event start="T0" end="T10">‎Nachrichten an diese Gruppe sind jetzt mit Ende-zu-Ende-Verschl&#252;sselung gesch&#252;tzt.</event>
+</tier><tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]"><event start="T0" end="T10">‎Nachrichten an diese Gruppe sind jetzt mit Ende-zu-Ende-Verschlüsselung geschützt.</event>
 <event start="T10" end="T66">yooo i just saw a classic ball in street spurred accident. everyone is cool but the drivers are prob pissed. couple with naby carriage lost their soccer ball and a dog bolted for it, and it mustve freaked the driver  out. they braked hard and need a new bumper now i bet</event>
 <event start="T66" end="T67">‎</event>
-<event start="T67" end="T70">‎&lt;Anhang: 00000003-AUDIO-2018-10-31-12-56-38.opus&gt;</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]">
-<event start="T0" end="T10">1</event>
+<event start="T67" end="T70"><![CDATA[‎<Anhang: 00000003-AUDIO-2018-10-31-12-56-38.opus>]]></event>
+</tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T10">1</event>
 <event start="T10" end="T67">2</event>
 <event start="T67" end="T70">3</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
