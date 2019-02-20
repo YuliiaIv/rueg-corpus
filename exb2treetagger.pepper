@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="trttqfob" version="1.0">
+<!-- changing something -->
+<!-- changing even more -->
+  <importer name="EXMARaLDAImporter" path="./tmp/exb/">
+    <customization>
+      <property key="pepper.before.readMeta">meta</property>
+      <property key="mapTimeline">true</property>
+      <property key="mapSpeakerMetadata">false</property>
+    </customization>
+  </importer>
+  <manipulator name="OrderRelationAdder">
+    <customization>
+      <!-- empty list will generate order relations between tokens -->
+      <property key="segmentation-layers">{}</property>
+    </customization>
+  </manipulator>
+  <exporter name="TreetaggerExporter" path="./tmp/treetagger/">
+    <customization>      
+      <property key="treetagger.segmentation.name">norm</property>
+    </customization>
+  </exporter>
+</pepper-job>
