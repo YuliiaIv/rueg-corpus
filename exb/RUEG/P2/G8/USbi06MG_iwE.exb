@@ -104,6 +104,7 @@
 <tli id="T76" time="76.0"/>
 <tli id="T77" time="77.0"/>
 <tli id="T78" time="78.0"/>
+<tli id="T129" time="78.8" type="intp"/>
 <tli id="T79" time="79.0"/>
 <tli id="T80" time="80.0"/>
 <tli id="T81" time="81.0"/>
@@ -360,7 +361,8 @@
 <event start="T75" end="T76">past</event>
 <event start="T76" end="T77">him</event>
 <event start="T77" end="T78">.</event>
-<event start="T78" end="T79">Thats</event>
+<event start="T78" end="T129">That</event>
+<event start="T129" end="T79">'s</event>
 <event start="T79" end="T80">when</event>
 <event start="T80" end="T81">the</event>
 <event start="T81" end="T82">cars</event>
@@ -488,7 +490,8 @@
 <event start="T75" end="T76">eng</event>
 <event start="T76" end="T77">eng</event>
 <event start="T77" end="T78">eng</event>
-<event start="T78" end="T79">eng</event>
+<event start="T78" end="T129">eng</event>
+<event start="T129" end="T79">eng</event>
 <event start="T79" end="T80">eng</event>
 <event start="T80" end="T81">eng</event>
 <event start="T81" end="T82">eng</event>
@@ -544,11 +547,14 @@
 <event start="T3" end="T9">cu</event>
 <event start="T9" end="T20">cu</event>
 <event start="T20" end="T29">cu</event>
-<event start="T29" end="T52">cu</event>
+<event start="T29" end="T44">cu</event>
+<event start="T44" end="T52">cu</event>
 <event start="T52" end="T65">cu</event>
 <event start="T65" end="T78">cu</event>
-<event start="T78" end="T102">cu</event>
+<event start="T78" end="T87">cu</event>
+<event start="T87" end="T102">cu</event>
 <event start="T102" end="T110">cu</event>
 <event start="T110" end="T118">cu</event>
+<event start="T118" end="T127">cu</event>
 </tier></basic-body>
 </basic-transcription>
