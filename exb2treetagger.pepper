@@ -4,8 +4,6 @@
 <!-- changing even more -->
   <importer name="EXMARaLDAImporter" path="./tmp/exb/RUEG/">
     <customization>
-      <property key="pepper.before.readMeta">meta</property>
-      <property key="mapTimeline">true</property>
       <property key="mapSpeakerMetadata">false</property>
     </customization>
   </importer>
