@@ -51,6 +51,7 @@
 <tli id="T23" time="23.0"/>
 <tli id="T24" time="24.0"/>
 <tli id="T73" time="24.5" type="intp"/>
+<tli id="T74" time="24.6" type="intp"/>
 <tli id="T25" time="25.0"/>
 <tli id="T26" time="26.0"/>
 <tli id="T27" time="27.0"/>
@@ -124,7 +125,9 @@
 <event start="T21" end="T22">.</event>
 <event start="T22" end="T23">Da</event>
 <event start="T23" end="T24">ist</event>
-<event start="T24" end="T25">ein.Ball</event>
+<event start="T24" end="T73">ein</event>
+<event start="T73" end="T74">.</event>
+<event start="T74" end="T25">Ball</event>
 <event start="T25" end="T26">auf</event>
 <event start="T26" end="T27">die</event>
 <event start="T27" end="T28">Straße</event>
@@ -197,7 +200,8 @@
 <event start="T22" end="T23">Da</event>
 <event start="T23" end="T24">ist</event>
 <event start="T24" end="T73">ein</event>
-<event start="T73" end="T25">Ball</event>
+<event start="T73" end="T74">.</event>
+<event start="T74" end="T25">Ball</event>
 <event start="T25" end="T26">auf</event>
 <event start="T26" end="T27">die</event>
 <event start="T27" end="T28">Straße</event>
