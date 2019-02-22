@@ -2239,7 +2239,7 @@ item []:
         intervals [10]:
             xmin = 2.38519011973896 
             xmax = 2.588943124623579 
-            text = "H*" 
+            text = "H*+L" 
         intervals [11]:
             xmin = 2.588943124623579 
             xmax = 2.848826903085314 
@@ -2255,7 +2255,7 @@ item []:
         intervals [14]:
             xmin = 3.239391696524453 
             xmax = 3.37860229731746 
-            text = "H*" 
+            text = "H*+L" 
         intervals [15]:
             xmin = 3.37860229731746 
             xmax = 3.5514667525847106 
@@ -2303,11 +2303,11 @@ item []:
         intervals [26]:
             xmin = 7.732995573276375 
             xmax = 7.910228366934671 
-            text = "H*" 
+            text = "H*+L" 
         intervals [27]:
             xmin = 7.910228366934671 
             xmax = 8.282261975422779 
-            text = "" 
+            text = "H-" 
         intervals [28]:
             xmin = 8.282261975422779 
             xmax = 8.702846109816703 
@@ -2323,7 +2323,7 @@ item []:
         intervals [31]:
             xmin = 9.028070395767138 
             xmax = 9.176199894489905 
-            text = "H*" 
+            text = "H*+L" 
         intervals [32]:
             xmin = 9.176199894489905 
             xmax = 9.441498461648857 
@@ -2355,11 +2355,11 @@ item []:
         intervals [39]:
             xmin = 10.63764779941761 
             xmax = 10.993681181942353 
-            text = "L-?" 
+            text = "" 
         intervals [40]:
             xmin = 10.993681181942353 
             xmax = 11.292795497029472 
-            text = "!H*" 
+            text = "!H*+L" 
         intervals [41]:
             xmin = 11.292795497029472 
             xmax = 11.646377186570744 
@@ -2375,7 +2375,7 @@ item []:
         intervals [44]:
             xmin = 12.359703042062986 
             xmax = 12.851617365477566 
-            text = "H*, L-H%" 
+            text = "H*+L, L-H%" 
         intervals [45]:
             xmin = 12.851617365477566 
             xmax = 13.050826696733766 
@@ -2383,7 +2383,7 @@ item []:
         intervals [46]:
             xmin = 13.050826696733766 
             xmax = 13.363778368120034 
-            text = "H*" 
+            text = "H+L*" 
         intervals [47]:
             xmin = 13.363778368120034 
             xmax = 13.499414754703514 
@@ -2435,7 +2435,7 @@ item []:
         intervals [59]:
             xmin = 16.023580690272816 
             xmax = 16.37675817447244 
-            text = "H*, L-L%" 
+            text = "H*+L, L-L%" 
         intervals [60]:
             xmin = 16.37675817447244 
             xmax = 16.503965888927365 
@@ -2443,7 +2443,7 @@ item []:
         intervals [61]:
             xmin = 16.503965888927365 
             xmax = 16.6459775717413 
-            text = "*?" 
+            text = "H*" 
         intervals [62]:
             xmin = 16.6459775717413 
             xmax = 16.844092635420004 
@@ -2535,7 +2535,7 @@ item []:
         intervals [84]:
             xmin = 23.544322530094636 
             xmax = 23.815245355975282 
-            text = "H*" 
+            text = "H*+L" 
         intervals [85]:
             xmin = 23.815245355975282 
             xmax = 24.149088460075248 
@@ -2547,7 +2547,7 @@ item []:
         intervals [87]:
             xmin = 24.397452537731827 
             xmax = 24.62887898379898 
-            text = "H*" 
+            text = "H*+L" 
         intervals [88]:
             xmin = 24.62887898379898 
             xmax = 24.89091017955001 
@@ -2579,7 +2579,7 @@ item []:
         intervals [95]:
             xmin = 27.36404566943477 
             xmax = 27.49724887623982 
-            text = "H*" 
+            text = "H+L*" 
         intervals [96]:
             xmin = 27.49724887623982 
             xmax = 27.805859793744794 
@@ -2619,7 +2619,7 @@ item []:
         intervals [105]:
             xmin = 30.807570300382828 
             xmax = 31.13392403048112 
-            text = "H*" 
+            text = "H*, L-" 
         intervals [106]:
             xmin = 31.13392403048112 
             xmax = 31.30398740372744 
@@ -2699,7 +2699,7 @@ item []:
         intervals [125]:
             xmin = 35.195292277285276 
             xmax = 35.517487786613934 
-            text = "H*" 
+            text = "H*+L" 
         intervals [126]:
             xmin = 35.517487786613934 
             xmax = 35.78613100701734 
@@ -2711,7 +2711,7 @@ item []:
         intervals [128]:
             xmin = 36.287672937522096 
             xmax = 36.52786553684937 
-            text = "H*" 
+            text = "H*+L" 
         intervals [129]:
             xmin = 36.52786553684937 
             xmax = 36.64533199053498 
@@ -2727,7 +2727,7 @@ item []:
         intervals [132]:
             xmin = 38.290021371952 
             xmax = 38.79556083167403 
-            text = "H*, L-L%" 
+            text = "H*+L, L-L%" 
         intervals [133]:
             xmin = 38.79556083167403 
             xmax = 38.86043036579892 
@@ -2775,7 +2775,7 @@ item []:
         intervals [144]:
             xmin = 41.58087681249261 
             xmax = 41.743904790993575 
-            text = "H*" 
+            text = "H*+L" 
         intervals [145]:
             xmin = 41.743904790993575 
             xmax = 41.96130539184454 
@@ -2783,7 +2783,7 @@ item []:
         intervals [146]:
             xmin = 41.96130539184454 
             xmax = 42.58409134370895 
-            text = "H*, L-L%" 
+            text = "H*+L, L-L%" 
         intervals [147]:
             xmin = 42.58409134370895 
             xmax = 42.85745571118993 
@@ -2811,7 +2811,7 @@ item []:
         intervals [153]:
             xmin = 45.02273899667954 
             xmax = 45.32968075972809 
-            text = "H*, L-H%" 
+            text = "L+H*, L-H%" 
         intervals [154]:
             xmin = 45.32968075972809 
             xmax = 45.469062596563994 
@@ -2843,7 +2843,7 @@ item []:
         intervals [161]:
             xmin = 47.434283348943474 
             xmax = 47.63654930749144 
-            text = "H*" 
+            text = "H*+L" 
         intervals [162]:
             xmin = 47.63654930749144 
             xmax = 47.943364671595624 
@@ -2919,7 +2919,7 @@ item []:
         intervals [180]:
             xmin = 52.895628318757495 
             xmax = 53.15982625946883 
-            text = "H*" 
+            text = "H+L*" 
         intervals [181]:
             xmin = 53.15982625946883 
             xmax = 53.36157779730789 
@@ -2935,7 +2935,7 @@ item []:
         intervals [184]:
             xmin = 53.65436731619588 
             xmax = 53.96468914160411 
-            text = "H*" 
+            text = "H+L*" 
         intervals [185]:
             xmin = 53.96468914160411 
             xmax = 54.203574867259626 
@@ -2959,7 +2959,7 @@ item []:
         intervals [190]:
             xmin = 55.218903326592574 
             xmax = 55.50818638417651 
-            text = "H*" 
+            text = "H+L*" 
         intervals [191]:
             xmin = 55.50818638417651 
             xmax = 55.77643067393617 
@@ -2983,7 +2983,7 @@ item []:
         intervals [196]:
             xmin = 58.15276513977736 
             xmax = 58.451444907596276 
-            text = "H*" 
+            text = "H+L*" 
         intervals [197]:
             xmin = 58.451444907596276 
             xmax = 58.678734335384526 
@@ -3015,7 +3015,7 @@ item []:
         intervals [204]:
             xmin = 60.19341706516492 
             xmax = 60.35471428515112 
-            text = "H*" 
+            text = "H+L*" 
         intervals [205]:
             xmin = 60.35471428515112 
             xmax = 60.47201262285142 
@@ -3037,13 +3037,16 @@ item []:
         name = "comment" 
         xmin = 0 
         xmax = 61.86622916666666 
-        points: size = 3 
+        points: size = 4 
         points [1]:
+            number = 8.007369276107317 
+            mark = "phrase accent?" 
+        points [2]:
             number = 37.33747537550276 
             mark = "boundary?" 
-        points [2]:
+        points [3]:
             number = 54.70561238751178 
             mark = "hesitation" 
-        points [3]:
+        points [4]:
             number = 60.560374343277616 
             mark = "?" 
