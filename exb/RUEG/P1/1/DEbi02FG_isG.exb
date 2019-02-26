@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/1/DEbi02FG_isG.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
+<meta-information>
+<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../../textgrid/RUEG/P1/1/DEbi02FG_isG.wav"></referenced-file><ud-meta-information><ud-information attribute-name="sex">u</ud-information><ud-information attribute-name="abbreviation">norm</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information>
+<speakertable>
+<speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"/>
+<sex value="u"></sex>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information>
-</ud-speaker-information>
+<ud-speaker-information></ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"/>
+<sex value="u"></sex>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information>
-</ud-speaker-information>
+<ud-speaker-information></ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable></head>
+</speakertable>
+</head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -158,9 +159,9 @@
 <tli id="T130" time="49.5168620086022"/>
 <tli id="T131" time="49.661527032452085"/>
 <tli id="T132" time="50.02318959207678"/>
-<tli id="T133" time="51.271"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">γεια</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
+<event start="T0" end="T1">γεια</event>
 <event start="T1" end="T2">σου</event>
 <event start="T2" end="T3">Debi02FG_P</event>
 <event start="T3" end="T4">δεν</event>
@@ -292,7 +293,9 @@
 <event start="T129" end="T130">τι</event>
 <event start="T130" end="T131">θα</event>
 <event start="T131" end="T132">γίνει</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">γεια</event>
+</tier>
+<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
+<event start="T0" end="T1">γεια</event>
 <event start="T1" end="T2">σου</event>
 <event start="T2" end="T3">Debi02FG_P</event>
 <event start="T3" end="T4">δεν</event>
@@ -412,7 +415,9 @@
 <event start="T129" end="T130">τι</event>
 <event start="T130" end="T131">θα</event>
 <event start="T131" end="T132">γίνει</event>
-</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">gre</event>
+</tier>
+<tier id="TIE18" speaker="dipl" category="language" type="a" display-name="dipl [language]">
+<event start="T0" end="T1">gre</event>
 <event start="T1" end="T2">gre</event>
 <event start="T2" end="T3">gre</event>
 <event start="T3" end="T4">gre</event>
@@ -544,7 +549,9 @@
 <event start="T129" end="T130">gre</event>
 <event start="T130" end="T131">gre</event>
 <event start="T131" end="T132">gre</event>
-</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T3">γεια σου Debi02FG_P</event>
+</tier>
+<tier id="TIE17" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
+<event start="T0" end="T3">γεια σου Debi02FG_P</event>
 <event start="T3" end="T7">δεν ξες τι έγινε</event>
 <event start="T7" end="T10">ήμουν στο δρόμο</event>
 <event start="T10" end="T15">είδα: (-) ένα τράκαμα (-)</event>
@@ -560,5 +567,862 @@
 <event start="T109" end="T115">και τώρα η έγινε ζημιά (-)</event>
 <event start="T115" end="T121">τώρα θα δούμε τι θα γίνει</event>
 <event start="T121" end="T132">ο: ένας πήρε τώρα την αστυνομία να δούμε τι θα γίνει </event>
-</tier></basic-body>
+</tier>
+<tier id="TIE2" speaker="norm" category="Aspect" type="a" display-name="norm [Aspect]">
+<event start="T6" end="T7">Perf</event>
+<event start="T7" end="T8">Imp</event>
+<event start="T15" end="T16">Imp</event>
+<event start="T18" end="T19">Imp</event>
+<event start="T23" end="T24">Imp</event>
+<event start="T28" end="T29">Imp</event>
+<event start="T37" end="T38">Imp</event>
+<event start="T42" end="T43">Imp</event>
+<event start="T48" end="T49">Perf</event>
+<event start="T56" end="T57">Perf</event>
+<event start="T59" end="T60">Perf</event>
+<event start="T61" end="T62">Perf</event>
+<event start="T68" end="T69">Imp</event>
+<event start="T71" end="T72">Perf</event>
+<event start="T74" end="T75">Imp</event>
+<event start="T81" end="T82">Perf</event>
+<event start="T84" end="T85">Imp</event>
+<event start="T88" end="T89">Perf</event>
+<event start="T96" end="T97">Imp</event>
+<event start="T99" end="T100">Perf</event>
+<event start="T101" end="T102">Imp</event>
+<event start="T112" end="T113">Perf</event>
+<event start="T117" end="T118">Perf</event>
+<event start="T120" end="T121">Perf</event>
+<event start="T123" end="T124">Perf</event>
+<event start="T128" end="T129">Perf</event>
+<event start="T131" end="T132">Perf</event>
+</tier>
+<tier id="TIE3" speaker="norm" category="CU" type="a" display-name="norm [CU]">
+<event start="T0" end="T3">γεια σου Debi02FG_P</event>
+<event start="T3" end="T7">δεν ξες τι έγινε</event>
+<event start="T7" end="T10">ήμουν στο δρόμο</event>
+<event start="T10" end="T14">είδα: (-) ένα τράκαμα (-)</event>
+<event start="T15" end="T21">ήταν έτσι όπως ήταν μια οικογένεια (-)</event>
+<event start="T22" end="T31">και είχαν μια το το παλληκάρι είχε μια μπάλα (-)</event>
+<event start="T33" end="T49">στ/ δίπλα στην στο δρόμο είχε μια άλλη γυναίκα που είχε έναν σκύλο και: (-) κάτι α:γόρασε</event>
+<event start="T49" end="T59">και του σκορ:/ το σκύλο ο σκύλος είδε: την μπάλα</event>
+<event start="T59" end="T64">ήρθε να πιάσει την μπάλα (-)</event>
+<event start="T65" end="T77">κι εκεί που ήθελε πάλι να πιάσει μπάλα του είχε δύο αυτοκίνητα (-) </event>
+<event start="T78" end="T88">και το ένα νόμισε πως θα τράκαρε το: το σκύλο</event>
+<event start="T88" end="T90">έκανε: φρένο</event>
+<event start="T90" end="T108">και το άλλο (UNK) αυτοκίνητο που ήταν πίσω δεν είδε πως κάνει το άλλο φρένο και το τράκαρε (-)</event>
+<event start="T109" end="T114">και τώρα η έγινε ζημιά (-)</event>
+<event start="T115" end="T121">τώρα θα δούμε τι θα γίνει</event>
+<event start="T121" end="T132">ο: ένας πήρε τώρα την αστυνομία να δούμε τι θα γίνει </event>
+</tier>
+<tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]">
+<event start="T0" end="T1">Nom</event>
+<event start="T1" end="T2">Gen</event>
+<event start="T4" end="T5">Nom</event>
+<event start="T5" end="T6">Nom</event>
+<event start="T8" end="T9">Acc</event>
+<event start="T9" end="T10">Acc</event>
+<event start="T12" end="T13">Nom</event>
+<event start="T13" end="T14">Nom</event>
+<event start="T19" end="T20">Nom</event>
+<event start="T20" end="T21">Nom</event>
+<event start="T24" end="T25">Acc</event>
+<event start="T25" end="T26">Acc</event>
+<event start="T26" end="T27">Acc</event>
+<event start="T27" end="T28">Acc</event>
+<event start="T29" end="T30">Acc</event>
+<event start="T30" end="T31">Acc</event>
+<event start="T34" end="T35">Acc</event>
+<event start="T35" end="T36">Acc</event>
+<event start="T36" end="T37">Acc</event>
+<event start="T38" end="T39">Acc</event>
+<event start="T39" end="T40">Acc</event>
+<event start="T40" end="T41">Acc</event>
+<event start="T41" end="T42">Acc</event>
+<event start="T43" end="T44">Acc</event>
+<event start="T44" end="T45">Acc</event>
+<event start="T47" end="T48">Nom</event>
+<event start="T50" end="T51">Gen</event>
+<event start="T52" end="T53">Acc</event>
+<event start="T53" end="T54">Acc</event>
+<event start="T54" end="T55">Nom</event>
+<event start="T55" end="T56">Nom</event>
+<event start="T57" end="T58">Acc</event>
+<event start="T58" end="T59">Acc</event>
+<event start="T62" end="T63">Acc</event>
+<event start="T63" end="T64">Acc</event>
+<event start="T67" end="T68">Nom</event>
+<event start="T72" end="T73">Acc</event>
+<event start="T73" end="T74">Gen</event>
+<event start="T75" end="T76">Acc</event>
+<event start="T76" end="T77">Acc</event>
+<event start="T79" end="T80">Nom</event>
+<event start="T80" end="T81">Nom</event>
+<event start="T85" end="T86">Acc</event>
+<event start="T86" end="T87">Acc</event>
+<event start="T87" end="T88">Acc</event>
+<event start="T89" end="T90">Acc</event>
+<event start="T91" end="T92">Nom</event>
+<event start="T92" end="T93">Nom</event>
+<event start="T94" end="T95">Nom</event>
+<event start="T95" end="T96">Nom</event>
+<event start="T102" end="T103">Acc</event>
+<event start="T103" end="T104">Acc</event>
+<event start="T104" end="T105">Acc</event>
+<event start="T106" end="T107">Acc</event>
+<event start="T111" end="T112">Nom</event>
+<event start="T113" end="T114">Nom</event>
+<event start="T118" end="T119">Nom</event>
+<event start="T121" end="T122">Nom</event>
+<event start="T122" end="T123">Nom</event>
+<event start="T125" end="T126">Acc</event>
+<event start="T126" end="T127">Acc</event>
+<event start="T129" end="T130">Nom</event>
+</tier>
+<tier id="TIE5" speaker="norm" category="Definite" type="a" display-name="norm [Definite]">
+<event start="T12" end="T13">Ind</event>
+<event start="T19" end="T20">Ind</event>
+<event start="T24" end="T25">Ind</event>
+<event start="T26" end="T27">Def</event>
+<event start="T29" end="T30">Ind</event>
+<event start="T38" end="T39">Ind</event>
+<event start="T43" end="T44">Ind</event>
+<event start="T52" end="T53">Def</event>
+<event start="T54" end="T55">Def</event>
+<event start="T57" end="T58">Def</event>
+<event start="T62" end="T63">Def</event>
+<event start="T79" end="T80">Def</event>
+<event start="T85" end="T86">Def</event>
+<event start="T86" end="T87">Def</event>
+<event start="T91" end="T92">Def</event>
+<event start="T102" end="T103">Def</event>
+<event start="T106" end="T107">Def</event>
+<event start="T111" end="T112">Def</event>
+<event start="T121" end="T122">Def</event>
+<event start="T125" end="T126">Def</event>
+</tier>
+<tier id="TIE6" speaker="norm" category="Foreign" type="a" display-name="norm [Foreign]">
+<event start="T2" end="T3">Yes</event>
+<event start="T107" end="T108">Yes</event>
+</tier>
+<tier id="TIE7" speaker="norm" category="Gender" type="a" display-name="norm [Gender]">
+<event start="T0" end="T1">Fem</event>
+<event start="T1" end="T2">Fem</event>
+<event start="T4" end="T5">Masc</event>
+<event start="T5" end="T6">Masc</event>
+<event start="T8" end="T9">Masc</event>
+<event start="T9" end="T10">Masc</event>
+<event start="T12" end="T13">Neut</event>
+<event start="T13" end="T14">Neut</event>
+<event start="T19" end="T20">Fem</event>
+<event start="T20" end="T21">Fem</event>
+<event start="T24" end="T25">Fem</event>
+<event start="T25" end="T26">Neut</event>
+<event start="T26" end="T27">Neut</event>
+<event start="T27" end="T28">Neut</event>
+<event start="T29" end="T30">Fem</event>
+<event start="T30" end="T31">Fem</event>
+<event start="T34" end="T35">Fem</event>
+<event start="T35" end="T36">Neut</event>
+<event start="T36" end="T37">Masc</event>
+<event start="T38" end="T39">Fem</event>
+<event start="T39" end="T40">Fem</event>
+<event start="T40" end="T41">Fem</event>
+<event start="T41" end="T42">Fem</event>
+<event start="T43" end="T44">Masc</event>
+<event start="T44" end="T45">Masc</event>
+<event start="T47" end="T48">Neut</event>
+<event start="T50" end="T51">Masc</event>
+<event start="T52" end="T53">Masc</event>
+<event start="T53" end="T54">Masc</event>
+<event start="T54" end="T55">Masc</event>
+<event start="T55" end="T56">Masc</event>
+<event start="T57" end="T58">Fem</event>
+<event start="T58" end="T59">Fem</event>
+<event start="T62" end="T63">Fem</event>
+<event start="T63" end="T64">Fem</event>
+<event start="T67" end="T68">Neut</event>
+<event start="T72" end="T73">Neut</event>
+<event start="T73" end="T74">Neut</event>
+<event start="T75" end="T76">Neut</event>
+<event start="T76" end="T77">Neut</event>
+<event start="T79" end="T80">Neut</event>
+<event start="T80" end="T81">Neut</event>
+<event start="T85" end="T86">Neut</event>
+<event start="T86" end="T87">Neut</event>
+<event start="T87" end="T88">Neut</event>
+<event start="T89" end="T90">Masc</event>
+<event start="T91" end="T92">Neut</event>
+<event start="T92" end="T93">Neut</event>
+<event start="T94" end="T95">Neut</event>
+<event start="T95" end="T96">Neut</event>
+<event start="T102" end="T103">Neut</event>
+<event start="T103" end="T104">Neut</event>
+<event start="T104" end="T105">Neut</event>
+<event start="T106" end="T107">Neut</event>
+<event start="T111" end="T112">Fem</event>
+<event start="T113" end="T114">Fem</event>
+<event start="T118" end="T119">Neut</event>
+<event start="T121" end="T122">Masc</event>
+<event start="T122" end="T123">Masc</event>
+<event start="T125" end="T126">Fem</event>
+<event start="T126" end="T127">Fem</event>
+<event start="T129" end="T130">Neut</event>
+</tier>
+<tier id="TIE8" speaker="norm" category="Mood" type="a" display-name="norm [Mood]">
+<event start="T6" end="T7">Ind</event>
+<event start="T7" end="T8">Ind</event>
+<event start="T15" end="T16">Ind</event>
+<event start="T18" end="T19">Ind</event>
+<event start="T23" end="T24">Ind</event>
+<event start="T28" end="T29">Ind</event>
+<event start="T37" end="T38">Ind</event>
+<event start="T42" end="T43">Ind</event>
+<event start="T48" end="T49">Ind</event>
+<event start="T56" end="T57">Ind</event>
+<event start="T59" end="T60">Ind</event>
+<event start="T61" end="T62">Ind</event>
+<event start="T68" end="T69">Ind</event>
+<event start="T71" end="T72">Ind</event>
+<event start="T74" end="T75">Ind</event>
+<event start="T81" end="T82">Ind</event>
+<event start="T84" end="T85">Ind</event>
+<event start="T88" end="T89">Ind</event>
+<event start="T96" end="T97">Ind</event>
+<event start="T99" end="T100">Ind</event>
+<event start="T101" end="T102">Ind</event>
+<event start="T112" end="T113">Ind</event>
+<event start="T117" end="T118">Ind</event>
+<event start="T120" end="T121">Ind</event>
+<event start="T123" end="T124">Ind</event>
+<event start="T128" end="T129">Ind</event>
+<event start="T131" end="T132">Ind</event>
+</tier>
+<tier id="TIE9" speaker="norm" category="NumType" type="a" display-name="norm [NumType]">
+<event start="T75" end="T76">Card</event>
+</tier>
+<tier id="TIE10" speaker="norm" category="Number" type="a" display-name="norm [Number]">
+<event start="T0" end="T1">Sing</event>
+<event start="T1" end="T2">Sing</event>
+<event start="T4" end="T5">Plur</event>
+<event start="T5" end="T6">Plur</event>
+<event start="T6" end="T7">Sing</event>
+<event start="T7" end="T8">Plur</event>
+<event start="T8" end="T9">Sing</event>
+<event start="T9" end="T10">Sing</event>
+<event start="T12" end="T13">Sing</event>
+<event start="T13" end="T14">Sing</event>
+<event start="T15" end="T16">Sing</event>
+<event start="T18" end="T19">Sing</event>
+<event start="T19" end="T20">Sing</event>
+<event start="T20" end="T21">Sing</event>
+<event start="T23" end="T24">Plur</event>
+<event start="T24" end="T25">Sing</event>
+<event start="T25" end="T26">Sing</event>
+<event start="T26" end="T27">Sing</event>
+<event start="T27" end="T28">Sing</event>
+<event start="T28" end="T29">Sing</event>
+<event start="T29" end="T30">Sing</event>
+<event start="T30" end="T31">Sing</event>
+<event start="T34" end="T35">Sing</event>
+<event start="T35" end="T36">Sing</event>
+<event start="T36" end="T37">Sing</event>
+<event start="T37" end="T38">Sing</event>
+<event start="T38" end="T39">Sing</event>
+<event start="T39" end="T40">Sing</event>
+<event start="T40" end="T41">Sing</event>
+<event start="T41" end="T42">Sing</event>
+<event start="T42" end="T43">Sing</event>
+<event start="T43" end="T44">Sing</event>
+<event start="T44" end="T45">Sing</event>
+<event start="T47" end="T48">Sing</event>
+<event start="T48" end="T49">Sing</event>
+<event start="T50" end="T51">Sing</event>
+<event start="T52" end="T53">Sing</event>
+<event start="T53" end="T54">Sing</event>
+<event start="T54" end="T55">Sing</event>
+<event start="T55" end="T56">Sing</event>
+<event start="T56" end="T57">Sing</event>
+<event start="T57" end="T58">Sing</event>
+<event start="T58" end="T59">Sing</event>
+<event start="T59" end="T60">Sing</event>
+<event start="T61" end="T62">Sing</event>
+<event start="T62" end="T63">Sing</event>
+<event start="T63" end="T64">Sing</event>
+<event start="T67" end="T68">Sing</event>
+<event start="T68" end="T69">Sing</event>
+<event start="T71" end="T72">Sing</event>
+<event start="T72" end="T73">Plur</event>
+<event start="T73" end="T74">Sing</event>
+<event start="T74" end="T75">Sing</event>
+<event start="T75" end="T76">Plur</event>
+<event start="T76" end="T77">Plur</event>
+<event start="T79" end="T80">Sing</event>
+<event start="T80" end="T81">Sing</event>
+<event start="T81" end="T82">Sing</event>
+<event start="T84" end="T85">Sing</event>
+<event start="T85" end="T86">Sing</event>
+<event start="T86" end="T87">Sing</event>
+<event start="T87" end="T88">Sing</event>
+<event start="T88" end="T89">Sing</event>
+<event start="T89" end="T90">Sing</event>
+<event start="T91" end="T92">Sing</event>
+<event start="T92" end="T93">Sing</event>
+<event start="T94" end="T95">Sing</event>
+<event start="T95" end="T96">Sing</event>
+<event start="T96" end="T97">Sing</event>
+<event start="T99" end="T100">Sing</event>
+<event start="T101" end="T102">Sing</event>
+<event start="T102" end="T103">Sing</event>
+<event start="T103" end="T104">Sing</event>
+<event start="T104" end="T105">Sing</event>
+<event start="T106" end="T107">Sing</event>
+<event start="T111" end="T112">Sing</event>
+<event start="T112" end="T113">Sing</event>
+<event start="T113" end="T114">Sing</event>
+<event start="T117" end="T118">Plur</event>
+<event start="T118" end="T119">Sing</event>
+<event start="T120" end="T121">Sing</event>
+<event start="T121" end="T122">Sing</event>
+<event start="T122" end="T123">Sing</event>
+<event start="T123" end="T124">Sing</event>
+<event start="T125" end="T126">Sing</event>
+<event start="T126" end="T127">Sing</event>
+<event start="T128" end="T129">Plur</event>
+<event start="T129" end="T130">Sing</event>
+<event start="T131" end="T132">Sing</event>
+</tier>
+<tier id="TIE11" speaker="norm" category="Person" type="a" display-name="norm [Person]">
+<event start="T5" end="T6">3</event>
+<event start="T6" end="T7">3</event>
+<event start="T7" end="T8">3</event>
+<event start="T15" end="T16">3</event>
+<event start="T18" end="T19">3</event>
+<event start="T23" end="T24">3</event>
+<event start="T25" end="T26">3</event>
+<event start="T28" end="T29">3</event>
+<event start="T37" end="T38">3</event>
+<event start="T39" end="T40">3</event>
+<event start="T41" end="T42">3</event>
+<event start="T42" end="T43">3</event>
+<event start="T47" end="T48">3</event>
+<event start="T48" end="T49">3</event>
+<event start="T50" end="T51">3</event>
+<event start="T56" end="T57">3</event>
+<event start="T59" end="T60">3</event>
+<event start="T61" end="T62">3</event>
+<event start="T67" end="T68">3</event>
+<event start="T68" end="T69">3</event>
+<event start="T71" end="T72">3</event>
+<event start="T73" end="T74">3</event>
+<event start="T74" end="T75">3</event>
+<event start="T80" end="T81">3</event>
+<event start="T81" end="T82">3</event>
+<event start="T84" end="T85">3</event>
+<event start="T88" end="T89">3</event>
+<event start="T92" end="T93">3</event>
+<event start="T95" end="T96">3</event>
+<event start="T96" end="T97">3</event>
+<event start="T99" end="T100">3</event>
+<event start="T101" end="T102">3</event>
+<event start="T103" end="T104">3</event>
+<event start="T112" end="T113">3</event>
+<event start="T117" end="T118">1</event>
+<event start="T118" end="T119">3</event>
+<event start="T120" end="T121">3</event>
+<event start="T122" end="T123">3</event>
+<event start="T123" end="T124">3</event>
+<event start="T128" end="T129">1</event>
+<event start="T129" end="T130">3</event>
+<event start="T131" end="T132">3</event>
+</tier>
+<tier id="TIE12" speaker="norm" category="Poss" type="a" display-name="norm [Poss]">
+<event start="T50" end="T51">Yes</event>
+<event start="T73" end="T74">Yes</event>
+</tier>
+<tier id="TIE13" speaker="norm" category="PronType" type="a" display-name="norm [PronType]">
+<event start="T5" end="T6">Int</event>
+<event start="T12" end="T13">Art</event>
+<event start="T19" end="T20">Art</event>
+<event start="T24" end="T25">Art</event>
+<event start="T25" end="T26">Prs</event>
+<event start="T26" end="T27">Art</event>
+<event start="T29" end="T30">Art</event>
+<event start="T38" end="T39">Art</event>
+<event start="T39" end="T40">Ind</event>
+<event start="T41" end="T42">Rel</event>
+<event start="T43" end="T44">Art</event>
+<event start="T47" end="T48">Ind</event>
+<event start="T50" end="T51">Prs</event>
+<event start="T52" end="T53">Art</event>
+<event start="T54" end="T55">Art</event>
+<event start="T57" end="T58">Art</event>
+<event start="T62" end="T63">Art</event>
+<event start="T67" end="T68">Rel</event>
+<event start="T73" end="T74">Prs</event>
+<event start="T79" end="T80">Art</event>
+<event start="T80" end="T81">Ind</event>
+<event start="T85" end="T86">Art</event>
+<event start="T86" end="T87">Art</event>
+<event start="T91" end="T92">Art</event>
+<event start="T92" end="T93">Ind</event>
+<event start="T95" end="T96">Rel</event>
+<event start="T102" end="T103">Art</event>
+<event start="T103" end="T104">Ind</event>
+<event start="T106" end="T107">Art</event>
+<event start="T111" end="T112">Art</event>
+<event start="T118" end="T119">Int</event>
+<event start="T121" end="T122">Art</event>
+<event start="T122" end="T123">Ind</event>
+<event start="T125" end="T126">Art</event>
+<event start="T129" end="T130">Int</event>
+</tier>
+<tier id="TIE14" speaker="norm" category="Tense" type="a" display-name="norm [Tense]">
+<event start="T6" end="T7">Past</event>
+<event start="T7" end="T8">Pres</event>
+<event start="T15" end="T16">Past</event>
+<event start="T18" end="T19">Past</event>
+<event start="T23" end="T24">Past</event>
+<event start="T28" end="T29">Past</event>
+<event start="T37" end="T38">Past</event>
+<event start="T42" end="T43">Past</event>
+<event start="T48" end="T49">Past</event>
+<event start="T56" end="T57">Past</event>
+<event start="T59" end="T60">Past</event>
+<event start="T68" end="T69">Past</event>
+<event start="T74" end="T75">Past</event>
+<event start="T81" end="T82">Past</event>
+<event start="T84" end="T85">Past</event>
+<event start="T88" end="T89">Past</event>
+<event start="T96" end="T97">Past</event>
+<event start="T99" end="T100">Past</event>
+<event start="T101" end="T102">Pres</event>
+<event start="T112" end="T113">Past</event>
+<event start="T123" end="T124">Past</event>
+</tier>
+<tier id="TIE15" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]">
+<event start="T6" end="T7">Fin</event>
+<event start="T7" end="T8">Fin</event>
+<event start="T15" end="T16">Fin</event>
+<event start="T18" end="T19">Fin</event>
+<event start="T23" end="T24">Fin</event>
+<event start="T28" end="T29">Fin</event>
+<event start="T37" end="T38">Fin</event>
+<event start="T42" end="T43">Fin</event>
+<event start="T48" end="T49">Fin</event>
+<event start="T56" end="T57">Fin</event>
+<event start="T59" end="T60">Fin</event>
+<event start="T61" end="T62">Fin</event>
+<event start="T68" end="T69">Fin</event>
+<event start="T71" end="T72">Fin</event>
+<event start="T74" end="T75">Fin</event>
+<event start="T81" end="T82">Fin</event>
+<event start="T84" end="T85">Fin</event>
+<event start="T88" end="T89">Fin</event>
+<event start="T96" end="T97">Fin</event>
+<event start="T99" end="T100">Fin</event>
+<event start="T101" end="T102">Fin</event>
+<event start="T112" end="T113">Fin</event>
+<event start="T117" end="T118">Fin</event>
+<event start="T120" end="T121">Fin</event>
+<event start="T123" end="T124">Fin</event>
+<event start="T128" end="T129">Fin</event>
+<event start="T131" end="T132">Fin</event>
+</tier>
+<tier id="TIE16" speaker="norm" category="Voice" type="a" display-name="norm [Voice]">
+<event start="T6" end="T7">Pass</event>
+<event start="T7" end="T8">Act</event>
+<event start="T15" end="T16">Pass</event>
+<event start="T18" end="T19">Pass</event>
+<event start="T23" end="T24">Act</event>
+<event start="T28" end="T29">Act</event>
+<event start="T37" end="T38">Act</event>
+<event start="T42" end="T43">Act</event>
+<event start="T48" end="T49">Act</event>
+<event start="T56" end="T57">Act</event>
+<event start="T59" end="T60">Pass</event>
+<event start="T61" end="T62">Act</event>
+<event start="T68" end="T69">Act</event>
+<event start="T71" end="T72">Act</event>
+<event start="T74" end="T75">Act</event>
+<event start="T81" end="T82">Act</event>
+<event start="T84" end="T85">Act</event>
+<event start="T88" end="T89">Act</event>
+<event start="T96" end="T97">Pass</event>
+<event start="T99" end="T100">Act</event>
+<event start="T101" end="T102">Act</event>
+<event start="T112" end="T113">Pass</event>
+<event start="T117" end="T118">Act</event>
+<event start="T120" end="T121">Pass</event>
+<event start="T123" end="T124">Act</event>
+<event start="T128" end="T129">Act</event>
+<event start="T131" end="T132">Pass</event>
+</tier>
+<tier id="TIE19" speaker="norm" category="lemma" type="a" display-name="norm [lemma]">
+<event start="T0" end="T1">γεια</event>
+<event start="T1" end="T2">σου</event>
+<event start="T2" end="T3">Debi02FG_P</event>
+<event start="T3" end="T4">δεν</event>
+<event start="T4" end="T5">ξα</event>
+<event start="T5" end="T6">τι</event>
+<event start="T6" end="T7">γίνομαι</event>
+<event start="T7" end="T8">ήμω</event>
+<event start="T8" end="T9">στου</event>
+<event start="T9" end="T10">δρόμος</event>
+<event start="T10" end="T11">είδα</event>
+<event start="T12" end="T13">ένας</event>
+<event start="T13" end="T14">τράκαμα</event>
+<event start="T15" end="T16">είμαι</event>
+<event start="T16" end="T17">έτσι</event>
+<event start="T17" end="T18">όπως</event>
+<event start="T18" end="T19">είμαι</event>
+<event start="T19" end="T20">ένας</event>
+<event start="T20" end="T21">οικογένεια</event>
+<event start="T22" end="T23">και</event>
+<event start="T23" end="T24">έχω</event>
+<event start="T24" end="T25">ένας</event>
+<event start="T25" end="T26">εγώ</event>
+<event start="T26" end="T27">ο</event>
+<event start="T27" end="T28">παλληκάρι</event>
+<event start="T28" end="T29">έχω</event>
+<event start="T29" end="T30">ένας</event>
+<event start="T30" end="T31">μπάλα</event>
+<event start="T33" end="T34">δίπλος</event>
+<event start="T34" end="T35">στου</event>
+<event start="T35" end="T36">στου</event>
+<event start="T36" end="T37">δρόμος</event>
+<event start="T37" end="T38">έχω</event>
+<event start="T38" end="T39">ένας</event>
+<event start="T39" end="T40">άλλος</event>
+<event start="T40" end="T41">γυναίκα</event>
+<event start="T41" end="T42">που</event>
+<event start="T42" end="T43">έχω</event>
+<event start="T43" end="T44">ένας</event>
+<event start="T44" end="T45">σκύλο</event>
+<event start="T45" end="T46">και</event>
+<event start="T47" end="T48">κάτι</event>
+<event start="T48" end="T49">αγόρασε</event>
+<event start="T49" end="T50">και</event>
+<event start="T50" end="T51">ο</event>
+<event start="T52" end="T53">ο</event>
+<event start="T53" end="T54">σκύλο</event>
+<event start="T54" end="T55">ο</event>
+<event start="T55" end="T56">σκύλος</event>
+<event start="T56" end="T57">είδε</event>
+<event start="T57" end="T58">ο</event>
+<event start="T58" end="T59">μπάλα</event>
+<event start="T59" end="T60">έρχομαι</event>
+<event start="T60" end="T61">να</event>
+<event start="T61" end="T62">πιάνω</event>
+<event start="T62" end="T63">ο</event>
+<event start="T63" end="T64">μπάλα</event>
+<event start="T65" end="T66">και</event>
+<event start="T66" end="T67">εκεί</event>
+<event start="T67" end="T68">που</event>
+<event start="T68" end="T69">θέλω</event>
+<event start="T69" end="T70">πάλι</event>
+<event start="T70" end="T71">να</event>
+<event start="T71" end="T72">πιάνω</event>
+<event start="T72" end="T73">μπάλα</event>
+<event start="T73" end="T74">εγώ</event>
+<event start="T74" end="T75">έχω</event>
+<event start="T75" end="T76">δύο</event>
+<event start="T76" end="T77">αυτοκίνητο</event>
+<event start="T78" end="T79">και</event>
+<event start="T79" end="T80">ο</event>
+<event start="T80" end="T81">ένας</event>
+<event start="T81" end="T82">νόμισε</event>
+<event start="T82" end="T83">πως</event>
+<event start="T83" end="T84">θα</event>
+<event start="T84" end="T85">τράκαρος</event>
+<event start="T85" end="T86">εγώ</event>
+<event start="T86" end="T87">ο</event>
+<event start="T87" end="T88">σκύλο</event>
+<event start="T88" end="T89">κάνω</event>
+<event start="T89" end="T90">φρένο</event>
+<event start="T90" end="T91">και</event>
+<event start="T91" end="T92">ο</event>
+<event start="T92" end="T93">άλλος</event>
+<event start="T94" end="T95">αυτοκίνητο</event>
+<event start="T95" end="T96">που</event>
+<event start="T96" end="T97">είμαι</event>
+<event start="T97" end="T98">πίνω</event>
+<event start="T98" end="T99">δεν</event>
+<event start="T99" end="T100">είδε</event>
+<event start="T100" end="T101">πως</event>
+<event start="T101" end="T102">κάνω</event>
+<event start="T102" end="T103">ο</event>
+<event start="T103" end="T104">άλλος</event>
+<event start="T104" end="T105">φρένο</event>
+<event start="T105" end="T106">και</event>
+<event start="T106" end="T107">ο</event>
+<event start="T107" end="T108">τράκαρος</event>
+<event start="T109" end="T110">και</event>
+<event start="T110" end="T111">τώρα</event>
+<event start="T111" end="T112">ο</event>
+<event start="T112" end="T113">γίνομαι</event>
+<event start="T113" end="T114">ζημιά</event>
+<event start="T115" end="T116">τώρα</event>
+<event start="T116" end="T117">θα</event>
+<event start="T117" end="T118">βλέπω</event>
+<event start="T118" end="T119">τι</event>
+<event start="T119" end="T120">θα</event>
+<event start="T120" end="T121">γίνομαι</event>
+<event start="T121" end="T122">ο</event>
+<event start="T122" end="T123">ένας</event>
+<event start="T123" end="T124">παίρνω</event>
+<event start="T124" end="T125">τώρα</event>
+<event start="T125" end="T126">ο</event>
+<event start="T126" end="T127">αστυνομία</event>
+<event start="T127" end="T128">να</event>
+<event start="T128" end="T129">βλέπω</event>
+<event start="T129" end="T130">τι</event>
+<event start="T130" end="T131">θα</event>
+<event start="T131" end="T132">γίνομαι</event>
+</tier>
+<tier id="TIE20" speaker="norm" category="pos" type="a" display-name="norm [pos]">
+<event start="T0" end="T1">NOUN</event>
+<event start="T1" end="T2">NOUN</event>
+<event start="T2" end="T3">X</event>
+<event start="T3" end="T4">PART</event>
+<event start="T4" end="T5">NOUN</event>
+<event start="T5" end="T6">PRON</event>
+<event start="T6" end="T7">VERB</event>
+<event start="T7" end="T8">VERB</event>
+<event start="T8" end="T9">ADP</event>
+<event start="T9" end="T10">NOUN</event>
+<event start="T10" end="T11">ADV</event>
+<event start="T12" end="T13">DET</event>
+<event start="T13" end="T14">NOUN</event>
+<event start="T15" end="T16">AUX</event>
+<event start="T16" end="T17">ADV</event>
+<event start="T17" end="T18">ADV</event>
+<event start="T18" end="T19">AUX</event>
+<event start="T19" end="T20">DET</event>
+<event start="T20" end="T21">NOUN</event>
+<event start="T22" end="T23">CCONJ</event>
+<event start="T23" end="T24">VERB</event>
+<event start="T24" end="T25">DET</event>
+<event start="T25" end="T26">PRON</event>
+<event start="T26" end="T27">DET</event>
+<event start="T27" end="T28">NOUN</event>
+<event start="T28" end="T29">VERB</event>
+<event start="T29" end="T30">DET</event>
+<event start="T30" end="T31">NOUN</event>
+<event start="T33" end="T34">ADV</event>
+<event start="T34" end="T35">ADP</event>
+<event start="T35" end="T36">ADP</event>
+<event start="T36" end="T37">NOUN</event>
+<event start="T37" end="T38">VERB</event>
+<event start="T38" end="T39">DET</event>
+<event start="T39" end="T40">PRON</event>
+<event start="T40" end="T41">NOUN</event>
+<event start="T41" end="T42">PRON</event>
+<event start="T42" end="T43">VERB</event>
+<event start="T43" end="T44">DET</event>
+<event start="T44" end="T45">PROPN</event>
+<event start="T45" end="T46">CCONJ</event>
+<event start="T47" end="T48">PRON</event>
+<event start="T48" end="T49">VERB</event>
+<event start="T49" end="T50">CCONJ</event>
+<event start="T50" end="T51">PRON</event>
+<event start="T52" end="T53">DET</event>
+<event start="T53" end="T54">NOUN</event>
+<event start="T54" end="T55">DET</event>
+<event start="T55" end="T56">NOUN</event>
+<event start="T56" end="T57">VERB</event>
+<event start="T57" end="T58">DET</event>
+<event start="T58" end="T59">NOUN</event>
+<event start="T59" end="T60">VERB</event>
+<event start="T60" end="T61">PART</event>
+<event start="T61" end="T62">VERB</event>
+<event start="T62" end="T63">DET</event>
+<event start="T63" end="T64">NOUN</event>
+<event start="T65" end="T66">CCONJ</event>
+<event start="T66" end="T67">ADV</event>
+<event start="T67" end="T68">PRON</event>
+<event start="T68" end="T69">VERB</event>
+<event start="T69" end="T70">ADV</event>
+<event start="T70" end="T71">PART</event>
+<event start="T71" end="T72">VERB</event>
+<event start="T72" end="T73">NOUN</event>
+<event start="T73" end="T74">PRON</event>
+<event start="T74" end="T75">VERB</event>
+<event start="T75" end="T76">NUM</event>
+<event start="T76" end="T77">NOUN</event>
+<event start="T78" end="T79">CCONJ</event>
+<event start="T79" end="T80">DET</event>
+<event start="T80" end="T81">PRON</event>
+<event start="T81" end="T82">VERB</event>
+<event start="T82" end="T83">SCONJ</event>
+<event start="T83" end="T84">PART</event>
+<event start="T84" end="T85">VERB</event>
+<event start="T85" end="T86">DET</event>
+<event start="T86" end="T87">DET</event>
+<event start="T87" end="T88">NOUN</event>
+<event start="T88" end="T89">VERB</event>
+<event start="T89" end="T90">NOUN</event>
+<event start="T90" end="T91">CCONJ</event>
+<event start="T91" end="T92">DET</event>
+<event start="T92" end="T93">PRON</event>
+<event start="T94" end="T95">NOUN</event>
+<event start="T95" end="T96">PRON</event>
+<event start="T96" end="T97">VERB</event>
+<event start="T97" end="T98">ADV</event>
+<event start="T98" end="T99">PART</event>
+<event start="T99" end="T100">VERB</event>
+<event start="T100" end="T101">SCONJ</event>
+<event start="T101" end="T102">VERB</event>
+<event start="T102" end="T103">DET</event>
+<event start="T103" end="T104">PRON</event>
+<event start="T104" end="T105">NOUN</event>
+<event start="T105" end="T106">CCONJ</event>
+<event start="T106" end="T107">DET</event>
+<event start="T107" end="T108">X</event>
+<event start="T109" end="T110">CCONJ</event>
+<event start="T110" end="T111">ADV</event>
+<event start="T111" end="T112">DET</event>
+<event start="T112" end="T113">VERB</event>
+<event start="T113" end="T114">NOUN</event>
+<event start="T115" end="T116">ADV</event>
+<event start="T116" end="T117">PART</event>
+<event start="T117" end="T118">VERB</event>
+<event start="T118" end="T119">PRON</event>
+<event start="T119" end="T120">PART</event>
+<event start="T120" end="T121">VERB</event>
+<event start="T121" end="T122">DET</event>
+<event start="T122" end="T123">PRON</event>
+<event start="T123" end="T124">VERB</event>
+<event start="T124" end="T125">ADV</event>
+<event start="T125" end="T126">DET</event>
+<event start="T126" end="T127">NOUN</event>
+<event start="T127" end="T128">PART</event>
+<event start="T128" end="T129">VERB</event>
+<event start="T129" end="T130">PRON</event>
+<event start="T130" end="T131">PART</event>
+<event start="T131" end="T132">VERB</event>
+</tier>
+<tier id="TIE21" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_1_1]">
+<event start="T0" end="T1">VbMnIdPr01SgIpPv</event>
+<event start="T1" end="T2">PnPeMa02SgGeWe</event>
+<event start="T2" end="T3">RgFwOr</event>
+<event start="T3" end="T4">PtNg</event>
+<event start="T4" end="T5">VbMnIdPa01SgPeAv</event>
+<event start="T5" end="T6">PnIrNe03SgAc</event>
+<event start="T6" end="T7">VbMnIdPa03SgPePv</event>
+<event start="T7" end="T8">VbMnIdPa01SgIpPv</event>
+<event start="T8" end="T9">AsPpPaMaSgAc</event>
+<event start="T9" end="T10">NoCmMaSgAc</event>
+<event start="T10" end="T11">VbMnIdPa01SgPeAv</event>
+<event start="T12" end="T13">AtIdNeSgAc</event>
+<event start="T13" end="T14">NoCmNeSgAc</event>
+<event start="T15" end="T16">VbMnIdPa03SgIpPv</event>
+<event start="T16" end="T17">AdBa</event>
+<event start="T17" end="T18">AdBa</event>
+<event start="T18" end="T19">VbMnIdPa03PlIpPv</event>
+<event start="T19" end="T20">AtIdFeSgAc</event>
+<event start="T20" end="T21">NoCmFeSgAc</event>
+<event start="T22" end="T23">CjCo</event>
+<event start="T23" end="T24">VbMnIdPa03PlIpAv</event>
+<event start="T24" end="T25">AtIdFeSgAc</event>
+<event start="T25" end="T26">AtDfNeSgNm</event>
+<event start="T26" end="T27">AjBaNeSgNm</event>
+<event start="T27" end="T28">NoCmNeSgNm</event>
+<event start="T28" end="T29">VbMnIdPa03SgIpAv</event>
+<event start="T29" end="T30">AtIdFeSgAc</event>
+<event start="T30" end="T31">NoCmFeSgAc</event>
+<event start="T33" end="T34">AdBa</event>
+<event start="T34" end="T35">AsPpPaFeSgAc</event>
+<event start="T35" end="T36">AsPpPaMaSgAc</event>
+<event start="T36" end="T37">NoCmMaSgAc</event>
+<event start="T37" end="T38">VbMnIdPa03SgIpAv</event>
+<event start="T38" end="T39">AtIdFeSgAc</event>
+<event start="T39" end="T40">PnIdFe03SgAc</event>
+<event start="T40" end="T41">NoCmFeSgAc</event>
+<event start="T41" end="T42">PnReFe03SgNm</event>
+<event start="T42" end="T43">VbMnIdPa03SgIpAv</event>
+<event start="T43" end="T44">AtIdMaSgAc</event>
+<event start="T44" end="T45">NoCmMaSgAc</event>
+<event start="T45" end="T46">CjCo</event>
+<event start="T47" end="T48">PnIdNe03SgNm</event>
+<event start="T48" end="T49">VbMnIdPa03SgPeAv</event>
+<event start="T49" end="T50">CjCo</event>
+<event start="T50" end="T51">PnPeMa03SgGeWe</event>
+<event start="T52" end="T53">AtDfNeSgAc</event>
+<event start="T53" end="T54">NoCmNeSgAc</event>
+<event start="T54" end="T55">AtDfMaSgNm</event>
+<event start="T55" end="T56">NoCmMaSgNm</event>
+<event start="T56" end="T57">VbMnIdPa03SgPeAv</event>
+<event start="T57" end="T58">AtDfFeSgAc</event>
+<event start="T58" end="T59">NoCmFeSgAc</event>
+<event start="T59" end="T60">VbMnIdPa03SgPePv</event>
+<event start="T60" end="T61">PtSj</event>
+<event start="T61" end="T62">VbMnId03SgPeAv</event>
+<event start="T62" end="T63">AtDfFeSgAc</event>
+<event start="T63" end="T64">NoCmFeSgAc</event>
+<event start="T65" end="T66">CjCo</event>
+<event start="T66" end="T67">AdBa</event>
+<event start="T67" end="T68">AdBa</event>
+<event start="T68" end="T69">VbMnIdPa03SgIpAv</event>
+<event start="T69" end="T70">AdBa</event>
+<event start="T70" end="T71">PtSj</event>
+<event start="T71" end="T72">VbMnId03SgPeAv</event>
+<event start="T72" end="T73">NoCmFeSgAc</event>
+<event start="T73" end="T74">PnPoMa03SgGe</event>
+<event start="T74" end="T75">VbMnIdPa03SgIpAv</event>
+<event start="T75" end="T76">NmCdNePlAcAj</event>
+<event start="T76" end="T77">NoCmNePlAc</event>
+<event start="T78" end="T79">CjCo</event>
+<event start="T79" end="T80">AtDfNeSgNm</event>
+<event start="T80" end="T81">PnIdNe03SgNm</event>
+<event start="T81" end="T82">VbMnIdPa03SgPeAv</event>
+<event start="T82" end="T83">CjSb</event>
+<event start="T83" end="T84">PtFu</event>
+<event start="T84" end="T85">VbMnIdPa03SgPeAv</event>
+<event start="T85" end="T86">AtDfNeSgAc</event>
+<event start="T86" end="T87">AtDfNeSgAc</event>
+<event start="T87" end="T88">NoCmNeSgAc</event>
+<event start="T88" end="T89">VbMnIdPa03SgPeAv</event>
+<event start="T89" end="T90">NoCmNeSgAc</event>
+<event start="T90" end="T91">CjCo</event>
+<event start="T91" end="T92">AtDfNeSgNm</event>
+<event start="T92" end="T93">PnIdNe03SgAc</event>
+<event start="T94" end="T95">NoCmNeSgNm</event>
+<event start="T95" end="T96">PnReNe03SgNm</event>
+<event start="T96" end="T97">VbMnIdPa03SgIpPv</event>
+<event start="T97" end="T98">AdBa</event>
+<event start="T98" end="T99">PtNg</event>
+<event start="T99" end="T100">VbMnIdPa03SgPeAv</event>
+<event start="T100" end="T101">CjSb</event>
+<event start="T101" end="T102">VbMnIdPr03SgIpAv</event>
+<event start="T102" end="T103">AtDfNeSgAc</event>
+<event start="T103" end="T104">PnIdNe03SgAc</event>
+<event start="T104" end="T105">NoCmNeSgAc</event>
+<event start="T105" end="T106">CjCo</event>
+<event start="T106" end="T107">PnPeNe03SgAcWe</event>
+<event start="T107" end="T108">VbMnIdPa03SgPeAv</event>
+<event start="T109" end="T110">CjCo</event>
+<event start="T110" end="T111">AdBa</event>
+<event start="T111" end="T112">AtDfFeSgNm</event>
+<event start="T112" end="T113">VbMnIdPa03SgPePv</event>
+<event start="T113" end="T114">NoCmFeSgNm</event>
+<event start="T115" end="T116">AdBa</event>
+<event start="T116" end="T117">PtFu</event>
+<event start="T117" end="T118">VbMnId01PlPeAv</event>
+<event start="T118" end="T119">PnIrNe03SgAc</event>
+<event start="T119" end="T120">PtFu</event>
+<event start="T120" end="T121">VbMnId03SgPePv</event>
+<event start="T121" end="T122">AtDfMaSgNm</event>
+<event start="T122" end="T123">PnIdMa03SgNm</event>
+<event start="T123" end="T124">VbMnIdPa03SgPeAv</event>
+<event start="T124" end="T125">AdBa</event>
+<event start="T125" end="T126">AtDfFeSgAc</event>
+<event start="T126" end="T127">NoCmFeSgAc</event>
+<event start="T127" end="T128">PtSj</event>
+<event start="T128" end="T129">VbMnId01PlPeAv</event>
+<event start="T129" end="T130">PnIrNe03SgAc</event>
+<event start="T130" end="T131">PtFu</event>
+<event start="T131" end="T132">VbMnId03SgPePv</event>
+</tier>
+</basic-body>
 </basic-transcription>

@@ -1,28 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P1/1/Debi04MG_isG.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
+<meta-information>
+<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../../textgrid/RUEG/P1/1/Debi04MG_isG.wav"></referenced-file><ud-meta-information><ud-information attribute-name="sex">u</ud-information><ud-information attribute-name="abbreviation">norm</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information>
+<speakertable>
+<speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"/>
+<sex value="u"></sex>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information>
-</ud-speaker-information>
+<ud-speaker-information></ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"/>
+<sex value="u"></sex>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information>
-</ud-speaker-information>
+<ud-speaker-information></ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable></head>
+</speakertable>
+</head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -49,7 +50,8 @@
 <tli id="T21" time="6.114154211791048"/>
 <tli id="T22" time="6.920702947845805"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">έλα</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
+<event start="T0" end="T1">έλα</event>
 <event start="T1" end="T2">μπέιμπι</event>
 <event start="T2" end="T3">είναι</event>
 <event start="T3" end="T4">δυο</event>
@@ -71,7 +73,9 @@
 <event start="T19" end="T20">τράκαραν</event>
 <event start="T20" end="T21">δύο</event>
 <event start="T21" end="T22">αυτοκίνητα</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">έλα</event>
+</tier>
+<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
+<event start="T0" end="T1">έλα</event>
 <event start="T1" end="T2">μπέιμπι</event>
 <event start="T2" end="T3">είναι</event>
 <event start="T3" end="T4">δυο</event>
@@ -93,7 +97,9 @@
 <event start="T19" end="T20">τράκαραν</event>
 <event start="T20" end="T21">δύο</event>
 <event start="T21" end="T22">αυτοκίνητα</event>
-</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">gre</event>
+</tier>
+<tier id="TIE17" speaker="dipl" category="language" type="a" display-name="dipl [language]">
+<event start="T0" end="T1">gre</event>
 <event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">gre</event>
 <event start="T3" end="T4">gre</event>
@@ -115,9 +121,197 @@
 <event start="T19" end="T20">gre</event>
 <event start="T20" end="T21">gre</event>
 <event start="T21" end="T22">gre</event>
-</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T2">έλα μπέιμπι</event>
+</tier>
+<tier id="TIE16" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
+<event start="T0" end="T2">έλα μπέιμπι</event>
 <event start="T2" end="T11">είναι δυο βλάκες εδώ πέρα που περάσαν το δρόμο</event>
 <event start="T11" end="T18">έπεσε η μπάλα του πάνω στο δρόμο</event>
 <event start="T18" end="T22">και τράκαραν δύο αυτοκίνητα</event>
-</tier></basic-body>
+</tier>
+<tier id="TIE2" speaker="norm" category="Aspect" type="a" display-name="norm [Aspect]">
+<event start="T2" end="T3">Imp</event>
+<event start="T8" end="T9">Perf</event>
+<event start="T11" end="T12">Perf</event>
+<event start="T19" end="T20">Imp</event>
+</tier>
+<tier id="TIE3" speaker="norm" category="CU" type="a" display-name="norm [CU]">
+<event start="T0" end="T2">έλα μπέιμπι</event>
+<event start="T2" end="T11">είναι δυο βλάκες εδώ πέρα που περάσαν το δρόμο</event>
+<event start="T11" end="T18">έπεσε η μπάλα του πάνω στο δρόμο</event>
+<event start="T18" end="T22">και τράκαραν δύο αυτοκίνητα</event>
+</tier>
+<tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]">
+<event start="T0" end="T1">Nom</event>
+<event start="T1" end="T2">Nom</event>
+<event start="T3" end="T4">Nom</event>
+<event start="T4" end="T5">Nom</event>
+<event start="T7" end="T8">Acc</event>
+<event start="T9" end="T10">Acc</event>
+<event start="T10" end="T11">Acc</event>
+<event start="T12" end="T13">Nom</event>
+<event start="T13" end="T14">Acc</event>
+<event start="T14" end="T15">Gen</event>
+<event start="T16" end="T17">Acc</event>
+<event start="T17" end="T18">Acc</event>
+<event start="T20" end="T21">Acc</event>
+<event start="T21" end="T22">Acc</event>
+</tier>
+<tier id="TIE5" speaker="norm" category="Definite" type="a" display-name="norm [Definite]">
+<event start="T9" end="T10">Def</event>
+<event start="T12" end="T13">Def</event>
+</tier>
+<tier id="TIE6" speaker="norm" category="Gender" type="a" display-name="norm [Gender]">
+<event start="T0" end="T1">Neut</event>
+<event start="T1" end="T2">Neut</event>
+<event start="T3" end="T4">Fem</event>
+<event start="T4" end="T5">Fem</event>
+<event start="T7" end="T8">Neut</event>
+<event start="T9" end="T10">Masc</event>
+<event start="T10" end="T11">Masc</event>
+<event start="T12" end="T13">Fem</event>
+<event start="T13" end="T14">Fem</event>
+<event start="T14" end="T15">Masc</event>
+<event start="T16" end="T17">Masc</event>
+<event start="T17" end="T18">Masc</event>
+<event start="T20" end="T21">Neut</event>
+<event start="T21" end="T22">Neut</event>
+</tier>
+<tier id="TIE7" speaker="norm" category="Mood" type="a" display-name="norm [Mood]">
+<event start="T2" end="T3">Ind</event>
+<event start="T8" end="T9">Ind</event>
+<event start="T11" end="T12">Ind</event>
+<event start="T19" end="T20">Ind</event>
+</tier>
+<tier id="TIE8" speaker="norm" category="NumType" type="a" display-name="norm [NumType]">
+<event start="T3" end="T4">Card</event>
+<event start="T20" end="T21">Card</event>
+</tier>
+<tier id="TIE9" speaker="norm" category="Number" type="a" display-name="norm [Number]">
+<event start="T0" end="T1">Plur</event>
+<event start="T1" end="T2">Sing</event>
+<event start="T2" end="T3">Sing</event>
+<event start="T3" end="T4">Plur</event>
+<event start="T4" end="T5">Plur</event>
+<event start="T7" end="T8">Sing</event>
+<event start="T8" end="T9">Plur</event>
+<event start="T9" end="T10">Sing</event>
+<event start="T10" end="T11">Sing</event>
+<event start="T11" end="T12">Sing</event>
+<event start="T12" end="T13">Sing</event>
+<event start="T13" end="T14">Sing</event>
+<event start="T14" end="T15">Sing</event>
+<event start="T16" end="T17">Sing</event>
+<event start="T17" end="T18">Sing</event>
+<event start="T19" end="T20">Plur</event>
+<event start="T20" end="T21">Plur</event>
+<event start="T21" end="T22">Plur</event>
+</tier>
+<tier id="TIE10" speaker="norm" category="Person" type="a" display-name="norm [Person]">
+<event start="T2" end="T3">3</event>
+<event start="T7" end="T8">3</event>
+<event start="T8" end="T9">3</event>
+<event start="T11" end="T12">3</event>
+<event start="T14" end="T15">3</event>
+<event start="T19" end="T20">3</event>
+</tier>
+<tier id="TIE11" speaker="norm" category="Poss" type="a" display-name="norm [Poss]">
+<event start="T14" end="T15">Yes</event>
+</tier>
+<tier id="TIE12" speaker="norm" category="PronType" type="a" display-name="norm [PronType]">
+<event start="T7" end="T8">Rel</event>
+<event start="T9" end="T10">Art</event>
+<event start="T12" end="T13">Art</event>
+<event start="T14" end="T15">Prs</event>
+</tier>
+<tier id="TIE13" speaker="norm" category="Tense" type="a" display-name="norm [Tense]">
+<event start="T2" end="T3">Pres</event>
+<event start="T8" end="T9">Past</event>
+<event start="T11" end="T12">Past</event>
+<event start="T19" end="T20">Past</event>
+</tier>
+<tier id="TIE14" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]">
+<event start="T2" end="T3">Fin</event>
+<event start="T8" end="T9">Fin</event>
+<event start="T11" end="T12">Fin</event>
+<event start="T19" end="T20">Fin</event>
+</tier>
+<tier id="TIE15" speaker="norm" category="Voice" type="a" display-name="norm [Voice]">
+<event start="T2" end="T3">Pass</event>
+<event start="T8" end="T9">Act</event>
+<event start="T11" end="T12">Act</event>
+<event start="T19" end="T20">Act</event>
+</tier>
+<tier id="TIE18" speaker="norm" category="lemma" type="a" display-name="norm [lemma]">
+<event start="T0" end="T1">έλας</event>
+<event start="T1" end="T2">μπέιμπι</event>
+<event start="T2" end="T3">είμαι</event>
+<event start="T3" end="T4">δύο</event>
+<event start="T4" end="T5">βλάκη</event>
+<event start="T5" end="T6">εδώ</event>
+<event start="T6" end="T7">πέρα</event>
+<event start="T7" end="T8">που</event>
+<event start="T8" end="T9">περάσαν</event>
+<event start="T9" end="T10">ο</event>
+<event start="T10" end="T11">δρόμος</event>
+<event start="T11" end="T12">πέφτω</event>
+<event start="T12" end="T13">ο</event>
+<event start="T13" end="T14">μπάλα</event>
+<event start="T14" end="T15">μου</event>
+<event start="T15" end="T16">πάνω</event>
+<event start="T16" end="T17">στου</event>
+<event start="T17" end="T18">δρόμος</event>
+<event start="T18" end="T19">και</event>
+<event start="T19" end="T20">τράκαραν</event>
+<event start="T20" end="T21">δύο</event>
+<event start="T21" end="T22">αυτοκίνητο</event>
+</tier>
+<tier id="TIE19" speaker="norm" category="pos" type="a" display-name="norm [pos]">
+<event start="T0" end="T1">ADJ</event>
+<event start="T1" end="T2">NOUN</event>
+<event start="T2" end="T3">AUX</event>
+<event start="T3" end="T4">NUM</event>
+<event start="T4" end="T5">NOUN</event>
+<event start="T5" end="T6">ADV</event>
+<event start="T6" end="T7">ADV</event>
+<event start="T7" end="T8">PRON</event>
+<event start="T8" end="T9">VERB</event>
+<event start="T9" end="T10">DET</event>
+<event start="T10" end="T11">NOUN</event>
+<event start="T11" end="T12">VERB</event>
+<event start="T12" end="T13">DET</event>
+<event start="T13" end="T14">NOUN</event>
+<event start="T14" end="T15">PRON</event>
+<event start="T15" end="T16">ADV</event>
+<event start="T16" end="T17">ADP</event>
+<event start="T17" end="T18">NOUN</event>
+<event start="T18" end="T19">CCONJ</event>
+<event start="T19" end="T20">VERB</event>
+<event start="T20" end="T21">NUM</event>
+<event start="T21" end="T22">NOUN</event>
+</tier>
+<tier id="TIE20" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_1_1]">
+<event start="T0" end="T1">PtOt</event>
+<event start="T1" end="T2">VbMnId01PlPeAv</event>
+<event start="T2" end="T3">VbMnIdPr03SgIpPv</event>
+<event start="T3" end="T4">NmCdMaPlAcAj</event>
+<event start="T4" end="T5">NoCmMaPlAc</event>
+<event start="T5" end="T6">AdBa</event>
+<event start="T6" end="T7">AdBa</event>
+<event start="T7" end="T8">AdBa</event>
+<event start="T8" end="T9">VbMnIdPa03PlPeAv</event>
+<event start="T9" end="T10">AtDfMaSgAc</event>
+<event start="T10" end="T11">NoCmMaSgAc</event>
+<event start="T11" end="T12">VbMnIdPa03SgPeAv</event>
+<event start="T12" end="T13">AtDfFeSgNm</event>
+<event start="T13" end="T14">NoCmFeSgNm</event>
+<event start="T14" end="T15">AtDfNeSgGe</event>
+<event start="T15" end="T16">AdBa</event>
+<event start="T16" end="T17">AsPpPaMaSgAc</event>
+<event start="T17" end="T18">NoCmMaSgAc</event>
+<event start="T18" end="T19">CjCo</event>
+<event start="T19" end="T20">VbMnIdPa03PlIpAv</event>
+<event start="T20" end="T21">NmCdNePlAcAj</event>
+<event start="T21" end="T22">NoCmNePlAc</event>
+</tier>
+</basic-body>
 </basic-transcription>
