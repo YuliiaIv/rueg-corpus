@@ -411,5 +411,41 @@
 <event start="T35" end="T36">машина</event>
 <event start="T36" end="T37">.</event>
 </tier>
+<tier id="TIE20" speaker="norm" category="pos" type="a" display-name="norm [pos]">
+<event start="T2" end="T3">PRON</event>
+<event start="T3" end="T4">PART</event>
+<event start="T4" end="T5">SCONJ</event>
+<event start="T5" end="T6">VERB</event>
+<event start="T6" end="T7">SCONJ</event>
+<event start="T7" end="T8">ADJ</event>
+<event start="T8" end="T9">NOUN</event>
+<event start="T9" end="T10">VERB</event>
+<event start="T10" end="T11">ADP</event>
+<event start="T11" end="T12">ADJ</event>
+<event start="T12" end="T13">PUNCT</event>
+<event start="T13" end="T15">ADJ</event>
+<event start="T15" end="T16">NOUN</event>
+<event start="T16" end="T17">ADP</event>
+<event start="T17" end="T18">NOUN</event>
+<event start="T18" end="T19">VERB</event>
+<event start="T19" end="T20">NOUN</event>
+<event start="T20" end="T21">ADP</event>
+<event start="T21" end="T22">NOUN</event>
+<event start="T22" end="T23">CCONJ</event>
+<event start="T23" end="T24">ADJ</event>
+<event start="T24" end="T25">NOUN</event>
+<event start="T25" end="T26">VERB</event>
+<event start="T26" end="T27">ADP</event>
+<event start="T27" end="T28">NOUN</event>
+<event start="T28" end="T29">PUNCT</event>
+<event start="T29" end="T30">ADV</event>
+<event start="T30" end="T31">SCONJ</event>
+<event start="T31" end="T32">PRON</event>
+<event start="T32" end="T33">PART</event>
+<event start="T33" end="T34">VERB</event>
+<event start="T34" end="T35">ADP</event>
+<event start="T35" end="T36">NOUN</event>
+<event start="T36" end="T37">PUNCT</event>
+</tier>
 </basic-body>
 </basic-transcription>
