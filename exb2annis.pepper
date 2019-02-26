@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <pepper-job id="trttqfob" version="1.0">
-<!-- changing something -->
-<!-- changing even more -->
   <importer name="EXMARaLDAImporter" path="./exb/RUEG/">
     <customization>
       <property key="pepper.before.readMeta">meta</property>
@@ -9,12 +7,7 @@
       <property key="mapSpeakerMetadata">false</property>
     </customization>
   </importer>
-  <manipulator name="OrderRelationAdder">
-    <customization>
-      <!-- empty list will generate order relations between tokens -->
-      <property key="segmentation-layers">{}</property>
-    </customization>
-  </manipulator>
+  <manipulator name="OrderRelationAdder" />
   <exporter name="ANNISExporter" path="./annis/">
     <customization>
       <property key="corpusName">RUEG-snapshot</property>
