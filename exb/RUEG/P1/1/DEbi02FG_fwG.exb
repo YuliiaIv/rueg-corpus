@@ -161,7 +161,7 @@
 <tli id="T131" time="131.0"/>
 <tli id="T132" time="132.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]"><event start="T0" end="T1">﻿Για</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">﻿Για</event>
 <event start="T1" end="T2">την</event>
 <event start="T2" end="T3">καταθση</event>
 <event start="T3" end="T4">φ16</event>
@@ -429,7 +429,7 @@
 <event start="T129" end="T130">gre</event>
 <event start="T130" end="T131">gre</event>
 <event start="T131" end="T132">gre</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">﻿Για</event>
+</tier><tier id="TIE1" speaker="norm" category="pre_norm" type="a" display-name="norm [pre_norm]"><event start="T0" end="T1">﻿Για</event>
 <event start="T1" end="T2">την</event>
 <event start="T2" end="T3">καταθση</event>
 <event start="T3" end="T4">φ16</event>
@@ -563,7 +563,7 @@
 <event start="T129" end="T130">Κανενασ</event>
 <event start="T130" end="T131">τραθματιστικε</event>
 <event start="T131" end="T132">.</event>
-</tier><tier id="TIE4" speaker="norm" category="norm_Greek" type="a" display-name="norm [norm_Greek]"><event start="T0" end="T1">Για</event>
+</tier><tier id="TIE4" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">Για</event>
 <event start="T1" end="T2">την</event>
 <event start="T2" end="T3">κατάθεση</event>
 <event start="T3" end="T4">φ16</event>
@@ -697,7 +697,7 @@
 <event start="T129" end="T130">Κανένας</event>
 <event start="T130" end="T131">τραυματίσθηκε</event>
 <event start="T131" end="T132">.</event>
-</tier><tier id="TIE3" speaker="norm" category="cu" type="a" display-name="norm [cu]"><event start="T0" end="T11">cu</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T11">cu</event>
 <event start="T11" end="T15">cu</event>
 <event start="T15" end="T19">cu</event>
 <event start="T19" end="T29">cu</event>

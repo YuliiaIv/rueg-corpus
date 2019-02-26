@@ -267,7 +267,7 @@
 <event start="T77" end="T78">gre</event>
 <event start="T78" end="T79">gre</event>
 <event start="T79" end="T80">gre</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">‎Messages</event>
+</tier><tier id="TIE1" speaker="norm" category="pre_norm" type="a" display-name="norm [pre_norm]"><event start="T0" end="T1">‎Messages</event>
 <event start="T1" end="T2">to</event>
 <event start="T2" end="T3">this</event>
 <event start="T3" end="T4">chat</event>
@@ -347,7 +347,7 @@
 <event start="T77" end="T78">την</event>
 <event start="T78" end="T79">αστονομια</event>
 <event start="T79" end="T80">.</event>
-</tier><tier id="TIE6" speaker="norm" category="norm_Greek" type="a" display-name="norm [norm_Greek]"><event start="T17" end="T18">Γεια</event>
+</tier><tier id="TIE6" speaker="norm" category="norm" type="a" display-name="norm [norm]"><event start="T17" end="T18">Γεια</event>
 <event start="T18" end="T19">σου</event>
 <event start="T19" end="T20">,</event>
 <event start="T20" end="T21">δεν</event>
@@ -416,7 +416,7 @@
 </tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T14">1</event>
 <event start="T14" end="T17">2</event>
 <event start="T17" end="T80">3</event>
-</tier><tier id="TIE5" speaker="norm" category="cu" type="a" display-name="norm [cu]"><event start="T17" end="T20">cu</event>
+</tier><tier id="TIE5" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T17" end="T20">cu</event>
 <event start="T20" end="T25">cu</event>
 <event start="T25" end="T28">cu</event>
 <event start="T28" end="T42">cu</event>

@@ -107,7 +107,7 @@
 <tli id="T77" time="77.0"/>
 <tli id="T78" time="78.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]"><event start="T0" end="T1">﻿itan</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">﻿itan</event>
 <event start="T1" end="T2">ena</event>
 <event start="T2" end="T3">zewgari</event>
 <event start="T3" end="T4">me</event>
@@ -267,7 +267,7 @@
 <event start="T75" end="T76">gre</event>
 <event start="T76" end="T77">gre</event>
 <event start="T77" end="T78">gre</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">﻿itan</event>
+</tier><tier id="TIE1" speaker="norm" category="pre_norm" type="a" display-name="norm [pre_norm]"><event start="T0" end="T1">﻿itan</event>
 <event start="T1" end="T2">ena</event>
 <event start="T2" end="T3">zewgari</event>
 <event start="T3" end="T4">me</event>
@@ -347,7 +347,7 @@
 <event start="T75" end="T76">sto</event>
 <event start="T76" end="T77">proto</event>
 <event start="T77" end="T78">.</event>
-</tier><tier id="TIE4" speaker="norm" category="norm_Greek" type="a" display-name="norm [norm_Greek]"><event start="T0" end="T1">Ήταν</event>
+</tier><tier id="TIE4" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">Ήταν</event>
 <event start="T1" end="T2">ένα</event>
 <event start="T2" end="T3">ζευγάρι</event>
 <event start="T3" end="T4">με</event>
@@ -427,7 +427,7 @@
 <event start="T75" end="T76">στο</event>
 <event start="T76" end="T77">πρώτο</event>
 <event start="T77" end="T78">.</event>
-</tier><tier id="TIE3" speaker="norm" category="cu" type="a" display-name="norm [cu]"><event start="T0" end="T7">cu</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T7">cu</event>
 <event start="T7" end="T80">cu</event>
 <event start="T80" end="T26">cu</event>
 <event start="T26" end="T32">cu</event>

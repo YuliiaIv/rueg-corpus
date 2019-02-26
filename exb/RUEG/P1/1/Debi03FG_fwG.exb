@@ -257,7 +257,7 @@
 <tli id="T227" time="227.0"/>
 <tli id="T228" time="228.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]"><event start="T0" end="T1">﻿ENAS</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">﻿ENAS</event>
 <event start="T1" end="T2">andras</event>
 <event start="T2" end="T3">o</event>
 <event start="T3" end="T4">opoios</event>
@@ -717,7 +717,7 @@
 <event start="T225" end="T226">gre</event>
 <event start="T226" end="T227">gre</event>
 <event start="T227" end="T228">gre</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">﻿ENAS</event>
+</tier><tier id="TIE1" speaker="norm" category="pre_norm" type="a" display-name="norm [pre_norm]"><event start="T0" end="T1">﻿ENAS</event>
 <event start="T1" end="T2">andras</event>
 <event start="T2" end="T3">o</event>
 <event start="T3" end="T4">opoios</event>
@@ -946,7 +946,7 @@
 <event start="T225" end="T226">to</event>
 <event start="T226" end="T227">atuxima</event>
 <event start="T227" end="T228">.</event>
-</tier><tier id="TIE4" speaker="norm" category="norm_Greek" type="a" display-name="norm [norm_Greek]"><event start="T0" end="T1">Ένας</event>
+</tier><tier id="TIE4" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">Ένας</event>
 <event start="T1" end="T2">άντρας</event>
 <event start="T2" end="T3">ο</event>
 <event start="T3" end="T4">οποίος</event>

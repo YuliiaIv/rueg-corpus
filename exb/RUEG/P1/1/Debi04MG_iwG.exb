@@ -222,7 +222,7 @@
 <event start="T62" end="T63">gre</event>
 <event start="T63" end="T64">gre</event>
 <event start="T64" end="T65">gre</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">‎Messages</event>
+</tier><tier id="TIE1" speaker="norm" category="pre_norm" type="a" display-name="norm [pre_norm]"><event start="T0" end="T1">‎Messages</event>
 <event start="T1" end="T2">to</event>
 <event start="T2" end="T3">this</event>
 <event start="T3" end="T4">chat</event>
@@ -286,7 +286,7 @@
 <event start="T62" end="T63"><![CDATA[‎<attached]]></event>
 <event start="T63" end="T64">:</event>
 <event start="T64" end="T65"><![CDATA[00000024-AUDIO-2018-09-29-17-16-14.opus>]]></event>
-</tier><tier id="TIE6" speaker="norm" category="norm_Greek" type="a" display-name="norm [norm_Greek]"><event start="T13" end="T14">Έι</event>
+</tier><tier id="TIE6" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T13" end="T14">Έι</event>
 <event start="T14" end="T15">ακούς</event>
 <event start="T15" end="T16">;</event>
 <event start="T16" end="T17">Εκεί</event>
@@ -341,7 +341,7 @@
 </tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T13">1</event>
 <event start="T13" end="T62">2</event>
 <event start="T62" end="T65">3</event>
-</tier><tier id="TIE5" speaker="norm" category="cu" type="a" display-name="norm [cu]"><event start="T13" end="T16">cu</event>
+</tier><tier id="TIE5" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T13" end="T16">cu</event>
 <event start="T16" end="T22">cu</event>
 <event start="T22" end="T29">cu</event>
 <event start="T29" end="T34">cu</event>

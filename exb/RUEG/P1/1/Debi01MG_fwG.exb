@@ -86,7 +86,7 @@
 <tli id="T58" time="58.0"/>
 <tli id="T59" time="59.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]"><event start="T0" end="T1">﻿to</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">﻿to</event>
 <event start="T1" end="T2">atychima</event>
 <event start="T2" end="T3">egine</event>
 <event start="T3" end="T4">otan</event>
@@ -204,7 +204,7 @@
 <event start="T56" end="T57">gre</event>
 <event start="T57" end="T58">gre</event>
 <event start="T58" end="T59">gre</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">﻿to</event>
+</tier><tier id="TIE1" speaker="norm" category="pre_norm" type="a" display-name="norm [pre_norm]"><event start="T0" end="T1">﻿to</event>
 <event start="T1" end="T2">atychima</event>
 <event start="T2" end="T3">egine</event>
 <event start="T3" end="T4">otan</event>
@@ -263,7 +263,7 @@
 <event start="T56" end="T57">ligo</event>
 <event start="T57" end="T58">mprosta</event>
 <event start="T58" end="T59">.</event>
-</tier><tier id="TIE3" speaker="norm" category="norm_Greek" type="a" display-name="norm [norm_Greek]"><event start="T0" end="T1">το</event>
+</tier><tier id="TIE3" speaker="norm" category="norm" type="a" display-name="norm [norm]"><event start="T0" end="T1">το</event>
 <event start="T1" end="T2">ατύχημα</event>
 <event start="T2" end="T3">έγινε</event>
 <event start="T3" end="T4">όταν</event>
@@ -322,7 +322,7 @@
 <event start="T56" end="T57">λίγο</event>
 <event start="T57" end="T58">μπροστά</event>
 <event start="T58" end="T59">.</event>
-</tier><tier id="TIE4" speaker="norm" category="cu" type="t" display-name="norm [cu]"><event start="T0" end="T19">cu</event>
+</tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T19">cu</event>
 <event start="T19" end="T37">cu</event>
 <event start="T37" end="T46">cu</event>
 <event start="T46" end="T53">cu</event>
