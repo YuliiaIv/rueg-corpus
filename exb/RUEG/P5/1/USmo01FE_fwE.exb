@@ -96,7 +96,7 @@
 </common-timeline>
 <tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]"><event start="T0" end="T1">﻿This</event>
 <event start="T1" end="T2">is</event>
-<event start="T2" end="T3">Christina</event>
+<event start="T2" end="T3">[USmo01FE]</event>
 <event start="T3" end="T4">.</event>
 <event start="T4" end="T5">I</event>
 <event start="T5" end="T6">am</event>
@@ -163,7 +163,7 @@
 <event start="T66" end="T67">?</event>
 </tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">This</event>
 <event start="T1" end="T2">is</event>
-<event start="T2" end="T3">Christina</event>
+<event start="T2" end="T3">[USmo01FE]</event>
 <event start="T3" end="T4">.</event>
 <event start="T4" end="T5">I</event>
 <event start="T5" end="T6">am</event>
@@ -294,5 +294,12 @@
 <event start="T64" end="T65">eng</event>
 <event start="T65" end="T66">eng</event>
 <event start="T66" end="T67">eng</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T4">cu</event>
+<event start="T4" end="T21">cu</event>
+<event start="T21" end="T26">cu</event>
+<event start="T26" end="T36"></event>
+<event start="T36" end="T41">cu</event>
+<event start="T41" end="T56">cu</event>
+<event start="T56" end="T67">cu</event>
 </tier></basic-body>
 </basic-transcription>
