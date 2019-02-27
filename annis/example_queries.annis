@@ -1,4 +1,6 @@
 dipl="Auto"	Search for the exact text "Auto" on non-normalized tokens.
 dipl	Search for any non-normalized token.
-dipl=/(Auto)|(auto)/	Search for the text "auto" or "Auto" with regular expression on non-normalized tokens.
-dipl="auto" _o_ norm & #1 != #2	Find all occurences of where a "auto" was normalized to something different.
+lemma=/(be|have)/	Search for the text "be" or "have" with regular expression lemma layer.
+pos_lang & meta::doc=/.*_fwD/	Search for any pos_lang values in documents of formal written German.
+pos_lang & meta::doc=/.*_..D/	Search for any pos_lang values in German documents.
+
