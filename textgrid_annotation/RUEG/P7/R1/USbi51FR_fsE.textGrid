@@ -981,7 +981,7 @@ item []:
         name = "syllable" 
         xmin = 0 
         xmax = 57.73548752834467 
-        intervals: size = 81 
+        intervals: size = 85 
         intervals [1]:
             xmin = 0 
             xmax = 0.9486342598660192 
@@ -1304,6 +1304,22 @@ item []:
             text = "a:nd" 
         intervals [81]:
             xmin = 27.39151721342368 
+            xmax = 28.10892365113883 
+            text = "" 
+        intervals [82]:
+            xmin = 28.10892365113883 
+            xmax = 28.339279630489273 
+            text = "just" 
+        intervals [83]:
+            xmin = 28.339279630489273 
+            xmax = 28.76948086344837 
+            text = "" 
+        intervals [84]:
+            xmin = 28.76948086344837 
+            xmax = 29.471631938292663 
+            text = "s:top:" 
+        intervals [85]:
+            xmin = 29.471631938292663 
             xmax = 57.73548752834467 
             text = "" 
     item [5]:
@@ -1311,7 +1327,7 @@ item []:
         name = "pa" 
         xmin = 0 
         xmax = 57.73548752834467 
-        intervals: size = 75 
+        intervals: size = 79 
         intervals [1]:
             xmin = 0 
             xmax = 0.9486342598660192 
@@ -1610,6 +1626,22 @@ item []:
             text = "!H*, L-L%" 
         intervals [75]:
             xmin = 27.39151721342368 
+            xmax = 28.10892365113883 
+            text = "" 
+        intervals [76]:
+            xmin = 28.10892365113883 
+            xmax = 28.339279630489273 
+            text = "H*+L" 
+        intervals [77]:
+            xmin = 28.339279630489273 
+            xmax = 28.76948086344837 
+            text = "" 
+        intervals [78]:
+            xmin = 28.76948086344837 
+            xmax = 29.471631938292663 
+            text = "H*, L-L%" 
+        intervals [79]:
+            xmin = 29.471631938292663 
             xmax = 57.73548752834467 
             text = "" 
     item [6]:
