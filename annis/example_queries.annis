@@ -1,4 +1,4 @@
-dipl=‎/auto/	Search for the exact text "auto" on non-normalized tokens.
+dipl=/auto/	Search for the exact text "auto" on non-normalized tokens.
 dipl	Search for any non-normalized token.
 dipl=/(Auto)|(auto)/	Search for the text "auto" or "Auto" with regular expression on non-normalized tokens.
-dipl=‎/gut‎/ _o_ norm & #1 != #2	Find all occurences of where a "gut" was normalized to something different.
+dipl=/gut/ _o_ norm & #1 != #2	Find all occurences of where a "gut" was normalized to something different.
