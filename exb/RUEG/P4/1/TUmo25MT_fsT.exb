@@ -791,7 +791,7 @@
 <event start="T98" end="T99">teşekkür</event>
 <event start="T99" end="T100">kolay</event>
 <event start="T100" end="T101">gel</event>
-</tier><tier id="TIE20" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">NOUN</event>
+</tier><tier id="TIE20" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">ADV</event>
 <event start="T1" end="T2">VERB</event>
 <event start="T2" end="T3">NOUN</event>
 <event start="T3" end="T4">NOUN</event>
@@ -870,11 +870,11 @@
 <event start="T91" end="T92">ADP</event>
 <event start="T92" end="T93">PRON</event>
 <event start="T93" end="T94">VERB</event>
-<event start="T96" end="T97">NOUN</event>
-<event start="T98" end="T99">NOUN</event>
+<event start="T96" end="T97">INTJ</event>
+<event start="T98" end="T99">INTJ</event>
 <event start="T99" end="T100">ADJ</event>
 <event start="T100" end="T101">VERB</event>
-</tier><tier id="TIE21" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_1_1]"><event start="T0" end="T1">NOM</event>
+</tier><tier id="TIE21" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_lang]"><event start="T0" end="T1">ADV</event>
 <event start="T1" end="T2">VVFIN</event>
 <event start="T2" end="T3">ADV</event>
 <event start="T3" end="T4">VVFIN</event>
@@ -954,7 +954,7 @@
 <event start="T92" end="T93">PPER3</event>
 <event start="T93" end="T94">VVFIN</event>
 <event start="T96" end="T97">CO</event>
-<event start="T98" end="T99">VVFIN</event>
+<event start="T98" end="T99">CO</event>
 <event start="T99" end="T100">VVINF</event>
 <event start="T100" end="T101">VVFIN</event>
 </tier></basic-body>
