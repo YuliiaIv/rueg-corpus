@@ -2,7 +2,7 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../../textgrid/RUEG/P4/1/TUmo23FT_fsT.wav"/><ud-meta-information><ud-information attribute-name="abbreviation">dipl</ud-information><ud-information attribute-name="sex">u</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../../textgrid/RUEG/P4/1/TUmo23FT_fsT.wav"/><ud-meta-information><ud-information attribute-name="abbreviation">dipl</ud-information><ud-information attribute-name="sex">u</ud-information><ud-information attribute-name="AutoSave">;C:\Users\DaFDaZ\EXMARaLDA_AutoBackup_2019_02_28_11_12_35.exb at 2019_02_28_11_12_35;C:\Users\DaFDaZ\EXMARaLDA_AutoBackup_2019_02_28_12_13_35.exb at 2019_02_28_12_13_35</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
 <sex value="u"/>
 <languages-used></languages-used>
@@ -129,10 +129,7 @@
 <event start="T49" end="T50">istiyorum</event>
 </tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">merhaba</event>
 <event start="T1" end="T2">ben</event>
-<event start="T2" end="T3">ef</event>
-<event start="T3" end="T4">on</event>
-<event start="T4" end="T5">altı</event>
-<event start="T5" end="T6">ee</event>
+<event start="T2" end="T5">F16</event>
 <event start="T6" end="T7">bugün</event>
 <event start="T7" end="T8">şahitlik</event>
 <event start="T8" end="T9">yaptığım</event>
@@ -405,10 +402,7 @@
 <event start="T48" end="T49">Cau</event>
 </tier><tier id="TIE20" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">merhaba</event>
 <event start="T1" end="T2">ben</event>
-<event start="T2" end="T3">ef</event>
-<event start="T3" end="T4">on</event>
-<event start="T4" end="T5">altı</event>
-<event start="T5" end="T6">e</event>
+<event start="T2" end="T5">F16</event>
 <event start="T6" end="T7">bugün</event>
 <event start="T7" end="T8">şahit</event>
 <event start="T8" end="T9">yap</event>
@@ -451,25 +445,22 @@
 <event start="T47" end="T48">bu</event>
 <event start="T48" end="T49">bil</event>
 <event start="T49" end="T50">iste</event>
-</tier><tier id="TIE21" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">NOUN</event>
+</tier><tier id="TIE21" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">INTJ</event>
 <event start="T1" end="T2">PRON</event>
-<event start="T2" end="T3">NOUN</event>
-<event start="T3" end="T4">NUM</event>
-<event start="T4" end="T5">NUM</event>
-<event start="T5" end="T6">NOUN</event>
-<event start="T6" end="T7">NOUN</event>
+<event start="T2" end="T5">PROPN</event>
+<event start="T6" end="T7">ADV</event>
 <event start="T7" end="T8">NOUN</event>
 <event start="T8" end="T9">VERB</event>
-<event start="T9" end="T10">NUM</event>
+<event start="T9" end="T10">ART</event>
 <event start="T10" end="T11">NOUN</event>
 <event start="T11" end="T12">VERB</event>
 <event start="T12" end="T13">VERB</event>
 <event start="T14" end="T15">NOUN</event>
 <event start="T15" end="T16">VERB</event>
 <event start="T16" end="T17">ADP</event>
-<event start="T17" end="T18">NUM</event>
+<event start="T17" end="T18">ART</event>
 <event start="T18" end="T19">NOUN</event>
-<event start="T19" end="T20">NUM</event>
+<event start="T19" end="T20">ART</event>
 <event start="T20" end="T21">NOUN</event>
 <event start="T22" end="T23">VERB</event>
 <event start="T23" end="T24">CCONJ</event>
@@ -489,7 +480,7 @@
 <event start="T37" end="T38">VERB</event>
 <event start="T38" end="T39">VERB</event>
 <event start="T39" end="T40">CCONJ</event>
-<event start="T40" end="T41">ADJ</event>
+<event start="T40" end="T41">NOUN</event>
 <event start="T41" end="T42">VERB</event>
 <event start="T42" end="T43">NOUN</event>
 <event start="T43" end="T44">CCONJ</event>
@@ -499,13 +490,10 @@
 <event start="T47" end="T48">PRON</event>
 <event start="T48" end="T49">VERB</event>
 <event start="T49" end="T50">VERB</event>
-</tier><tier id="TIE22" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_1_1]"><event start="T0" end="T1">ADV</event>
+</tier><tier id="TIE22" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_lang]"><event start="T0" end="T1">CO</event>
 <event start="T1" end="T2">PPER1</event>
-<event start="T2" end="T3">NN</event>
-<event start="T3" end="T4">PPER3</event>
-<event start="T4" end="T5">CARD</event>
-<event start="T5" end="T6">CO</event>
-<event start="T6" end="T7">VVFIN</event>
+<event start="T2" end="T5">NE</event>
+<event start="T6" end="T7">ADJA</event>
 <event start="T7" end="T8">NN</event>
 <event start="T8" end="T9">VVFIN</event>
 <event start="T9" end="T10">ART</event>
@@ -526,23 +514,23 @@
 <event start="T26" end="T27">APPO</event>
 <event start="T27" end="T28">NN</event>
 <event start="T28" end="T29">VVFIN</event>
-<event start="T29" end="T30">ADV</event>
+<event start="T29" end="T30">NN</event>
 <event start="T30" end="T31">NN</event>
 <event start="T31" end="T32">VVFIN</event>
-<event start="T32" end="T33">VVFIN</event>
+<event start="T32" end="T33">NN</event>
 <event start="T33" end="T34">NN</event>
 <event start="T34" end="T35">NN</event>
-<event start="T35" end="T36">NN</event>
-<event start="T36" end="T37">VVINF</event>
-<event start="T37" end="T38">VVFIN</event>
+<event start="T35" end="T36">ADJA</event>
+<event start="T36" end="T37">NN</event>
+<event start="T37" end="T38">VCOMFIN</event>
 <event start="T38" end="T39">VAINF</event>
 <event start="T39" end="T40">KON</event>
-<event start="T40" end="T41">NN</event>
+<event start="T40" end="T41">NATTR</event>
 <event start="T41" end="T42">VVFIN</event>
 <event start="T42" end="T43">NN</event>
 <event start="T43" end="T44">PTKFOC</event>
 <event start="T44" end="T45">PPER3</event>
-<event start="T45" end="T46">NN</event>
+<event start="T45" end="T46">NATTR</event>
 <event start="T46" end="T47">VVFIN</event>
 <event start="T47" end="T48">PDS</event>
 <event start="T48" end="T49">VVINF</event>
