@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pepper-job id="trttqfob" version="1.0">
+  <importer name="EXMARaLDAImporter" path="./tmp/exb/RUEG/">
+	  <customization>
+	  </customization>
+  </importer>
+  <manipulator name="OrderRelationAdder">
+    <customization>
+      <property key="segmentation-layers">{}</property>
+    </customization>
+  </manipulator>
+  <exporter name="CoNLLExporter" path="./tmp/conll/">
+    <customization>
+      <property key="segmentation.name">norm</property>
+      <property key="discourse.anno.name">norm::CU</property>
+    </customization>
+  </exporter>
+</pepper-job>
