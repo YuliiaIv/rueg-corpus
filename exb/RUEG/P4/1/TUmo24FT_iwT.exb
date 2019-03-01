@@ -135,6 +135,7 @@
 <tli id="T104" time="104.0"/>
 <tli id="T105" time="105.0"/>
 <tli id="T106" time="106.0"/>
+<tli id="T138" time="106.2" type="intp"/>
 <tli id="T107" time="107.0"/>
 <tli id="T108" time="108.0"/>
 <tli id="T109" time="109.0"/>
@@ -144,6 +145,7 @@
 <tli id="T113" time="113.0"/>
 <tli id="T114" time="114.0"/>
 <tli id="T115" time="115.0"/>
+<tli id="T139" time="115.71428571428571" type="intp"/>
 <tli id="T116" time="116.0"/>
 <tli id="T117" time="117.0"/>
 <tli id="T118" time="118.0"/>
@@ -270,7 +272,8 @@
 <event start="T103" end="T104">fren</event>
 <event start="T104" end="T105">yapana</event>
 <event start="T105" end="T106">carpti</event>
-<event start="T106" end="T107">.topu</event>
+<event start="T106" end="T138">.</event>
+<event start="T138" end="T107">topu</event>
 <event start="T107" end="T108">elinden</event>
 <event start="T108" end="T109">kaciran</event>
 <event start="T109" end="T110">adam</event>
@@ -336,7 +339,7 @@
 <event start="T35" end="T36">elinde</event>
 <event start="T36" end="T37">top</event>
 <event start="T37" end="T38">sektire</event>
-<event start="T38" end="T39">sektre</event>
+<event start="T38" end="T39">sektire</event>
 <event start="T39" end="T40">geliyordu</event>
 <event start="T40" end="T41">sonra</event>
 <event start="T41" end="T135">otoparka</event>
@@ -404,7 +407,8 @@
 <event start="T103" end="T104">fren</event>
 <event start="T104" end="T105">yapana</event>
 <event start="T105" end="T106">çarptı</event>
-<event start="T106" end="T107">.topu</event>
+<event start="T106" end="T138">.</event>
+<event start="T138" end="T107">topu</event>
 <event start="T107" end="T108">elinden</event>
 <event start="T108" end="T109">kaçıran</event>
 <event start="T109" end="T110">adam</event>
@@ -413,7 +417,8 @@
 <event start="T112" end="T113">kadına</event>
 <event start="T113" end="T114">yardım</event>
 <event start="T114" end="T115">etti</event>
-<event start="T115" end="T116">sonrada</event>
+<event start="T115" end="T139">sonra</event>
+<event start="T139" end="T116">da</event>
 <event start="T116" end="T117">kazayla</event>
 <event start="T117" end="T118">ilgilendi</event>
 <event start="T118" end="T119">daha</event>
@@ -537,7 +542,8 @@
 <event start="T103" end="T104">tur</event>
 <event start="T104" end="T105">tur</event>
 <event start="T105" end="T106">tur</event>
-<event start="T106" end="T107">tur</event>
+<event start="T106" end="T138"></event>
+<event start="T138" end="T107">tur</event>
 <event start="T107" end="T108">tur</event>
 <event start="T108" end="T109">tur</event>
 <event start="T109" end="T110">tur</event>
@@ -546,7 +552,8 @@
 <event start="T112" end="T113">tur</event>
 <event start="T113" end="T114">tur</event>
 <event start="T114" end="T115">tur</event>
-<event start="T115" end="T116">tur</event>
+<event start="T115" end="T139">tur</event>
+<event start="T139" end="T116">tur</event>
 <event start="T116" end="T117">tur</event>
 <event start="T117" end="T118">tur</event>
 <event start="T118" end="T119">tur</event>
@@ -570,5 +577,24 @@
 </tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T10">1</event>
 <event start="T10" end="T13">2</event>
 <event start="T13" end="T133">3</event>
+</tier><tier id="TIE5" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T13" end="T20">cu</event>
+<event start="T20" end="T25">cu</event>
+<event start="T25" end="T34">cu</event>
+<event start="T34" end="T40">cu</event>
+<event start="T40" end="T47">cu</event>
+<event start="T47" end="T55">cu</event>
+<event start="T55" end="T58">cu</event>
+<event start="T59" end="T71">cu</event>
+<event start="T71" end="T73">cu</event>
+<event start="T73" end="T76">cu</event>
+<event start="T76" end="T91">cu</event>
+<event start="T91" end="T96">cu</event>
+<event start="T96" end="T100">cu</event>
+<event start="T100" end="T138">cu</event>
+<event start="T138" end="T111">cu</event>
+<event start="T111" end="T115">cu</event>
+<event start="T115" end="T118">cu</event>
+<event start="T118" end="T124">cu</event>
+<event start="T125" end="T133">cu</event>
 </tier></basic-body>
 </basic-transcription>
