@@ -1017,7 +1017,7 @@
 <event start="T1" end="T2">yol</event>
 <event start="T2" end="T3">yürü</event>
 <event start="T4" end="T5">otopark</event>
-<event start="T5" end="T6">or</event>
+<event start="T5" end="T6">ora</event>
 <event start="T6" end="T7">geç</event>
 <event start="T7" end="T8">o</event>
 <event start="T8" end="T9">sonra</event>
@@ -1146,11 +1146,11 @@
 <event start="T137" end="T138">sen</event>
 <event start="T138" end="T139">paylaş</event>
 <event start="T139" end="T140">iste</event>
-</tier><tier id="TIE23" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">NOUN</event>
+</tier><tier id="TIE23" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">ADV</event>
 <event start="T1" end="T2">NOUN</event>
 <event start="T2" end="T3">VERB</event>
 <event start="T4" end="T5">NOUN</event>
-<event start="T5" end="T6">NOUN</event>
+<event start="T5" end="T6">PRON</event>
 <event start="T6" end="T7">VERB</event>
 <event start="T7" end="T8">PRON</event>
 <event start="T8" end="T9">ADP</event>
@@ -1279,11 +1279,11 @@
 <event start="T137" end="T138">PRON</event>
 <event start="T138" end="T139">VERB</event>
 <event start="T139" end="T140">VERB</event>
-</tier><tier id="TIE24" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_1_1]"><event start="T0" end="T1">VVFIN</event>
+</tier><tier id="TIE24" speaker="norm" category="pos_lang" type="a" display-name="norm [pos_lang]"><event start="T0" end="T1">ADV</event>
 <event start="T1" end="T2">NN</event>
 <event start="T2" end="T3">VVINF</event>
 <event start="T4" end="T5">VVINF</event>
-<event start="T5" end="T6">NN</event>
+<event start="T5" end="T6">PRD</event>
 <event start="T6" end="T7">VVFIN</event>
 <event start="T7" end="T8">KON</event>
 <event start="T8" end="T9">KON</event>
