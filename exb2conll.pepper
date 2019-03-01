@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <pepper-job id="trttqfob" version="1.0">
-  <importer name="EXMARaLDAImporter" path="./tmp/exb/RUEG/">
+  <importer name="EXMARaLDAImporter" path="./tmp/exb/P1/">
 	  <customization>
 	  </customization>
   </importer>
@@ -9,10 +9,13 @@
       <property key="segmentation-layers">{}</property>
     </customization>
   </manipulator>
-  <exporter name="CoNLLExporter" path="./tmp/conll/">
+  <exporter name="CoNLLExporter" path="./tmp/conll/P1/">
     <customization>
       <property key="segmentation.name">norm</property>
       <property key="discourse.anno.name">norm::CU</property>
+      <property key="cols">norm::lemma, norm::pos, norm::pos_1_1, *, _, _, _</property>
+      <property key="spanAnnotations">norm::lemma, norm::pos, norm::pos_1_1, norm::Case, norm::Definite, norm::Degree, norm::Gender, norm::Gender[psor], norm::Mood, norm::NumType, norm::Number, norm::Person, norm::Poss, norm::PronType, norm::Tense, norm::VerbForm</property>
+      <property key="annos.as.features">norm::Case, norm::Definite, norm::Degree, norm::Gender, norm::Gender[psor], norm::Mood, norm::NumType, norm::Number, norm::Person, norm::Poss, norm::PronType, norm::Tense, norm::VerbForm</property>
     </customization>
   </exporter>
 </pepper-job>
