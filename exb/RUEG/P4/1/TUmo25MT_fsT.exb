@@ -189,7 +189,7 @@
 <event start="T58" end="T59">suç</event>
 <event start="T59" end="T60">arkadaki</event>
 <event start="T60" end="T61">arabada</event>
-<event start="T61" end="T62">görüyo</event>
+<event start="T61" end="T62">görünüyo</event>
 <event start="T62" end="T63">çünkü</event>
 <event start="T63" end="T64">yan</event>
 <event start="T64" end="T65">taraftan</event>
@@ -276,7 +276,7 @@
 <event start="T58" end="T59">suç</event>
 <event start="T59" end="T60">arkadaki</event>
 <event start="T60" end="T61">arabada</event>
-<event start="T61" end="T62">görüyo</event>
+<event start="T61" end="T62">görünüyor</event>
 <event start="T62" end="T63">çünkü</event>
 <event start="T63" end="T64">yan</event>
 <event start="T64" end="T65">taraftan</event>
@@ -744,7 +744,7 @@
 <event start="T42" end="T43">araba</event>
 <event start="T43" end="T44">birbiri</event>
 <event start="T44" end="T45">dokun</event>
-<event start="T48" end="T49">arkadaki</event>
+<event start="T48" end="T49">arka</event>
 <event start="T49" end="T50">araba</event>
 <event start="T50" end="T51">takip</event>
 <event start="T51" end="T52">mesafe</event>
@@ -753,7 +753,7 @@
 <event start="T56" end="T57">şu</event>
 <event start="T57" end="T58">an</event>
 <event start="T58" end="T59">suç</event>
-<event start="T59" end="T60">arkadaki</event>
+<event start="T59" end="T60">arka</event>
 <event start="T60" end="T61">araba</event>
 <event start="T61" end="T62">gör</event>
 <event start="T62" end="T63">çünkü</event>
@@ -827,7 +827,7 @@
 <event start="T42" end="T43">NOUN</event>
 <event start="T43" end="T44">PRON</event>
 <event start="T44" end="T45">VERB</event>
-<event start="T48" end="T49">ADV</event>
+<event start="T48" end="T49">ADP</event>
 <event start="T49" end="T50">NOUN</event>
 <event start="T50" end="T51">NOUN</event>
 <event start="T51" end="T52">NOUN</event>
@@ -858,7 +858,7 @@
 <event start="T78" end="T79">PRON</event>
 <event start="T79" end="T80">VERB</event>
 <event start="T80" end="T81">NOUN</event>
-<event start="T81" end="T82">ADJ</event>
+<event start="T81" end="T82">ADP</event>
 <event start="T82" end="T83">NOUN</event>
 <event start="T83" end="T84">VERB</event>
 <event start="T84" end="T85">VERB</event>
@@ -910,7 +910,7 @@
 <event start="T42" end="T43">NN</event>
 <event start="T43" end="T44">PREC</event>
 <event start="T44" end="T45">VVFIN</event>
-<event start="T48" end="T49">NN</event>
+<event start="T48" end="T49">ADVP</event>
 <event start="T49" end="T50">NN</event>
 <event start="T50" end="T51">NN</event>
 <event start="T51" end="T52">NN</event>
@@ -919,11 +919,11 @@
 <event start="T56" end="T57">PDS</event>
 <event start="T57" end="T58">NN</event>
 <event start="T58" end="T59">NN</event>
-<event start="T59" end="T60">NN</event>
+<event start="T59" end="T60">ADVP</event>
 <event start="T60" end="T61">NN</event>
 <event start="T61" end="T62">VVFIN</event>
 <event start="T62" end="T63">KON</event>
-<event start="T63" end="T64">NN</event>
+<event start="T63" end="T64">ADJA</event>
 <event start="T64" end="T65">NN</event>
 <event start="T65" end="T66">ART</event>
 <event start="T66" end="T67">PCLAT</event>
@@ -941,7 +941,7 @@
 <event start="T78" end="T79">PPER3</event>
 <event start="T79" end="T80">VVFIN</event>
 <event start="T80" end="T81">NN</event>
-<event start="T81" end="T82">NN</event>
+<event start="T81" end="T82">ADVP</event>
 <event start="T82" end="T83">NN</event>
 <event start="T83" end="T84">NN</event>
 <event start="T84" end="T85">VVFIN</event>

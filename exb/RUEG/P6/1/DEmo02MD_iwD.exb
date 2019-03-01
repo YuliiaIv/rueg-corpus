@@ -167,7 +167,7 @@
 <event start="T12" end="T13">eins</event>
 <event start="T13" end="T14">zum</event>
 <event start="T14" end="T15">anderen</event>
-<event start="T15" end="T16">.</event>
+<event start="T15" end="T16">,</event>
 <event start="T16" end="T17">Erst</event>
 <event start="T17" end="T18">rollt</event>
 <event start="T18" end="T19">einem</event>
@@ -407,7 +407,7 @@
 <event start="T56" end="T57">Fin</event>
 </tier><tier id="TIE19" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">Hi</event>
 <event start="T1" end="T2">mein</event>
-<event start="T2" end="T3">Guter</event>
+<event start="T2" end="T3">gut</event>
 <event start="T3" end="T4">hier</event>
 <event start="T4" end="T5">sein</event>
 <event start="T5" end="T6">ja</event>
@@ -418,18 +418,18 @@
 <event start="T10" end="T11">hier</event>
 <event start="T11" end="T12">kommen</event>
 <event start="T12" end="T13">ein</event>
-<event start="T13" end="T14">zum</event>
+<event start="T13" end="T14">zu</event>
 <event start="T14" end="T15">ander</event>
-<event start="T15" end="T16">.</event>
+<event start="T15" end="T16">,</event>
 <event start="T16" end="T17">erst</event>
 <event start="T17" end="T18">rollen</event>
 <event start="T18" end="T19">ein</event>
-<event start="T19" end="T20">junger</event>
+<event start="T19" end="T20">jung</event>
 <event start="T20" end="T21">Mann</event>
 <event start="T21" end="T22">ein</event>
 <event start="T22" end="T23">Ball</event>
 <event start="T23" end="T24">auf</event>
-<event start="T24" end="T25">der</event>
+<event start="T24" end="T25">d</event>
 <event start="T25" end="T26">Straße</event>
 <event start="T26" end="T27">,</event>
 <event start="T27" end="T28">dann</event>
@@ -447,14 +447,14 @@
 <event start="T39" end="T40">Fahrzeug</event>
 <event start="T40" end="T41">gegeneinander</event>
 <event start="T41" end="T42">aber</event>
-<event start="T42" end="T43">zum</event>
+<event start="T42" end="T43">zu</event>
 <event start="T43" end="T44">Glück</event>
 <event start="T44" end="T45">nur</event>
 <event start="T45" end="T46">leicht</event>
 <event start="T46" end="T47">😅</event>
 <event start="T47" end="T48">😅</event>
 <event start="T48" end="T49">😅</event>
-<event start="T49" end="T50">Zum</event>
+<event start="T49" end="T50">Zu</event>
 <event start="T50" end="T51">Glück</event>
 <event start="T51" end="T52">sein</event>
 <event start="T52" end="T53">niemand</event>
@@ -482,7 +482,7 @@
 <event start="T12" end="T13">DET</event>
 <event start="T13" end="T14">NOUN</event>
 <event start="T14" end="T15">PRON</event>
-<event start="T15" end="T16">PUNCT</event>
+<event start="T15" end="T16">,</event>
 <event start="T16" end="T17">ADV</event>
 <event start="T17" end="T18">VERB</event>
 <event start="T18" end="T19">DET</event>
@@ -493,7 +493,7 @@
 <event start="T23" end="T24">ADP</event>
 <event start="T24" end="T25">DET</event>
 <event start="T25" end="T26">NOUN</event>
-<event start="T26" end="T27">PUNCT</event>
+<event start="T26" end="T27">,</event>
 <event start="T27" end="T28">ADV</event>
 <event start="T28" end="T29">VERB</event>
 <event start="T29" end="T30">DET</event>
@@ -555,7 +555,7 @@
 <event start="T23" end="T24">APPR</event>
 <event start="T24" end="T25">ART</event>
 <event start="T25" end="T26">NN</event>
-<event start="T26" end="T27">$</event>
+<event start="T26" end="T27">$.</event>
 <event start="T27" end="T28">ADV</event>
 <event start="T28" end="T29">VVFIN</event>
 <event start="T29" end="T30">ART</event>

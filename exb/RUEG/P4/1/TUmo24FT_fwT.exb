@@ -58,6 +58,7 @@
 <tli id="T30" time="30.0"/>
 <tli id="T31" time="31.0"/>
 <tli id="T32" time="32.0"/>
+<tli id="T121" time="32.45454545454545" type="intp"/>
 <tli id="T115" time="32.54545454545455" type="intp"/>
 <tli id="T33" time="33.0"/>
 <tli id="T34" time="34.0"/>
@@ -70,6 +71,7 @@
 <tli id="T41" time="41.0"/>
 <tli id="T42" time="42.0"/>
 <tli id="T116" time="42.46153846153846" type="intp"/>
+<tli id="T122" time="42.710059171597635" type="intp"/>
 <tli id="T43" time="43.0"/>
 <tli id="T44" time="44.0"/>
 <tli id="T45" time="45.0"/>
@@ -90,6 +92,7 @@
 <tli id="T60" time="60.0"/>
 <tli id="T61" time="61.0"/>
 <tli id="T117" time="61.75" type="intp"/>
+<tli id="T123" time="61.801" type="intp"/>
 <tli id="T62" time="62.0"/>
 <tli id="T63" time="63.0"/>
 <tli id="T64" time="64.0"/>
@@ -105,6 +108,7 @@
 <tli id="T74" time="74.0"/>
 <tli id="T75" time="75.0"/>
 <tli id="T76" time="76.0"/>
+<tli id="T124" time="76.27777777777777" type="intp"/>
 <tli id="T118" time="76.33333333333333" type="intp"/>
 <tli id="T77" time="77.0"/>
 <tli id="T78" time="78.0"/>
@@ -117,6 +121,7 @@
 <tli id="T85" time="85.0"/>
 <tli id="T86" time="86.0"/>
 <tli id="T87" time="87.0"/>
+<tli id="T125" time="87.5" type="intp"/>
 <tli id="T119" time="87.57142857142857" type="intp"/>
 <tli id="T88" time="88.0"/>
 <tli id="T89" time="89.0"/>
@@ -137,6 +142,7 @@
 <tli id="T104" time="104.0"/>
 <tli id="T105" time="105.0"/>
 <tli id="T106" time="106.0"/>
+<tli id="T126" time="106.55555555555556" type="intp"/>
 <tli id="T120" time="106.66666666666667" type="intp"/>
 <tli id="T107" time="107.0"/>
 <tli id="T108" time="108.0"/>
@@ -179,7 +185,9 @@
 <event start="T29" end="T30">de</event>
 <event start="T30" end="T31">bir</event>
 <event start="T31" end="T32">top</event>
-<event start="T32" end="T33">vardi.Onlar</event>
+<event start="T32" end="T121">vardi</event>
+<event start="T121" end="T115">.</event>
+<event start="T115" end="T33">Onlar</event>
 <event start="T33" end="T34">otoparka</event>
 <event start="T34" end="T35">dönüs</event>
 <event start="T35" end="T36">yaptiklari</event>
@@ -189,7 +197,9 @@
 <event start="T39" end="T40">araç</event>
 <event start="T40" end="T41">arka</event>
 <event start="T41" end="T42">arkaya</event>
-<event start="T42" end="T43">girdi.Bebekli</event>
+<event start="T42" end="T116">girdi</event>
+<event start="T116" end="T122">.</event>
+<event start="T122" end="T43">Bebekli</event>
 <event start="T43" end="T44">ailenin</event>
 <event start="T44" end="T45">tam</event>
 <event start="T45" end="T46">karsisinda</event>
@@ -208,7 +218,9 @@
 <event start="T58" end="T59">alisveris</event>
 <event start="T59" end="T60">malzemelerini</event>
 <event start="T60" end="T61">bagajdan</event>
-<event start="T61" end="T62">çikariyordu.Baba</event>
+<event start="T61" end="T117">çikariyordu</event>
+<event start="T117" end="T123">.</event>
+<event start="T123" end="T62">Baba</event>
 <event start="T62" end="T63">olsan</event>
 <event start="T63" end="T64">bey</event>
 <event start="T64" end="T65">topu</event>
@@ -223,7 +235,9 @@
 <event start="T73" end="T74">öndeki</event>
 <event start="T74" end="T75">ani</event>
 <event start="T75" end="T76">fren</event>
-<event start="T76" end="T77">sikti,alisveristen</event>
+<event start="T76" end="T124">sikti</event>
+<event start="T124" end="T118">,</event>
+<event start="T118" end="T77">alisveristen</event>
 <event start="T77" end="T78">dönen</event>
 <event start="T78" end="T79">bayanin</event>
 <event start="T79" end="T80">köpegi</event>
@@ -234,7 +248,9 @@
 <event start="T84" end="T85">bayanin</event>
 <event start="T85" end="T86">paketleri</event>
 <event start="T86" end="T87">yere</event>
-<event start="T87" end="T88">saçildi.Kazaya</event>
+<event start="T87" end="T125">saçildi</event>
+<event start="T125" end="T119">.</event>
+<event start="T119" end="T88">Kazaya</event>
 <event start="T88" end="T89">sebep</event>
 <event start="T89" end="T90">olan</event>
 <event start="T90" end="T91">begefendi</event>
@@ -253,7 +269,9 @@
 <event start="T103" end="T104">olan</event>
 <event start="T104" end="T105">araçlarin</event>
 <event start="T105" end="T106">yanina</event>
-<event start="T106" end="T107">gitti.ben</event>
+<event start="T106" end="T126">gitti</event>
+<event start="T126" end="T120">.</event>
+<event start="T120" end="T107">ben</event>
 <event start="T107" end="T108">daha</event>
 <event start="T108" end="T109">sonra</event>
 <event start="T109" end="T110">yoluma</event>
@@ -292,7 +310,8 @@
 <event start="T28" end="T30">elinde</event>
 <event start="T30" end="T31">bir</event>
 <event start="T31" end="T32">top</event>
-<event start="T32" end="T115">vardı.</event>
+<event start="T32" end="T121">vardı</event>
+<event start="T121" end="T115">.</event>
 <event start="T115" end="T33">Onlar</event>
 <event start="T33" end="T34">otoparka</event>
 <event start="T34" end="T35">dönüş</event>
@@ -303,8 +322,9 @@
 <event start="T39" end="T40">araç</event>
 <event start="T40" end="T41">arka</event>
 <event start="T41" end="T42">arkaya</event>
-<event start="T42" end="T116">girdi.</event>
-<event start="T116" end="T43">Bebekli</event>
+<event start="T42" end="T116">girdi</event>
+<event start="T116" end="T122">.</event>
+<event start="T122" end="T43">Bebekli</event>
 <event start="T43" end="T44">ailenin</event>
 <event start="T44" end="T45">tam</event>
 <event start="T45" end="T46">karşısında</event>
@@ -321,8 +341,9 @@
 <event start="T58" end="T59">alışveriş</event>
 <event start="T59" end="T60">malzemelerini</event>
 <event start="T60" end="T61">bagajdan</event>
-<event start="T61" end="T117">çıkarıyordu.</event>
-<event start="T117" end="T62">Baba</event>
+<event start="T61" end="T117">çıkarıyordu</event>
+<event start="T117" end="T123">.</event>
+<event start="T123" end="T62">Baba</event>
 <event start="T62" end="T63">olan</event>
 <event start="T63" end="T64">bey</event>
 <event start="T64" end="T65">topu</event>
@@ -337,7 +358,8 @@
 <event start="T73" end="T74">öndeki</event>
 <event start="T74" end="T75">ani</event>
 <event start="T75" end="T76">fren</event>
-<event start="T76" end="T118">sıktı,</event>
+<event start="T76" end="T124">sıktı</event>
+<event start="T124" end="T118">,</event>
 <event start="T118" end="T77">alışverişten</event>
 <event start="T77" end="T78">dönen</event>
 <event start="T78" end="T79">bayanın</event>
@@ -349,7 +371,8 @@
 <event start="T84" end="T85">bayanın</event>
 <event start="T85" end="T86">paketleri</event>
 <event start="T86" end="T87">yere</event>
-<event start="T87" end="T119">saçıldı.</event>
+<event start="T87" end="T125">saçıldı</event>
+<event start="T125" end="T119">.</event>
 <event start="T119" end="T88">Kazaya</event>
 <event start="T88" end="T89">sebep</event>
 <event start="T89" end="T90">olan</event>
@@ -369,7 +392,8 @@
 <event start="T103" end="T104">olan</event>
 <event start="T104" end="T105">araçların</event>
 <event start="T105" end="T106">yanına</event>
-<event start="T106" end="T120">gitti.</event>
+<event start="T106" end="T126">gitti</event>
+<event start="T126" end="T120">.</event>
 <event start="T120" end="T107">ben</event>
 <event start="T107" end="T108">daha</event>
 <event start="T108" end="T109">sonra</event>
@@ -410,7 +434,8 @@
 <event start="T29" end="T30">tur</event>
 <event start="T30" end="T31">tur</event>
 <event start="T31" end="T32">tur</event>
-<event start="T32" end="T33">tur</event>
+<event start="T32" end="T121">tur</event>
+<event start="T115" end="T33">tur</event>
 <event start="T33" end="T34">tur</event>
 <event start="T34" end="T35">tur</event>
 <event start="T35" end="T36">tur</event>
@@ -420,7 +445,8 @@
 <event start="T39" end="T40">tur</event>
 <event start="T40" end="T41">tur</event>
 <event start="T41" end="T42">tur</event>
-<event start="T42" end="T43">tur</event>
+<event start="T42" end="T116">tur</event>
+<event start="T122" end="T43">tur</event>
 <event start="T43" end="T44">tur</event>
 <event start="T44" end="T45">tur</event>
 <event start="T45" end="T46">tur</event>
@@ -439,7 +465,8 @@
 <event start="T58" end="T59">tur</event>
 <event start="T59" end="T60">tur</event>
 <event start="T60" end="T61">tur</event>
-<event start="T61" end="T62">tur</event>
+<event start="T61" end="T117">tur</event>
+<event start="T123" end="T62">tur</event>
 <event start="T62" end="T63">tur</event>
 <event start="T63" end="T64">tur</event>
 <event start="T64" end="T65">tur</event>
@@ -454,7 +481,8 @@
 <event start="T73" end="T74">tur</event>
 <event start="T74" end="T75">tur</event>
 <event start="T75" end="T76">tur</event>
-<event start="T76" end="T77">tur</event>
+<event start="T76" end="T124">tur</event>
+<event start="T118" end="T77">tur</event>
 <event start="T77" end="T78">tur</event>
 <event start="T78" end="T79">tur</event>
 <event start="T79" end="T80">tur</event>
@@ -465,7 +493,8 @@
 <event start="T84" end="T85">tur</event>
 <event start="T85" end="T86">tur</event>
 <event start="T86" end="T87">tur</event>
-<event start="T87" end="T88">tur</event>
+<event start="T87" end="T125">tur</event>
+<event start="T119" end="T88">tur</event>
 <event start="T88" end="T89">tur</event>
 <event start="T89" end="T90">tur</event>
 <event start="T90" end="T91">tur</event>
@@ -484,7 +513,8 @@
 <event start="T103" end="T104">tur</event>
 <event start="T104" end="T105">tur</event>
 <event start="T105" end="T106">tur</event>
-<event start="T106" end="T107">tur</event>
+<event start="T106" end="T126">tur</event>
+<event start="T120" end="T107">tur</event>
 <event start="T107" end="T108">tur</event>
 <event start="T108" end="T109">tur</event>
 <event start="T109" end="T110">tur</event>
@@ -492,5 +522,16 @@
 <event start="T111" end="T112">tur</event>
 <event start="T112" end="T113">tur</event>
 <event start="T113" end="T114">tur</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T4">cu</event>
+<event start="T4" end="T115">cu</event>
+<event start="T115" end="T122">cu</event>
+<event start="T122" end="T123">cu</event>
+<event start="T123" end="T118">cu</event>
+<event start="T118" end="T84">cu</event>
+<event start="T84" end="T119">cu</event>
+<event start="T119" end="T100">cu</event>
+<event start="T100" end="T120">cu</event>
+<event start="T120" end="T113">cu</event>
+<event start="T113" end="T114">cu</event>
 </tier></basic-body>
 </basic-transcription>
