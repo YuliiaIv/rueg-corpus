@@ -2,4 +2,10 @@ dipl="Auto"	Search for the exact text "Auto" on non-normalized tokens.
 dipl	Search for any non-normalized token.
 lemma=/(be|have)/	Search for the text "be" or "have" with regular expression lemma layer.
 pos_lang & meta::doc=/.*_fwD/	Search for any pos_lang values in documents of formal written German.
+norm=/.+ /	Normalized tokens with space at the end.
 pos_lang & meta::doc=/.*_..D/	Search for any pos_lang values in German documents.
+dipl="car" & meta::doc=/..mo.*/	Search in documents of monolingual speakers for occurences of "car".
+dipl="car" & meta::doc=/(DE|US)mo.*/	Search in documents of monolingual speakers (elication in Germany or USA) for occurences of "car".
+norm="der" _o_ pos	Every possible part-of-speech tag for normalized token "der".
+dipl=/[fF]/ . dipl="16"	Where "F16" are two tokens after each other: like "f 16".
+norm="at" . norm="the" . norm="car"	Find the token sequence "at the car" (three tokens after each other)

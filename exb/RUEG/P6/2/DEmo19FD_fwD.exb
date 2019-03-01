@@ -64,6 +64,7 @@
 <tli id="T36" time="36.0"/>
 <tli id="T37" time="37.0"/>
 <tli id="T38" time="38.0"/>
+<tli id="T196" time="38.333333333333336" type="intp"/>
 <tli id="T39" time="39.0"/>
 <tli id="T40" time="40.0"/>
 <tli id="T41" time="41.0"/>
@@ -451,7 +452,8 @@
 <event start="T35" end="T36">gegenüberliegenden</event>
 <event start="T36" end="T37">Seite</event>
 <event start="T37" end="T38">,</event>
-<event start="T38" end="T39">d.h.</event>
+<event start="T38" end="T196">das</event>
+<event start="T196" end="T39">heißt</event>
 <event start="T39" end="T40">die</event>
 <event start="T40" end="T41">beiden</event>
 <event start="T41" end="T42">PKW</event>
@@ -642,8 +644,9 @@
 <event start="T34" end="T35">ART</event>
 <event start="T35" end="T36">ADJA</event>
 <event start="T36" end="T37">NN</event>
-<event start="T37" end="T38">NE</event>
-<event start="T38" end="T39">NE</event>
+<event start="T37" end="T38">$,</event>
+<event start="T38" end="T196">PDS</event>
+<event start="T196" end="T39">VVFIN</event>
 <event start="T39" end="T40">ART</event>
 <event start="T40" end="T41">PIDAT</event>
 <event start="T41" end="T42">NN</event>
@@ -832,10 +835,11 @@
 <event start="T32" end="T33">ich</event>
 <event start="T33" end="T34">auf</event>
 <event start="T34" end="T35">d</event>
-<event start="T35" end="T36">gegenüberliegenden</event>
+<event start="T35" end="T36">gegenüberliegend</event>
 <event start="T36" end="T37">Seite</event>
 <event start="T37" end="T38">,</event>
-<event start="T38" end="T39">d.h.</event>
+<event start="T38" end="T196">d</event>
+<event start="T196" end="T39">heißen</event>
 <event start="T39" end="T40">d</event>
 <event start="T40" end="T41">beide</event>
 <event start="T41" end="T42">PKW</event>
