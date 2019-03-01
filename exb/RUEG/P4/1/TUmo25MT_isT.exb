@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../../textgrid/RUEG/P4/1/TUmo25MT_isT.wav"></referenced-file><ud-meta-information><ud-information attribute-name="sex">u</ud-information><ud-information attribute-name="abbreviation">norm</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../../textgrid/RUEG/P4/1/TUmo25MT_isT.wav"/><ud-meta-information><ud-information attribute-name="sex">u</ud-information><ud-information attribute-name="abbreviation">norm</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -190,8 +189,7 @@
 <tli id="T161" time="64.69813149897739"/>
 <tli id="T162" time="65.2509977324263"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T2">n=apiyon</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T2">n=apiyon</event>
 <event start="T2" end="T3">hayatım</event>
 <event start="T3" end="T4">ya</event>
 <event start="T4" end="T5">bi</event>
@@ -229,7 +227,7 @@
 <event start="T36" end="T37">elinden</event>
 <event start="T37" end="T38">topu</event>
 <event start="T38" end="T39">bi</event>
-<event start="T39" end="T40">d&#252;ş&#252;rd&#252;</event>
+<event start="T39" end="T40">düşürdü</event>
 <event start="T40" end="T41">karşıda</event>
 <event start="T41" end="T42">da</event>
 <event start="T42" end="T43">adam</event>
@@ -241,7 +239,7 @@
 <event start="T48" end="T49">abla</event>
 <event start="T49" end="T50">o</event>
 <event start="T50" end="T51">beb/</event>
-<event start="T51" end="T52">k&#246;pek</event>
+<event start="T51" end="T52">köpek</event>
 <event start="T52" end="T53">tutuyodu</event>
 <event start="T53" end="T54">elinde</event>
 <event start="T54" end="T55">bira</event>
@@ -254,24 +252,24 @@
 <event start="T61" end="T62">tam</event>
 <event start="T62" end="T63">kenara</event>
 <event start="T63" end="T64">topa</event>
-<event start="T64" end="T65">k&#246;pek</event>
+<event start="T64" end="T65">köpek</event>
 <event start="T65" end="T66">fırladı</event>
 <event start="T66" end="T67">şişeler</event>
-<event start="T67" end="T68">d&#252;şt&#252;/</event>
-<event start="T68" end="T69">d&#252;şt&#252;</event>
-<event start="T69" end="T70">m&#252;</event>
+<event start="T67" end="T68">düştü/</event>
+<event start="T68" end="T69">düştü</event>
+<event start="T69" end="T70">mü</event>
 <event start="T70" end="T71">tam</event>
-<event start="T71" end="T72">d&#252;şmedi</event>
+<event start="T71" end="T72">düşmedi</event>
 <event start="T72" end="T73">mi</event>
 <event start="T73" end="T74">onu</event>
-<event start="T74" end="T75">g&#246;rmedim</event>
+<event start="T74" end="T75">görmedim</event>
 <event start="T75" end="T76">ama</event>
 <event start="T76" end="T77">(-)</event>
 <event start="T77" end="T78">elindeki</event>
 <event start="T78" end="T79">şeyler</event>
 <event start="T79" end="T80">falan</event>
-<event start="T80" end="T81">d&#246;k&#252;ld&#252;</event>
-<event start="T81" end="T82">b&#246;yle</event>
+<event start="T80" end="T81">döküldü</event>
+<event start="T81" end="T82">böyle</event>
 <event start="T82" end="T83">yere</event>
 <event start="T83" end="T84">(--)</event>
 <event start="T84" end="T85">aynen</event>
@@ -318,11 +316,11 @@
 <event start="T125" end="T126">yanlışlıkla</event>
 <event start="T126" end="T127">oldu</event>
 <event start="T127" end="T128">topu</event>
-<event start="T128" end="T129">d&#252;ş&#252;r&#252;nce</event>
+<event start="T128" end="T129">düşürünce</event>
 <event start="T129" end="T130">elinden</event>
-<event start="T130" end="T131">k&#246;pek</event>
+<event start="T130" end="T131">köpek</event>
 <event start="T131" end="T132">fırladı</event>
-<event start="T132" end="T133">k&#246;pek</event>
+<event start="T132" end="T133">köpek</event>
 <event start="T133" end="T134">fırlayınca</event>
 <event start="T134" end="T135">(-)</event>
 <event start="T135" end="T136">adam</event>
@@ -350,11 +348,9 @@
 <event start="T157" end="T158">şimdi</event>
 <event start="T158" end="T159">toplantıdayım</event>
 <event start="T159" end="T160">sonra</event>
-<event start="T160" end="T161">g&#246;r&#252;ş&#252;r&#252;z</event>
+<event start="T160" end="T161">görüşürüz</event>
 <event start="T161" end="T162">hayatım</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">ne</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">ne</event>
 <event start="T1" end="T2">yapıyorsun</event>
 <event start="T2" end="T3">hayatım</event>
 <event start="T3" end="T4">ya</event>
@@ -388,7 +384,7 @@
 <event start="T36" end="T37">elinden</event>
 <event start="T37" end="T38">topu</event>
 <event start="T38" end="T39">bir</event>
-<event start="T39" end="T40">d&#252;ş&#252;rd&#252;</event>
+<event start="T39" end="T40">düşürdü</event>
 <event start="T40" end="T41">karşıda</event>
 <event start="T41" end="T42">da</event>
 <event start="T42" end="T43">adam</event>
@@ -398,7 +394,7 @@
 <event start="T47" end="T48">var</event>
 <event start="T48" end="T49">abla</event>
 <event start="T49" end="T50">o</event>
-<event start="T51" end="T52">k&#246;pek</event>
+<event start="T51" end="T52">köpek</event>
 <event start="T52" end="T53">tutuyordu</event>
 <event start="T53" end="T54">elinde</event>
 <event start="T54" end="T55">bira</event>
@@ -411,23 +407,23 @@
 <event start="T61" end="T62">tam</event>
 <event start="T62" end="T63">kenara</event>
 <event start="T63" end="T64">topa</event>
-<event start="T64" end="T65">k&#246;pek</event>
+<event start="T64" end="T65">köpek</event>
 <event start="T65" end="T66">fırladı</event>
 <event start="T66" end="T67">şişeler</event>
-<event start="T67" end="T68">d&#252;şt&#252;</event>
-<event start="T68" end="T69">d&#252;şt&#252;</event>
-<event start="T69" end="T70">m&#252;</event>
+<event start="T67" end="T68">düştü</event>
+<event start="T68" end="T69">düştü</event>
+<event start="T69" end="T70">mü</event>
 <event start="T70" end="T71">tam</event>
-<event start="T71" end="T72">d&#252;şmedi</event>
+<event start="T71" end="T72">düşmedi</event>
 <event start="T72" end="T73">mi</event>
 <event start="T73" end="T74">onu</event>
-<event start="T74" end="T75">g&#246;rmedim</event>
+<event start="T74" end="T75">görmedim</event>
 <event start="T75" end="T76">ama</event>
 <event start="T77" end="T78">elindeki</event>
 <event start="T78" end="T79">şeyler</event>
 <event start="T79" end="T80">falan</event>
-<event start="T80" end="T81">d&#246;k&#252;ld&#252;</event>
-<event start="T81" end="T82">b&#246;yle</event>
+<event start="T80" end="T81">döküldü</event>
+<event start="T81" end="T82">böyle</event>
 <event start="T82" end="T83">yere</event>
 <event start="T84" end="T85">aynen</event>
 <event start="T85" end="T86">araba</event>
@@ -466,11 +462,11 @@
 <event start="T125" end="T126">yanlışlıkla</event>
 <event start="T126" end="T127">oldu</event>
 <event start="T127" end="T128">topu</event>
-<event start="T128" end="T129">d&#252;ş&#252;r&#252;nce</event>
+<event start="T128" end="T129">düşürünce</event>
 <event start="T129" end="T130">elinden</event>
-<event start="T130" end="T131">k&#246;pek</event>
+<event start="T130" end="T131">köpek</event>
 <event start="T131" end="T132">fırladı</event>
-<event start="T132" end="T133">k&#246;pek</event>
+<event start="T132" end="T133">köpek</event>
 <event start="T133" end="T134">fırlayınca</event>
 <event start="T135" end="T136">adam</event>
 <event start="T136" end="T137">frene</event>
@@ -492,11 +488,9 @@
 <event start="T157" end="T158">şimdi</event>
 <event start="T158" end="T159">toplantıdayım</event>
 <event start="T159" end="T160">sonra</event>
-<event start="T160" end="T161">g&#246;r&#252;ş&#252;r&#252;z</event>
+<event start="T160" end="T161">görüşürüz</event>
 <event start="T161" end="T162">hayatım</event>
-</tier>
-<tier id="TIE19" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T2">tur</event>
+</tier><tier id="TIE19" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T2">tur</event>
 <event start="T2" end="T3">tur</event>
 <event start="T3" end="T4">tur</event>
 <event start="T4" end="T5">tur</event>
@@ -657,13 +651,9 @@
 <event start="T159" end="T160">tur</event>
 <event start="T160" end="T161">tur</event>
 <event start="T161" end="T162">tur</event>
-</tier>
-<tier id="TIE20" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
-<event start="T158" end="T159">laughing</event>
+</tier><tier id="TIE20" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T158" end="T159">laughing</event>
 <event start="T159" end="T162">laughing</event>
-</tier>
-<tier id="TIE18" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T3">n=apiyon hayatım</event>
+</tier><tier id="TIE18" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T3">n=apiyon hayatım</event>
 <event start="T3" end="T9">ya bi kaza oldu burda da</event>
 <event start="T9" end="T17">onu sana (-) bi paylaşmak istedim senle kazayı</event>
 <event start="T17" end="T18">(--)</event>
@@ -671,15 +661,15 @@
 <event start="T20" end="T21">(-)</event>
 <event start="T21" end="T33">ya bi tanem bebekli çocuk/ bebekle ee annesi babası karşıdan karşıya geşçekler </event>
 <event start="T33" end="T35">pusetle gidiyo</event>
-<event start="T35" end="T40">adam elinden topu bi d&#252;ş&#252;rd&#252;</event>
+<event start="T35" end="T40">adam elinden topu bi düşürdü</event>
 <event start="T40" end="T49">karşıda da adam ee bi tane kadın var abla</event>
-<event start="T49" end="T54">o beb/ k&#246;pek tutuyodu elinde</event>
+<event start="T49" end="T54">o beb/ köpek tutuyodu elinde</event>
 <event start="T54" end="T59">bira şişeleri vardı galiba elinde</event>
 <event start="T59" end="T63">onları koyuyodu tam kenara</event>
-<event start="T63" end="T66">topa k&#246;pek fırladı</event>
-<event start="T66" end="T76">şişeler d&#252;şt&#252;/ d&#252;şt&#252; m&#252; tam d&#252;şmedi mi onu g&#246;rmedim ama</event>
+<event start="T63" end="T66">topa köpek fırladı</event>
+<event start="T66" end="T76">şişeler düştü/ düştü mü tam düşmedi mi onu görmedim ama</event>
 <event start="T76" end="T77">(-)</event>
-<event start="T77" end="T83">elindeki şeyler falan d&#246;k&#252;ld&#252; b&#246;yle yere</event>
+<event start="T77" end="T83">elindeki şeyler falan döküldü böyle yere</event>
 <event start="T83" end="T84">(--)</event>
 <event start="T84" end="T89">aynen araba geliyodu bi de</event>
 <event start="T89" end="T92">tam çarpçaktı kadına</event>
@@ -694,8 +684,8 @@
 <event start="T121" end="T122">(-) </event>
 <event start="T122" end="T125">bi suçlu yok </event>
 <event start="T125" end="T127">yanlışlıkla oldu</event>
-<event start="T127" end="T132">topu d&#252;ş&#252;r&#252;nce elinden k&#246;pek fırladı </event>
-<event start="T132" end="T138">k&#246;pek fırlayınca (-) adam firene bastı </event>
+<event start="T127" end="T132">topu düşürünce elinden köpek fırladı </event>
+<event start="T132" end="T138">köpek fırlayınca (-) adam firene bastı </event>
 <event start="T138" end="T139">aynen</event>
 <event start="T139" end="T140">(--) </event>
 <event start="T140" end="T147">yok yok kimseye bi şey olmadı ya</event>
@@ -703,10 +693,8 @@
 <event start="T148" end="T153">ufak arabaya çizildi sadece birazcık</event>
 <event start="T153" end="T154">(-)</event>
 <event start="T154" end="T159">hehe (--) neyse şimdi [[laughing]toplantıdayım]</event>
-<event start="T159" end="T162">[[laughing]sonra g&#246;r&#252;ş&#252;r&#252;z hayatım]</event>
-</tier>
-<tier id="TIE2" speaker="norm" category="Aspect" type="a" display-name="norm [Aspect]">
-<event start="T1" end="T2">Prog</event>
+<event start="T159" end="T162">[[laughing]sonra görüşürüz hayatım]</event>
+</tier><tier id="TIE2" speaker="norm" category="Aspect" type="a" display-name="norm [Aspect]"><event start="T1" end="T2">Prog</event>
 <event start="T6" end="T7">Perf</event>
 <event start="T13" end="T14">Perf</event>
 <event start="T14" end="T15">Perf</event>
@@ -742,22 +730,20 @@
 <event start="T150" end="T151">Perf</event>
 <event start="T158" end="T159">Perf</event>
 <event start="T160" end="T161">Imp</event>
-</tier>
-<tier id="TIE3" speaker="norm" category="CU" type="a" display-name="norm [CU]">
-<event start="T0" end="T3">n=apiyon hayatım</event>
+</tier><tier id="TIE3" speaker="norm" category="CU" type="a" display-name="norm [CU]"><event start="T0" end="T3">n=apiyon hayatım</event>
 <event start="T3" end="T9">ya bi kaza oldu burda da</event>
 <event start="T9" end="T17">onu sana (-) bi paylaşmak istedim senle kazayı</event>
 <event start="T18" end="T19">aynen hehe</event>
 <event start="T21" end="T33">ya bi tanem bebekli çocuk/ bebekle ee annesi babası karşıdan karşıya geşçekler </event>
 <event start="T33" end="T35">pusetle gidiyo</event>
-<event start="T35" end="T40">adam elinden topu bi d&#252;ş&#252;rd&#252;</event>
+<event start="T35" end="T40">adam elinden topu bi düşürdü</event>
 <event start="T40" end="T49">karşıda da adam ee bi tane kadın var abla</event>
-<event start="T49" end="T54">o beb/ k&#246;pek tutuyodu elinde</event>
+<event start="T49" end="T54">o beb/ köpek tutuyodu elinde</event>
 <event start="T54" end="T59">bira şişeleri vardı galiba elinde</event>
 <event start="T59" end="T63">onları koyuyodu tam kenara</event>
-<event start="T63" end="T66">topa k&#246;pek fırladı</event>
-<event start="T66" end="T76">şişeler d&#252;şt&#252;/ d&#252;şt&#252; m&#252; tam d&#252;şmedi mi onu g&#246;rmedim ama</event>
-<event start="T77" end="T83">elindeki şeyler falan d&#246;k&#252;ld&#252; b&#246;yle yere</event>
+<event start="T63" end="T66">topa köpek fırladı</event>
+<event start="T66" end="T76">şişeler düştü/ düştü mü tam düşmedi mi onu görmedim ama</event>
+<event start="T77" end="T83">elindeki şeyler falan döküldü böyle yere</event>
 <event start="T84" end="T89">aynen araba geliyodu bi de</event>
 <event start="T89" end="T92">tam çarpçaktı kadına</event>
 <event start="T93" end="T96">biraz mesafe vardı</event>
@@ -767,16 +753,14 @@
 <event start="T116" end="T121">hmm (--) valla suçlu suçsuz bilmiyom kim</event>
 <event start="T122" end="T125">bi suçlu yok </event>
 <event start="T125" end="T127">yanlışlıkla oldu</event>
-<event start="T127" end="T132">topu d&#252;ş&#252;r&#252;nce elinden k&#246;pek fırladı </event>
-<event start="T132" end="T138">k&#246;pek fırlayınca (-) adam firene bastı </event>
+<event start="T127" end="T132">topu düşürünce elinden köpek fırladı </event>
+<event start="T132" end="T138">köpek fırlayınca (-) adam firene bastı </event>
 <event start="T138" end="T139">aynen</event>
 <event start="T140" end="T147">yok yok kimseye bi şey olmadı ya</event>
 <event start="T148" end="T153">ufak arabaya çizildi sadece birazcık</event>
 <event start="T156" end="T159">hehe (--) neyse şimdi [[laughing]toplantıdayım]</event>
-<event start="T159" end="T162">[[laughing]sonra g&#246;r&#252;ş&#252;r&#252;z hayatım]</event>
-</tier>
-<tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]">
-<event start="T0" end="T1">Nom</event>
+<event start="T159" end="T162">[[laughing]sonra görüşürüz hayatım]</event>
+</tier><tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]"><event start="T0" end="T1">Nom</event>
 <event start="T2" end="T3">Nom</event>
 <event start="T5" end="T6">Nom</event>
 <event start="T7" end="T8">Loc</event>
@@ -836,12 +820,8 @@
 <event start="T144" end="T145">Nom</event>
 <event start="T149" end="T150">Dat</event>
 <event start="T161" end="T162">Nom</event>
-</tier>
-<tier id="TIE5" speaker="norm" category="Evident" type="a" display-name="norm [Evident]">
-<event start="T106" end="T107">Nfh</event>
-</tier>
-<tier id="TIE6" speaker="norm" category="Mood" type="a" display-name="norm [Mood]">
-<event start="T1" end="T2">Ind</event>
+</tier><tier id="TIE5" speaker="norm" category="Evident" type="a" display-name="norm [Evident]"><event start="T106" end="T107">Nfh</event>
+</tier><tier id="TIE6" speaker="norm" category="Mood" type="a" display-name="norm [Mood]"><event start="T1" end="T2">Ind</event>
 <event start="T6" end="T7">Ind</event>
 <event start="T13" end="T14">Ind</event>
 <event start="T14" end="T15">Ind</event>
@@ -877,9 +857,7 @@
 <event start="T150" end="T151">Ind</event>
 <event start="T158" end="T159">Opt</event>
 <event start="T160" end="T161">Ind</event>
-</tier>
-<tier id="TIE7" speaker="norm" category="NumType" type="a" display-name="norm [NumType]">
-<event start="T4" end="T5">Card</event>
+</tier><tier id="TIE7" speaker="norm" category="NumType" type="a" display-name="norm [NumType]"><event start="T4" end="T5">Card</event>
 <event start="T12" end="T13">Card</event>
 <event start="T22" end="T23">Card</event>
 <event start="T38" end="T39">Card</event>
@@ -887,9 +865,7 @@
 <event start="T99" end="T100">Card</event>
 <event start="T122" end="T123">Card</event>
 <event start="T143" end="T144">Card</event>
-</tier>
-<tier id="TIE8" speaker="norm" category="Number" type="a" display-name="norm [Number]">
-<event start="T0" end="T1">Sing</event>
+</tier><tier id="TIE8" speaker="norm" category="Number" type="a" display-name="norm [Number]"><event start="T0" end="T1">Sing</event>
 <event start="T1" end="T2">Sing</event>
 <event start="T2" end="T3">Sing</event>
 <event start="T5" end="T6">Sing</event>
@@ -980,18 +956,14 @@
 <event start="T158" end="T159">Sing</event>
 <event start="T160" end="T161">Plur</event>
 <event start="T161" end="T162">Sing</event>
-</tier>
-<tier id="TIE9" speaker="norm" category="Number[psor]" type="a" display-name="norm [Number[psor]]">
-<event start="T28" end="T29">Sing</event>
+</tier><tier id="TIE9" speaker="norm" category="Number[psor]" type="a" display-name="norm [Number[psor]]"><event start="T28" end="T29">Sing</event>
 <event start="T29" end="T30">Sing</event>
 <event start="T36" end="T37">Sing</event>
 <event start="T53" end="T54">Sing</event>
 <event start="T55" end="T56">Sing</event>
 <event start="T58" end="T59">Sing</event>
 <event start="T129" end="T130">Sing</event>
-</tier>
-<tier id="TIE10" speaker="norm" category="Person" type="a" display-name="norm [Person]">
-<event start="T0" end="T1">3</event>
+</tier><tier id="TIE10" speaker="norm" category="Person" type="a" display-name="norm [Person]"><event start="T0" end="T1">3</event>
 <event start="T1" end="T2">2</event>
 <event start="T2" end="T3">3</event>
 <event start="T5" end="T6">3</event>
@@ -1082,18 +1054,14 @@
 <event start="T158" end="T159">1</event>
 <event start="T160" end="T161">1</event>
 <event start="T161" end="T162">3</event>
-</tier>
-<tier id="TIE11" speaker="norm" category="Person[psor]" type="a" display-name="norm [Person[psor]]">
-<event start="T28" end="T29">3</event>
+</tier><tier id="TIE11" speaker="norm" category="Person[psor]" type="a" display-name="norm [Person[psor]]"><event start="T28" end="T29">3</event>
 <event start="T29" end="T30">3</event>
 <event start="T36" end="T37">3</event>
 <event start="T53" end="T54">3</event>
 <event start="T55" end="T56">3</event>
 <event start="T58" end="T59">3</event>
 <event start="T129" end="T130">3</event>
-</tier>
-<tier id="TIE12" speaker="norm" category="Polarity" type="a" display-name="norm [Polarity]">
-<event start="T1" end="T2">Pos</event>
+</tier><tier id="TIE12" speaker="norm" category="Polarity" type="a" display-name="norm [Polarity]"><event start="T1" end="T2">Pos</event>
 <event start="T6" end="T7">Pos</event>
 <event start="T13" end="T14">Pos</event>
 <event start="T14" end="T15">Pos</event>
@@ -1127,25 +1095,19 @@
 <event start="T150" end="T151">Pos</event>
 <event start="T158" end="T159">Pos</event>
 <event start="T160" end="T161">Pos</event>
-</tier>
-<tier id="TIE13" speaker="norm" category="Polite" type="a" display-name="norm [Polite]">
-<event start="T1" end="T2">Infm</event>
+</tier><tier id="TIE13" speaker="norm" category="Polite" type="a" display-name="norm [Polite]"><event start="T1" end="T2">Infm</event>
 <event start="T34" end="T35">Infm</event>
 <event start="T52" end="T53">Infm</event>
 <event start="T60" end="T61">Infm</event>
 <event start="T86" end="T87">Infm</event>
 <event start="T119" end="T120">Infm</event>
-</tier>
-<tier id="TIE14" speaker="norm" category="PronType" type="a" display-name="norm [PronType]">
-<event start="T9" end="T10">Prs</event>
+</tier><tier id="TIE14" speaker="norm" category="PronType" type="a" display-name="norm [PronType]"><event start="T9" end="T10">Prs</event>
 <event start="T10" end="T11">Prs</event>
 <event start="T15" end="T16">Prs</event>
 <event start="T59" end="T60">Prs</event>
 <event start="T73" end="T74">Prs</event>
 <event start="T109" end="T110">Prs</event>
-</tier>
-<tier id="TIE15" speaker="norm" category="Tense" type="a" display-name="norm [Tense]">
-<event start="T1" end="T2">Pres</event>
+</tier><tier id="TIE15" speaker="norm" category="Tense" type="a" display-name="norm [Tense]"><event start="T1" end="T2">Pres</event>
 <event start="T6" end="T7">Past</event>
 <event start="T13" end="T14">Pres</event>
 <event start="T14" end="T15">Past</event>
@@ -1181,20 +1143,14 @@
 <event start="T150" end="T151">Past</event>
 <event start="T158" end="T159">Pres</event>
 <event start="T160" end="T161">Aor</event>
-</tier>
-<tier id="TIE16" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]">
-<event start="T13" end="T14">Vnoun</event>
+</tier><tier id="TIE16" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]"><event start="T13" end="T14">Vnoun</event>
 <event start="T101" end="T102">Conv</event>
 <event start="T128" end="T129">Conv</event>
 <event start="T133" end="T134">Conv</event>
-</tier>
-<tier id="TIE17" speaker="norm" category="Voice" type="a" display-name="norm [Voice]">
-<event start="T80" end="T81">Pass</event>
+</tier><tier id="TIE17" speaker="norm" category="Voice" type="a" display-name="norm [Voice]"><event start="T80" end="T81">Pass</event>
 <event start="T136" end="T137">Pass</event>
 <event start="T150" end="T151">Pass</event>
-</tier>
-<tier id="TIE21" speaker="norm" category="lemma" type="a" display-name="norm [lemma]">
-<event start="T0" end="T1">ne</event>
+</tier><tier id="TIE21" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">ne</event>
 <event start="T1" end="T2">yap</event>
 <event start="T2" end="T3">hayat</event>
 <event start="T3" end="T4">ya</event>
@@ -1228,7 +1184,7 @@
 <event start="T36" end="T37">el</event>
 <event start="T37" end="T38">top</event>
 <event start="T38" end="T39">bir</event>
-<event start="T39" end="T40">d&#252;ş&#252;r</event>
+<event start="T39" end="T40">düşür</event>
 <event start="T40" end="T41">karşıt</event>
 <event start="T41" end="T42">da</event>
 <event start="T42" end="T43">adam</event>
@@ -1238,7 +1194,7 @@
 <event start="T47" end="T48">var</event>
 <event start="T48" end="T49">abla</event>
 <event start="T49" end="T50">o</event>
-<event start="T51" end="T52">k&#246;pek</event>
+<event start="T51" end="T52">köpek</event>
 <event start="T52" end="T53">tut</event>
 <event start="T53" end="T54">el</event>
 <event start="T54" end="T55">bira</event>
@@ -1251,23 +1207,23 @@
 <event start="T61" end="T62">tam</event>
 <event start="T62" end="T63">kenar</event>
 <event start="T63" end="T64">top</event>
-<event start="T64" end="T65">k&#246;pek</event>
+<event start="T64" end="T65">köpek</event>
 <event start="T65" end="T66">fırla</event>
 <event start="T66" end="T67">şişe</event>
-<event start="T67" end="T68">d&#252;ş</event>
-<event start="T68" end="T69">d&#252;ş</event>
-<event start="T69" end="T70">m&#252;</event>
+<event start="T67" end="T68">düş</event>
+<event start="T68" end="T69">düş</event>
+<event start="T69" end="T70">mü</event>
 <event start="T70" end="T71">tam</event>
-<event start="T71" end="T72">d&#252;ş</event>
+<event start="T71" end="T72">düş</event>
 <event start="T72" end="T73">mi</event>
 <event start="T73" end="T74">o</event>
-<event start="T74" end="T75">g&#246;r</event>
+<event start="T74" end="T75">gör</event>
 <event start="T75" end="T76">ama</event>
 <event start="T77" end="T78">elindeki</event>
 <event start="T78" end="T79">şey</event>
 <event start="T79" end="T80">falan</event>
-<event start="T80" end="T81">d&#246;k</event>
-<event start="T81" end="T82">b&#246;yle</event>
+<event start="T80" end="T81">dök</event>
+<event start="T81" end="T82">böyle</event>
 <event start="T82" end="T83">yer</event>
 <event start="T84" end="T85">ay</event>
 <event start="T85" end="T86">araba</event>
@@ -1306,11 +1262,11 @@
 <event start="T125" end="T126">yanlışlık</event>
 <event start="T126" end="T127">ol</event>
 <event start="T127" end="T128">top</event>
-<event start="T128" end="T129">d&#252;ş&#252;r</event>
+<event start="T128" end="T129">düşür</event>
 <event start="T129" end="T130">el</event>
-<event start="T130" end="T131">k&#246;pek</event>
+<event start="T130" end="T131">köpek</event>
 <event start="T131" end="T132">fırla</event>
-<event start="T132" end="T133">k&#246;pek</event>
+<event start="T132" end="T133">köpek</event>
 <event start="T133" end="T134">fırla</event>
 <event start="T135" end="T136">adam</event>
 <event start="T136" end="T137">fre</event>
@@ -1332,11 +1288,9 @@
 <event start="T157" end="T158">şimdi</event>
 <event start="T158" end="T159">toplantıd</event>
 <event start="T159" end="T160">sonra</event>
-<event start="T160" end="T161">g&#246;r&#252;ş</event>
+<event start="T160" end="T161">görüş</event>
 <event start="T161" end="T162">hayat</event>
-</tier>
-<tier id="TIE22" speaker="norm" category="pos" type="a" display-name="norm [pos]">
-<event start="T0" end="T1">PRON</event>
+</tier><tier id="TIE22" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">PRON</event>
 <event start="T1" end="T2">VERB</event>
 <event start="T2" end="T3">NOUN</event>
 <event start="T3" end="T4">CCONJ</event>
@@ -1353,7 +1307,7 @@
 <event start="T15" end="T16">PRON</event>
 <event start="T16" end="T17">NOUN</event>
 <event start="T18" end="T19">ADV</event>
-<event start="T21" end="T22">CCONJ</event>
+<event start="T21" end="T22">INTJ</event>
 <event start="T22" end="T23">NUM</event>
 <event start="T23" end="T24">NOUN</event>
 <event start="T24" end="T25">ADJ</event>
@@ -1398,10 +1352,10 @@
 <event start="T66" end="T67">NOUN</event>
 <event start="T67" end="T68">VERB</event>
 <event start="T68" end="T69">VERB</event>
-<event start="T69" end="T70">AUX</event>
+<event start="T69" end="T70">PART</event>
 <event start="T70" end="T71">ADV</event>
 <event start="T71" end="T72">VERB</event>
-<event start="T72" end="T73">AUX</event>
+<event start="T72" end="T73">PART</event>
 <event start="T73" end="T74">PRON</event>
 <event start="T74" end="T75">VERB</event>
 <event start="T75" end="T76">CCONJ</event>
@@ -1476,9 +1430,7 @@
 <event start="T159" end="T160">ADV</event>
 <event start="T160" end="T161">VERB</event>
 <event start="T161" end="T162">NOUN</event>
-</tier>
-<tier id="TIE23" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_1_1]">
-<event start="T0" end="T1">PWS</event>
+</tier><tier id="TIE23" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_1_1]"><event start="T0" end="T1">PWS</event>
 <event start="T1" end="T2">VVFIN</event>
 <event start="T2" end="T3">VVFIN</event>
 <event start="T3" end="T4">CO</event>
@@ -1492,7 +1444,7 @@
 <event start="T12" end="T13">ART</event>
 <event start="T13" end="T14">NN</event>
 <event start="T14" end="T15">VVFIN</event>
-<event start="T15" end="T16">NN</event>
+<event start="T15" end="T16">PPER2</event>
 <event start="T16" end="T17">NN</event>
 <event start="T18" end="T19">VVINF</event>
 <event start="T21" end="T22">CO</event>
@@ -1618,6 +1570,5 @@
 <event start="T159" end="T160">KON</event>
 <event start="T160" end="T161">VVFIN</event>
 <event start="T161" end="T162">VVFIN</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
