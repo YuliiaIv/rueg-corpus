@@ -2,7 +2,7 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="abbreviation">dipl</ud-information><ud-information attribute-name="sex">u</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information><ud-information attribute-name="abbreviation">dipl</ud-information><ud-information attribute-name="sex">u</ud-information><ud-information attribute-name="AutoSave">;C:\Users\HK_Pd\EXMARaLDA_AutoBackup_2019_03_01_12_23_35.exb at 2019_03_01_12_23_35;C:\Users\HK_Pd\EXMARaLDA_AutoBackup_2019_03_01_01_24_35.exb at 2019_03_01_01_24_35</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
 <sex value="u"/>
 <languages-used></languages-used>
@@ -64,6 +64,7 @@
 <tli id="T36" time="36.0"/>
 <tli id="T37" time="37.0"/>
 <tli id="T38" time="38.0"/>
+<tli id="T196" time="38.333333333333336" type="intp"/>
 <tli id="T39" time="39.0"/>
 <tli id="T40" time="40.0"/>
 <tli id="T41" time="41.0"/>
@@ -222,7 +223,7 @@
 <tli id="T194" time="194.0"/>
 <tli id="T195" time="195.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]"><event start="T0" end="T1">﻿Zeugenaussage</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">﻿Zeugenaussage</event>
 <event start="T1" end="T2">zum</event>
 <event start="T2" end="T3">Vorfall</event>
 <event start="T3" end="T4">F</event>
@@ -451,7 +452,8 @@
 <event start="T35" end="T36">gegenüberliegenden</event>
 <event start="T36" end="T37">Seite</event>
 <event start="T37" end="T38">,</event>
-<event start="T38" end="T39">d.h.</event>
+<event start="T38" end="T196">das</event>
+<event start="T196" end="T39">heißt</event>
 <event start="T39" end="T40">die</event>
 <event start="T40" end="T41">beiden</event>
 <event start="T41" end="T42">PKW</event>
@@ -642,16 +644,17 @@
 <event start="T34" end="T35">ART</event>
 <event start="T35" end="T36">ADJA</event>
 <event start="T36" end="T37">NN</event>
-<event start="T37" end="T38">NE</event>
-<event start="T38" end="T39">NE</event>
+<event start="T37" end="T38">$,</event>
+<event start="T38" end="T196">PDS</event>
+<event start="T196" end="T39">VVFIN</event>
 <event start="T39" end="T40">ART</event>
 <event start="T40" end="T41">PIDAT</event>
 <event start="T41" end="T42">NN</event>
-<event start="T42" end="T43">NE</event>
+<event start="T42" end="T43">$(</event>
 <event start="T43" end="T44">ADJD</event>
 <event start="T44" end="T45">KON</event>
-<event start="T45" end="T46">NE</event>
-<event start="T46" end="T47">NE</event>
+<event start="T45" end="T46">ADJD</event>
+<event start="T46" end="T47">$(</event>
 <event start="T47" end="T48">VVFIN</event>
 <event start="T48" end="T49">PPER</event>
 <event start="T49" end="T50">PTKVZ</event>
@@ -660,11 +663,11 @@
 <event start="T52" end="T53">NN</event>
 <event start="T53" end="T54">VVFIN</event>
 <event start="T54" end="T55">PRF</event>
-<event start="T55" end="T56">PWAV</event>
+<event start="T55" end="T56">KOKOM</event>
 <event start="T56" end="T57">VVFIN</event>
-<event start="T57" end="T58">APPR</event>
-<event start="T58" end="T59">NE</event>
-<event start="T59" end="T60">NE</event>
+<event start="T57" end="T58">PTKVZ</event>
+<event start="T58" end="T59">$.</event>
+<event start="T59" end="T60">ADV</event>
 <event start="T60" end="T61">VVFIN</event>
 <event start="T61" end="T62">ART</event>
 <event start="T62" end="T63">NN</event>
@@ -677,8 +680,8 @@
 <event start="T69" end="T70">APPR</event>
 <event start="T70" end="T71">ART</event>
 <event start="T71" end="T72">NN</event>
-<event start="T72" end="T73">APPR</event>
-<event start="T73" end="T74">NE</event>
+<event start="T72" end="T73">PTKVZ</event>
+<event start="T73" end="T74">$,</event>
 <event start="T74" end="T75">PRELS</event>
 <event start="T75" end="T76">PPER</event>
 <event start="T76" end="T77">VVINF</event>
@@ -689,18 +692,18 @@
 <event start="T81" end="T82">VVFIN</event>
 <event start="T82" end="T83">ART</event>
 <event start="T83" end="T84">NN</event>
-<event start="T84" end="T85">NE</event>
+<event start="T84" end="T85">$,</event>
 <event start="T85" end="T86">PRELS</event>
 <event start="T86" end="T87">PPER</event>
 <event start="T87" end="T88">APPR</event>
 <event start="T88" end="T89">ART</event>
 <event start="T89" end="T90">NN</event>
 <event start="T90" end="T91">VVFIN</event>
-<event start="T91" end="T92">NE</event>
+<event start="T91" end="T92">$,</event>
 <event start="T92" end="T93">APPR</event>
 <event start="T93" end="T94">ART</event>
 <event start="T94" end="T95">NN</event>
-<event start="T95" end="T96">NN</event>
+<event start="T95" end="T96">APPR</event>
 <event start="T96" end="T97">ART</event>
 <event start="T97" end="T98">NE</event>
 <event start="T98" end="T99">KON</event>
@@ -713,15 +716,15 @@
 <event start="T105" end="T106">VVFIN</event>
 <event start="T106" end="T107">ART</event>
 <event start="T107" end="T108">NN</event>
-<event start="T108" end="T109">NE</event>
-<event start="T109" end="T110">PDS</event>
+<event start="T108" end="T109">$,</event>
+<event start="T109" end="T110">PRELS</event>
 <event start="T110" end="T111">APPR</event>
 <event start="T111" end="T112">ART</event>
 <event start="T112" end="T113">ADJA</event>
 <event start="T113" end="T114">NN</event>
 <event start="T114" end="T115">ADV</event>
 <event start="T115" end="T116">VVFIN</event>
-<event start="T116" end="T117">NE</event>
+<event start="T116" end="T117">$,</event>
 <event start="T117" end="T118">KOUS</event>
 <event start="T118" end="T119">PPOSAT</event>
 <event start="T119" end="T120">NN</event>
@@ -730,7 +733,7 @@
 <event start="T122" end="T123">APPRART</event>
 <event start="T123" end="T124">NN</event>
 <event start="T124" end="T125">VVFIN</event>
-<event start="T125" end="T126">NE</event>
+<event start="T125" end="T126">$,</event>
 <event start="T126" end="T127">APPR</event>
 <event start="T127" end="T128">ART</event>
 <event start="T128" end="T129">NN</event>
@@ -744,16 +747,16 @@
 <event start="T136" end="T137">PIDAT</event>
 <event start="T137" end="T138">ADJA</event>
 <event start="T138" end="T139">NN</event>
-<event start="T139" end="T140">NE</event>
+<event start="T139" end="T140">$,</event>
 <event start="T140" end="T141">ART</event>
-<event start="T141" end="T142">ADJD</event>
+<event start="T141" end="T142">ADJA</event>
 <event start="T142" end="T143">KON</event>
-<event start="T143" end="T144">KON</event>
+<event start="T143" end="T144">KOKOM</event>
 <event start="T144" end="T145">ORD</event>
 <event start="T145" end="T146">ART</event>
 <event start="T146" end="T147">ADJA</event>
 <event start="T147" end="T148">NN</event>
-<event start="T148" end="T149">NE</event>
+<event start="T148" end="T149">$,</event>
 <event start="T149" end="T150">VMFIN</event>
 <event start="T150" end="T151">ADJD</event>
 <event start="T151" end="T152">VVINF</event>
@@ -762,12 +765,12 @@
 <event start="T154" end="T155">VVFIN</event>
 <event start="T155" end="T156">ART</event>
 <event start="T156" end="T157">ADJA</event>
-<event start="T157" end="T158">NE</event>
-<event start="T158" end="T159">NE</event>
+<event start="T157" end="T158">$,</event>
+<event start="T158" end="T159">ADJA</event>
 <event start="T159" end="T160">NN</event>
 <event start="T160" end="T161">ART</event>
 <event start="T161" end="T162">ADJA</event>
-<event start="T162" end="T163">ADJA</event>
+<event start="T162" end="T163">$,</event>
 <event start="T163" end="T164">ADJA</event>
 <event start="T164" end="T165">NN</event>
 <event start="T165" end="T166">PTKVZ</event>
@@ -784,9 +787,9 @@
 <event start="T176" end="T177">NN</event>
 <event start="T177" end="T178">ART</event>
 <event start="T178" end="T179">NN</event>
-<event start="T179" end="T180">NE</event>
-<event start="T180" end="T181">FM</event>
-<event start="T181" end="T182">NE</event>
+<event start="T179" end="T180">$(</event>
+<event start="T180" end="T181">CARD</event>
+<event start="T181" end="T182">$(</event>
 <event start="T182" end="T183">$.</event>
 <event start="T183" end="T184">ART</event>
 <event start="T184" end="T185">PIDAT</event>
@@ -832,10 +835,11 @@
 <event start="T32" end="T33">ich</event>
 <event start="T33" end="T34">auf</event>
 <event start="T34" end="T35">d</event>
-<event start="T35" end="T36">gegenüberliegenden</event>
+<event start="T35" end="T36">gegenüberliegend</event>
 <event start="T36" end="T37">Seite</event>
 <event start="T37" end="T38">,</event>
-<event start="T38" end="T39">d.h.</event>
+<event start="T38" end="T196">d</event>
+<event start="T196" end="T39">heißen</event>
 <event start="T39" end="T40">d</event>
 <event start="T40" end="T41">beide</event>
 <event start="T41" end="T42">PKW</event>
@@ -856,12 +860,12 @@
 <event start="T56" end="T57">folgen</event>
 <event start="T57" end="T58">ab</event>
 <event start="T58" end="T59">:</event>
-<event start="T59" end="T60">Rechterhand</event>
+<event start="T59" end="T60">rechterhand</event>
 <event start="T60" end="T61">steuern</event>
 <event start="T61" end="T62">ein</event>
 <event start="T62" end="T63">Mann</event>
 <event start="T63" end="T64">und</event>
-<event start="T64" end="T65">eine</event>
+<event start="T64" end="T65">ein</event>
 <event start="T65" end="T66">Frau</event>
 <event start="T66" end="T67">mit</event>
 <event start="T67" end="T68">ein</event>
@@ -871,7 +875,7 @@
 <event start="T71" end="T72">Straße</event>
 <event start="T72" end="T73">zu</event>
 <event start="T73" end="T74">,</event>
-<event start="T74" end="T75">die</event>
+<event start="T74" end="T75">d</event>
 <event start="T75" end="T76">sie</event>
 <event start="T76" end="T77">überqueren</event>
 <event start="T77" end="T78">wollen</event>
@@ -882,7 +886,7 @@
 <event start="T82" end="T83">d</event>
 <event start="T83" end="T84">Ball</event>
 <event start="T84" end="T85">,</event>
-<event start="T85" end="T86">die</event>
+<event start="T85" end="T86">d</event>
 <event start="T86" end="T87">er</event>
 <event start="T87" end="T88">in</event>
 <event start="T88" end="T89">d</event>
@@ -909,7 +913,7 @@
 <event start="T109" end="T110">die</event>
 <event start="T110" end="T111">auf</event>
 <event start="T111" end="T112">d</event>
-<event start="T112" end="T113">gegenüberliegenden</event>
+<event start="T112" end="T113">gegenüberliegend</event>
 <event start="T113" end="T114">Straßenseite</event>
 <event start="T114" end="T115">darauf</event>
 <event start="T115" end="T116">warten</event>
@@ -919,9 +923,9 @@
 <event start="T119" end="T120">Frauchen</event>
 <event start="T120" end="T121">ihr</event>
 <event start="T121" end="T122">Einkauf</event>
-<event start="T122" end="T123">im</event>
+<event start="T122" end="T123">in</event>
 <event start="T123" end="T124">Kofferraum</event>
-<event start="T124" end="T125">verstaute</event>
+<event start="T124" end="T125">verstauen</event>
 <event start="T125" end="T126">,</event>
 <event start="T126" end="T127">auf</event>
 <event start="T127" end="T128">d</event>
@@ -934,7 +938,7 @@
 <event start="T134" end="T135">.</event>
 <event start="T135" end="T136">d</event>
 <event start="T136" end="T137">beide</event>
-<event start="T137" end="T138">anfahrenden</event>
+<event start="T137" end="T138">anfahrend</event>
 <event start="T138" end="T139">Auto</event>
 <event start="T139" end="T140">,</event>
 <event start="T140" end="T141">ein</event>
@@ -943,10 +947,10 @@
 <event start="T143" end="T144">als</event>
 <event start="T144" end="T145">zweit</event>
 <event start="T145" end="T146">ein</event>
-<event start="T146" end="T147">weißer</event>
+<event start="T146" end="T147">weiß</event>
 <event start="T147" end="T148">PKW</event>
 <event start="T148" end="T149">,</event>
-<event start="T149" end="T150">m�ssen</event>
+<event start="T149" end="T150">müssen</event>
 <event start="T150" end="T151">ruckartig</event>
 <event start="T151" end="T152">bremsen</event>
 <event start="T152" end="T153">.</event>
@@ -955,23 +959,23 @@
 <event start="T155" end="T156">d</event>
 <event start="T156" end="T157">hinter</event>
 <event start="T157" end="T158">,</event>
-<event start="T158" end="T159">weiße</event>
+<event start="T158" end="T159">weiß</event>
 <event start="T159" end="T160">PKW</event>
 <event start="T160" end="T161">d</event>
-<event start="T161" end="T162">vorder</event>
+<event start="T161" end="T162">vordere</event>
 <event start="T162" end="T163">,</event>
 <event start="T163" end="T164">blau</event>
 <event start="T164" end="T165">PKW</event>
 <event start="T165" end="T166">auf</event>
 <event start="T166" end="T167">.</event>
 <event start="T167" end="T168">d</event>
-<event start="T168" end="T169">männlichen</event>
+<event start="T168" end="T169">männlich</event>
 <event start="T169" end="T170">Fahrer</event>
 <event start="T170" end="T171">steigen</event>
 <event start="T171" end="T172">sofort</event>
 <event start="T172" end="T173">aus</event>
 <event start="T173" end="T174">und</event>
-<event start="T174" end="T175">wählten</event>
+<event start="T174" end="T175">wählen</event>
 <event start="T175" end="T176">d</event>
 <event start="T176" end="T177">Nummer</event>
 <event start="T177" end="T178">d</event>
@@ -988,7 +992,7 @@
 <event start="T188" end="T189">mit</event>
 <event start="T189" end="T190">d</event>
 <event start="T190" end="T191">Autofahrer</event>
-<event start="T191" end="T192">ins</event>
+<event start="T191" end="T192">in</event>
 <event start="T192" end="T193">Gespräch</event>
 <event start="T193" end="T194">.</event>
 </tier><tier id="TIE20" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">deu</event>
