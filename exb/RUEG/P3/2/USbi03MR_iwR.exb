@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+<head>
+<meta-information>
+<project-name></project-name><transcription-name></transcription-name><referenced-file url=""></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
+<speakertable>
+<speaker id="dipl">
+<abbreviation>dipl</abbreviation>
+<sex value="u"></sex>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+<speaker id="norm">
+<abbreviation>norm</abbreviation>
+<sex value="u"></sex>
+<languages-used></languages-used>
+<l1></l1>
+<l2></l2>
+<ud-speaker-information></ud-speaker-information>
+<comment></comment>
+</speaker>
+</speakertable>
+</head>
+<basic-body>
+<common-timeline>
+<tli id="T0" time="0"/>
+<tli id="T1" time="1"/>
+<tli id="T2" time="2"/>
+<tli id="T3" time="3"/>
+<tli id="T4" time="4"/>
+<tli id="T5" time="5"/>
+<tli id="T6" time="6"/>
+<tli id="T7" time="7"/>
+<tli id="T8" time="8"/>
+<tli id="T9" time="9"/>
+<tli id="T10" time="10"/>
+<tli id="T11" time="11"/>
+<tli id="T12" time="12"/>
+<tli id="T13" time="13"/>
+<tli id="T14" time="14"/>
+<tli id="T15" time="15"/>
+<tli id="T16" time="16"/>
+<tli id="T17" time="17"/>
+<tli id="T18" time="18"/>
+<tli id="T19" time="19"/>
+<tli id="T20" time="20"/>
+<tli id="T21" time="21"/>
+</common-timeline>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
+<event start="T0" end="T1">мушина</event>
+<event start="T1" end="T2">уранил</event>
+<event start="T2" end="T3">мяач</event>
+<event start="T3" end="T4">.</event>
+<event start="T4" end="T5">собака</event>
+<event start="T5" end="T6">за</event>
+<event start="T6" end="T7">нмечом</event>
+<event start="T7" end="T8">бежала</event>
+<event start="T8" end="T9">и</event>
+<event start="T9" end="T10">вадител</event>
+<event start="T10" end="T11">мащине</event>
+<event start="T11" end="T12">остонавился</event>
+<event start="T12" end="T13">.</event>
+<event start="T13" end="T14">из</event>
+<event start="T14" end="T15">за</event>
+<event start="T15" end="T16">этова</event>
+<event start="T16" end="T17">ему</event>
+<event start="T17" end="T18">заехола</event>
+<event start="T18" end="T19">мачина</event>
+<event start="T19" end="T20">в</event>
+<event start="T20" end="T21">зад</event>
+</tier>
+<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
+<event start="T0" end="T1">мушина</event>
+<event start="T1" end="T2">уранил</event>
+<event start="T2" end="T3">мяач</event>
+<event start="T3" end="T4">.</event>
+<event start="T4" end="T5">собака</event>
+<event start="T5" end="T6">за</event>
+<event start="T6" end="T7">нмечом</event>
+<event start="T7" end="T8">бежала</event>
+<event start="T8" end="T9">и</event>
+<event start="T9" end="T10">вадител</event>
+<event start="T10" end="T11">мащине</event>
+<event start="T11" end="T12">остонавился</event>
+<event start="T12" end="T13">.</event>
+<event start="T13" end="T14">из</event>
+<event start="T14" end="T15">за</event>
+<event start="T15" end="T16">этова</event>
+<event start="T16" end="T17">ему</event>
+<event start="T17" end="T18">заехола</event>
+<event start="T18" end="T19">мачина</event>
+<event start="T19" end="T20">в</event>
+<event start="T20" end="T21">зад</event>
+</tier>
+<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
+<event start="T0" end="T1">rus</event>
+<event start="T1" end="T2">rus</event>
+<event start="T2" end="T3">rus</event>
+<event start="T3" end="T4">rus</event>
+<event start="T4" end="T5">rus</event>
+<event start="T5" end="T6">rus</event>
+<event start="T6" end="T7">rus</event>
+<event start="T7" end="T8">rus</event>
+<event start="T8" end="T9">rus</event>
+<event start="T9" end="T10">rus</event>
+<event start="T10" end="T11">rus</event>
+<event start="T11" end="T12">rus</event>
+<event start="T12" end="T13">rus</event>
+<event start="T13" end="T14">rus</event>
+<event start="T14" end="T15">rus</event>
+<event start="T15" end="T16">rus</event>
+<event start="T16" end="T17">rus</event>
+<event start="T17" end="T18">rus</event>
+<event start="T18" end="T19">rus</event>
+<event start="T19" end="T20">rus</event>
+<event start="T20" end="T21">rus</event>
+</tier>
+<tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]">
+<event start="T0" end="T21">мушина уранил мяач. собака за нмечом бежала и вадител мащине остонавился. из за этова ему заехола мачина в зад</event>
+</tier>
+<tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]">
+<event start="T0" end="T21">1</event>
+</tier>
+</basic-body>
+</basic-transcription>
