@@ -1,4648 +1,3599 @@
-File type = "ooTextFile"
+File type = "ooTextFile short"
 Object class = "TextGrid"
 
-xmin = 0 
-xmax = 298.25695833333333 
-tiers? <exists> 
-size = 6 
-item []: 
-    item [1]:
-        class = "IntervalTier" 
-        name = "dipl|t|dipl" 
-        xmin = 0 
-        xmax = 298.25695833333333 
-        intervals: size = 1059 
-        intervals [1]:
-            xmin = 0 
-            xmax = 1.1663226609043014 
-            text = "(--)" 
-        intervals [2]:
-            xmin = 1.1663226609043014 
-            xmax = 1.4666088959715435 
-            text = "okay" 
-        intervals [3]:
-            xmin = 1.4666088959715435 
-            xmax = 1.691823572271975 
-            text = "(-)" 
-        intervals [4]:
-            xmin = 1.691823572271975 
-            xmax = 1.9170382485724065 
-            text = "u:m" 
-        intervals [5]:
-            xmin = 1.9170382485724065 
-            xmax = 2.0671813661060274 
-            text = "so" 
-        intervals [6]:
-            xmin = 2.0671813661060274 
-            xmax = 2.3674676011732694 
-            text = "this" 
-        intervals [7]:
-            xmin = 2.3674676011732694 
-            xmax = 2.892968512540943 
-            text = "morning" 
-        intervals [8]:
-            xmin = 2.892968512540943 
-            xmax = 2.9680400713077533 
-            text = "i" 
-        intervals [9]:
-            xmin = 2.9680400713077533 
-            xmax = 3.1932547476081847 
-            text = "was" 
-        intervals [10]:
-            xmin = 3.1932547476081847 
-            xmax = 3.718755658975858 
-            text = "walking" 
-        intervals [11]:
-            xmin = 3.718755658975858 
-            xmax = 4.0190418940431005 
-            text = "back" 
-        intervals [12]:
-            xmin = 4.0190418940431005 
-            xmax = 4.1691850115767215 
-            text = "to" 
-        intervals [13]:
-            xmin = 4.1691850115767215 
-            xmax = 4.3193281291103425 
-            text = "my" 
-        intervals [14]:
-            xmin = 4.3193281291103425 
-            xmax = 4.994972158011637 
-            text = "apartment" 
-        intervals [15]:
-            xmin = 4.994972158011637 
-            xmax = 5.220186834312069 
-            text = "(-)" 
-        intervals [16]:
-            xmin = 5.220186834312069 
-            xmax = 5.37032995184569 
-            text = "as" 
-        intervals [17]:
-            xmin = 5.37032995184569 
-            xmax = 5.445401510612501 
-            text = "i" 
-        intervals [18]:
-            xmin = 5.445401510612501 
-            xmax = 5.595544628146122 
-            text = "do" 
-        intervals [19]:
-            xmin = 5.595544628146122 
-            xmax = 6.271188657047417 
-            text = "sometimes" 
-        intervals [20]:
-            xmin = 6.271188657047417 
-            xmax = 6.571474892114659 
-            text = "when" 
-        intervals [21]:
-            xmin = 6.571474892114659 
-            xmax = 6.64654645088147 
-            text = "i" 
-        intervals [22]:
-            xmin = 6.64654645088147 
-            xmax = 6.946832685948712 
-            text = "walk" 
-        intervals [23]:
-            xmin = 6.946832685948712 
-            xmax = 7.096975803482333 
-            text = "in" 
-        intervals [24]:
-            xmin = 7.096975803482333 
-            xmax = 7.322190479782765 
-            text = "the" 
-        intervals [25]:
-            xmin = 7.322190479782765 
-            xmax = 7.922762949917247 
-            text = "mornings" 
-        intervals [26]:
-            xmin = 7.922762949917247 
-            xmax = 8.455352661484477 
-            text = "(-)" 
-        intervals [27]:
-            xmin = 8.455352661484477 
-            xmax = 8.69943686143855 
-            text = "and" 
-        intervals [28]:
-            xmin = 8.69943686143855 
-            xmax = 9.024882461377311 
-            text = "then" 
-        intervals [29]:
-            xmin = 9.024882461377311 
-            xmax = 9.268966661331383 
-            text = "(-)" 
-        intervals [30]:
-            xmin = 9.268966661331383 
-            xmax = 9.350328061316073 
-            text = "i" 
-        intervals [31]:
-            xmin = 9.350328061316073 
-            xmax = 9.594412261270145 
-            text = "was" 
-        intervals [32]:
-            xmin = 9.594412261270145 
-            xmax = 10.163942061162981 
-            text = "walking" 
-        intervals [33]:
-            xmin = 10.163942061162981 
-            xmax = 10.34100715614015 
-            text = "okay" 
-        intervals [34]:
-            xmin = 10.34100715614015 
-            xmax = 10.429539703628736 
-            text = "so" 
-        intervals [35]:
-            xmin = 10.429539703628736 
-            xmax = 10.47380597737303 
-            text = "i" 
-        intervals [36]:
-            xmin = 10.47380597737303 
-            xmax = 10.606604798605908 
-            text = "was" 
-        intervals [37]:
-            xmin = 10.606604798605908 
-            xmax = 10.695137346094493 
-            text = "on" 
-        intervals [38]:
-            xmin = 10.695137346094493 
-            xmax = 10.82793616732737 
-            text = "the" 
-        intervals [39]:
-            xmin = 10.82793616732737 
-            xmax = 11.049267536048834 
-            text = "right" 
-        intervals [40]:
-            xmin = 11.049267536048834 
-            xmax = 11.226332631026004 
-            text = "side" 
-        intervals [41]:
-            xmin = 11.226332631026004 
-            xmax = 11.314865178514589 
-            text = "of" 
-        intervals [42]:
-            xmin = 11.314865178514589 
-            xmax = 11.447663999747467 
-            text = "the" 
-        intervals [43]:
-            xmin = 11.447663999747467 
-            xmax = 11.757527915957516 
-            text = "parking" 
-        intervals [44]:
-            xmin = 11.757527915957516 
-            xmax = 11.890326737190392 
-            text = "lot" 
-        intervals [45]:
-            xmin = 11.890326737190392 
-            xmax = 12.597971796853589 
-            text = "(-)" 
-        intervals [46]:
-            xmin = 12.597971796853589 
-            xmax = 13.058543346538107 
-            text = "a:nd" 
-        intervals [47]:
-            xmin = 13.058543346538107 
-            xmax = 13.403972008801496 
-            text = "(-)" 
-        intervals [48]:
-            xmin = 13.403972008801496 
-            xmax = 13.979686445907145 
-            text = "there" 
-        intervals [49]:
-            xmin = 13.979686445907145 
-            xmax = 14.325115108170534 
-            text = "was" 
-        intervals [50]:
-            xmin = 14.325115108170534 
-            xmax = 14.785686657855052 
-            text = "like" 
-        intervals [51]:
-            xmin = 14.785686657855052 
-            xmax = 15.24625820753957 
-            text = "(--)" 
-        intervals [52]:
-            xmin = 15.24625820753957 
-            xmax = 15.82197264464522 
-            text = "there" 
-        intervals [53]:
-            xmin = 15.82197264464522 
-            xmax = 16.16740130690861 
-            text = "was" 
-        intervals [54]:
-            xmin = 16.16740130690861 
-            xmax = 16.282544194329738 
-            text = "a" 
-        intervals [55]:
-            xmin = 16.282544194329738 
-            xmax = 16.973401518856516 
-            text = "couple" 
-        intervals [56]:
-            xmin = 16.973401518856516 
-            xmax = 17.203687293698774 
-            text = "in" 
-        intervals [57]:
-            xmin = 17.203687293698774 
-            xmax = 17.779401730804423 
-            text = "front" 
-        intervals [58]:
-            xmin = 17.779401730804423 
-            xmax = 18.00968750564668 
-            text = "of" 
-        intervals [59]:
-            xmin = 18.00968750564668 
-            xmax = 18.239973280488943 
-            text = "me" 
-        intervals [60]:
-            xmin = 18.239973280488943 
-            xmax = 18.38207409262511 
-            text = "i=m" 
-        intervals [61]:
-            xmin = 18.38207409262511 
-            xmax = 18.57154184214 
-            text = "just" 
-        intervals [62]:
-            xmin = 18.57154184214 
-            xmax = 18.808376529033612 
-            text = "gonna" 
-        intervals [63]:
-            xmin = 18.808376529033612 
-            xmax = 19.092578153305947 
-            text = "assume" 
-        intervals [64]:
-            xmin = 19.092578153305947 
-            xmax = 19.424146714957004 
-            text = "they=re" 
-        intervals [65]:
-            xmin = 19.424146714957004 
-            xmax = 19.471513652335727 
-            text = "a" 
-        intervals [66]:
-            xmin = 19.471513652335727 
-            xmax = 19.75571527660806 
-            text = "couple" 
-        intervals [67]:
-            xmin = 19.75571527660806 
-            xmax = 19.89781608874423 
-            text = "but" 
-        intervals [68]:
-            xmin = 19.89781608874423 
-            xmax = 19.94518302612295 
-            text = "i" 
-        intervals [69]:
-            xmin = 19.94518302612295 
-            xmax = 20.13465077563784 
-            text = "have" 
-        intervals [70]:
-            xmin = 20.13465077563784 
-            xmax = 20.229384650395286 
-            text = "no" 
-        intervals [71]:
-            xmin = 20.229384650395286 
-            xmax = 20.418852399910175 
-            text = "idea" 
-        intervals [72]:
-            xmin = 20.418852399910175 
-            xmax = 20.604086812791053 
-            text = "i=m" 
-        intervals [73]:
-            xmin = 20.604086812791053 
-            xmax = 20.78932122567193 
-            text = "not" 
-        intervals [74]:
-            xmin = 20.78932122567193 
-            xmax = 21.09804524714006 
-            text = "gonna" 
-        intervals [75]:
-            xmin = 21.09804524714006 
-            xmax = 21.283279660020938 
-            text = "(-)" 
-        intervals [76]:
-            xmin = 21.283279660020938 
-            xmax = 21.468514072901815 
-            text = "i=m" 
-        intervals [77]:
-            xmin = 21.468514072901815 
-            xmax = 21.653748485782693 
-            text = "not" 
-        intervals [78]:
-            xmin = 21.653748485782693 
-            xmax = 21.962472507250823 
-            text = "gonna" 
-        intervals [79]:
-            xmin = 21.962472507250823 
-            xmax = 22.1477069201317 
-            text = "(-)" 
-        intervals [80]:
-            xmin = 22.1477069201317 
-            xmax = 22.45643094159983 
-            text = "quote" 
-        intervals [81]:
-            xmin = 22.45643094159983 
-            xmax = 22.826899767361585 
-            text = "myself" 
-        intervals [82]:
-            xmin = 22.826899767361585 
-            xmax = 22.950389375948838 
-            text = "on" 
-        intervals [83]:
-            xmin = 22.950389375948838 
-            xmax = 23.197368593123343 
-            text = "that" 
-        intervals [84]:
-            xmin = 23.197368593123343 
-            xmax = 23.79402812829244 
-            text = "(-)" 
-        intervals [85]:
-            xmin = 23.79402812829244 
-            xmax = 23.96790384279012 
-            text = "but" 
-        intervals [86]:
-            xmin = 23.96790384279012 
-            xmax = 24.257696700286253 
-            text = "there" 
-        intervals [87]:
-            xmin = 24.257696700286253 
-            xmax = 24.431572414783933 
-            text = "was" 
-        intervals [88]:
-            xmin = 24.431572414783933 
-            xmax = 24.953199558276978 
-            text = "basically" 
-        intervals [89]:
-            xmin = 24.953199558276978 
-            xmax = 25.011158129776206 
-            text = "a" 
-        intervals [90]:
-            xmin = 25.011158129776206 
-            xmax = 25.185033844273885 
-            text = "man" 
-        intervals [91]:
-            xmin = 25.185033844273885 
-            xmax = 25.648702416267703 
-            text = "bouncing" 
-        intervals [92]:
-            xmin = 25.648702416267703 
-            xmax = 25.70666098776693 
-            text = "a" 
-        intervals [93]:
-            xmin = 25.70666098776693 
-            xmax = 26.054412416762293 
-            text = "soccer" 
-        intervals [94]:
-            xmin = 26.054412416762293 
-            xmax = 26.2862467027592 
-            text = "ball" 
-        intervals [95]:
-            xmin = 26.2862467027592 
-            xmax = 26.576039560255335 
-            text = "along" 
-        intervals [96]:
-            xmin = 26.576039560255335 
-            xmax = 26.749915274753015 
-            text = "the" 
-        intervals [97]:
-            xmin = 26.749915274753015 
-            xmax = 26.981749560749922 
-            text = "path" 
-        intervals [98]:
-            xmin = 26.981749560749922 
-            xmax = 27.097666703748377 
-            text = "as" 
-        intervals [99]:
-            xmin = 27.097666703748377 
-            xmax = 27.213583846746833 
-            text = "he" 
-        intervals [100]:
-            xmin = 27.213583846746833 
-            xmax = 27.5613352757422 
-            text = "walked" 
-        intervals [101]:
-            xmin = 27.5613352757422 
-            xmax = 27.87757221279335 
-            text = "and" 
-        intervals [102]:
-            xmin = 27.87757221279335 
-            xmax = 28.40463377454527 
-            text = "there" 
-        intervals [103]:
-            xmin = 28.40463377454527 
-            xmax = 28.720870711596422 
-            text = "was" 
-        intervals [104]:
-            xmin = 28.720870711596422 
-            xmax = 28.931695336297192 
-            text = "a:" 
-        intervals [105]:
-            xmin = 28.931695336297192 
-            xmax = 29.247932273348344 
-            text = "(-)" 
-        intervals [106]:
-            xmin = 29.247932273348344 
-            xmax = 29.774993835100265 
-            text = "woman" 
-        intervals [107]:
-            xmin = 29.774993835100265 
-            xmax = 30.1966430845018 
-            text = "with" 
-        intervals [108]:
-            xmin = 30.1966430845018 
-            xmax = 30.40746770920257 
-            text = "a:" 
-        intervals [109]:
-            xmin = 30.40746770920257 
-            xmax = 30.723704646253722 
-            text = "(-)" 
-        intervals [110]:
-            xmin = 30.723704646253722 
-            xmax = 31.250766208005643 
-            text = "child" 
-        intervals [111]:
-            xmin = 31.250766208005643 
-            xmax = 31.567003145056795 
-            text = "(-)" 
-        intervals [112]:
-            xmin = 31.567003145056795 
-            xmax = 31.777827769757565 
-            text = "in" 
-        intervals [113]:
-            xmin = 31.777827769757565 
-            xmax = 31.988652394458335 
-            text = "a:" 
-        intervals [114]:
-            xmin = 31.988652394458335 
-            xmax = 32.304889331509486 
-            text = "(-)" 
-        intervals [115]:
-            xmin = 32.304889331509486 
-            xmax = 32.93736320561179 
-            text = "basket" 
-        intervals [116]:
-            xmin = 32.93736320561179 
-            xmax = 33.25360014266294 
-            text = "(-)" 
-        intervals [117]:
-            xmin = 33.25360014266294 
-            xmax = 33.67524939206448 
-            text = "cart" 
-        intervals [118]:
-            xmin = 33.67524939206448 
-            xmax = 34.51854789086755 
-            text = "stroller" 
-        intervals [119]:
-            xmin = 34.51854789086755 
-            xmax = 35.04560945261948 
-            text = "thing" 
-        intervals [120]:
-            xmin = 35.04560945261948 
-            xmax = 37.056751449531376 
-            text = "(--)" 
-        intervals [121]:
-            xmin = 37.056751449531376 
-            xmax = 37.33431599786403 
-            text = "a:nd" 
-        intervals [122]:
-            xmin = 37.33431599786403 
-            xmax = 37.54248940911352 
-            text = "(-)" 
-        intervals [123]:
-            xmin = 37.54248940911352 
-            xmax = 37.68127168327985 
-            text = "on" 
-        intervals [124]:
-            xmin = 37.68127168327985 
-            xmax = 37.88944509452934 
-            text = "the" 
-        intervals [125]:
-            xmin = 37.88944509452934 
-            xmax = 38.167009642862 
-            text = "left" 
-        intervals [126]:
-            xmin = 38.167009642862 
-            xmax = 38.444574191194654 
-            text = "side" 
-        intervals [127]:
-            xmin = 38.444574191194654 
-            xmax = 38.583356465360986 
-            text = "of" 
-        intervals [128]:
-            xmin = 38.583356465360986 
-            xmax = 38.791529876610475 
-            text = "the" 
-        intervals [129]:
-            xmin = 38.791529876610475 
-            xmax = 39.27726783619263 
-            text = "parking" 
-        intervals [130]:
-            xmin = 39.27726783619263 
-            xmax = 39.48544124744213 
-            text = "lot" 
-        intervals [131]:
-            xmin = 39.48544124744213 
-            xmax = 39.5614235236411 
-            text = "so" 
-        intervals [132]:
-            xmin = 39.5614235236411 
-            xmax = 39.59941466174059 
-            text = "i" 
-        intervals [133]:
-            xmin = 39.59941466174059 
-            xmax = 39.713388076039045 
-            text = "was" 
-        intervals [134]:
-            xmin = 39.713388076039045 
-            xmax = 39.97932604273544 
-            text = "walking" 
-        intervals [135]:
-            xmin = 39.97932604273544 
-            xmax = 40.05530831893441 
-            text = "on" 
-        intervals [136]:
-            xmin = 40.05530831893441 
-            xmax = 40.169281733232864 
-            text = "the" 
-        intervals [137]:
-            xmin = 40.169281733232864 
-            xmax = 40.35923742373029 
-            text = "right" 
-        intervals [138]:
-            xmin = 40.35923742373029 
-            xmax = 40.51120197612823 
-            text = "side" 
-        intervals [139]:
-            xmin = 40.51120197612823 
-            xmax = 40.66819963562273 
-            text = "they" 
-        intervals [140]:
-            xmin = 40.66819963562273 
-            xmax = 40.82519729511723 
-            text = "were" 
-        intervals [141]:
-            xmin = 40.82519729511723 
-            xmax = 41.0999431992326 
-            text = "walking" 
-        intervals [142]:
-            xmin = 41.0999431992326 
-            xmax = 41.37468910334797 
-            text = "towards" 
-        intervals [143]:
-            xmin = 41.37468910334797 
-            xmax = 41.453187933095215 
-            text = "me" 
-        intervals [144]:
-            xmin = 41.453187933095215 
-            xmax = 41.78104183688413 
-            text = "(-)" 
-        intervals [145]:
-            xmin = 41.78104183688413 
-            xmax = 41.97626291158684 
-            text = "and" 
-        intervals [146]:
-            xmin = 41.97626291158684 
-            xmax = 42.10641029472198 
-            text = "on" 
-        intervals [147]:
-            xmin = 42.10641029472198 
-            xmax = 42.3016313694247 
-            text = "the" 
-        intervals [148]:
-            xmin = 42.3016313694247 
-            xmax = 42.56192613569498 
-            text = "left" 
-        intervals [149]:
-            xmin = 42.56192613569498 
-            xmax = 42.82222090196527 
-            text = "side" 
-        intervals [150]:
-            xmin = 42.82222090196527 
-            xmax = 42.952368285100405 
-            text = "of" 
-        intervals [151]:
-            xmin = 42.952368285100405 
-            xmax = 43.14758935980312 
-            text = "the" 
-        intervals [152]:
-            xmin = 43.14758935980312 
-            xmax = 43.60310520077611 
-            text = "parking" 
-        intervals [153]:
-            xmin = 43.60310520077611 
-            xmax = 43.79832627547883 
-            text = "lot" 
-        intervals [154]:
-            xmin = 43.79832627547883 
-            xmax = 44.12369473331668 
-            text = "there" 
-        intervals [155]:
-            xmin = 44.12369473331668 
-            xmax = 44.3189158080194 
-            text = "was" 
-        intervals [156]:
-            xmin = 44.3189158080194 
-            xmax = 44.51413688272211 
-            text = "(-)" 
-        intervals [157]:
-            xmin = 44.51413688272211 
-            xmax = 44.64428426585725 
-            text = "a:" 
-        intervals [158]:
-            xmin = 44.64428426585725 
-            xmax = 44.969652723695106 
-            text = "woman" 
-        intervals [159]:
-            xmin = 44.969652723695106 
-            xmax = 45.16487379839782 
-            text = "(-)" 
-        intervals [160]:
-            xmin = 45.16487379839782 
-            xmax = 45.62038963937081 
-            text = "pulling" 
-        intervals [161]:
-            xmin = 45.62038963937081 
-            xmax = 46.20605286347895 
-            text = "groceries" 
-        intervals [162]:
-            xmin = 46.20605286347895 
-            xmax = 46.40127393818167 
-            text = "out" 
-        intervals [163]:
-            xmin = 46.40127393818167 
-            xmax = 46.531421321316806 
-            text = "of" 
-        intervals [164]:
-            xmin = 46.531421321316806 
-            xmax = 46.72664239601952 
-            text = "(-)" 
-        intervals [165]:
-            xmin = 46.72664239601952 
-            xmax = 46.921863470722236 
-            text = "her" 
-        intervals [166]:
-            xmin = 46.921863470722236 
-            xmax = 47.11708454542495 
-            text = "(-)" 
-        intervals [167]:
-            xmin = 47.11708454542495 
-            xmax = 47.31230562012767 
-            text = "the" 
-        intervals [168]:
-            xmin = 47.31230562012767 
-            xmax = 47.63767407796552 
-            text = "trunk" 
-        intervals [169]:
-            xmin = 47.63767407796552 
-            xmax = 47.76782146110066 
-            text = "of" 
-        intervals [170]:
-            xmin = 47.76782146110066 
-            xmax = 47.963042535803375 
-            text = "her" 
-        intervals [171]:
-            xmin = 47.963042535803375 
-            xmax = 48.15826361050609 
-            text = "car" 
-        intervals [172]:
-            xmin = 48.15826361050609 
-            xmax = 48.353484685208805 
-            text = "(-)" 
-        intervals [173]:
-            xmin = 48.353484685208805 
-            xmax = 48.61377945147909 
-            text = "with" 
-        intervals [174]:
-            xmin = 48.61377945147909 
-            xmax = 48.809000526181805 
-            text = "her" 
-        intervals [175]:
-            xmin = 48.809000526181805 
-            xmax = 49.00422160088452 
-            text = "dog" 
-        intervals [176]:
-            xmin = 49.00422160088452 
-            xmax = 49.13436898401966 
-            text = "on" 
-        intervals [177]:
-            xmin = 49.13436898401966 
-            xmax = 49.19944267558723 
-            text = "a" 
-        intervals [178]:
-            xmin = 49.19944267558723 
-            xmax = 49.52481113342508 
-            text = "leash" 
-        intervals [179]:
-            xmin = 49.52481113342508 
-            xmax = 50.04540066596565 
-            text = "attached" 
-        intervals [180]:
-            xmin = 50.04540066596565 
-            xmax = 50.17554804910079 
-            text = "to" 
-        intervals [181]:
-            xmin = 50.17554804910079 
-            xmax = 50.370769123803505 
-            text = "one" 
-        intervals [182]:
-            xmin = 50.370769123803505 
-            xmax = 50.500916506938644 
-            text = "of" 
-        intervals [183]:
-            xmin = 50.500916506938644 
-            xmax = 50.69613758164136 
-            text = "her" 
-        intervals [184]:
-            xmin = 50.69613758164136 
-            xmax = 50.95643234791161 
-            text = "arms" 
-        intervals [185]:
-            xmin = 50.95643234791161 
-            xmax = 51.728895847377174 
-            text = "(-)" 
-        intervals [186]:
-            xmin = 51.728895847377174 
-            xmax = 52.0341723250838 
-            text = "a:nd" 
-        intervals [187]:
-            xmin = 52.0341723250838 
-            xmax = 52.26312968336377 
-            text = "(-)" 
-        intervals [188]:
-            xmin = 52.26312968336377 
-            xmax = 52.95000175820369 
-            text = "[gulping]" 
-        intervals [189]:
-            xmin = 52.95000175820369 
-            xmax = 54.171107669030214 
-            text = "[tongueclicking]" 
-        intervals [190]:
-            xmin = 54.171107669030214 
-            xmax = 54.32374590788353 
-            text = "on" 
-        intervals [191]:
-            xmin = 54.32374590788353 
-            xmax = 54.5527032661635 
-            text = "the" 
-        intervals [192]:
-            xmin = 54.5527032661635 
-            xmax = 54.93429886329678 
-            text = "right" 
-        intervals [193]:
-            xmin = 54.93429886329678 
-            xmax = 55.23957534100341 
-            text = "side" 
-        intervals [194]:
-            xmin = 55.23957534100341 
-            xmax = 55.39221357985672 
-            text = "of" 
-        intervals [195]:
-            xmin = 55.39221357985672 
-            xmax = 55.62117093813669 
-            text = "the" 
-        intervals [196]:
-            xmin = 55.62117093813669 
-            xmax = 56.1554047741233 
-            text = "parking" 
-        intervals [197]:
-            xmin = 56.1554047741233 
-            xmax = 56.38436213240327 
-            text = "lot" 
-        intervals [198]:
-            xmin = 56.38436213240327 
-            xmax = 56.61331949068324 
-            text = "(-)" 
-        intervals [199]:
-            xmin = 56.61331949068324 
-            xmax = 56.76595772953655 
-            text = "um" 
-        intervals [200]:
-            xmin = 56.76595772953655 
-            xmax = 56.99491508781652 
-            text = "(-)" 
-        intervals [201]:
-            xmin = 56.99491508781652 
-            xmax = 57.30019156552315 
-            text = "next" 
-        intervals [202]:
-            xmin = 57.30019156552315 
-            xmax = 57.452829804376464 
-            text = "to" 
-        intervals [203]:
-            xmin = 57.452829804376464 
-            xmax = 57.681787162656434 
-            text = "the" 
-        intervals [204]:
-            xmin = 57.681787162656434 
-            xmax = 58.292340118069696 
-            text = "sidewalk" 
-        intervals [205]:
-            xmin = 58.292340118069696 
-            xmax = 58.67393571520298 
-            text = "where" 
-        intervals [206]:
-            xmin = 58.67393571520298 
-            xmax = 58.82657395405629 
-            text = "we" 
-        intervals [207]:
-            xmin = 58.82657395405629 
-            xmax = 59.13185043176292 
-            text = "were" 
-        intervals [208]:
-            xmin = 59.13185043176292 
-            xmax = 59.666084267749525 
-            text = "walking" 
-        intervals [209]:
-            xmin = 59.666084267749525 
-            xmax = 59.895041626029496 
-            text = "(-)" 
-        intervals [210]:
-            xmin = 59.895041626029496 
-            xmax = 60.27663722316278 
-            text = "there" 
-        intervals [211]:
-            xmin = 60.27663722316278 
-            xmax = 60.50559458144275 
-            text = "was" 
-        intervals [212]:
-            xmin = 60.50559458144275 
-            xmax = 60.58191370086941 
-            text = "a" 
-        intervals [213]:
-            xmin = 60.58191370086941 
-            xmax = 60.96350929800269 
-            text = "white" 
-        intervals [214]:
-            xmin = 60.96350929800269 
-            xmax = 61.19246665628266 
-            text = "van" 
-        intervals [215]:
-            xmin = 61.19246665628266 
-            xmax = 61.49774313398929 
-            text = "(--)" 
-        intervals [216]:
-            xmin = 61.49774313398929 
-            xmax = 61.803019611695916 
-            text = "just" 
-        intervals [217]:
-            xmin = 61.803019611695916 
-            xmax = 61.87933873112257 
-            text = "a" 
-        intervals [218]:
-            xmin = 61.87933873112257 
-            xmax = 62.1846152088292 
-            text = "like" 
-        intervals [219]:
-            xmin = 62.1846152088292 
-            xmax = 62.26093432825586 
-            text = "a" 
-        intervals [220]:
-            xmin = 62.26093432825586 
-            xmax = 62.48989168653583 
-            text = "big" 
-        intervals [221]:
-            xmin = 62.48989168653583 
-            xmax = 62.87148728366911 
-            text = "white" 
-        intervals [222]:
-            xmin = 62.87148728366911 
-            xmax = 63.10044464194908 
-            text = "van" 
-        intervals [223]:
-            xmin = 63.10044464194908 
-            xmax = 63.40572111965571 
-            text = "like" 
-        intervals [224]:
-            xmin = 63.40572111965571 
-            xmax = 63.482040239082366 
-            text = "a" 
-        intervals [225]:
-            xmin = 63.482040239082366 
-            xmax = 64.24523143334893 
-            text = "commercial" 
-        intervals [226]:
-            xmin = 64.24523143334893 
-            xmax = 64.4741887916289 
-            text = "van" 
-        intervals [227]:
-            xmin = 64.4741887916289 
-            xmax = 64.77946526933553 
-            text = "with" 
-        intervals [228]:
-            xmin = 64.77946526933553 
-            xmax = 65.08474174704216 
-            text = "like" 
-        intervals [229]:
-            xmin = 65.08474174704216 
-            xmax = 65.23737998589547 
-            text = "no" 
-        intervals [230]:
-            xmin = 65.23737998589547 
-            xmax = 65.77161382188216 
-            text = "windows" 
-        intervals [231]:
-            xmin = 65.77161382188216 
-            xmax = 66.633677611505 
-            text = "(-)" 
-        intervals [232]:
-            xmin = 66.633677611505 
-            xmax = 66.93586774937411 
-            text = "u:m" 
-        intervals [233]:
-            xmin = 66.93586774937411 
-            xmax = 67.3387879331996 
-            text = "(--)" 
-        intervals [234]:
-            xmin = 67.3387879331996 
-            xmax = 68.24535834680694 
-            text = "[gulping]" 
-        intervals [235]:
-            xmin = 68.24535834680694 
-            xmax = 68.54754848467606 
-            text = "and" 
-        intervals [236]:
-            xmin = 68.54754848467606 
-            xmax = 68.74900857658879 
-            text = "so" 
-        intervals [237]:
-            xmin = 68.74900857658879 
-            xmax = 69.05119871445791 
-            text = "(-)" 
-        intervals [238]:
-            xmin = 69.05119871445791 
-            xmax = 69.15192876041428 
-            text = "i" 
-        intervals [239]:
-            xmin = 69.15192876041428 
-            xmax = 69.4541188982834 
-            text = "was" 
-        intervals [240]:
-            xmin = 69.4541188982834 
-            xmax = 70.15922921997799 
-            text = "walking" 
-        intervals [241]:
-            xmin = 70.15922921997799 
-            xmax = 70.37954904057808 
-            text = "and" 
-        intervals [242]:
-            xmin = 70.37954904057808 
-            xmax = 70.67330880137823 
-            text = "(--)" 
-        intervals [243]:
-            xmin = 70.67330880137823 
-            xmax = 70.89362862197832 
-            text = "two" 
-        intervals [244]:
-            xmin = 70.89362862197832 
-            xmax = 71.18738838277847 
-            text = "cars" 
-        intervals [245]:
-            xmin = 71.18738838277847 
-            xmax = 71.48114814357861 
-            text = "were" 
-        intervals [246]:
-            xmin = 71.48114814357861 
-            xmax = 71.99522772497885 
-            text = "driving" 
-        intervals [247]:
-            xmin = 71.99522772497885 
-            xmax = 72.28898748577899 
-            text = "down" 
-        intervals [248]:
-            xmin = 72.28898748577899 
-            xmax = 72.50930730637909 
-            text = "the" 
-        intervals [249]:
-            xmin = 72.50930730637909 
-            xmax = 72.94994694757929 
-            text = "street" 
-        intervals [250]:
-            xmin = 72.94994694757929 
-            xmax = 73.90466617017974 
-            text = "perpendicular" 
-        intervals [251]:
-            xmin = 73.90466617017974 
-            xmax = 74.0515460505798 
-            text = "to" 
-        intervals [252]:
-            xmin = 74.0515460505798 
-            xmax = 74.2718658711799 
-            text = "the" 
-        intervals [253]:
-            xmin = 74.2718658711799 
-            xmax = 74.85938539278017 
-            text = "entrance" 
-        intervals [254]:
-            xmin = 74.85938539278017 
-            xmax = 75.00626527318023 
-            text = "of" 
-        intervals [255]:
-            xmin = 75.00626527318023 
-            xmax = 75.22658509378033 
-            text = "the" 
-        intervals [256]:
-            xmin = 75.22658509378033 
-            xmax = 75.74066467518057 
-            text = "parking" 
-        intervals [257]:
-            xmin = 75.74066467518057 
-            xmax = 75.96098449578068 
-            text = "lot" 
-        intervals [258]:
-            xmin = 75.96098449578068 
-            xmax = 77.36441706658373 
-            text = "(--)" 
-        intervals [259]:
-            xmin = 77.36441706658373 
-            xmax = 77.55867538286398 
-            text = "and" 
-        intervals [260]:
-            xmin = 77.55867538286398 
-            xmax = 77.81768647123766 
-            text = "then" 
-        intervals [261]:
-            xmin = 77.81768647123766 
-            xmax = 78.01194478751792 
-            text = "one" 
-        intervals [262]:
-            xmin = 78.01194478751792 
-            xmax = 78.14145033170476 
-            text = "of" 
-        intervals [263]:
-            xmin = 78.14145033170476 
-            xmax = 78.33570864798502 
-            text = "the" 
-        intervals [264]:
-            xmin = 78.33570864798502 
-            xmax = 78.5947197363587 
-            text = "cars" 
-        intervals [265]:
-            xmin = 78.5947197363587 
-            xmax = 78.98323636891922 
-            text = "turned" 
-        intervals [266]:
-            xmin = 78.98323636891922 
-            xmax = 79.11274191310606 
-            text = "in" 
-        intervals [267]:
-            xmin = 79.11274191310606 
-            xmax = 80.31085649534901 
-            text = "(--)" 
-        intervals [268]:
-            xmin = 80.31085649534901 
-            xmax = 80.53253792689858 
-            text = "they" 
-        intervals [269]:
-            xmin = 80.53253792689858 
-            xmax = 80.75421935844815 
-            text = "were" 
-        intervals [270]:
-            xmin = 80.75421935844815 
-            xmax = 80.97590078999772 
-            text = "both" 
-        intervals [271]:
-            xmin = 80.97590078999772 
-            xmax = 81.25300257943469 
-            text = "going" 
-        intervals [272]:
-            xmin = 81.25300257943469 
-            xmax = 81.58552472675905 
-            text = "pretty" 
-        intervals [273]:
-            xmin = 81.58552472675905 
-            xmax = 81.80720615830862 
-            text = "fast" 
-        intervals [274]:
-            xmin = 81.80720615830862 
-            xmax = 81.86262651619602 
-            text = "i" 
-        intervals [275]:
-            xmin = 81.86262651619602 
-            xmax = 82.13972830563299 
-            text = "would" 
-        intervals [276]:
-            xmin = 82.13972830563299 
-            xmax = 82.30598937929517 
-            text = "say" 
-        intervals [277]:
-            xmin = 82.30598937929517 
-            xmax = 82.47225045295735 
-            text = "(-)" 
-        intervals [278]:
-            xmin = 82.47225045295735 
-            xmax = 82.9156133160565 
-            text = "relative" 
-        intervals [279]:
-            xmin = 82.9156133160565 
-            xmax = 83.02645403183128 
-            text = "to" 
-        intervals [280]:
-            xmin = 83.02645403183128 
-            xmax = 83.19271510549346 
-            text = "(-)" 
-        intervals [281]:
-            xmin = 83.19271510549346 
-            xmax = 83.58065761070522 
-            text = "parking" 
-        intervals [282]:
-            xmin = 83.58065761070522 
-            xmax = 83.7469186843674 
-            text = "lot" 
-        intervals [283]:
-            xmin = 83.7469186843674 
-            xmax = 84.07944083169176 
-            text = "speeds" 
-        intervals [284]:
-            xmin = 84.07944083169176 
-            xmax = 84.78001833189083 
-            text = "(-)" 
-        intervals [285]:
-            xmin = 84.78001833189083 
-            xmax = 85.01637473350637 
-            text = "but" 
-        intervals [286]:
-            xmin = 85.01637473350637 
-            xmax = 85.2527311351219 
-            text = "the" 
-        intervals [287]:
-            xmin = 85.2527311351219 
-            xmax = 85.6466584711478 
-            text = "first" 
-        intervals [288]:
-            xmin = 85.6466584711478 
-            xmax = 85.88301487276334 
-            text = "car" 
-        intervals [289]:
-            xmin = 85.88301487276334 
-            xmax = 86.11937127437888 
-            text = "(-)" 
-        intervals [290]:
-            xmin = 86.11937127437888 
-            xmax = 86.51329861040477 
-            text = "which" 
-        intervals [291]:
-            xmin = 86.51329861040477 
-            xmax = 86.67086954481513 
-            text = "is" 
-        intervals [292]:
-            xmin = 86.67086954481513 
-            xmax = 86.74965501202031 
-            text = "a" 
-        intervals [293]:
-            xmin = 86.74965501202031 
-            xmax = 87.06479688084103 
-            text = "blue" 
-        intervals [294]:
-            xmin = 87.06479688084103 
-            xmax = 87.61629515127728 
-            text = "renault" 
-        intervals [295]:
-            xmin = 87.61629515127728 
-            xmax = 87.85265155289282 
-            text = "(-)" 
-        intervals [296]:
-            xmin = 87.85265155289282 
-            xmax = 88.3253643561239 
-            text = "turned" 
-        intervals [297]:
-            xmin = 88.3253643561239 
-            xmax = 88.48293529053426 
-            text = "in" 
-        intervals [298]:
-            xmin = 88.48293529053426 
-            xmax = 88.64050622494462 
-            text = "to" 
-        intervals [299]:
-            xmin = 88.64050622494462 
-            xmax = 88.87686262656015 
-            text = "the" 
-        intervals [300]:
-            xmin = 88.87686262656015 
-            xmax = 89.11321902817569 
-            text = "(-)" 
-        intervals [301]:
-            xmin = 89.11321902817569 
-            xmax = 89.66471729861195 
-            text = "parking" 
-        intervals [302]:
-            xmin = 89.66471729861195 
-            xmax = 89.90107370022749 
-            text = "lot" 
-        intervals [303]:
-            xmin = 89.90107370022749 
-            xmax = 90.13743010184302 
-            text = "(-)" 
-        intervals [304]:
-            xmin = 90.13743010184302 
-            xmax = 90.68892837227928 
-            text = "heading" 
-        intervals [305]:
-            xmin = 90.68892837227928 
-            xmax = 91.24042664271553 
-            text = "towards" 
-        intervals [306]:
-            xmin = 91.24042664271553 
-            xmax = 91.39799757712595 
-            text = "me" 
-        intervals [307]:
-            xmin = 91.39799757712595 
-            xmax = 92.28326341183504 
-            text = "(-)" 
-        intervals [308]:
-            xmin = 92.28326341183504 
-            xmax = 92.55623653043506 
-            text = "a:nd" 
-        intervals [309]:
-            xmin = 92.55623653043506 
-            xmax = 92.76096636938507 
-            text = "(-)" 
-        intervals [310]:
-            xmin = 92.76096636938507 
-            xmax = 93.51164244553513 
-            text = "immediately" 
-        intervals [311]:
-            xmin = 93.51164244553513 
-            xmax = 94.12583196238518 
-            text = "afterward" 
-        intervals [312]:
-            xmin = 94.12583196238518 
-            xmax = 94.3305618013352 
-            text = "(-)" 
-        intervals [313]:
-            xmin = 94.3305618013352 
-            xmax = 94.53529164028521 
-            text = "the" 
-        intervals [314]:
-            xmin = 94.53529164028521 
-            xmax = 94.87650803853523 
-            text = "white" 
-        intervals [315]:
-            xmin = 94.87650803853523 
-            xmax = 95.08123787748525 
-            text = "(-)" 
-        intervals [316]:
-            xmin = 95.08123787748525 
-            xmax = 95.35421099608527 
-            text = "golf" 
-        intervals [317]:
-            xmin = 95.35421099608527 
-            xmax = 95.55894083503529 
-            text = "(-)" 
-        intervals [318]:
-            xmin = 95.55894083503529 
-            xmax = 95.83191395363531 
-            text = "also" 
-        intervals [319]:
-            xmin = 95.83191395363531 
-            xmax = 96.24137363153534 
-            text = "turned" 
-        intervals [320]:
-            xmin = 96.24137363153534 
-            xmax = 96.37786019083535 
-            text = "in" 
-        intervals [321]:
-            xmin = 96.37786019083535 
-            xmax = 96.58259002978537 
-            text = "(-)" 
-        intervals [322]:
-            xmin = 96.58259002978537 
-            xmax = 96.78731986873538 
-            text = "and" 
-        intervals [323]:
-            xmin = 96.78731986873538 
-            xmax = 96.9920497076854 
-            text = "(-)" 
-        intervals [324]:
-            xmin = 96.9920497076854 
-            xmax = 97.53799594488544 
-            text = "followed" 
-        intervals [325]:
-            xmin = 97.53799594488544 
-            xmax = 97.67448250418545 
-            text = "it" 
-        intervals [326]:
-            xmin = 97.67448250418545 
-            xmax = 97.87921234313546 
-            text = "(-)" 
-        intervals [327]:
-            xmin = 97.87921234313546 
-            xmax = 98.22042874138549 
-            text = "cause" 
-        intervals [328]:
-            xmin = 98.22042874138549 
-            xmax = 98.3569153006855 
-            text = "it" 
-        intervals [329]:
-            xmin = 98.3569153006855 
-            xmax = 98.56164513963552 
-            text = "was" 
-        intervals [330]:
-            xmin = 98.56164513963552 
-            xmax = 99.17583465648556 
-            text = "following" 
-        intervals [331]:
-            xmin = 99.17583465648556 
-            xmax = 99.5852943343856 
-            text = "pretty" 
-        intervals [332]:
-            xmin = 99.5852943343856 
-            xmax = 100.06299729193563 
-            text = "closely" 
-        intervals [333]:
-            xmin = 100.06299729193563 
-            xmax = 100.47245696983573 
-            text = "behind" 
-        intervals [334]:
-            xmin = 100.47245696983573 
-            xmax = 100.63531490333364 
-            text = "(--)" 
-        intervals [335]:
-            xmin = 100.63531490333364 
-            xmax = 101.04245973707839 
-            text = "[sniffing]" 
-        intervals [336]:
-            xmin = 101.04245973707839 
-            xmax = 101.69389147107 
-            text = "[tongueclicking]" 
-        intervals [337]:
-            xmin = 101.69389147107 
-            xmax = 101.96275914185259 
-            text = "but" 
-        intervals [338]:
-            xmin = 101.96275914185259 
-            xmax = 102.14200425570765 
-            text = "as" 
-        intervals [339]:
-            xmin = 102.14200425570765 
-            xmax = 102.41087192649023 
-            text = "the" 
-        intervals [340]:
-            xmin = 102.41087192649023 
-            xmax = 102.85898471112786 
-            text = "blu:e" 
-        intervals [341]:
-            xmin = 102.85898471112786 
-            xmax = 103.12785238191044 
-            text = "(-)" 
-        intervals [342]:
-            xmin = 103.12785238191044 
-            xmax = 103.39672005269303 
-            text = "car" 
-        intervals [343]:
-            xmin = 103.39672005269303 
-            xmax = 103.66558772347561 
-            text = "(-)" 
-        intervals [344]:
-            xmin = 103.66558772347561 
-            xmax = 104.20332306504078 
-            text = "pulled" 
-        intervals [345]:
-            xmin = 104.20332306504078 
-            xmax = 104.38256817889584 
-            text = "up" 
-        intervals [346]:
-            xmin = 104.38256817889584 
-            xmax = 104.5618132927509 
-            text = "to" 
-        intervals [347]:
-            xmin = 104.5618132927509 
-            xmax = 104.83068096353348 
-            text = "the" 
-        intervals [348]:
-            xmin = 104.83068096353348 
-            xmax = 105.63728397588123 
-            text = "crosswalk" 
-        intervals [349]:
-            xmin = 105.63728397588123 
-            xmax = 105.90615164666382 
-            text = "(-)" 
-        intervals [350]:
-            xmin = 105.90615164666382 
-            xmax = 106.26464187437392 
-            text = "the:" 
-        intervals [351]:
-            xmin = 106.26464187437392 
-            xmax = 106.5335095451565 
-            text = "um:" 
-        intervals [352]:
-            xmin = 106.5335095451565 
-            xmax = 106.89199977286661 
-            text = "(--)" 
-        intervals [353]:
-            xmin = 106.89199977286661 
-            xmax = 107.60898022828682 
-            text = "supposed" 
-        intervals [354]:
-            xmin = 107.60898022828682 
-            xmax = 108.14671556985199 
-            text = "couple" 
-        intervals [355]:
-            xmin = 108.14671556985199 
-            xmax = 108.41558324063458 
-            text = "(-)" 
-        intervals [356]:
-            xmin = 108.41558324063458 
-            xmax = 108.59482835448964 
-            text = "oh" 
-        intervals [357]:
-            xmin = 108.59482835448964 
-            xmax = 108.95331858219974 
-            text = "came" 
-        intervals [358]:
-            xmin = 108.95331858219974 
-            xmax = 109.1325636960548 
-            text = "up" 
-        intervals [359]:
-            xmin = 109.1325636960548 
-            xmax = 109.31180880990986 
-            text = "to" 
-        intervals [360]:
-            xmin = 109.31180880990986 
-            xmax = 109.58067648069245 
-            text = "the" 
-        intervals [361]:
-            xmin = 109.58067648069245 
-            xmax = 110.3872794930402 
-            text = "crosswalk" 
-        intervals [362]:
-            xmin = 110.3872794930402 
-            xmax = 110.65614716382278 
-            text = "and" 
-        intervals [363]:
-            xmin = 110.65614716382278 
-            xmax = 111.19388250538795 
-            text = "turned" 
-        intervals [364]:
-            xmin = 111.19388250538795 
-            xmax = 111.64199529002558 
-            text = "right" 
-        intervals [365]:
-            xmin = 111.64199529002558 
-            xmax = 111.82124040388064 
-            text = "to" 
-        intervals [366]:
-            xmin = 111.82124040388064 
-            xmax = 112.09010807466322 
-            text = "(-)" 
-        intervals [367]:
-            xmin = 112.09010807466322 
-            xmax = 112.3589757454458 
-            text = "get" 
-        intervals [368]:
-            xmin = 112.3589757454458 
-            xmax = 112.71746597315591 
-            text = "onto" 
-        intervals [369]:
-            xmin = 112.71746597315591 
-            xmax = 112.89671108701091 
-            text = "it" 
-        intervals [370]:
-            xmin = 112.89671108701091 
-            xmax = 113.12161661373797 
-            text = "but" 
-        intervals [371]:
-            xmin = 113.12161661373797 
-            xmax = 113.42149064937405 
-            text = "then" 
-        intervals [372]:
-            xmin = 113.42149064937405 
-            xmax = 113.6463961761011 
-            text = "(-)" 
-        intervals [373]:
-            xmin = 113.6463961761011 
-            xmax = 114.17117573846424 
-            text = "hearing" 
-        intervals [374]:
-            xmin = 114.17117573846424 
-            xmax = 114.3960812651913 
-            text = "the" 
-        intervals [375]:
-            xmin = 114.3960812651913 
-            xmax = 114.62098679191836 
-            text = "(-)" 
-        intervals [376]:
-            xmin = 114.62098679191836 
-            xmax = 114.92086082755443 
-            text = "blue" 
-        intervals [377]:
-            xmin = 114.92086082755443 
-            xmax = 115.14576635428149 
-            text = "car" 
-        intervals [378]:
-            xmin = 115.14576635428149 
-            xmax = 115.9704199522807 
-            text = "approaching" 
-        intervals [379]:
-            xmin = 115.9704199522807 
-            xmax = 116.19532547900775 
-            text = "the" 
-        intervals [380]:
-            xmin = 116.19532547900775 
-            xmax = 116.4202310057348 
-            text = "man" 
-        intervals [381]:
-            xmin = 116.4202310057348 
-            xmax = 117.01997907700695 
-            text = "bouncing" 
-        intervals [382]:
-            xmin = 117.01997907700695 
-            xmax = 117.24488460373401 
-            text = "his" 
-        intervals [383]:
-            xmin = 117.24488460373401 
-            xmax = 117.54475863937009 
-            text = "ball" 
-        intervals [384]:
-            xmin = 117.54475863937009 
-            xmax = 117.76966416609714 
-            text = "(-)" 
-        intervals [385]:
-            xmin = 117.76966416609714 
-            xmax = 117.9945696928242 
-            text = "got" 
-        intervals [386]:
-            xmin = 117.9945696928242 
-            xmax = 118.4443807462783 
-            text = "scared" 
-        intervals [387]:
-            xmin = 118.4443807462783 
-            xmax = 118.5859898296504 
-            text = "and" 
-        intervals [388]:
-            xmin = 118.5859898296504 
-            xmax = 118.91641102418531 
-            text = "dropped" 
-        intervals [389]:
-            xmin = 118.91641102418531 
-            xmax = 119.01081707976671 
-            text = "it" 
-        intervals [390]:
-            xmin = 119.01081707976671 
-            xmax = 119.14534827554772 
-            text = "and" 
-        intervals [391]:
-            xmin = 119.14534827554772 
-            xmax = 119.23503573940172 
-            text = "it" 
-        intervals [392]:
-            xmin = 119.23503573940172 
-            xmax = 119.54894186289073 
-            text = "bounced" 
-        intervals [393]:
-            xmin = 119.54894186289073 
-            xmax = 119.68347305867174 
-            text = "off" 
-        intervals [394]:
-            xmin = 119.68347305867174 
-            xmax = 119.81800425445275 
-            text = "his" 
-        intervals [395]:
-            xmin = 119.81800425445275 
-            xmax = 119.99737918216073 
-            text = "foot" 
-        intervals [396]:
-            xmin = 119.99737918216073 
-            xmax = 120.11151291801451 
-            text = "and" 
-        intervals [397]:
-            xmin = 120.11151291801451 
-            xmax = 120.33978038972208 
-            text = "rolled" 
-        intervals [398]:
-            xmin = 120.33978038972208 
-            xmax = 120.56804786142965 
-            text = "across" 
-        intervals [399]:
-            xmin = 120.56804786142965 
-            xmax = 120.68218159728343 
-            text = "the" 
-        intervals [400]:
-            xmin = 120.68218159728343 
-            xmax = 120.91044906899097 
-            text = "street" 
-        intervals [401]:
-            xmin = 120.91044906899097 
-            xmax = 121.25921473034515 
-            text = "(--)" 
-        intervals [402]:
-            xmin = 121.25921473034515 
-            xmax = 122.04393746839204 
-            text = "[gulping]" 
-        intervals [403]:
-            xmin = 122.04393746839204 
-            xmax = 122.86545254298255 
-            text = "[tongueclicking]" 
-        intervals [404]:
-            xmin = 122.86545254298255 
-            xmax = 123.01948661946827 
-            text = "and" 
-        intervals [405]:
-            xmin = 123.01948661946827 
-            xmax = 123.12217600379208 
-            text = "so" 
-        intervals [406]:
-            xmin = 123.12217600379208 
-            xmax = 123.27621008027779 
-            text = "the" 
-        intervals [407]:
-            xmin = 123.27621008027779 
-            xmax = 123.48158884892541 
-            text = "blue" 
-        intervals [408]:
-            xmin = 123.48158884892541 
-            xmax = 123.63562292541113 
-            text = "car" 
-        intervals [409]:
-            xmin = 123.63562292541113 
-            xmax = 123.84100169405875 
-            text = "sa:w" 
-        intervals [410]:
-            xmin = 123.84100169405875 
-            xmax = 123.99503577054446 
-            text = "the" 
-        intervals [411]:
-            xmin = 123.99503577054446 
-            xmax = 124.20041453919208 
-            text = "ball" 
-        intervals [412]:
-            xmin = 124.20041453919208 
-            xmax = 124.55982738432543 
-            text = "rolling" 
-        intervals [413]:
-            xmin = 124.55982738432543 
-            xmax = 124.91924022945878 
-            text = "rolling" 
-        intervals [414]:
-            xmin = 124.91924022945878 
-            xmax = 125.22730838243022 
-            text = "across" 
-        intervals [415]:
-            xmin = 125.22730838243022 
-            xmax = 125.38134245891594 
-            text = "the" 
-        intervals [416]:
-            xmin = 125.38134245891594 
-            xmax = 125.68941061188738 
-            text = "street" 
-        intervals [417]:
-            xmin = 125.68941061188738 
-            xmax = 125.8434446883731 
-            text = "(-)" 
-        intervals [418]:
-            xmin = 125.8434446883731 
-            xmax = 125.99747876485881 
-            text = "and" 
-        intervals [419]:
-            xmin = 125.99747876485881 
-            xmax = 126.35689160999216 
-            text = "slammed" 
-        intervals [420]:
-            xmin = 126.35689160999216 
-            xmax = 126.45958099431597 
-            text = "on" 
-        intervals [421]:
-            xmin = 126.45958099431597 
-            xmax = 126.71630445512551 
-            text = "their" 
-        intervals [422]:
-            xmin = 126.71630445512551 
-            xmax = 127.02437260809695 
-            text = "brakes" 
-        intervals [423]:
-            xmin = 127.02437260809695 
-            xmax = 127.12706199242076 
-            text = "to" 
-        intervals [424]:
-            xmin = 127.12706199242076 
-            xmax = 127.33244076106838 
-            text = "slow" 
-        intervals [425]:
-            xmin = 127.33244076106838 
-            xmax = 127.537819529716 
-            text = "down" 
-        intervals [426]:
-            xmin = 127.537819529716 
-            xmax = 127.69185360620172 
-            text = "(-)" 
-        intervals [427]:
-            xmin = 127.69185360620172 
-            xmax = 127.84588768268743 
-            text = "and" 
-        intervals [428]:
-            xmin = 127.84588768268743 
-            xmax = 128.05126645133507 
-            text = "stop" 
-        intervals [429]:
-            xmin = 128.05126645133507 
-            xmax = 128.20530052782078 
-            text = "(-)" 
-        intervals [430]:
-            xmin = 128.20530052782078 
-            xmax = 128.3079899121446 
-            text = "to" 
-        intervals [431]:
-            xmin = 128.3079899121446 
-            xmax = 128.4620239886303 
-            text = "you" 
-        intervals [432]:
-            xmin = 128.4620239886303 
-            xmax = 128.66740275727793 
-            text = "know" 
-        intervals [433]:
-            xmin = 128.66740275727793 
-            xmax = 128.82143683376364 
-            text = "you" 
-        intervals [434]:
-            xmin = 128.82143683376364 
-            xmax = 129.02681560241126 
-            text = "know" 
-        intervals [435]:
-            xmin = 129.02681560241126 
-            xmax = 129.18084967889698 
-            text = "not" 
-        intervals [436]:
-            xmin = 129.18084967889698 
-            xmax = 129.3348837553827 
-            text = "hit" 
-        intervals [437]:
-            xmin = 129.3348837553827 
-            xmax = 129.64295190835412 
-            text = "people" 
-        intervals [438]:
-            xmin = 129.64295190835412 
-            xmax = 129.79698598483984 
-            text = "and" 
-        intervals [439]:
-            xmin = 129.79698598483984 
-            xmax = 130.05370944564936 
-            text = "stuff" 
-        intervals [440]:
-            xmin = 130.05370944564936 
-            xmax = 130.20774352213508 
-            text = "(-)" 
-        intervals [441]:
-            xmin = 130.20774352213508 
-            xmax = 130.4644669829446 
-            text = "cause" 
-        intervals [442]:
-            xmin = 130.4644669829446 
-            xmax = 130.66984575159236 
-            text = "laws" 
-        intervals [443]:
-            xmin = 130.66984575159236 
-            xmax = 131.2989437576029 
-            text = "(-)" 
-        intervals [444]:
-            xmin = 131.2989437576029 
-            xmax = 131.54359840991444 
-            text = "u:m" 
-        intervals [445]:
-            xmin = 131.54359840991444 
-            xmax = 131.78825306222598 
-            text = "(-)" 
-        intervals [446]:
-            xmin = 131.78825306222598 
-            xmax = 132.03290771453752 
-            text = "but" 
-        intervals [447]:
-            xmin = 132.03290771453752 
-            xmax = 132.27756236684905 
-            text = "(-)" 
-        intervals [448]:
-            xmin = 132.27756236684905 
-            xmax = 133.58238717917723 
-            text = "[tongueclicking]" 
-        intervals [449]:
-            xmin = 133.58238717917723 
-            xmax = 133.9901449330298 
-            text = "then:" 
-        intervals [450]:
-            xmin = 133.9901449330298 
-            xmax = 134.23479958534134 
-            text = "(-)" 
-        intervals [451]:
-            xmin = 134.23479958534134 
-            xmax = 134.39790268688236 
-            text = "um" 
-        intervals [452]:
-            xmin = 134.39790268688236 
-            xmax = 134.6425573391939 
-            text = "(-)" 
-        intervals [453]:
-            xmin = 134.6425573391939 
-            xmax = 134.80566044073493 
-            text = "so" 
-        intervals [454]:
-            xmin = 134.80566044073493 
-            xmax = 135.13186664381698 
-            text = "they" 
-        intervals [455]:
-            xmin = 135.13186664381698 
-            xmax = 135.70272749921057 
-            text = "stopped" 
-        intervals [456]:
-            xmin = 135.70272749921057 
-            xmax = 135.9473821515221 
-            text = "(-)" 
-        intervals [457]:
-            xmin = 135.9473821515221 
-            xmax = 136.11048525306313 
-            text = "in" 
-        intervals [458]:
-            xmin = 136.11048525306313 
-            xmax = 136.4366914561451 
-            text = "time" 
-        intervals [459]:
-            xmin = 136.4366914561451 
-            xmax = 136.62242515315774 
-            text = "and" 
-        intervals [460]:
-            xmin = 136.62242515315774 
-            xmax = 136.74624761783284 
-            text = "no" 
-        intervals [461]:
-            xmin = 136.74624761783284 
-            xmax = 136.93198131484547 
-            text = "one" 
-        intervals [462]:
-            xmin = 136.93198131484547 
-            xmax = 137.1177150118581 
-            text = "got" 
-        intervals [463]:
-            xmin = 137.1177150118581 
-            xmax = 137.36535994120828 
-            text = "hurt" 
-        intervals [464]:
-            xmin = 137.36535994120828 
-            xmax = 137.50072122928728 
-            text = "and" 
-        intervals [465]:
-            xmin = 137.50072122928728 
-            xmax = 137.63608251736628 
-            text = "the" 
-        intervals [466]:
-            xmin = 137.63608251736628 
-            xmax = 137.77144380544527 
-            text = "man" 
-        intervals [467]:
-            xmin = 137.77144380544527 
-            xmax = 138.04216638160327 
-            text = "didn=t" 
-        intervals [468]:
-            xmin = 138.04216638160327 
-            xmax = 138.22264809904192 
-            text = "even" 
-        intervals [469]:
-            xmin = 138.22264809904192 
-            xmax = 138.35800938712092 
-            text = "(-)" 
-        intervals [470]:
-            xmin = 138.35800938712092 
-            xmax = 138.58361153391925 
-            text = "enter" 
-        intervals [471]:
-            xmin = 138.58361153391925 
-            xmax = 138.71897282199825 
-            text = "the" 
-        intervals [472]:
-            xmin = 138.71897282199825 
-            xmax = 139.12505668623527 
-            text = "crosswalk" 
-        intervals [473]:
-            xmin = 139.12505668623527 
-            xmax = 139.2286800131892 
-            text = "so" 
-        intervals [474]:
-            xmin = 139.2286800131892 
-            xmax = 139.33230334014314 
-            text = "it" 
-        intervals [475]:
-            xmin = 139.33230334014314 
-            xmax = 139.43592666709708 
-            text = "w/" 
-        intervals [476]:
-            xmin = 139.43592666709708 
-            xmax = 139.53954999405101 
-            text = "w/" 
-        intervals [477]:
-            xmin = 139.53954999405101 
-            xmax = 139.64317332100495 
-            text = "it" 
-        intervals [478]:
-            xmin = 139.64317332100495 
-            xmax = 139.9022316383898 
-            text = "would" 
-        intervals [479]:
-            xmin = 139.9022316383898 
-            xmax = 140.10947829229767 
-            text = "have" 
-        intervals [480]:
-            xmin = 140.10947829229767 
-            xmax = 140.31672494620554 
-            text = "been" 
-        intervals [481]:
-            xmin = 140.31672494620554 
-            xmax = 140.5239716001134 
-            text = "fine" 
-        intervals [482]:
-            xmin = 140.5239716001134 
-            xmax = 140.83484158097525 
-            text = "either" 
-        intervals [483]:
-            xmin = 140.83484158097525 
-            xmax = 140.9902765714062 
-            text = "way" 
-        intervals [484]:
-            xmin = 140.9902765714062 
-            xmax = 141.20997108794393 
-            text = "but" 
-        intervals [485]:
-            xmin = 141.20997108794393 
-            xmax = 141.42966560448164 
-            text = "(-)" 
-        intervals [486]:
-            xmin = 141.42966560448164 
-            xmax = 141.5761286155068 
-            text = "um" 
-        intervals [487]:
-            xmin = 141.5761286155068 
-            xmax = 141.94228614306968 
-            text = "there" 
-        intervals [488]:
-            xmin = 141.94228614306968 
-            xmax = 142.1619806596074 
-            text = "was" 
-        intervals [489]:
-            xmin = 142.1619806596074 
-            xmax = 142.30844367063256 
-            text = "no" 
-        intervals [490]:
-            xmin = 142.30844367063256 
-            xmax = 142.52813818717027 
-            text = "(-)" 
-        intervals [491]:
-            xmin = 142.52813818717027 
-            xmax = 142.89429571473315 
-            text = "close" 
-        intervals [492]:
-            xmin = 142.89429571473315 
-            xmax = 143.18722173678344 
-            text = "call" 
-        intervals [493]:
-            xmin = 143.18722173678344 
-            xmax = 143.26045324229602 
-            text = "i" 
-        intervals [494]:
-            xmin = 143.26045324229602 
-            xmax = 143.6266107698589 
-            text = "guess" 
-        intervals [495]:
-            xmin = 143.6266107698589 
-            xmax = 144.44294032527733 
-            text = "(-)" 
-        intervals [496]:
-            xmin = 144.44294032527733 
-            xmax = 144.64797246287011 
-            text = "but" 
-        intervals [497]:
-            xmin = 144.64797246287011 
-            xmax = 144.8530046004629 
-            text = "u:h" 
-        intervals [498]:
-            xmin = 144.8530046004629 
-            xmax = 145.05803673805568 
-            text = "the" 
-        intervals [499]:
-            xmin = 145.05803673805568 
-            xmax = 145.26306887564846 
-            text = "(-)" 
-        intervals [500]:
-            xmin = 145.26306887564846 
-            xmax = 145.46810101324124 
-            text = "the" 
-        intervals [501]:
-            xmin = 145.46810101324124 
-            xmax = 145.7414771966983 
-            text = "blue" 
-        intervals [502]:
-            xmin = 145.7414771966983 
-            xmax = 146.01485338015536 
-            text = "cars" 
-        intervals [503]:
-            xmin = 146.01485338015536 
-            xmax = 146.35657360947667 
-            text = "tires" 
-        intervals [504]:
-            xmin = 146.35657360947667 
-            xmax = 146.97167002225513 
-            text = "screeched" 
-        intervals [505]:
-            xmin = 146.97167002225513 
-            xmax = 147.16190423918692 
-            text = "and" 
-        intervals [506]:
-            xmin = 147.16190423918692 
-            xmax = 147.2887270504748 
-            text = "it" 
-        intervals [507]:
-            xmin = 147.2887270504748 
-            xmax = 147.6691954843384 
-            text = "scared" 
-        intervals [508]:
-            xmin = 147.6691954843384 
-            xmax = 147.8594297012702 
-            text = "the" 
-        intervals [509]:
-            xmin = 147.8594297012702 
-            xmax = 148.11307532384592 
-            text = "do:g" 
-        intervals [510]:
-            xmin = 148.11307532384592 
-            xmax = 148.23989813513379 
-            text = "of" 
-        intervals [511]:
-            xmin = 148.23989813513379 
-            xmax = 148.43013235206558 
-            text = "the" 
-        intervals [512]:
-            xmin = 148.43013235206558 
-            xmax = 148.68377797464132 
-            text = "lady" 
-        intervals [513]:
-            xmin = 148.68377797464132 
-            xmax = 148.87401219157312 
-            text = "who" 
-        intervals [514]:
-            xmin = 148.87401219157312 
-            xmax = 149.0642464085049 
-            text = "was" 
-        intervals [515]:
-            xmin = 149.0642464085049 
-            xmax = 149.50812624801245 
-            text = "getting" 
-        intervals [516]:
-            xmin = 149.50812624801245 
-            xmax = 149.69836046494424 
-            text = "her" 
-        intervals [517]:
-            xmin = 149.69836046494424 
-            xmax = 150.26906311573964 
-            text = "groceries" 
-        intervals [518]:
-            xmin = 150.26906311573964 
-            xmax = 150.45929733267144 
-            text = "out" 
-        intervals [519]:
-            xmin = 150.45929733267144 
-            xmax = 150.64953154960324 
-            text = "(-)" 
-        intervals [520]:
-            xmin = 150.64953154960324 
-            xmax = 150.7763543608911 
-            text = "in" 
-        intervals [521]:
-            xmin = 150.7763543608911 
-            xmax = 150.9665885778229 
-            text = "the" 
-        intervals [522]:
-            xmin = 150.9665885778229 
-            xmax = 151.41046841733043 
-            text = "parking" 
-        intervals [523]:
-            xmin = 151.41046841733043 
-            xmax = 151.60070263426223 
-            text = "lot" 
-        intervals [524]:
-            xmin = 151.60070263426223 
-            xmax = 151.98117106812583 
-            text = "across" 
-        intervals [525]:
-            xmin = 151.98117106812583 
-            xmax = 152.23481669070156 
-            text = "from" 
-        intervals [526]:
-            xmin = 152.23481669070156 
-            xmax = 152.42505090763336 
-            text = "(-)" 
-        intervals [527]:
-            xmin = 152.42505090763336 
-            xmax = 152.55187371892123 
-            text = "on" 
-        intervals [528]:
-            xmin = 152.55187371892123 
-            xmax = 152.74210793585303 
-            text = "the" 
-        intervals [529]:
-            xmin = 152.74210793585303 
-            xmax = 152.99575355842876 
-            text = "left" 
-        intervals [530]:
-            xmin = 152.99575355842876 
-            xmax = 153.2493991810045 
-            text = "side" 
-        intervals [531]:
-            xmin = 153.2493991810045 
-            xmax = 153.6298676148681 
-            text = "across" 
-        intervals [532]:
-            xmin = 153.6298676148681 
-            xmax = 153.88351323744382 
-            text = "from" 
-        intervals [533]:
-            xmin = 153.88351323744382 
-            xmax = 154.07374745437562 
-            text = "all" 
-        intervals [534]:
-            xmin = 154.07374745437562 
-            xmax = 154.2005702656635 
-            text = "of" 
-        intervals [535]:
-            xmin = 154.2005702656635 
-            xmax = 154.4542158882391 
-            text = "this" 
-        intervals [536]:
-            xmin = 154.4542158882391 
-            xmax = 155.11327094215488 
-            text = "(-)" 
-        intervals [537]:
-            xmin = 155.11327094215488 
-            xmax = 155.31327417647253 
-            text = "a:nd" 
-        intervals [538]:
-            xmin = 155.31327417647253 
-            xmax = 155.46327660221075 
-            text = "(-)" 
-        intervals [539]:
-            xmin = 155.46327660221075 
-            xmax = 155.91328387942542 
-            text = "[gulping]" 
-        intervals [540]:
-            xmin = 155.91328387942542 
-            xmax = 156.71329681669596 
-            text = "[tongueclicking]" 
-        intervals [541]:
-            xmin = 156.71329681669596 
-            xmax = 156.86329924243418 
-            text = "her" 
-        intervals [542]:
-            xmin = 156.86329924243418 
-            xmax = 157.0133016681724 
-            text = "dog" 
-        intervals [543]:
-            xmin = 157.0133016681724 
-            xmax = 157.16330409391063 
-            text = "you" 
-        intervals [544]:
-            xmin = 157.16330409391063 
-            xmax = 157.36330732822827 
-            text = "know" 
-        intervals [545]:
-            xmin = 157.36330732822827 
-            xmax = 157.5133097539665 
-            text = "(-)" 
-        intervals [546]:
-            xmin = 157.5133097539665 
-            xmax = 157.76331379686354 
-            text = "being" 
-        intervals [547]:
-            xmin = 157.76331379686354 
-            xmax = 157.81331460544294 
-            text = "a" 
-        intervals [548]:
-            xmin = 157.81331460544294 
-            xmax = 157.96331703118116 
-            text = "dog" 
-        intervals [549]:
-            xmin = 157.96331703118116 
-            xmax = 158.11331945691938 
-            text = "(-)" 
-        intervals [550]:
-            xmin = 158.11331945691938 
-            xmax = 158.2633218826576 
-            text = "ran" 
-        intervals [551]:
-            xmin = 158.2633218826576 
-            xmax = 158.61332754271348 
-            text = "towards" 
-        intervals [552]:
-            xmin = 158.61332754271348 
-            xmax = 158.7633299684517 
-            text = "the" 
-        intervals [553]:
-            xmin = 158.7633299684517 
-            xmax = 158.91333239418992 
-            text = "car" 
-        intervals [554]:
-            xmin = 158.91333239418992 
-            xmax = 159.16333643708697 
-            text = "cause" 
-        intervals [555]:
-            xmin = 159.16333643708697 
-            xmax = 159.4633412885634 
-            text = "that=s" 
-        intervals [556]:
-            xmin = 159.4633412885634 
-            xmax = 159.71334533146046 
-            text = "(det)" 
-        intervals [557]:
-            xmin = 159.71334533146046 
-            xmax = 159.9633493743575 
-            text = "thing" 
-        intervals [558]:
-            xmin = 159.9633493743575 
-            xmax = 160.16335260867515 
-            text = "dogs" 
-        intervals [559]:
-            xmin = 160.16335260867515 
-            xmax = 160.263354225834 
-            text = "do" 
-        intervals [560]:
-            xmin = 160.263354225834 
-            xmax = 160.8100703501051 
-            text = "(-)" 
-        intervals [561]:
-            xmin = 160.8100703501051 
-            xmax = 161.02908203175318 
-            text = "and" 
-        intervals [562]:
-            xmin = 161.02908203175318 
-            xmax = 161.17508981951858 
-            text = "it" 
-        intervals [563]:
-            xmin = 161.17508981951858 
-            xmax = 161.39410150116666 
-            text = "(-)" 
-        intervals [564]:
-            xmin = 161.39410150116666 
-            xmax = 161.68611707669743 
-            text = "sort" 
-        intervals [565]:
-            xmin = 161.68611707669743 
-            xmax = 161.83212486446283 
-            text = "of" 
-        intervals [566]:
-            xmin = 161.83212486446283 
-            xmax = 162.1971443338763 
-            text = "shook" 
-        intervals [567]:
-            xmin = 162.1971443338763 
-            xmax = 162.4161560155244 
-            text = "her" 
-        intervals [568]:
-            xmin = 162.4161560155244 
-            xmax = 162.70817159105516 
-            text = "hand" 
-        intervals [569]:
-            xmin = 162.70817159105516 
-            xmax = 162.8917076785386 
-            text = "and" 
-        intervals [570]:
-            xmin = 162.8917076785386 
-            xmax = 163.1364224618499 
-            text = "made" 
-        intervals [571]:
-            xmin = 163.1364224618499 
-            xmax = 163.31995854933334 
-            text = "her" 
-        intervals [572]:
-            xmin = 163.31995854933334 
-            xmax = 163.56467333264462 
-            text = "drop" 
-        intervals [573]:
-            xmin = 163.56467333264462 
-            xmax = 163.74820942012806 
-            text = "her" 
-        intervals [574]:
-            xmin = 163.74820942012806 
-            xmax = 164.29881768257843 
-            text = "groceries" 
-        intervals [575]:
-            xmin = 164.29881768257843 
-            xmax = 164.42117507423407 
-            text = "a/" 
-        intervals [576]:
-            xmin = 164.42117507423407 
-            xmax = 164.60471116171752 
-            text = "all" 
-        intervals [577]:
-            xmin = 164.60471116171752 
-            xmax = 164.8494259450288 
-            text = "over" 
-        intervals [578]:
-            xmin = 164.8494259450288 
-            xmax = 165.03296203251224 
-            text = "the" 
-        intervals [579]:
-            xmin = 165.03296203251224 
-            xmax = 165.2164981199957 
-            text = "(-)" 
-        intervals [580]:
-            xmin = 165.2164981199957 
-            xmax = 165.58357029496258 
-            text = "street" 
-        intervals [581]:
-            xmin = 165.58357029496258 
-            xmax = 165.76710638244603 
-            text = "(-)" 
-        intervals [582]:
-            xmin = 165.76710638244603 
-            xmax = 165.88946377410167 
-            text = "or" 
-        intervals [583]:
-            xmin = 165.88946377410167 
-            xmax = 166.07299986158512 
-            text = "(-)" 
-        intervals [584]:
-            xmin = 166.07299986158512 
-            xmax = 166.50125073237984 
-            text = "parking" 
-        intervals [585]:
-            xmin = 166.50125073237984 
-            xmax = 166.6847868198633 
-            text = "lot" 
-        intervals [586]:
-            xmin = 166.6847868198633 
-            xmax = 166.86832290734674 
-            text = "(-)" 
-        intervals [587]:
-            xmin = 166.86832290734674 
-            xmax = 166.92950160317454 
-            text = "i" 
-        intervals [588]:
-            xmin = 166.92950160317454 
-            xmax = 167.23539508231363 
-            text = "guess" 
-        intervals [589]:
-            xmin = 167.23539508231363 
-            xmax = 167.41893116979708 
-            text = "(-)" 
-        intervals [590]:
-            xmin = 167.41893116979708 
-            xmax = 167.78600334476397 
-            text = "behind" 
-        intervals [591]:
-            xmin = 167.78600334476397 
-            xmax = 167.96953943224742 
-            text = "her" 
-        intervals [592]:
-            xmin = 167.96953943224742 
-            xmax = 168.15307551973095 
-            text = "car" 
-        intervals [593]:
-            xmin = 168.15307551973095 
-            xmax = 170.2800259210047 
-            text = "(--)" 
-        intervals [594]:
-            xmin = 170.2800259210047 
-            xmax = 170.50651450181877 
-            text = "and" 
-        intervals [595]:
-            xmin = 170.50651450181877 
-            xmax = 170.88399546984223 
-            text = "the:n" 
-        intervals [596]:
-            xmin = 170.88399546984223 
-            xmax = 171.1104840506563 
-            text = "u:m" 
-        intervals [597]:
-            xmin = 171.1104840506563 
-            xmax = 171.3369726314704 
-            text = "(-)" 
-        intervals [598]:
-            xmin = 171.3369726314704 
-            xmax = 172.5449117291455 
-            text = "[tongueclicking]" 
-        intervals [599]:
-            xmin = 172.5449117291455 
-            xmax = 172.77140030995957 
-            text = "(-)" 
-        intervals [600]:
-            xmin = 172.77140030995957 
-            xmax = 172.99788889077365 
-            text = "and" 
-        intervals [601]:
-            xmin = 172.99788889077365 
-            xmax = 173.29987366519242 
-            text = "then" 
-        intervals [602]:
-            xmin = 173.29987366519242 
-            xmax = 173.5263622460065 
-            text = "the" 
-        intervals [603]:
-            xmin = 173.5263622460065 
-            xmax = 173.90384321402996 
-            text = "white" 
-        intervals [604]:
-            xmin = 173.90384321402996 
-            xmax = 174.13033179484404 
-            text = "car" 
-        intervals [605]:
-            xmin = 174.13033179484404 
-            xmax = 174.35682037565812 
-            text = "(-)" 
-        intervals [606]:
-            xmin = 174.35682037565812 
-            xmax = 174.5833089564722 
-            text = "the" 
-        intervals [607]:
-            xmin = 174.5833089564722 
-            xmax = 174.96078992449566 
-            text = "white" 
-        intervals [608]:
-            xmin = 174.96078992449566 
-            xmax = 175.7157518605426 
-            text = "volkswagen" 
-        intervals [609]:
-            xmin = 175.7157518605426 
-            xmax = 176.01773663496138 
-            text = "that" 
-        intervals [610]:
-            xmin = 176.01773663496138 
-            xmax = 176.24422521577546 
-            text = "(-)" 
-        intervals [611]:
-            xmin = 176.24422521577546 
-            xmax = 176.6972023774036 
-            text = "pulled" 
-        intervals [612]:
-            xmin = 176.6972023774036 
-            xmax = 176.848194764613 
-            text = "in" 
-        intervals [613]:
-            xmin = 176.848194764613 
-            xmax = 177.07468334542708 
-            text = "(-)" 
-        intervals [614]:
-            xmin = 177.07468334542708 
-            xmax = 177.90514147507872 
-            text = "immediately" 
-        intervals [615]:
-            xmin = 177.90514147507872 
-            xmax = 178.35811863670688 
-            text = "behind" 
-        intervals [616]:
-            xmin = 178.35811863670688 
-            xmax = 178.58460721752095 
-            text = "the" 
-        intervals [617]:
-            xmin = 178.58460721752095 
-            xmax = 178.81109579833503 
-            text = "(-)" 
-        intervals [618]:
-            xmin = 178.81109579833503 
-            xmax = 179.0375843791491 
-            text = "the" 
-        intervals [619]:
-            xmin = 179.0375843791491 
-            xmax = 179.33956915356788 
-            text = "blue" 
-        intervals [620]:
-            xmin = 179.33956915356788 
-            xmax = 179.86804250880076 
-            text = "renault" 
-        intervals [621]:
-            xmin = 179.86804250880076 
-            xmax = 180.09453108961483 
-            text = "(-)" 
-        intervals [622]:
-            xmin = 180.09453108961483 
-            xmax = 180.24552347682422 
-            text = "um" 
-        intervals [623]:
-            xmin = 180.24552347682422 
-            xmax = 180.547508251243 
-            text = "(--)" 
-        intervals [624]:
-            xmin = 180.547508251243 
-            xmax = 181.07598160647586 
-            text = "because" 
-        intervals [625]:
-            xmin = 181.07598160647586 
-            xmax = 181.37796638089463 
-            text = "they" 
-        intervals [626]:
-            xmin = 181.37796638089463 
-            xmax = 181.8309435425228 
-            text = "pulled" 
-        intervals [627]:
-            xmin = 181.8309435425228 
-            xmax = 181.98193592973217 
-            text = "in" 
-        intervals [628]:
-            xmin = 181.98193592973217 
-            xmax = 182.13292831694156 
-            text = "so" 
-        intervals [629]:
-            xmin = 182.13292831694156 
-            xmax = 182.43491309136033 
-            text = "late" 
-        intervals [630]:
-            xmin = 182.43491309136033 
-            xmax = 183.18987502740748 
-            text = "afterwards" 
-        intervals [631]:
-            xmin = 183.18987502740748 
-            xmax = 183.60754116770593 
-            text = "(-)" 
-        intervals [632]:
-            xmin = 183.60754116770593 
-            xmax = 183.74538614430028 
-            text = "and" 
-        intervals [633]:
-            xmin = 183.74538614430028 
-            xmax = 183.88323112089464 
-            text = "(-)" 
-        intervals [634]:
-            xmin = 183.88323112089464 
-            xmax = 184.021076097489 
-            text = "the" 
-        intervals [635]:
-            xmin = 184.021076097489 
-            xmax = 184.29676605067766 
-            text = "reason" 
-        intervals [636]:
-            xmin = 184.29676605067766 
-            xmax = 184.434611027272 
-            text = "the" 
-        intervals [637]:
-            xmin = 184.434611027272 
-            xmax = 184.6184043293978 
-            text = "blue" 
-        intervals [638]:
-            xmin = 184.6184043293978 
-            xmax = 184.94004260811795 
-            text = "renault" 
-        intervals [639]:
-            xmin = 184.94004260811795 
-            xmax = 185.0778875847123 
-            text = "(-)" 
-        intervals [640]:
-            xmin = 185.0778875847123 
-            xmax = 185.21573256130665 
-            text = "had" 
-        intervals [641]:
-            xmin = 185.21573256130665 
-            xmax = 185.353577537901 
-            text = "hit" 
-        intervals [642]:
-            xmin = 185.353577537901 
-            xmax = 185.58331916555824 
-            text = "their" 
-        intervals [643]:
-            xmin = 185.58331916555824 
-            xmax = 185.8590091187469 
-            text = "brakes" 
-        intervals [644]:
-            xmin = 185.8590091187469 
-            xmax = 185.9509057698098 
-            text = "so" 
-        intervals [645]:
-            xmin = 185.9509057698098 
-            xmax = 186.1346990719356 
-            text = "late" 
-        intervals [646]:
-            xmin = 186.1346990719356 
-            xmax = 186.27254404852994 
-            text = "and" 
-        intervals [647]:
-            xmin = 186.27254404852994 
-            xmax = 186.5482340017186 
-            text = "didn=t" 
-        intervals [648]:
-            xmin = 186.5482340017186 
-            xmax = 186.68607897831296 
-            text = "see" 
-        intervals [649]:
-            xmin = 186.68607897831296 
-            xmax = 186.82392395490731 
-            text = "the" 
-        intervals [650]:
-            xmin = 186.82392395490731 
-            xmax = 186.96176893150167 
-            text = "man" 
-        intervals [651]:
-            xmin = 186.96176893150167 
-            xmax = 187.1915105591589 
-            text = "until" 
-        intervals [652]:
-            xmin = 187.1915105591589 
-            xmax = 187.28340721022178 
-            text = "he" 
-        intervals [653]:
-            xmin = 187.28340721022178 
-            xmax = 187.60504548894193 
-            text = "dropped" 
-        intervals [654]:
-            xmin = 187.60504548894193 
-            xmax = 187.74289046553628 
-            text = "the" 
-        intervals [655]:
-            xmin = 187.74289046553628 
-            xmax = 187.92668376766207 
-            text = "ball" 
-        intervals [656]:
-            xmin = 187.92668376766207 
-            xmax = 188.06452874425642 
-            text = "was" 
-        intervals [657]:
-            xmin = 188.06452874425642 
-            xmax = 188.38616702297657 
-            text = "because" 
-        intervals [658]:
-            xmin = 188.38616702297657 
-            xmax = 188.47806367403945 
-            text = "of" 
-        intervals [659]:
-            xmin = 188.47806367403945 
-            xmax = 188.6159086506338 
-            text = "the" 
-        intervals [660]:
-            xmin = 188.6159086506338 
-            xmax = 188.84565027829103 
-            text = "white" 
-        intervals [661]:
-            xmin = 188.84565027829103 
-            xmax = 188.98349525488538 
-            text = "van" 
-        intervals [662]:
-            xmin = 188.98349525488538 
-            xmax = 189.3970301846684 
-            text = "obscuring" 
-        intervals [663]:
-            xmin = 189.3970301846684 
-            xmax = 189.62677181232564 
-            text = "their" 
-        intervals [664]:
-            xmin = 189.62677181232564 
-            xmax = 189.90246176551432 
-            text = "vision" 
-        intervals [665]:
-            xmin = 189.90246176551432 
-            xmax = 190.29939265025908 
-            text = "(-)" 
-        intervals [666]:
-            xmin = 190.29939265025908 
-            xmax = 190.47525274881224 
-            text = "but" 
-        intervals [667]:
-            xmin = 190.47525274881224 
-            xmax = 190.88559297876958 
-            text = "because" 
-        intervals [668]:
-            xmin = 190.88559297876958 
-            xmax = 191.06145307732274 
-            text = "the" 
-        intervals [669]:
-            xmin = 191.06145307732274 
-            xmax = 191.35455324157797 
-            text = "w/(-)" 
-        intervals [670]:
-            xmin = 191.35455324157797 
-            xmax = 191.58903337298216 
-            text = "blue" 
-        intervals [671]:
-            xmin = 191.58903337298216 
-            xmax = 191.8821335372374 
-            text = "white" 
-        intervals [672]:
-            xmin = 191.8821335372374 
-            xmax = 192.05799363579055 
-            text = "car" 
-        intervals [673]:
-            xmin = 192.05799363579055 
-            xmax = 192.40971383289684 
-            text = "turned" 
-        intervals [674]:
-            xmin = 192.40971383289684 
-            xmax = 192.52695389859895 
-            text = "in" 
-        intervals [675]:
-            xmin = 192.52695389859895 
-            xmax = 192.7028139971521 
-            text = "(-)" 
-        intervals [676]:
-            xmin = 192.7028139971521 
-            xmax = 193.34763435851366 
-            text = "immediately" 
-        intervals [677]:
-            xmin = 193.34763435851366 
-            xmax = 193.6407345227689 
-            text = "after" 
-        intervals [678]:
-            xmin = 193.6407345227689 
-            xmax = 193.81659462132205 
-            text = "the" 
-        intervals [679]:
-            xmin = 193.81659462132205 
-            xmax = 194.05107475272624 
-            text = "blue" 
-        intervals [680]:
-            xmin = 194.05107475272624 
-            xmax = 194.2269348512794 
-            text = "one" 
-        intervals [681]:
-            xmin = 194.2269348512794 
-            xmax = 194.46141498268358 
-            text = "(--)" 
-        intervals [682]:
-            xmin = 194.46141498268358 
-            xmax = 194.98899527834303 
-            text = "[gulping]" 
-        intervals [683]:
-            xmin = 194.98899527834303 
-            xmax = 195.16485537689618 
-            text = "and" 
-        intervals [684]:
-            xmin = 195.16485537689618 
-            xmax = 195.45795554115142 
-            text = "there" 
-        intervals [685]:
-            xmin = 195.45795554115142 
-            xmax = 195.8096757382577 
-            text = "wasn=t" 
-        intervals [686]:
-            xmin = 195.8096757382577 
-            xmax = 196.0441558696619 
-            text = "much" 
-        intervals [687]:
-            xmin = 196.0441558696619 
-            xmax = 196.27863600106608 
-            text = "room" 
-        intervals [688]:
-            xmin = 196.27863600106608 
-            xmax = 196.45449609961923 
-            text = "for" 
-        intervals [689]:
-            xmin = 196.45449609961923 
-            xmax = 196.6303561981724 
-            text = "the" 
-        intervals [690]:
-            xmin = 196.6303561981724 
-            xmax = 196.86483632957658 
-            text = "blue" 
-        intervals [691]:
-            xmin = 196.86483632957658 
-            xmax = 197.04069642812973 
-            text = "one" 
-        intervals [692]:
-            xmin = 197.04069642812973 
-            xmax = 197.15793649383184 
-            text = "to" 
-        intervals [693]:
-            xmin = 197.15793649383184 
-            xmax = 197.333796592385 
-            text = "you" 
-        intervals [694]:
-            xmin = 197.333796592385 
-            xmax = 197.56827672378918 
-            text = "know" 
-        intervals [695]:
-            xmin = 197.56827672378918 
-            xmax = 197.74413682234234 
-            text = "(-)" 
-        intervals [696]:
-            xmin = 197.74413682234234 
-            xmax = 198.33033715085284 
-            text = "accelerate" 
-        intervals [697]:
-            xmin = 198.33033715085284 
-            xmax = 198.506197249406 
-            text = "and" 
-        intervals [698]:
-            xmin = 198.506197249406 
-            xmax = 198.68205734795916 
-            text = "get" 
-        intervals [699]:
-            xmin = 198.68205734795916 
-            xmax = 198.9751575122144 
-            text = "ahead" 
-        intervals [700]:
-            xmin = 198.9751575122144 
-            xmax = 199.0923975779165 
-            text = "of" 
-        intervals [701]:
-            xmin = 199.0923975779165 
-            xmax = 199.32687770932068 
-            text = "them" 
-        intervals [702]:
-            xmin = 199.32687770932068 
-            xmax = 199.50273780787384 
-            text = "(-)" 
-        intervals [703]:
-            xmin = 199.50273780787384 
-            xmax = 199.678597906427 
-            text = "and" 
-        intervals [704]:
-            xmin = 199.678597906427 
-            xmax = 199.85445800498016 
-            text = "(-)" 
-        intervals [705]:
-            xmin = 199.85445800498016 
-            xmax = 200.03031810353332 
-            text = "you" 
-        intervals [706]:
-            xmin = 200.03031810353332 
-            xmax = 200.2647982349375 
-            text = "know" 
-        intervals [707]:
-            xmin = 200.2647982349375 
-            xmax = 200.49927836634168 
-            text = "gain" 
-        intervals [708]:
-            xmin = 200.49927836634168 
-            xmax = 200.73375849774587 
-            text = "much" 
-        intervals [709]:
-            xmin = 200.73375849774587 
-            xmax = 200.85099856344797 
-            text = "of" 
-        intervals [710]:
-            xmin = 200.85099856344797 
-            xmax = 200.90961859629903 
-            text = "a" 
-        intervals [711]:
-            xmin = 200.90961859629903 
-            xmax = 201.08547869485218 
-            text = "gap" 
-        intervals [712]:
-            xmin = 201.08547869485218 
-            xmax = 201.26133879340534 
-            text = "(-)" 
-        intervals [713]:
-            xmin = 201.26133879340534 
-            xmax = 201.4371988919585 
-            text = "the" 
-        intervals [714]:
-            xmin = 201.4371988919585 
-            xmax = 201.73029905621374 
-            text = "white" 
-        intervals [715]:
-            xmin = 201.73029905621374 
-            xmax = 201.9061591547669 
-            text = "car" 
-        intervals [716]:
-            xmin = 201.9061591547669 
-            xmax = 202.08201925332006 
-            text = "was" 
-        intervals [717]:
-            xmin = 202.08201925332006 
-            xmax = 202.4923594832774 
-            text = "already" 
-        intervals [718]:
-            xmin = 202.4923594832774 
-            xmax = 203.01993977893684 
-            text = "following" 
-        intervals [719]:
-            xmin = 203.01993977893684 
-            xmax = 203.37165997604313 
-            text = "really" 
-        intervals [720]:
-            xmin = 203.37165997604313 
-            xmax = 203.78200020600048 
-            text = "closely" 
-        intervals [721]:
-            xmin = 203.78200020600048 
-            xmax = 204.13372040310668 
-            text = "behind" 
-        intervals [722]:
-            xmin = 204.13372040310668 
-            xmax = 204.31207574885815 
-            text = "and" 
-        intervals [723]:
-            xmin = 204.31207574885815 
-            xmax = 204.43097931269244 
-            text = "so" 
-        intervals [724]:
-            xmin = 204.43097931269244 
-            xmax = 204.66878644036106 
-            text = "when" 
-        intervals [725]:
-            xmin = 204.66878644036106 
-            xmax = 204.84714178611253 
-            text = "the" 
-        intervals [726]:
-            xmin = 204.84714178611253 
-            xmax = 205.08494891378115 
-            text = "blue" 
-        intervals [727]:
-            xmin = 205.08494891378115 
-            xmax = 205.26330425953262 
-            text = "one" 
-        intervals [728]:
-            xmin = 205.26330425953262 
-            xmax = 205.6794667329527 
-            text = "slammed" 
-        intervals [729]:
-            xmin = 205.6794667329527 
-            xmax = 205.798370296787 
-            text = "on" 
-        intervals [730]:
-            xmin = 205.798370296787 
-            xmax = 206.09562920637276 
-            text = "their" 
-        intervals [731]:
-            xmin = 206.09562920637276 
-            xmax = 206.45233989787567 
-            text = "brakes" 
-        intervals [732]:
-            xmin = 206.45233989787567 
-            xmax = 206.63069524362714 
-            text = "and" 
-        intervals [733]:
-            xmin = 206.63069524362714 
-            xmax = 206.80905058937861 
-            text = "the" 
-        intervals [734]:
-            xmin = 206.80905058937861 
-            xmax = 207.10630949896438 
-            text = "white" 
-        intervals [735]:
-            xmin = 207.10630949896438 
-            xmax = 207.28466484471585 
-            text = "one" 
-        intervals [736]:
-            xmin = 207.28466484471585 
-            xmax = 207.64137553621876 
-            text = "didn=t" 
-        intervals [737]:
-            xmin = 207.64137553621876 
-            xmax = 207.81973088197023 
-            text = "see" 
-        intervals [738]:
-            xmin = 207.81973088197023 
-            xmax = 208.05753800963885 
-            text = "what" 
-        intervals [739]:
-            xmin = 208.05753800963885 
-            xmax = 208.23589335539032 
-            text = "was" 
-        intervals [740]:
-            xmin = 208.23589335539032 
-            xmax = 208.7709593926447 
-            text = "happening" 
-        intervals [741]:
-            xmin = 208.7709593926447 
-            xmax = 208.94931473839617 
-            text = "and" 
-        intervals [742]:
-            xmin = 208.94931473839617 
-            xmax = 209.12767008414764 
-            text = "you" 
-        intervals [743]:
-            xmin = 209.12767008414764 
-            xmax = 209.36547721181626 
-            text = "know" 
-        intervals [744]:
-            xmin = 209.36547721181626 
-            xmax = 209.54383255756773 
-            text = "(-)" 
-        intervals [745]:
-            xmin = 209.54383255756773 
-            xmax = 210.0788985948221 
-            text = "obviously" 
-        intervals [746]:
-            xmin = 210.0788985948221 
-            xmax = 210.43560928632502 
-            text = "wasn=t" 
-        intervals [747]:
-            xmin = 210.43560928632502 
-            xmax = 210.9706753235794 
-            text = "expecting" 
-        intervals [748]:
-            xmin = 210.9706753235794 
-            xmax = 211.20848245124802 
-            text = "(--)" 
-        intervals [749]:
-            xmin = 211.20848245124802 
-            xmax = 211.3868377969995 
-            text = "him" 
-        intervals [750]:
-            xmin = 211.3868377969995 
-            xmax = 211.50574136083378 
-            text = "to" 
-        intervals [751]:
-            xmin = 211.50574136083378 
-            xmax = 211.80300027041955 
-            text = "brake" 
-        intervals [752]:
-            xmin = 211.80300027041955 
-            xmax = 211.92190383425384 
-            text = "so" 
-        intervals [753]:
-            xmin = 211.92190383425384 
-            xmax = 212.39751808959107 
-            text = "suddenly" 
-        intervals [754]:
-            xmin = 212.39751808959107 
-            xmax = 212.6353252172597 
-            text = "(--)" 
-        intervals [755]:
-            xmin = 212.6353252172597 
-            xmax = 212.75422878109399 
-            text = "he" 
-        intervals [756]:
-            xmin = 212.75422878109399 
-            xmax = 212.87313234492828 
-            text = "uh" 
-        intervals [757]:
-            xmin = 212.87313234492828 
-            xmax = 213.2298430364312 
-            text = "didn't" 
-        intervals [758]:
-            xmin = 213.2298430364312 
-            xmax = 213.4676501640998 
-            text = "have" 
-        intervals [759]:
-            xmin = 213.4676501640998 
-            xmax = 213.70545729176843 
-            text = "time" 
-        intervals [760]:
-            xmin = 213.70545729176843 
-            xmax = 213.82436085560272 
-            text = "to" 
-        intervals [761]:
-            xmin = 213.82436085560272 
-            xmax = 214.24052332902275 
-            text = "respond" 
-        intervals [762]:
-            xmin = 214.24052332902275 
-            xmax = 214.68523605000377 
-            text = "(-)" 
-        intervals [763]:
-            xmin = 214.68523605000377 
-            xmax = 215.00536639163874 
-            text = "and" 
-        intervals [764]:
-            xmin = 215.00536639163874 
-            xmax = 215.32549673327372 
-            text = "(-)" 
-        intervals [765]:
-            xmin = 215.32549673327372 
-            xmax = 215.85904730266535 
-            text = "apply" 
-        intervals [766]:
-            xmin = 215.85904730266535 
-            xmax = 216.17917764430032 
-            text = "his" 
-        intervals [767]:
-            xmin = 216.17917764430032 
-            xmax = 216.81943832757023 
-            text = "brakes" 
-        intervals [768]:
-            xmin = 216.81943832757023 
-            xmax = 217.07602775580554 
-            text = "and" 
-        intervals [769]:
-            xmin = 217.07602775580554 
-            xmax = 217.24708737462907 
-            text = "so" 
-        intervals [770]:
-            xmin = 217.24708737462907 
-            xmax = 217.5036768028644 
-            text = "(-)" 
-        intervals [771]:
-            xmin = 217.5036768028644 
-            xmax = 217.67473642168792 
-            text = "he" 
-        intervals [772]:
-            xmin = 217.67473642168792 
-            xmax = 217.93132584992324 
-            text = "ran" 
-        intervals [773]:
-            xmin = 217.93132584992324 
-            xmax = 218.27344508757034 
-            text = "into" 
-        intervals [774]:
-            xmin = 218.27344508757034 
-            xmax = 218.53003451580565 
-            text = "the" 
-        intervals [775]:
-            xmin = 218.53003451580565 
-            xmax = 218.78662394404097 
-            text = "(-)" 
-        intervals [776]:
-            xmin = 218.78662394404097 
-            xmax = 219.12874318168807 
-            text = "back" 
-        intervals [777]:
-            xmin = 219.12874318168807 
-            xmax = 219.6419220381587 
-            text = "bumper" 
-        intervals [778]:
-            xmin = 219.6419220381587 
-            xmax = 219.81298165698223 
-            text = "of" 
-        intervals [779]:
-            xmin = 219.81298165698223 
-            xmax = 220.06957108521755 
-            text = "the" 
-        intervals [780]:
-            xmin = 220.06957108521755 
-            xmax = 220.32616051345286 
-            text = "(-)" 
-        intervals [781]:
-            xmin = 220.32616051345286 
-            xmax = 220.4972201322764 
-            text = "um" 
-        intervals [782]:
-            xmin = 220.4972201322764 
-            xmax = 220.7538095605117 
-            text = "(-)" 
-        intervals [783]:
-            xmin = 220.7538095605117 
-            xmax = 220.92486917933525 
-            text = "of" 
-        intervals [784]:
-            xmin = 220.92486917933525 
-            xmax = 221.18145860757056 
-            text = "the" 
-        intervals [785]:
-            xmin = 221.18145860757056 
-            xmax = 221.52357784521766 
-            text = "blue" 
-        intervals [786]:
-            xmin = 221.52357784521766 
-            xmax = 221.78016727345297 
-            text = "(-)" 
-        intervals [787]:
-            xmin = 221.78016727345297 
-            xmax = 221.9512268922765 
-            text = "of" 
-        intervals [788]:
-            xmin = 221.9512268922765 
-            xmax = 222.12228651110004 
-            text = "of" 
-        intervals [789]:
-            xmin = 222.12228651110004 
-            xmax = 222.37887593933536 
-            text = "the" 
-        intervals [790]:
-            xmin = 222.37887593933536 
-            xmax = 222.72099517698246 
-            text = "blue" 
-        intervals [791]:
-            xmin = 222.72099517698246 
-            xmax = 223.4907634616884 
-            text = "hatchback" 
-        intervals [792]:
-            xmin = 223.4907634616884 
-            xmax = 223.74735288992372 
-            text = "(-)" 
-        intervals [793]:
-            xmin = 223.74735288992372 
-            xmax = 224.1750019369826 
-            text = "which" 
-        intervals [794]:
-            xmin = 224.1750019369826 
-            xmax = 224.4315913652179 
-            text = "(-)" 
-        intervals [795]:
-            xmin = 224.4315913652179 
-            xmax = 225.20135964992386 
-            text = "obviously" 
-        intervals [796]:
-            xmin = 225.20135964992386 
-            xmax = 225.45794907815917 
-            text = "(-)" 
-        intervals [797]:
-            xmin = 225.45794907815917 
-            xmax = 225.6290086969827 
-            text = "is" 
-        intervals [798]:
-            xmin = 225.6290086969827 
-            xmax = 225.88559812521802 
-            text = "the" 
-        intervals [799]:
-            xmin = 225.88559812521802 
-            xmax = 226.56983660051222 
-            text = "accident" 
-        intervals [800]:
-            xmin = 226.56983660051222 
-            xmax = 226.82642602874753 
-            text = "(-)" 
-        intervals [801]:
-            xmin = 226.82642602874753 
-            xmax = 227.16854526639463 
-            text = "that" 
-        intervals [802]:
-            xmin = 227.16854526639463 
-            xmax = 227.85278374168897 
-            text = "happened" 
-        intervals [803]:
-            xmin = 227.85278374168897 
-            xmax = 228.9012804183732 
-            text = "(--)" 
-        intervals [804]:
-            xmin = 228.9012804183732 
-            xmax = 229.0132245327169 
-            text = "so" 
-        intervals [805]:
-            xmin = 229.0132245327169 
-            xmax = 229.1811407042324 
-            text = "the" 
-        intervals [806]:
-            xmin = 229.1811407042324 
-            xmax = 229.46100099009158 
-            text = "white" 
-        intervals [807]:
-            xmin = 229.46100099009158 
-            xmax = 229.6289171616071 
-            text = "car" 
-        intervals [808]:
-            xmin = 229.6289171616071 
-            xmax = 229.7968333331226 
-            text = "hit" 
-        intervals [809]:
-            xmin = 229.7968333331226 
-            xmax = 229.96474950463812 
-            text = "(-)" 
-        intervals [810]:
-            xmin = 229.96474950463812 
-            xmax = 230.13266567615364 
-            text = "the" 
-        intervals [811]:
-            xmin = 230.13266567615364 
-            xmax = 230.35655390484098 
-            text = "blue" 
-        intervals [812]:
-            xmin = 230.35655390484098 
-            xmax = 230.52447007635647 
-            text = "car" 
-        intervals [813]:
-            xmin = 230.52447007635647 
-            xmax = 231.49058487130122 
-            text = "(-)" 
-        intervals [814]:
-            xmin = 231.49058487130122 
-            xmax = 231.6892533436672 
-            text = "and" 
-        intervals [815]:
-            xmin = 231.6892533436672 
-            xmax = 231.95414464015514 
-            text = "then" 
-        intervals [816]:
-            xmin = 231.95414464015514 
-            xmax = 232.21903593664308 
-            text = "(--)" 
-        intervals [817]:
-            xmin = 232.21903593664308 
-            xmax = 232.41770440900905 
-            text = "you" 
-        intervals [818]:
-            xmin = 232.41770440900905 
-            xmax = 232.682595705497 
-            text = "know" 
-        intervals [819]:
-            xmin = 232.682595705497 
-            xmax = 233.34482394671687 
-            text = "everything" 
-        intervals [820]:
-            xmin = 233.34482394671687 
-            xmax = 233.80838371557078 
-            text = "stopped" 
-        intervals [821]:
-            xmin = 233.80838371557078 
-            xmax = 234.00705218793675 
-            text = "for" 
-        intervals [822]:
-            xmin = 234.00705218793675 
-            xmax = 234.20572066030272 
-            text = "(-)" 
-        intervals [823]:
-            xmin = 234.20572066030272 
-            xmax = 234.47061195679066 
-            text = "like" 
-        intervals [824]:
-            xmin = 234.47061195679066 
-            xmax = 234.53683478091264 
-            text = "a" 
-        intervals [825]:
-            xmin = 234.53683478091264 
-            xmax = 234.93417172564457 
-            text = "second" 
-        intervals [826]:
-            xmin = 234.93417172564457 
-            xmax = 235.06661737388856 
-            text = "or" 
-        intervals [827]:
-            xmin = 235.06661737388856 
-            xmax = 235.26528584625456 
-            text = "two" 
-        intervals [828]:
-            xmin = 235.26528584625456 
-            xmax = 235.9992335199335 
-            text = "(-)" 
-        intervals [829]:
-            xmin = 235.9992335199335 
-            xmax = 236.20385843644686 
-            text = "and" 
-        intervals [830]:
-            xmin = 236.20385843644686 
-            xmax = 236.54489996396913 
-            text = "the:n" 
-        intervals [831]:
-            xmin = 236.54489996396913 
-            xmax = 236.74952488048248 
-            text = "(-)" 
-        intervals [832]:
-            xmin = 236.74952488048248 
-            xmax = 237.36339963002254 
-            text = "[gulping]" 
-        intervals [833]:
-            xmin = 237.36339963002254 
-            xmax = 237.63623285204034 
-            text = "both" 
-        intervals [834]:
-            xmin = 237.63623285204034 
-            xmax = 238.11369099057148 
-            text = "drivers" 
-        intervals [835]:
-            xmin = 238.11369099057148 
-            xmax = 238.31831590708484 
-            text = "(-)" 
-        intervals [836]:
-            xmin = 238.31831590708484 
-            xmax = 238.5229408235982 
-            text = "got" 
-        intervals [837]:
-            xmin = 238.5229408235982 
-            xmax = 238.72756574011154 
-            text = "out" 
-        intervals [838]:
-            xmin = 238.72756574011154 
-            xmax = 238.86398235112046 
-            text = "of" 
-        intervals [839]:
-            xmin = 238.86398235112046 
-            xmax = 239.20502387864272 
-            text = "their" 
-        intervals [840]:
-            xmin = 239.20502387864272 
-            xmax = 239.47785710066054 
-            text = "cars" 
-        intervals [841]:
-            xmin = 239.47785710066054 
-            xmax = 239.83928329465365 
-            text = "started" 
-        intervals [842]:
-            xmin = 239.83928329465365 
-            xmax = 240.20070948864677 
-            text = "talking" 
-        intervals [843]:
-            xmin = 240.20070948864677 
-            xmax = 240.43287660991257 
-            text = "(-)" 
-        intervals [844]:
-            xmin = 240.43287660991257 
-            xmax = 240.5730288722262 
-            text = "they" 
-        intervals [845]:
-            xmin = 240.5730288722262 
-            xmax = 240.818295331275 
-            text = "weren=t" 
-        intervals [846]:
-            xmin = 240.818295331275 
-            xmax = 241.02852372474544 
-            text = "really" 
-        intervals [847]:
-            xmin = 241.02852372474544 
-            xmax = 241.16867598705906 
-            text = "like" 
-        intervals [848]:
-            xmin = 241.16867598705906 
-            xmax = 241.41394244610788 
-            text = "arguing" 
-        intervals [849]:
-            xmin = 241.41394244610788 
-            xmax = 241.56127611266976 
-            text = "they" 
-        intervals [850]:
-            xmin = 241.56127611266976 
-            xmax = 241.70860977923164 
-            text = "were" 
-        intervals [851]:
-            xmin = 241.70860977923164 
-            xmax = 241.8559434457935 
-            text = "just" 
-        intervals [852]:
-            xmin = 241.8559434457935 
-            xmax = 242.0032771123554 
-            text = "kind" 
-        intervals [853]:
-            xmin = 242.0032771123554 
-            xmax = 242.07694394563634 
-            text = "of" 
-        intervals [854]:
-            xmin = 242.07694394563634 
-            xmax = 242.33477786211964 
-            text = "talking" 
-        intervals [855]:
-            xmin = 242.33477786211964 
-            xmax = 242.51894494532198 
-            text = "about" 
-        intervals [856]:
-            xmin = 242.51894494532198 
-            xmax = 242.66627861188385 
-            text = "what" 
-        intervals [857]:
-            xmin = 242.66627861188385 
-            xmax = 242.96094594500764 
-            text = "happened" 
-        intervals [858]:
-            xmin = 242.96094594500764 
-            xmax = 243.58255468904187 
-            text = "(-)" 
-        intervals [859]:
-            xmin = 243.58255468904187 
-            xmax = 243.76622431883033 
-            text = "and" 
-        intervals [860]:
-            xmin = 243.76622431883033 
-            xmax = 243.94989394861878 
-            text = "one" 
-        intervals [861]:
-            xmin = 243.94989394861878 
-            xmax = 244.07234036847777 
-            text = "of" 
-        intervals [862]:
-            xmin = 244.07234036847777 
-            xmax = 244.31723320819572 
-            text = "them" 
-        intervals [863]:
-            xmin = 244.31723320819572 
-            xmax = 244.68457246777265 
-            text = "pulled" 
-        intervals [864]:
-            xmin = 244.68457246777265 
-            xmax = 244.8682420975611 
-            text = "out" 
-        intervals [865]:
-            xmin = 244.8682420975611 
-            xmax = 245.05191172734956 
-            text = "his" 
-        intervals [866]:
-            xmin = 245.05191172734956 
-            xmax = 245.358027776997 
-            text = "phone" 
-        intervals [867]:
-            xmin = 245.358027776997 
-            xmax = 245.480474196856 
-            text = "to" 
-        intervals [868]:
-            xmin = 245.480474196856 
-            xmax = 245.72536703657394 
-            text = "call" 
-        intervals [869]:
-            xmin = 245.72536703657394 
-            xmax = 245.9090366663624 
-            text = "(-)" 
-        intervals [870]:
-            xmin = 245.9090366663624 
-            xmax = 246.09270629615085 
-            text = "the" 
-        intervals [871]:
-            xmin = 246.09270629615085 
-            xmax = 246.4600455557278 
-            text = "police" 
-        intervals [872]:
-            xmin = 246.4600455557278 
-            xmax = 246.64371518551624 
-            text = "and" 
-        intervals [873]:
-            xmin = 246.64371518551624 
-            xmax = 246.8273848153047 
-            text = "get" 
-        intervals [874]:
-            xmin = 246.8273848153047 
-            xmax = 247.01105444509315 
-            text = "(-)" 
-        intervals [875]:
-            xmin = 247.01105444509315 
-            xmax = 247.1947240748816 
-            text = "you" 
-        intervals [876]:
-            xmin = 247.1947240748816 
-            xmax = 247.43961691459955 
-            text = "know" 
-        intervals [877]:
-            xmin = 247.43961691459955 
-            xmax = 247.56206333445854 
-            text = "an" 
-        intervals [878]:
-            xmin = 247.56206333445854 
-            xmax = 247.99062580396497 
-            text = "officer" 
-        intervals [879]:
-            xmin = 247.99062580396497 
-            xmax = 248.11307222382396 
-            text = "on" 
-        intervals [880]:
-            xmin = 248.11307222382396 
-            xmax = 248.29674185361242 
-            text = "the" 
-        intervals [881]:
-            xmin = 248.29674185361242 
-            xmax = 248.60285790325986 
-            text = "scene" 
-        intervals [882]:
-            xmin = 248.60285790325986 
-            xmax = 248.72530432311885 
-            text = "to" 
-        intervals [883]:
-            xmin = 248.72530432311885 
-            xmax = 248.9089739529073 
-            text = "(-)" 
-        intervals [884]:
-            xmin = 248.9089739529073 
-            xmax = 249.15386679262525 
-            text = "sort" 
-        intervals [885]:
-            xmin = 249.15386679262525 
-            xmax = 249.27631321248424 
-            text = "of" 
-        intervals [886]:
-            xmin = 249.27631321248424 
-            xmax = 249.58242926213168 
-            text = "break" 
-        intervals [887]:
-            xmin = 249.58242926213168 
-            xmax = 249.82732210184963 
-            text = "down" 
-        intervals [888]:
-            xmin = 249.82732210184963 
-            xmax = 250.0109917316381 
-            text = "the" 
-        intervals [889]:
-            xmin = 250.0109917316381 
-            xmax = 250.56200062100353 
-            text = "situation" 
-        intervals [890]:
-            xmin = 250.56200062100353 
-            xmax = 251.16565227153347 
-            text = "(-)" 
-        intervals [891]:
-            xmin = 251.16565227153347 
-            xmax = 251.41418518275862 
-            text = "and" 
-        intervals [892]:
-            xmin = 251.41418518275862 
-            xmax = 251.74556239772548 
-            text = "then" 
-        intervals [893]:
-            xmin = 251.74556239772548 
-            xmax = 251.99409530895062 
-            text = "the" 
-        intervals [894]:
-            xmin = 251.99409530895062 
-            xmax = 252.24262822017576 
-            text = "man" 
-        intervals [895]:
-            xmin = 252.24262822017576 
-            xmax = 252.4911611314009 
-            text = "(-)" 
-        intervals [896]:
-            xmin = 252.4911611314009 
-            xmax = 252.73969404262604 
-            text = "who" 
-        intervals [897]:
-            xmin = 252.73969404262604 
-            xmax = 253.5681370800432 
-            text = "originally" 
-        intervals [898]:
-            xmin = 253.5681370800432 
-            xmax = 253.81666999126833 
-            text = "had" 
-        intervals [899]:
-            xmin = 253.81666999126833 
-            xmax = 254.06520290249347 
-            text = "the" 
-        intervals [900]:
-            xmin = 254.06520290249347 
-            xmax = 254.39658011746033 
-            text = "ball" 
-        intervals [901]:
-            xmin = 254.39658011746033 
-            xmax = 254.64511302868547 
-            text = "(-)" 
-        intervals [902]:
-            xmin = 254.64511302868547 
-            xmax = 255.3907117623609 
-            text = "[gulping]" 
-        intervals [903]:
-            xmin = 255.3907117623609 
-            xmax = 255.63924467358603 
-            text = "u:h" 
-        intervals [904]:
-            xmin = 255.63924467358603 
-            xmax = 256.13631049603634 
-            text = "walked" 
-        intervals [905]:
-            xmin = 256.13631049603634 
-            xmax = 256.6333763184866 
-            text = "across" 
-        intervals [906]:
-            xmin = 256.6333763184866 
-            xmax = 256.7990649259701 
-            text = "to" 
-        intervals [907]:
-            xmin = 256.7990649259701 
-            xmax = 257.1304421409369 
-            text = "the:" 
-        intervals [908]:
-            xmin = 257.1304421409369 
-            xmax = 257.46181935590374 
-            text = "lady" 
-        intervals [909]:
-            xmin = 257.46181935590374 
-            xmax = 258.35304153108535 
-            text = "(-)" 
-        intervals [910]:
-            xmin = 258.35304153108535 
-            xmax = 258.53939870688083 
-            text = "u:m" 
-        intervals [911]:
-            xmin = 258.53939870688083 
-            xmax = 258.7257558826763 
-            text = "the" 
-        intervals [912]:
-            xmin = 258.7257558826763 
-            xmax = 258.9742321170703 
-            text = "lady" 
-        intervals [913]:
-            xmin = 258.9742321170703 
-            xmax = 259.2227083514643 
-            text = "went" 
-        intervals [914]:
-            xmin = 259.2227083514643 
-            xmax = 259.34694646866126 
-            text = "to" 
-        intervals [915]:
-            xmin = 259.34694646866126 
-            xmax = 259.59542270305525 
-            text = "pick" 
-        intervals [916]:
-            xmin = 259.59542270305525 
-            xmax = 259.7196608202522 
-            text = "up" 
-        intervals [917]:
-            xmin = 259.7196608202522 
-            xmax = 259.9060179960477 
-            text = "her" 
-        intervals [918]:
-            xmin = 259.9060179960477 
-            xmax = 260.1544942304416 
-            text = "do:g" 
-        intervals [919]:
-            xmin = 260.1544942304416 
-            xmax = 260.2857544901386 
-            text = "and" 
-        intervals [920]:
-            xmin = 260.2857544901386 
-            xmax = 260.46076816973454 
-            text = "then" 
-        intervals [921]:
-            xmin = 260.46076816973454 
-            xmax = 260.5482750095325 
-            text = "he" 
-        intervals [922]:
-            xmin = 260.5482750095325 
-            xmax = 260.8107955289264 
-            text = "walked" 
-        intervals [923]:
-            xmin = 260.8107955289264 
-            xmax = 261.0733160483203 
-            text = "across" 
-        intervals [924]:
-            xmin = 261.0733160483203 
-            xmax = 261.1608228881183 
-            text = "to" 
-        intervals [925]:
-            xmin = 261.1608228881183 
-            xmax = 261.2920831478152 
-            text = "her" 
-        intervals [926]:
-            xmin = 261.2920831478152 
-            xmax = 261.51085024731015 
-            text = "(and)" 
-        intervals [927]:
-            xmin = 261.51085024731015 
-            xmax = 261.5983570871081 
-            text = "to" 
-        intervals [928]:
-            xmin = 261.5983570871081 
-            xmax = 261.7733707667041 
-            text = "help" 
-        intervals [929]:
-            xmin = 261.7733707667041 
-            xmax = 261.90463102640103 
-            text = "her" 
-        intervals [930]:
-            xmin = 261.90463102640103 
-            xmax = 262.079644705997 
-            text = "pick" 
-        intervals [931]:
-            xmin = 262.079644705997 
-            xmax = 262.167151545795 
-            text = "up" 
-        intervals [932]:
-            xmin = 262.167151545795 
-            xmax = 262.2984118054919 
-            text = "her" 
-        intervals [933]:
-            xmin = 262.2984118054919 
-            xmax = 262.6921925845828 
-            text = "groceries" 
-        intervals [934]:
-            xmin = 262.6921925845828 
-            xmax = 263.0588012496612 
-            text = "(-)" 
-        intervals [935]:
-            xmin = 263.0588012496612 
-            xmax = 263.54761280309907 
-            text = "a:nd" 
-        intervals [936]:
-            xmin = 263.54761280309907 
-            xmax = 263.91422146817746 
-            text = "u:m" 
-        intervals [937]:
-            xmin = 263.91422146817746 
-            xmax = 264.28083013325585 
-            text = "(-)" 
-        intervals [938]:
-            xmin = 264.28083013325585 
-            xmax = 264.52523590997475 
-            text = "no" 
-        intervals [939]:
-            xmin = 264.52523590997475 
-            xmax = 264.89184457505314 
-            text = "one" 
-        intervals [940]:
-            xmin = 264.89184457505314 
-            xmax = 265.25845324013153 
-            text = "was" 
-        intervals [941]:
-            xmin = 265.25845324013153 
-            xmax = 265.7472647935694 
-            text = "hurt" 
-        intervals [942]:
-            xmin = 265.7472647935694 
-            xmax = 266.16666346424313 
-            text = "(-)" 
-        intervals [943]:
-            xmin = 266.16666346424313 
-            xmax = 266.2648368413335 
-            text = "so" 
-        intervals [944]:
-            xmin = 266.2648368413335 
-            xmax = 266.3630102184238 
-            text = "he" 
-        intervals [945]:
-            xmin = 266.3630102184238 
-            xmax = 266.6575303496948 
-            text = "picked" 
-        intervals [946]:
-            xmin = 266.6575303496948 
-            xmax = 266.75570372678516 
-            text = "up" 
-        intervals [947]:
-            xmin = 266.75570372678516 
-            xmax = 266.9029637924206 
-            text = "(-)" 
-        intervals [948]:
-            xmin = 266.9029637924206 
-            xmax = 267.00113716951097 
-            text = "he" 
-        intervals [949]:
-            xmin = 267.00113716951097 
-            xmax = 267.29565730078195 
-            text = "helped" 
-        intervals [950]:
-            xmin = 267.29565730078195 
-            xmax = 267.4429173664174 
-            text = "her" 
-        intervals [951]:
-            xmin = 267.4429173664174 
-            xmax = 267.63926412059806 
-            text = "with" 
-        intervals [952]:
-            xmin = 267.63926412059806 
-            xmax = 267.7865241862335 
-            text = "her" 
-        intervals [953]:
-            xmin = 267.7865241862335 
-            xmax = 268.22830438313986 
-            text = "groceries" 
-        intervals [954]:
-            xmin = 268.22830438313986 
-            xmax = 268.3878256632354 
-            text = "and" 
-        intervals [955]:
-            xmin = 268.3878256632354 
-            xmax = 268.60052070336275 
-            text = "then" 
-        intervals [956]:
-            xmin = 268.60052070336275 
-            xmax = 268.7600419834583 
-            text = "she" 
-        intervals [957]:
-            xmin = 268.7600419834583 
-            xmax = 268.9195632635538 
-            text = "got" 
-        intervals [958]:
-            xmin = 268.9195632635538 
-            xmax = 269.07908454364934 
-            text = "the" 
-        intervals [959]:
-            xmin = 269.07908454364934 
-            xmax = 269.29177958377676 
-            text = "do:g" 
-        intervals [960]:
-            xmin = 269.29177958377676 
-            xmax = 269.4613920147384 
-            text = "and" 
-        intervals [961]:
-            xmin = 269.4613920147384 
-            xmax = 269.6875419226873 
-            text = "then" 
-        intervals [962]:
-            xmin = 269.6875419226873 
-            xmax = 269.8571543536489 
-            text = "the" 
-        intervals [963]:
-            xmin = 269.8571543536489 
-            xmax = 270.0833042615978 
-            text = "lady" 
-        intervals [964]:
-            xmin = 270.0833042615978 
-            xmax = 270.30945416954665 
-            text = "with" 
-        intervals [965]:
-            xmin = 270.30945416954665 
-            xmax = 270.4790666005083 
-            text = "the" 
-        intervals [966]:
-            xmin = 270.4790666005083 
-            xmax = 270.93136641640604 
-            text = "stroller" 
-        intervals [967]:
-            xmin = 270.93136641640604 
-            xmax = 271.1009788473677 
-            text = "(-)" 
-        intervals [968]:
-            xmin = 271.1009788473677 
-            xmax = 271.32712875531655 
-            text = "just" 
-        intervals [969]:
-            xmin = 271.32712875531655 
-            xmax = 271.60981614025263 
-            text = "kinda" 
-        intervals [970]:
-            xmin = 271.60981614025263 
-            xmax = 271.8925035251887 
-            text = "stood" 
-        intervals [971]:
-            xmin = 271.8925035251887 
-            xmax = 272.1751909101248 
-            text = "there" 
-        intervals [972]:
-            xmin = 272.1751909101248 
-            xmax = 272.34480334108645 
-            text = "and" 
-        intervals [973]:
-            xmin = 272.34480334108645 
-            xmax = 272.68402820300975 
-            text = "didn=t" 
-        intervals [974]:
-            xmin = 272.68402820300975 
-            xmax = 272.7971031569842 
-            text = "do" 
-        intervals [975]:
-            xmin = 272.7971031569842 
-            xmax = 273.02325306493304 
-            text = "much" 
-        intervals [976]:
-            xmin = 273.02325306493304 
-            xmax = 273.1928654958947 
-            text = "(-)" 
-        intervals [977]:
-            xmin = 273.1928654958947 
-            xmax = 273.4755528808308 
-            text = "cause" 
-        intervals [978]:
-            xmin = 273.4755528808308 
-            xmax = 273.6451653117924 
-            text = "she" 
-        intervals [979]:
-            xmin = 273.6451653117924 
-            xmax = 273.8147777427541 
-            text = "she" 
-        intervals [980]:
-            xmin = 273.8147777427541 
-            xmax = 274.1540026046774 
-            text = "wasn=t" 
-        intervals [981]:
-            xmin = 274.1540026046774 
-            xmax = 274.4932274666007 
-            text = "really" 
-        intervals [982]:
-            xmin = 274.4932274666007 
-            xmax = 274.77591485153675 
-            text = "close" 
-        intervals [983]:
-            xmin = 274.77591485153675 
-            xmax = 274.8889898055112 
-            text = "to" 
-        intervals [984]:
-            xmin = 274.8889898055112 
-            xmax = 275.0020647594856 
-            text = "it" 
-        intervals [985]:
-            xmin = 275.0020647594856 
-            xmax = 275.17167719044727 
-            text = "and" 
-        intervals [986]:
-            xmin = 275.17167719044727 
-            xmax = 275.3412896214089 
-            text = "she" 
-        intervals [987]:
-            xmin = 275.3412896214089 
-            xmax = 275.6805144833322 
-            text = "wasn=t" 
-        intervals [988]:
-            xmin = 275.6805144833322 
-            xmax = 276.13281429922995 
-            text = "involved" 
-        intervals [989]:
-            xmin = 276.13281429922995 
-            xmax = 276.2458892532044 
-            text = "at" 
-        intervals [990]:
-            xmin = 276.2458892532044 
-            xmax = 276.4155016841658 
-            text = "all" 
-        intervals [991]:
-            xmin = 276.4155016841658 
-            xmax = 277.2081568618076 
-            text = "(-)" 
-        intervals [992]:
-            xmin = 277.2081568618076 
-            xmax = 277.4486536274119 
-            text = "u:m" 
-        intervals [993]:
-            xmin = 277.4486536274119 
-            xmax = 277.6891503930162 
-            text = "(-)" 
-        intervals [994]:
-            xmin = 277.6891503930162 
-            xmax = 279.0519653981072 
-            text = "[tongueclickking]" 
-        intervals [995]:
-            xmin = 279.0519653981072 
-            xmax = 279.2924621637115 
-            text = "and" 
-        intervals [996]:
-            xmin = 279.2924621637115 
-            xmax = 279.5329589293158 
-            text = "the" 
-        intervals [997]:
-            xmin = 279.5329589293158 
-            xmax = 279.85362128345486 
-            text = "ma:n" 
-        intervals [998]:
-            xmin = 279.85362128345486 
-            xmax = 280.09411804905915 
-            text = "(-)" 
-        intervals [999]:
-            xmin = 280.09411804905915 
-            xmax = 280.49494599173295 
-            text = "again" 
-        intervals [1000]:
-            xmin = 280.49494599173295 
-            xmax = 280.73544275733724 
-            text = "the" 
-        intervals [1001]:
-            xmin = 280.73544275733724 
-            xmax = 280.97593952294153 
-            text = "(-)" 
-        intervals [1002]:
-            xmin = 280.97593952294153 
-            xmax = 281.4569330541501 
-            text = "soccer" 
-        intervals [1003]:
-            xmin = 281.4569330541501 
-            xmax = 281.7775954082892 
-            text = "ball" 
-        intervals [1004]:
-            xmin = 281.7775954082892 
-            xmax = 282.0180921738935 
-            text = "man" 
-        intervals [1005]:
-            xmin = 282.0180921738935 
-            xmax = 282.25858893949777 
-            text = "(-)" 
-        intervals [1006]:
-            xmin = 282.25858893949777 
-            xmax = 282.57925129363684 
-            text = "went" 
-        intervals [1007]:
-            xmin = 282.57925129363684 
-            xmax = 282.8999136477759 
-            text = "over" 
-        intervals [1008]:
-            xmin = 282.8999136477759 
-            xmax = 283.1404104133802 
-            text = "and" 
-        intervals [1009]:
-            xmin = 283.1404104133802 
-            xmax = 283.3007415904497 
-            text = "um" 
-        intervals [1010]:
-            xmin = 283.3007415904497 
-            xmax = 283.541238356054 
-            text = "(-)" 
-        intervals [1011]:
-            xmin = 283.541238356054 
-            xmax = 283.7015695331235 
-            text = "to" 
-        intervals [1012]:
-            xmin = 283.7015695331235 
-            xmax = 284.0222318872626 
-            text = "talk" 
-        intervals [1013]:
-            xmin = 284.0222318872626 
-            xmax = 284.1825630643321 
-            text = "to" 
-        intervals [1014]:
-            xmin = 284.1825630643321 
-            xmax = 284.4230598299364 
-            text = "the" 
-        intervals [1015]:
-            xmin = 284.4230598299364 
-            xmax = 284.9842189496798 
-            text = "drivers" 
-        intervals [1016]:
-            xmin = 284.9842189496798 
-            xmax = 285.0577156004046 
-            text = "i" 
-        intervals [1017]:
-            xmin = 285.0577156004046 
-            xmax = 285.4251988540287 
-            text = "guess" 
-        intervals [1018]:
-            xmin = 285.4251988540287 
-            xmax = 285.71918545692796 
-            text = "they" 
-        intervals [1019]:
-            xmin = 285.71918545692796 
-            xmax = 286.01317205982724 
-            text = "sort" 
-        intervals [1020]:
-            xmin = 286.01317205982724 
-            xmax = 286.1601653612769 
-            text = "of" 
-        intervals [1021]:
-            xmin = 286.1601653612769 
-            xmax = 286.3806553134513 
-            text = "(-)" 
-        intervals [1022]:
-            xmin = 286.3806553134513 
-            xmax = 286.82163521780024 
-            text = "helped" 
-        intervals [1023]:
-            xmin = 286.82163521780024 
-            xmax = 287.04212516997467 
-            text = "him" 
-        intervals [1024]:
-            xmin = 287.04212516997467 
-            xmax = 287.2626151221491 
-            text = "(-)" 
-        intervals [1025]:
-            xmin = 287.2626151221491 
-            xmax = 287.40960842359874 
-            text = "as" 
-        intervals [1026]:
-            xmin = 287.40960842359874 
-            xmax = 287.703595026498 
-            text = "like" 
-        intervals [1027]:
-            xmin = 287.703595026498 
-            xmax = 287.7770916772228 
-            text = "a" 
-        intervals [1028]:
-            xmin = 287.7770916772228 
-            xmax = 288.1445749308469 
-            text = "third" 
-        intervals [1029]:
-            xmin = 288.1445749308469 
-            xmax = 288.51205818447096 
-            text = "party" 
-        intervals [1030]:
-            xmin = 288.51205818447096 
-            xmax = 288.9530380888199 
-            text = "viewer" 
-        intervals [1031]:
-            xmin = 288.9530380888199 
-            xmax = 289.24702469171916 
-            text = "like" 
-        intervals [1032]:
-            xmin = 289.24702469171916 
-            xmax = 289.61450794534323 
-            text = "break" 
-        intervals [1033]:
-            xmin = 289.61450794534323 
-            xmax = 289.9084945482425 
-            text = "down" 
-        intervals [1034]:
-            xmin = 289.9084945482425 
-            xmax = 290.12898450041695 
-            text = "the" 
-        intervals [1035]:
-            xmin = 290.12898450041695 
-            xmax = 290.3494744525914 
-            text = "(-)" 
-        intervals [1036]:
-            xmin = 290.3494744525914 
-            xmax = 290.5699644047658 
-            text = "the" 
-        intervals [1037]:
-            xmin = 290.5699644047658 
-            xmax = 290.79045435694024 
-            text = "(-)" 
-        intervals [1038]:
-            xmin = 290.79045435694024 
-            xmax = 291.3784275627388 
-            text = "accident" 
-        intervals [1039]:
-            xmin = 291.3784275627388 
-            xmax = 291.59891751491324 
-            text = "(-)" 
-        intervals [1040]:
-            xmin = 291.59891751491324 
-            xmax = 291.8929041178125 
-            text = "from" 
-        intervals [1041]:
-            xmin = 291.8929041178125 
-            xmax = 292.11339406998695 
-            text = "his" 
-        intervals [1042]:
-            xmin = 292.11339406998695 
-            xmax = 292.92185722795995 
-            text = "perspective" 
-        intervals [1043]:
-            xmin = 292.92185722795995 
-            xmax = 293.1423471801344 
-            text = "(-)" 
-        intervals [1044]:
-            xmin = 293.1423471801344 
-            xmax = 293.3628371323088 
-            text = "and" 
-        intervals [1045]:
-            xmin = 293.3628371323088 
-            xmax = 293.58332708448324 
-            text = "add" 
-        intervals [1046]:
-            xmin = 293.58332708448324 
-            xmax = 293.7303203859329 
-            text = "it" 
-        intervals [1047]:
-            xmin = 293.7303203859329 
-            xmax = 293.8773136873825 
-            text = "to" 
-        intervals [1048]:
-            xmin = 293.8773136873825 
-            xmax = 294.09780363955696 
-            text = "the" 
-        intervals [1049]:
-            xmin = 294.09780363955696 
-            xmax = 294.39179024245624 
-            text = "(--)" 
-        intervals [1050]:
-            xmin = 294.39179024245624 
-            xmax = 294.5387835439059 
-            text = "to" 
-        intervals [1051]:
-            xmin = 294.5387835439059 
-            xmax = 294.90626679752995 
-            text = "their" 
-        intervals [1052]:
-            xmin = 294.90626679752995 
-            xmax = 295.4942400033285 
-            text = "opinions" 
-        intervals [1053]:
-            xmin = 295.4942400033285 
-            xmax = 295.64123330477815 
-            text = "of" 
-        intervals [1054]:
-            xmin = 295.64123330477815 
-            xmax = 295.7882266062278 
-            text = "it" 
-        intervals [1055]:
-            xmin = 295.7882266062278 
-            xmax = 295.8617232569526 
-            text = "i" 
-        intervals [1056]:
-            xmin = 295.8617232569526 
-            xmax = 296.22920651057666 
-            text = "guess" 
-        intervals [1057]:
-            xmin = 296.22920651057666 
-            xmax = 296.4496964627511 
-            text = "(-)" 
-        intervals [1058]:
-            xmin = 296.4496964627511 
-            xmax = 296.7436830656507 
-            text = "yeah" 
-        intervals [1059]:
-            xmin = 296.7436830656507 
-            xmax = 298.25695833333333 
-            text = "(--)" 
-    item [2]:
-        class = "IntervalTier" 
-        name = "dipl|a|cu" 
-        xmin = 0 
-        xmax = 298.25695833333333 
-        intervals: size = 89 
-        intervals [1]:
-            xmin = 0 
-            xmax = 1.1663226609043014 
-            text = "(--)" 
-        intervals [2]:
-            xmin = 1.1663226609043014 
-            xmax = 7.922762949917247 
-            text = "okay (-) u:m so this morning i was walking back to my apartment (-) as i do sometimes when i walk in the mornings" 
-        intervals [3]:
-            xmin = 7.922762949917247 
-            xmax = 8.455352661484477 
-            text = "(-)" 
-        intervals [4]:
-            xmin = 8.455352661484477 
-            xmax = 10.163942061162981 
-            text = "and then (-) i was walking" 
-        intervals [5]:
-            xmin = 10.163942061162981 
-            xmax = 11.890326737190392 
-            text = "okay so i was on the right side of the parking lot" 
-        intervals [6]:
-            xmin = 11.890326737190392 
-            xmax = 12.597971796853589 
-            text = "(-)" 
-        intervals [7]:
-            xmin = 12.597971796853589 
-            xmax = 18.239973280488943 
-            text = "a:nd (-) there was like (--) there was a couple in front of me" 
-        intervals [8]:
-            xmin = 18.239973280488943 
-            xmax = 20.418852399910175 
-            text = "i=m just gonna assume they=re a couple but i have no idea" 
-        intervals [9]:
-            xmin = 20.418852399910175 
-            xmax = 23.197368593123343 
-            text = "i=m not gonna (-) i=m not gonna (-) quote myself on that" 
-        intervals [10]:
-            xmin = 23.197368593123343 
-            xmax = 23.79402812829244 
-            text = "(-)" 
-        intervals [11]:
-            xmin = 23.79402812829244 
-            xmax = 27.5613352757422 
-            text = "but there was basically a man bouncing a soccer ball along the path as he walked" 
-        intervals [12]:
-            xmin = 27.5613352757422 
-            xmax = 35.04560945261948 
-            text = "and there was a: (-) woman with a: (-) child (-) in a: (-) basket (-) cart stroller thing" 
-        intervals [13]:
-            xmin = 35.04560945261948 
-            xmax = 37.056751449531376 
-            text = "(--)" 
-        intervals [14]:
-            xmin = 37.056751449531376 
-            xmax = 39.48544124744213 
-            text = "a:nd (-) on the left side of the parking lot" 
-        intervals [15]:
-            xmin = 39.48544124744213 
-            xmax = 40.51120197612823 
-            text = "so i was walking on the right side" 
-        intervals [16]:
-            xmin = 40.51120197612823 
-            xmax = 41.453187933095215 
-            text = "they were walking towards me" 
-        intervals [17]:
-            xmin = 41.453187933095215 
-            xmax = 41.78104183688413 
-            text = "(-)" 
-        intervals [18]:
-            xmin = 41.78104183688413 
-            xmax = 50.95643234791161 
-            text = "and on the left side of the parking lot there was (-) a: woman (-) pulling groceries out of (-) her (-) the trunk of her car (-) with her dog on a leash attached to one of her arms" 
-        intervals [19]:
-            xmin = 50.95643234791161 
-            xmax = 51.728895847377174 
-            text = "(-)" 
-        intervals [20]:
-            xmin = 51.728895847377174 
-            xmax = 65.77161382188216 
-            text = "a:nd (-) [gulping] [tongueclicking] on the right side of the parking lot (-) um (-) next to the sidewalk where we were walking (-) there was a white van (--) just a like a big white van like a commercial van with like no windows" 
-        intervals [21]:
-            xmin = 65.77161382188216 
-            xmax = 66.633677611505 
-            text = "(-)" 
-        intervals [22]:
-            xmin = 66.633677611505 
-            xmax = 70.15922921997799 
-            text = "u:m (--) [gulping] and so (-) i was walking" 
-        intervals [23]:
-            xmin = 70.15922921997799 
-            xmax = 75.96098449578068 
-            text = "and (--) two cars were driving down the street perpendicular to the entrance of the parking lot" 
-        intervals [24]:
-            xmin = 75.96098449578068 
-            xmax = 77.36441706658373 
-            text = "(--)" 
-        intervals [25]:
-            xmin = 77.36441706658373 
-            xmax = 79.11274191310606 
-            text = "and then one of the cars turned in" 
-        intervals [26]:
-            xmin = 79.11274191310606 
-            xmax = 80.31085649534901 
-            text = "(--)" 
-        intervals [27]:
-            xmin = 80.31085649534901 
-            xmax = 84.07944083169176 
-            text = "they were both going pretty fast i would say (-) relative to (-) parking lot speeds" 
-        intervals [28]:
-            xmin = 84.07944083169176 
-            xmax = 84.78001833189083 
-            text = "(-)" 
-        intervals [29]:
-            xmin = 84.78001833189083 
-            xmax = 91.39799757712595 
-            text = "but the first car (-) which is a blue renault (-) turned in to the (-) parking lot (-) heading towards me" 
-        intervals [30]:
-            xmin = 91.39799757712595 
-            xmax = 92.28326341183504 
-            text = "(-)" 
-        intervals [31]:
-            xmin = 92.28326341183504 
-            xmax = 100.47245696983573 
-            text = "a:nd (-) immediately afterward (-) the white (-) golf (-) also turned in (-) and (-) followed it (-) cause it was following pretty closely behind" 
-        intervals [32]:
-            xmin = 100.47245696983573 
-            xmax = 101.69389147107 
-            text = "(--) [sniffing] [tongueclicking]" 
-        intervals [33]:
-            xmin = 101.69389147107 
-            xmax = 112.89671108701091 
-            text = "but as the blu:e (-) car (-) pulled up to the crosswalk (-) the: um: (--) supposed couple (-) oh came up to the crosswalk and turned right to (-) get onto it" 
-        intervals [34]:
-            xmin = 112.89671108701091 
-            xmax = 118.4443807462783 
-            text = "but then (-) hearing the (-) blue car approaching the man bouncing his ball (-) got scared" 
-        intervals [35]:
-            xmin = 118.4443807462783 
-            xmax = 119.01081707976671 
-            text = "and dropped it" 
-        intervals [36]:
-            xmin = 119.01081707976671 
-            xmax = 119.99737918216073 
-            text = "and it bounced off his foot" 
-        intervals [37]:
-            xmin = 119.99737918216073 
-            xmax = 120.91044906899097 
-            text = "and rolled across the street" 
-        intervals [38]:
-            xmin = 120.91044906899097 
-            xmax = 122.04393746839204 
-            text = "(--) [gulping]" 
-        intervals [39]:
-            xmin = 122.04393746839204 
-            xmax = 130.66984575159236 
-            text = "[tongueclicking] and so the blue car sa:w the ball rolling rolling across the street (-) and slammed on their brakes to slow down (-) and stop (-) to you know you know not hit people and stuff (-) cause laws" 
-        intervals [40]:
-            xmin = 130.66984575159236 
-            xmax = 131.2989437576029 
-            text = "(-)" 
-        intervals [41]:
-            xmin = 131.2989437576029 
-            xmax = 136.4366914561451 
-            text = "u:m (-) but (-) [tongueclicking] then: (-) um (-) so they stopped (-) in time" 
-        intervals [42]:
-            xmin = 136.4366914561451 
-            xmax = 137.36535994120828 
-            text = "and no one got hurt" 
-        intervals [43]:
-            xmin = 137.36535994120828 
-            xmax = 139.12505668623527 
-            text = "and the man didn=t even (-) enter the crosswalk" 
-        intervals [44]:
-            xmin = 139.12505668623527 
-            xmax = 140.9902765714062 
-            text = "so it w/ w/ it would have been fine either way" 
-        intervals [45]:
-            xmin = 140.9902765714062 
-            xmax = 143.6266107698589 
-            text = "but (-) um there was no (-) close call i guess " 
-        intervals [46]:
-            xmin = 143.6266107698589 
-            xmax = 144.44294032527733 
-            text = "(-)" 
-        intervals [47]:
-            xmin = 144.44294032527733 
-            xmax = 146.97167002225513 
-            text = "but u:h the (-) the blue cars tires screeched" 
-        intervals [48]:
-            xmin = 146.97167002225513 
-            xmax = 154.4542158882391 
-            text = "and it scared the do:g of the lady who was getting her groceries out (-) in the parking lot across from (-) on the left side across from all of this" 
-        intervals [49]:
-            xmin = 154.4542158882391 
-            xmax = 155.11327094215488 
-            text = "(-)" 
-        intervals [50]:
-            xmin = 155.11327094215488 
-            xmax = 160.263354225834 
-            text = "a:nd (-) [gulping] [tongueclicking] her dog you know (-) being a dog (-) ran towards the car cause that=s (det) thing dogs do" 
-        intervals [51]:
-            xmin = 160.263354225834 
-            xmax = 160.8100703501051 
-            text = "(-)" 
-        intervals [52]:
-            xmin = 160.8100703501051 
-            xmax = 162.70817159105516 
-            text = "and it (-) sort of shook her hand" 
-        intervals [53]:
-            xmin = 162.70817159105516 
-            xmax = 168.15307551973095 
-            text = "and made her drop her groceries a/ all over the (-) street (-) or (-) parking lot (-) i guess (-) behind her car" 
-        intervals [54]:
-            xmin = 168.15307551973095 
-            xmax = 170.2800259210047 
-            text = "(--)" 
-        intervals [55]:
-            xmin = 170.2800259210047 
-            xmax = 183.18987502740748 
-            text = "and the:n u:m (-) [tongueclicking] (-) and then the white car (-) the white volkswagen that (-) pulled in (-) immediately behind the (-) the blue renault (-) um (--) because they pulled in so late afterwards" 
-        intervals [56]:
-            xmin = 183.18987502740748 
-            xmax = 183.60754116770593 
-            text = "(-)" 
-        intervals [57]:
-            xmin = 183.60754116770593 
-            xmax = 189.90246176551432 
-            text = "and (-) the reason the blue renault (-) had hit their brakes so late and didn=t see the man until he dropped the ball was because of the white van obscuring their vision" 
-        intervals [58]:
-            xmin = 189.90246176551432 
-            xmax = 190.29939265025908 
-            text = "(-)" 
-        intervals [59]:
-            xmin = 190.29939265025908 
-            xmax = 204.13372040310668 
-            text = "but because the w/(-) blue white car turned in (-) immediately after the blue one (--) [gulping] and there wasn=t much room for the blue one to you know (-) accelerate and get ahead of them (-) and (-) you know gain much of a gap (-) the white car was already following really closely behind" 
-        intervals [60]:
-            xmin = 204.13372040310668 
-            xmax = 214.24052332902275 
-            text = "and so when the blue one slammed on their brakes and the white one didn=t see what was happening and you know (-) obviously wasn=t expecting (--) him to brake so suddenly (--) he uh didn't have time to respond" 
-        intervals [61]:
-            xmin = 214.24052332902275 
-            xmax = 214.68523605000377 
-            text = "(-)" 
-        intervals [62]:
-            xmin = 214.68523605000377 
-            xmax = 216.81943832757023 
-            text = "and (-) apply his brakes" 
-        intervals [63]:
-            xmin = 216.81943832757023 
-            xmax = 227.85278374168897 
-            text = "and so (-) he ran into the (-) back bumper of the (-) um (-) of the blue (-) of of the blue hatchback (-) which (-) obviously (-) is the accident (-) that happened" 
-        intervals [64]:
-            xmin = 227.85278374168897 
-            xmax = 228.9012804183732 
-            text = "(--)" 
-        intervals [65]:
-            xmin = 228.9012804183732 
-            xmax = 230.52447007635647 
-            text = "so the white car hit (-) the blue car" 
-        intervals [66]:
-            xmin = 230.52447007635647 
-            xmax = 231.49058487130122 
-            text = "(-)" 
-        intervals [67]:
-            xmin = 231.49058487130122 
-            xmax = 235.26528584625456 
-            text = "and then (--) you know everything stopped for (-) like a second or two" 
-        intervals [68]:
-            xmin = 235.26528584625456 
-            xmax = 235.9992335199335 
-            text = "(-)" 
-        intervals [69]:
-            xmin = 235.9992335199335 
-            xmax = 239.47785710066054 
-            text = "and the:n (-) [gulping] both drivers (-) got out of their cars" 
-        intervals [70]:
-            xmin = 239.47785710066054 
-            xmax = 240.20070948864677 
-            text = "started talking" 
-        intervals [71]:
-            xmin = 240.20070948864677 
-            xmax = 240.43287660991257 
-            text = "(-)" 
-        intervals [72]:
-            xmin = 240.43287660991257 
-            xmax = 241.41394244610788 
-            text = "they weren=t really like arguing" 
-        intervals [73]:
-            xmin = 241.41394244610788 
-            xmax = 242.96094594500764 
-            text = "they were just kind of talking about what happened" 
-        intervals [74]:
-            xmin = 242.96094594500764 
-            xmax = 243.58255468904187 
-            text = "(-)" 
-        intervals [75]:
-            xmin = 243.58255468904187 
-            xmax = 250.56200062100353 
-            text = "and one of them pulled out his phone to call (-) the police and get (-) you know an officer on the scene to (-) sort of break down the situation" 
-        intervals [76]:
-            xmin = 250.56200062100353 
-            xmax = 251.16565227153347 
-            text = "(-)" 
-        intervals [77]:
-            xmin = 251.16565227153347 
-            xmax = 257.46181935590374 
-            text = "and then the man (-) who originally had the ball (-) [gulping] u:h walked across to the: lady" 
-        intervals [78]:
-            xmin = 257.46181935590374 
-            xmax = 258.35304153108535 
-            text = "(-)" 
-        intervals [79]:
-            xmin = 258.35304153108535 
-            xmax = 260.1544942304416 
-            text = "u:m the lady went to pick up her do:g" 
-        intervals [80]:
-            xmin = 260.1544942304416 
-            xmax = 262.6921925845828 
-            text = "and then he walked across to her (and) to help her pick up her groceries" 
-        intervals [81]:
-            xmin = 262.6921925845828 
-            xmax = 265.7472647935694 
-            text = "(-) a:nd u:m (-) no one was hurt" 
-        intervals [82]:
-            xmin = 265.7472647935694 
-            xmax = 266.16666346424313 
-            text = "(-)" 
-        intervals [83]:
-            xmin = 266.16666346424313 
-            xmax = 268.22830438313986 
-            text = "so he picked up (-) he helped her with her groceries" 
-        intervals [84]:
-            xmin = 268.22830438313986 
-            xmax = 269.29177958377676 
-            text = "and then she got the do:g" 
-        intervals [85]:
-            xmin = 269.29177958377676 
-            xmax = 276.4155016841658 
-            text = "and then the lady with the stroller (-) just kinda stood there and didn=t do much (-) cause she she wasn=t really close to it and she wasn=t involved at all" 
-        intervals [86]:
-            xmin = 276.4155016841658 
-            xmax = 277.2081568618076 
-            text = "(-)" 
-        intervals [87]:
-            xmin = 277.2081568618076 
-            xmax = 284.9842189496798 
-            text = "u:m (-) [tongueclickking] and the ma:n (-) again the (-) soccer ball man (-) went over and um (-) to talk to the drivers" 
-        intervals [88]:
-            xmin = 284.9842189496798 
-            xmax = 296.7436830656507 
-            text = "i guess they sort of (-) helped him (-) as like a third party viewer like break down the (-) the (-) accident (-) from his perspective (-) and add it to the (--) to their opinions of it i guess (-) yeah" 
-        intervals [89]:
-            xmin = 296.7436830656507 
-            xmax = 298.25695833333333 
-            text = "(--)" 
-    item [3]:
-        class = "IntervalTier" 
-        name = "ip" 
-        xmin = 0 
-        xmax = 298.25695833333333 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 298.25695833333333 
-            text = "" 
-    item [4]:
-        class = "IntervalTier" 
-        name = "syllable" 
-        xmin = 0 
-        xmax = 298.25695833333333 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 298.25695833333333 
-            text = "" 
-    item [5]:
-        class = "IntervalTier" 
-        name = "pa" 
-        xmin = 0 
-        xmax = 298.25695833333333 
-        intervals: size = 1 
-        intervals [1]:
-            xmin = 0 
-            xmax = 298.25695833333333 
-            text = "" 
-    item [6]:
-        class = "TextTier" 
-        name = "comment" 
-        xmin = 0 
-        xmax = 298.25695833333333 
-        points: size = 0 
+0.0
+298.25695833333333
+<exists>
+2
+"IntervalTier"
+"dipl|a|cu"
+0.0
+298.25695833333333
+89
+0.0
+1.1663226609043014
+"(--)"
+1.1663226609043014
+7.922762949917247
+"okay (-) u:m so this morning i was walking back to my apartment (-) as i do sometimes when i walk in the mornings"
+7.922762949917247
+8.455352661484477
+"(-)"
+8.455352661484477
+10.163942061162981
+"and then (-) i was walking"
+10.163942061162981
+11.890326737190392
+"okay so i was on the right side of the parking lot"
+11.890326737190392
+12.597971796853589
+"(-)"
+12.597971796853589
+18.239973280488943
+"a:nd (-) there was like (--) there was a couple in front of me"
+18.239973280488943
+20.418852399910175
+"i=m just gonna assume they=re a couple but i have no idea"
+20.418852399910175
+23.197368593123343
+"i=m not gonna (-) i=m not gonna (-) quote myself on that"
+23.197368593123343
+23.79402812829244
+"(-)"
+23.79402812829244
+27.5613352757422
+"but there was basically a man bouncing a soccer ball along the path as he walked"
+27.5613352757422
+35.04560945261948
+"and there was a: (-) woman with a: (-) child (-) in a: (-) basket (-) cart stroller thing"
+35.04560945261948
+37.056751449531376
+"(--)"
+37.056751449531376
+39.48544124744213
+"a:nd (-) on the left side of the parking lot"
+39.48544124744213
+40.51120197612823
+"so i was walking on the right side"
+40.51120197612823
+41.453187933095215
+"they were walking towards me"
+41.453187933095215
+41.78104183688413
+"(-)"
+41.78104183688413
+50.95643234791161
+"and on the left side of the parking lot there was (-) a: woman (-) pulling groceries out of (-) her (-) the trunk of her car (-) with her dog on a leash attached to one of her arms"
+50.95643234791161
+51.728895847377174
+"(-)"
+51.728895847377174
+65.77161382188216
+"a:nd (-) [gulping] [tongueclicking] on the right side of the parking lot (-) um (-) next to the sidewalk where we were walking (-) there was a white van (--) just a like a big white van like a commercial van with like no windows"
+65.77161382188216
+66.633677611505
+"(-)"
+66.633677611505
+70.15922921997799
+"u:m (--) [gulping] and so (-) i was walking"
+70.15922921997799
+75.96098449578068
+"and (--) two cars were driving down the street perpendicular to the entrance of the parking lot"
+75.96098449578068
+77.36441706658373
+"(--)"
+77.36441706658373
+79.11274191310606
+"and then one of the cars turned in"
+79.11274191310606
+80.31085649534901
+"(--)"
+80.31085649534901
+84.07944083169176
+"they were both going pretty fast i would say (-) relative to (-) parking lot speeds"
+84.07944083169176
+84.78001833189083
+"(-)"
+84.78001833189083
+91.39799757712595
+"but the first car (-) which is a blue renault (-) turned in to the (-) parking lot (-) heading towards me"
+91.39799757712595
+92.28326341183504
+"(-)"
+92.28326341183504
+100.47245696983573
+"a:nd (-) immediately afterward (-) the white (-) golf (-) also turned in (-) and (-) followed it (-) cause it was following pretty closely behind"
+100.47245696983573
+101.69389147107
+"(--) [sniffing] [tongueclicking]"
+101.69389147107
+112.89671108701091
+"but as the blu:e (-) car (-) pulled up to the crosswalk (-) the: um: (--) supposed couple (-) oh came up to the crosswalk and turned right to (-) get onto it"
+112.89671108701091
+118.4443807462783
+"but then (-) hearing the (-) blue car approaching the man bouncing his ball (-) got scared"
+118.4443807462783
+119.01081707976671
+"and dropped it"
+119.01081707976671
+119.99737918216073
+"and it bounced off his foot"
+119.99737918216073
+120.91044906899097
+"and rolled across the street"
+120.91044906899097
+122.04393746839204
+"(--) [gulping]"
+122.04393746839204
+130.66984575159236
+"[tongueclicking] and so the blue car sa:w the ball rolling rolling across the street (-) and slammed on their brakes to slow down (-) and stop (-) to you know you know not hit people and stuff (-) cause laws"
+130.66984575159236
+131.2989437576029
+"(-)"
+131.2989437576029
+136.4366914561451
+"u:m (-) but (-) [tongueclicking] then: (-) um (-) so they stopped (-) in time"
+136.4366914561451
+137.36535994120828
+"and no one got hurt"
+137.36535994120828
+139.12505668623527
+"and the man didn=t even (-) enter the crosswalk"
+139.12505668623527
+140.9902765714062
+"so it w/ w/ it would have been fine either way"
+140.9902765714062
+143.6266107698589
+"but (-) um there was no (-) close call i guess"
+143.6266107698589
+144.44294032527733
+"(-)"
+144.44294032527733
+146.97167002225513
+"but u:h the (-) the blue cars tires screeched"
+146.97167002225513
+154.4542158882391
+"and it scared the do:g of the lady who was getting her groceries out (-) in the parking lot across from (-) on the left side across from all of this"
+154.4542158882391
+155.11327094215488
+"(-)"
+155.11327094215488
+160.263354225834
+"a:nd (-) [gulping] [tongueclicking] her dog you know (-) being a dog (-) ran towards the car cause that=s (det) thing dogs do"
+160.263354225834
+160.8100703501051
+"(-)"
+160.8100703501051
+162.70817159105516
+"and it (-) sort of shook her hand"
+162.70817159105516
+168.15307551973095
+"and made her drop her groceries a/ all over the (-) street (-) or (-) parking lot (-) i guess (-) behind her car"
+168.15307551973095
+170.2800259210047
+"(--)"
+170.2800259210047
+183.18987502740748
+"and the:n u:m (-) [tongueclicking] (-) and then the white car (-) the white volkswagen that (-) pulled in (-) immediately behind the (-) the blue renault (-) um (--) because they pulled in so late afterwards"
+183.18987502740748
+183.60754116770593
+"(-)"
+183.60754116770593
+189.90246176551432
+"and (-) the reason the blue renault (-) had hit their brakes so late and didn=t see the man until he dropped the ball was because of the white van obscuring their vision"
+189.90246176551432
+190.29939265025908
+"(-)"
+190.29939265025908
+204.13372040310668
+"but because the w/(-) blue white car turned in (-) immediately after the blue one (--) [gulping] and there wasn=t much room for the blue one to you know (-) accelerate and get ahead of them (-) and (-) you know gain much of a gap (-) the white car was already following really closely behind"
+204.13372040310668
+214.24052332902275
+"and so when the blue one slammed on their brakes and the white one didn=t see what was happening and you know (-) obviously wasn=t expecting (--) him to brake so suddenly (--) he uh didn't have time to respond"
+214.24052332902275
+214.68523605000377
+"(-)"
+214.68523605000377
+216.81943832757023
+"and (-) apply his brakes"
+216.81943832757023
+227.85278374168897
+"and so (-) he ran into the (-) back bumper of the (-) um (-) of the blue (-) of of the blue hatchback (-) which (-) obviously (-) is the accident (-) that happened"
+227.85278374168897
+228.9012804183732
+"(--)"
+228.9012804183732
+230.52447007635647
+"so the white car hit (-) the blue car"
+230.52447007635647
+231.49058487130122
+"(-)"
+231.49058487130122
+235.26528584625456
+"and then (--) you know everything stopped for (-) like a second or two"
+235.26528584625456
+235.9992335199335
+"(-)"
+235.9992335199335
+239.47785710066054
+"and the:n (-) [gulping] both drivers (-) got out of their cars"
+239.47785710066054
+240.20070948864677
+"started talking"
+240.20070948864677
+240.43287660991257
+"(-)"
+240.43287660991257
+241.41394244610788
+"they weren=t really like arguing"
+241.41394244610788
+242.96094594500764
+"they were just kind of talking about what happened"
+242.96094594500764
+243.58255468904187
+"(-)"
+243.58255468904187
+250.56200062100353
+"and one of them pulled out his phone to call (-) the police and get (-) you know an officer on the scene to (-) sort of break down the situation"
+250.56200062100353
+251.16565227153347
+"(-)"
+251.16565227153347
+257.46181935590374
+"and then the man (-) who originally had the ball (-) [gulping] u:h walked across to the: lady"
+257.46181935590374
+258.35304153108535
+"(-)"
+258.35304153108535
+260.1544942304416
+"u:m the lady went to pick up her do:g"
+260.1544942304416
+262.6921925845828
+"and then he walked across to her (and) to help her pick up her groceries"
+262.6921925845828
+265.7472647935694
+"(-) a:nd u:m (-) no one was hurt"
+265.7472647935694
+266.16666346424313
+"(-)"
+266.16666346424313
+268.22830438313986
+"so he picked up (-) he helped her with her groceries"
+268.22830438313986
+269.29177958377676
+"and then she got the do:g"
+269.29177958377676
+276.4155016841658
+"and then the lady with the stroller (-) just kinda stood there and didn=t do much (-) cause she she wasn=t really close to it and she wasn=t involved at all"
+276.4155016841658
+277.2081568618076
+"(-)"
+277.2081568618076
+284.9842189496798
+"u:m (-) [tongueclickking] and the ma:n (-) again the (-) soccer ball man (-) went over and um (-) to talk to the drivers"
+284.9842189496798
+296.7436830656507
+"i guess they sort of (-) helped him (-) as like a third party viewer like break down the (-) the (-) accident (-) from his perspective (-) and add it to the (--) to their opinions of it i guess (-) yeah"
+296.7436830656507
+298.25695833333333
+"(--)"
+"IntervalTier"
+"dipl"
+0.0
+298.25695833333333
+1105
+0.0
+1.1663226609043014
+"(--)"
+1.1663226609043014
+1.53
+"okay"
+1.53
+1.945
+"(-)"
+1.945
+2.01
+"u:m"
+2.01
+2.46
+"so"
+2.46
+2.69
+""
+2.69
+2.93
+"this"
+2.93
+3.42
+"morning"
+3.42
+3.5
+""
+3.5
+3.6
+"i"
+3.6
+3.75
+"was"
+3.75
+4.14
+"walking"
+4.14
+4.36
+"back"
+4.36
+4.43
+"to"
+4.43
+4.61
+"my"
+4.61
+5.0
+"apartment"
+5.0
+5.485
+"(-)"
+5.485
+5.67
+"as"
+5.67
+5.8
+"i"
+5.8
+6.0
+"do"
+6.0
+6.15
+""
+6.15
+6.77
+"sometimes"
+6.77
+6.88
+""
+6.88
+6.97
+"when"
+6.97
+7.09
+"i"
+7.09
+7.34
+"walk"
+7.34
+7.4
+"in"
+7.4
+7.46
+"the"
+7.46
+7.922762949917247
+"mornings"
+7.922762949917247
+8.455352661484477
+"(-)"
+8.455352661484477
+8.65
+"and"
+8.65
+9.01
+"then"
+9.01
+9.41
+"(-)"
+9.41
+9.51
+"i"
+9.51
+9.67
+"was"
+9.67
+10.163942061162981
+"walking"
+10.163942061162981
+10.37
+"okay"
+10.37
+10.435
+"so"
+10.435
+10.49
+"i"
+10.49
+10.58
+"was"
+10.58
+10.64
+"on"
+10.64
+10.7
+"the"
+10.7
+10.91
+"right"
+10.91
+11.04
+"side"
+11.04
+11.11
+"of"
+11.11
+11.23
+"the"
+11.23
+11.59
+"parking"
+11.59
+11.890326737190392
+"lot"
+11.890326737190392
+12.597971796853589
+"(-)"
+12.597971796853589
+13.4
+"a:nd"
+13.4
+13.77
+"(-)"
+13.77
+13.97
+"there"
+13.97
+14.14
+"was"
+14.14
+14.42
+"like"
+14.42
+16.76
+"(--)"
+16.76
+16.93
+"there"
+16.93
+17.05
+"was"
+17.05
+17.13
+"a"
+17.13
+17.49
+"couple"
+17.49
+17.57
+"in"
+17.57
+17.76
+"front"
+17.76
+17.83
+"of"
+17.83
+18.239973280488943
+"me"
+18.239973280488943
+18.41
+"i=m"
+18.41
+18.51
+"just"
+18.51
+18.68
+"gonna"
+18.68
+18.87
+"assume"
+18.87
+19.02
+"they=re"
+19.02
+19.05
+"a"
+19.05
+19.42
+"couple"
+19.42
+19.53
+"but"
+19.53
+19.65
+"i"
+19.65
+19.71
+"have"
+19.71
+19.81
+"no"
+19.81
+20.418852399910175
+"idea"
+20.418852399910175
+20.604086812791053
+"i=m"
+20.604086812791053
+20.78932122567193
+"not"
+20.78932122567193
+20.86
+"gonna"
+20.86
+21.73
+"(-)"
+21.73
+21.8
+"i=m"
+21.8
+21.92
+"not"
+21.92
+22.16
+"gonna"
+22.16
+22.32
+"(-)"
+22.32
+22.51
+"quote"
+22.51
+22.87
+"myself"
+22.87
+23.01
+"on"
+23.01
+23.197368593123343
+"that"
+23.197368593123343
+23.79402812829244
+"(-)"
+23.79402812829244
+23.84
+"but"
+23.84
+23.96
+"there"
+23.96
+24.12
+"was"
+24.12
+24.54
+"basically"
+24.54
+24.57
+"a"
+24.57
+24.99
+"man"
+24.99
+25.31
+"bouncing"
+25.31
+25.36
+"a"
+25.36
+25.67
+"soccer"
+25.67
+26.065
+"ball"
+26.065
+26.41
+"along"
+26.41
+26.47
+"the"
+26.47
+26.53
+""
+26.53
+26.79
+"path"
+26.79
+26.9
+"as"
+26.9
+26.98
+"he"
+26.98
+27.5613352757422
+"walked"
+27.5613352757422
+27.87
+"and"
+27.87
+28.16
+"there"
+28.16
+28.54
+"was"
+28.54
+28.72
+""
+28.72
+29.3
+"a:"
+29.3
+29.51
+"(-)"
+29.51
+30.11
+"woman"
+30.11
+30.34
+"with"
+30.34
+30.56
+"a:"
+30.56
+31.1
+"(-)"
+31.1
+31.6
+"child"
+31.6
+31.78
+"(-)"
+31.78
+32.26
+"in"
+32.26
+32.29
+"a:"
+32.29
+32.66
+"(-)"
+32.66
+33.04
+"basket"
+33.04
+33.73
+"(-)"
+33.73
+34.02
+"cart"
+34.02
+34.12
+""
+34.12
+34.54
+"stroller"
+34.54
+34.78
+""
+34.78
+35.04560945261948
+"thing"
+35.04560945261948
+37.056751449531376
+"(--)"
+37.056751449531376
+37.85
+"a:nd"
+37.85
+38.195
+"(-)"
+38.195
+38.33
+"on"
+38.33
+38.41
+"the"
+38.41
+38.62
+"left"
+38.62
+38.73
+"side"
+38.73
+38.81
+"of"
+38.81
+38.93
+"the"
+38.93
+39.25
+"parking"
+39.25
+39.48544124744213
+"lot"
+39.48544124744213
+39.5614235236411
+"so"
+39.5614235236411
+39.59941466174059
+"i"
+39.59941466174059
+39.78
+"was"
+39.78
+39.97
+"walking"
+39.97
+40.03
+"on"
+40.03
+40.09
+"the"
+40.09
+40.3
+"right"
+40.3
+40.51120197612823
+"side"
+40.51120197612823
+40.56
+"they"
+40.56
+40.66
+"were"
+40.66
+40.92
+"walking"
+40.92
+41.23
+"towards"
+41.23
+41.453187933095215
+"me"
+41.453187933095215
+41.78104183688413
+"(-)"
+41.78104183688413
+41.87
+"and"
+41.87
+41.95
+"on"
+41.95
+42.01
+"the"
+42.01
+42.23
+"left"
+42.23
+42.39
+"side"
+42.39
+42.45
+"of"
+42.45
+42.54
+"the"
+42.54
+42.89
+"parking"
+42.89
+43.1
+"lot"
+43.1
+43.41
+"there"
+43.41
+43.91
+"was"
+43.91
+43.99
+"(-)"
+43.99
+44.37
+"a:"
+44.37
+44.87
+"woman"
+44.87
+45.24
+"(-)"
+45.24
+45.47
+"pulling"
+45.47
+46.13
+"groceries"
+46.13
+46.3
+"out"
+46.3
+46.48
+"of"
+46.48
+46.87
+"(-)"
+46.87
+47.26
+"her"
+47.26
+47.46
+"(-)"
+47.46
+47.54
+"the"
+47.54
+47.76
+"trunk"
+47.76
+47.86
+"of"
+47.86
+47.95
+"her"
+47.95
+48.34
+"car"
+48.34
+48.86
+"(-)"
+48.86
+49.02
+"with"
+49.02
+49.15
+"her"
+49.15
+49.25
+"dog"
+49.25
+49.46
+"on"
+49.46
+49.61
+"a"
+49.61
+49.98
+"leash"
+49.98
+50.27
+"attached"
+50.27
+50.35
+"to"
+50.35
+50.46
+"one"
+50.46
+50.52
+"of"
+50.52
+50.77
+"her"
+50.77
+50.95643234791161
+"arms"
+50.95643234791161
+51.728895847377174
+"(-)"
+51.728895847377174
+52.27
+"a:nd"
+52.27
+52.39
+"(-)"
+52.39
+53.38
+"[gulping]"
+53.38
+53.765
+"[tongueclicking]"
+53.765
+53.86
+"on"
+53.86
+53.92
+"the"
+53.92
+54.16
+"right"
+54.16
+54.48
+"side"
+54.48
+54.6
+"of"
+54.6
+54.73
+"the"
+54.73
+54.94
+""
+54.94
+55.24
+"parking"
+55.24
+55.45
+"lot"
+55.45
+56.245
+"(-)"
+56.245
+56.58
+"um"
+56.58
+57.415
+"(-)"
+57.415
+57.64
+"next"
+57.64
+57.77
+"to"
+57.77
+57.85
+"the"
+57.85
+58.36
+"sidewalk"
+58.36
+58.51
+"where"
+58.51
+58.57
+"we"
+58.57
+58.77
+"were"
+58.77
+59.2
+"walking"
+59.2
+59.89
+"(-)"
+59.89
+60.11
+"there"
+60.11
+60.65
+"was"
+60.65
+60.75
+""
+60.75
+60.79
+"a"
+60.79
+61.09
+"white"
+61.09
+61.49
+"van"
+61.49
+62.84
+"(--)"
+62.84
+63.02
+"just"
+63.02
+63.145
+"a"
+63.145
+63.29
+"like"
+63.29
+63.38
+"a"
+63.38
+63.45
+""
+63.45
+63.6
+"big"
+63.6
+63.77
+"white"
+63.77
+64.15
+"van"
+64.15
+64.31
+"like"
+64.31
+64.36
+"a"
+64.36
+64.74
+"commercial"
+64.74
+64.97
+"van"
+64.97
+65.09
+"with"
+65.09
+65.2
+"like"
+65.2
+65.36
+"no"
+65.36
+65.77161382188216
+"windows"
+65.77161382188216
+66.633677611505
+"(-)"
+66.633677611505
+67.11
+"u:m"
+67.11
+67.3
+"(--)"
+67.3
+68.625
+"[gulping]"
+68.625
+68.72
+"and"
+68.72
+69.1
+"so"
+69.1
+69.41
+"(-)"
+69.41
+69.48
+"i"
+69.48
+69.6
+"was"
+69.6
+70.15922921997799
+"walking"
+70.15922921997799
+70.51
+"and"
+70.51
+72.26
+"(--)"
+72.26
+72.45
+"two"
+72.45
+72.85
+"cars"
+72.85
+72.98
+"were"
+72.98
+73.43
+"driving"
+73.43
+73.62
+"down"
+73.62
+73.69
+"the"
+73.69
+74.0
+"street"
+74.0
+74.55
+"perpendicular"
+74.55
+74.64
+"to"
+74.64
+74.72
+"the"
+74.72
+75.1
+"entrance"
+75.1
+75.24
+"of"
+75.24
+75.32
+"the"
+75.32
+75.39
+""
+75.39
+75.68
+"parking"
+75.68
+75.96098449578068
+"lot"
+75.96098449578068
+77.36441706658373
+"(--)"
+77.36441706658373
+77.52
+"and"
+77.52
+77.8
+"then"
+77.8
+77.92
+"one"
+77.92
+77.98
+"of"
+77.98
+78.08
+"the"
+78.08
+78.47
+"cars"
+78.47
+78.53
+""
+78.53
+78.76
+"turned"
+78.76
+79.11274191310606
+"in"
+79.11274191310606
+80.31085649534901
+"(--)"
+80.31085649534901
+80.34
+"they"
+80.34
+80.47
+"were"
+80.47
+80.6
+"both"
+80.6
+80.8
+"going"
+80.8
+80.99
+"pretty"
+80.99
+81.26
+"fast"
+81.26
+81.4
+""
+81.4
+81.44
+"i"
+81.44
+81.53
+"would"
+81.53
+81.74
+"say"
+81.74
+82.385
+"(-)"
+82.385
+82.72
+"relative"
+82.72
+82.86
+"to"
+82.86
+83.15
+"(-)"
+83.15
+83.44
+"parking"
+83.44
+83.58
+"lot"
+83.58
+83.71
+""
+83.71
+84.07944083169176
+"speeds"
+84.07944083169176
+84.78001833189083
+"(-)"
+84.78001833189083
+85.0
+"but"
+85.0
+85.06
+"the"
+85.06
+85.34
+"first"
+85.34
+85.71
+"car"
+85.71
+86.235
+"(-)"
+86.235
+86.4
+"which"
+86.4
+86.51
+"is"
+86.51
+86.57
+"a"
+86.57
+86.84
+""
+86.84
+87.19
+"blue"
+87.19
+87.63
+"renault"
+87.63
+87.89
+"(-)"
+87.89
+88.13
+"turned"
+88.13
+88.29
+"in"
+88.29
+88.44
+"to"
+88.44
+88.63
+"the"
+88.63
+89.32
+"(-)"
+89.32
+89.62
+"parking"
+89.62
+89.85
+"lot"
+89.85
+90.62
+"(-)"
+90.62
+90.84
+"heading"
+90.84
+91.165
+"towards"
+91.165
+91.39799757712595
+"me"
+91.39799757712595
+92.28326341183504
+"(-)"
+92.28326341183504
+92.75
+"a:nd"
+92.75
+92.945
+"(-)"
+92.945
+93.44
+"immediately"
+93.44
+93.93
+"afterward"
+93.93
+94.32
+"(-)"
+94.32
+94.39
+"the"
+94.39
+94.73
+"white"
+94.73
+94.89
+"(-)"
+94.89
+95.22
+"golf"
+95.22
+95.53
+"(-)"
+95.53
+95.82
+"also"
+95.82
+96.07
+"turned"
+96.07
+96.32
+"in"
+96.32
+96.665
+"(-)"
+96.665
+96.91
+"and"
+96.91
+97.61
+"(-)"
+97.61
+97.92
+"followed"
+97.92
+98.04
+"it"
+98.04
+98.46
+"(-)"
+98.46
+98.7
+"cause"
+98.7
+98.79
+""
+98.79
+98.85
+"it"
+98.85
+98.9
+""
+98.9
+99.08
+"was"
+99.08
+99.2
+""
+99.2
+99.48
+"following"
+99.48
+99.68
+"pretty"
+99.68
+100.03
+"closely"
+100.03
+100.47245696983573
+"behind"
+100.47245696983573
+100.58
+"(--)"
+100.58
+101.23
+"[sniffing]"
+101.23
+101.69389147107
+"[tongueclicking]"
+101.69389147107
+101.96275914185259
+"but"
+101.96275914185259
+102.14200425570765
+"as"
+102.14200425570765
+102.41087192649023
+"the"
+102.41087192649023
+102.57
+"blu:e"
+102.57
+102.6
+"(-)"
+102.6
+102.98
+"car"
+102.98
+103.51
+"(-)"
+103.51
+103.68
+"pulled"
+103.68
+103.82
+"up"
+103.82
+103.9
+"to"
+103.9
+104.0
+"the"
+104.0
+104.61
+"crosswalk"
+104.61
+105.47
+"(-)"
+105.47
+106.15
+"the:"
+106.15
+106.4
+"um:"
+106.4
+108.19
+"(--)"
+108.19
+108.66
+"supposed"
+108.66
+109.05
+"couple"
+109.05
+109.89
+"(-)"
+109.89
+110.18
+"oh"
+110.18
+110.35
+""
+110.35
+110.48
+"came"
+110.48
+110.57
+"up"
+110.57
+110.64
+"to"
+110.64
+110.74
+"the"
+110.74
+111.2
+"crosswalk"
+111.2
+111.29
+"and"
+111.29
+111.51
+"turned"
+111.51
+111.79
+"right"
+111.79
+111.97
+"to"
+111.97
+112.24
+"(-)"
+112.24
+112.37
+"get"
+112.37
+112.71
+"onto"
+112.71
+112.89671108701091
+"it"
+112.89671108701091
+113.03
+"but"
+113.03
+113.36
+"then"
+113.36
+114.03
+"(-)"
+114.03
+114.42
+"hearing"
+114.42
+114.58
+"the"
+114.58
+114.97
+"(-)"
+114.97
+115.13
+"blue"
+115.13
+115.38
+"car"
+115.38
+115.92
+"approaching"
+115.92
+116.15
+"the"
+116.15
+116.59
+"man"
+116.59
+116.92
+"bouncing"
+116.92
+117.03
+"his"
+117.03
+117.42
+"ball"
+117.42
+117.93
+"(-)"
+117.93
+118.12
+"got"
+118.12
+118.4443807462783
+"scared"
+118.4443807462783
+118.61
+"and"
+118.61
+118.89
+"dropped"
+118.89
+119.01081707976671
+"it"
+119.01081707976671
+119.14
+"and"
+119.14
+119.34
+"it"
+119.34
+119.58
+"bounced"
+119.58
+119.68
+"off"
+119.68
+119.84
+"his"
+119.84
+119.99737918216073
+"foot"
+119.99737918216073
+120.06
+"and"
+120.06
+120.19
+"rolled"
+120.19
+120.48
+"across"
+120.48
+120.55
+"the"
+120.55
+120.91044906899097
+"street"
+120.91044906899097
+120.98
+"(--)"
+120.98
+122.04393746839204
+"[gulping]"
+122.04393746839204
+122.1
+"[tongueclicking]"
+122.1
+122.17
+"and"
+122.17
+122.26
+"so"
+122.26
+122.32
+"the"
+122.32
+122.49
+"blue"
+122.49
+122.7
+"car"
+122.7
+123.09
+"sa:w"
+123.09
+123.2
+"the"
+123.2
+123.38
+"ball"
+123.38
+123.6
+"rolling"
+123.6
+123.82
+"rolling"
+123.82
+124.07
+"across"
+124.07
+124.135
+"the"
+124.135
+124.55
+"street"
+124.55
+125.05
+"(-)"
+125.05
+125.25
+"and"
+125.25
+125.49
+"slammed"
+125.49
+125.59
+"on"
+125.59
+125.72
+"their"
+125.72
+126.07
+"brakes"
+126.07
+126.2
+"to"
+126.2
+126.38
+"slow"
+126.38
+126.72
+"down"
+126.72
+127.06
+"(-)"
+127.06
+127.15
+"and"
+127.15
+127.44
+"stop"
+127.44
+127.88
+"(-)"
+127.88
+128.03
+"to"
+128.03
+128.14
+""
+128.14
+128.21
+"you"
+128.21
+128.28
+"know"
+128.28
+128.44
+"you"
+128.44
+128.65
+"know"
+128.65
+128.74
+"not"
+128.74
+128.87
+"hit"
+128.87
+129.13
+"people"
+129.13
+129.27
+""
+129.27
+129.36
+"and"
+129.36
+129.62
+"stuff"
+129.62
+130.07
+"(-)"
+130.07
+130.22
+"cause"
+130.22
+130.66984575159236
+"laws"
+130.66984575159236
+131.2989437576029
+"(-)"
+131.2989437576029
+131.63
+"u:m"
+131.63
+132.2
+"(-)"
+132.2
+132.45
+"but"
+132.45
+133.1
+"(-)"
+133.1
+133.29
+"[tongueclicking]"
+133.29
+133.46
+""
+133.46
+133.99
+"then:"
+133.99
+134.26
+"(-)"
+134.26
+134.66
+"um"
+134.66
+135.015
+"(-)"
+135.015
+135.13
+"so"
+135.13
+135.24
+"they"
+135.24
+135.69
+"stopped"
+135.69
+135.855
+"(-)"
+135.855
+135.98
+"in"
+135.98
+136.4366914561451
+"time"
+136.4366914561451
+136.74
+"and"
+136.74
+136.84
+"no"
+136.84
+136.96
+"one"
+136.96
+137.11
+"got"
+137.11
+137.36535994120828
+"hurt"
+137.36535994120828
+137.6
+"and"
+137.6
+137.66
+"the"
+137.66
+137.89
+"man"
+137.89
+138.07
+"didn=t"
+138.07
+138.37
+"even"
+138.37
+138.455
+"(-)"
+138.455
+138.59
+"enter"
+138.59
+138.67
+"the"
+138.67
+139.12505668623527
+"crosswalk"
+139.12505668623527
+139.705
+"so"
+139.705
+139.86
+"it"
+139.86
+139.9
+"w/"
+139.9
+139.95
+"w/"
+139.95
+140.03
+"it"
+140.03
+140.18
+"would"
+140.18
+140.25
+"have"
+140.25
+140.35
+"been"
+140.35
+140.57
+"fine"
+140.57
+140.76
+"either"
+140.76
+140.9902765714062
+"way"
+140.9902765714062
+141.13
+"but"
+141.13
+141.77
+"(-)"
+141.77
+142.06
+"um"
+142.06
+142.18
+"there"
+142.18
+142.34
+"was"
+142.34
+142.58
+"no"
+142.58
+142.69
+"(-)"
+142.69
+142.98
+"close"
+142.98
+143.24
+"call"
+143.24
+143.3
+"i"
+143.3
+143.6266107698589
+"guess"
+143.6266107698589
+144.44294032527733
+"(-)"
+144.44294032527733
+144.64
+"but"
+144.64
+144.7
+"u:h"
+144.7
+144.8
+""
+144.8
+145.35
+"the"
+145.35
+145.74
+"(-)"
+145.74
+145.81
+"the"
+145.81
+145.97
+"blue"
+145.97
+146.23
+"cars"
+146.23
+146.56
+"tires"
+146.56
+146.97167002225513
+"screeched"
+146.97167002225513
+147.08
+"and"
+147.08
+147.18
+"it"
+147.18
+147.41
+"scared"
+147.41
+147.47
+"the"
+147.47
+147.91
+"do:g"
+147.91
+148.03
+"of"
+148.03
+148.13
+"the"
+148.13
+148.4
+"lady"
+148.4
+148.47
+"who"
+148.47
+148.59
+"was"
+148.59
+148.78
+"getting"
+148.78
+148.9
+"her"
+148.9
+149.29
+"groceries"
+149.29
+149.51
+"out"
+149.51
+150.175
+"(-)"
+150.175
+150.3
+"in"
+150.3
+150.4
+"the"
+150.4
+151.0
+"parking"
+151.0
+151.28
+"lot"
+151.28
+151.39
+""
+151.39
+151.81
+"across"
+151.81
+152.21
+"from"
+152.21
+152.63
+"(-)"
+152.63
+152.71
+"on"
+152.71
+152.78
+"the"
+152.78
+152.98
+"left"
+152.98
+153.29
+"side"
+153.29
+153.53
+""
+153.53
+153.77
+"across"
+153.77
+153.92
+"from"
+153.92
+154.1
+"all"
+154.1
+154.16
+"of"
+154.16
+154.4542158882391
+"this"
+154.4542158882391
+155.11327094215488
+"(-)"
+155.11327094215488
+155.5
+"a:nd"
+155.5
+155.53
+"(-)"
+155.53
+155.74
+"[gulping]"
+155.74
+156.41
+"[tongueclicking]"
+156.41
+156.59
+"her"
+156.59
+156.77
+"dog"
+156.77
+156.87
+"you"
+156.87
+157.08
+""
+157.08
+157.26
+"know"
+157.26
+157.53
+"(-)"
+157.53
+157.77
+"being"
+157.77
+157.98
+"a"
+157.98
+158.05
+"dog"
+158.05
+158.46
+"(-)"
+158.46
+158.66
+"ran"
+158.66
+158.9
+"towards"
+158.9
+158.97
+"the"
+158.97
+159.25
+"car"
+159.25
+159.33
+""
+159.33
+159.43
+"cause"
+159.43
+159.56
+"that=s"
+159.56
+159.65
+"(det)"
+159.65
+159.8
+"thing"
+159.8
+160.03
+"dogs"
+160.03
+160.263354225834
+"do"
+160.263354225834
+160.8100703501051
+"(-)"
+160.8100703501051
+161.26
+"and"
+161.26
+161.39
+"it"
+161.39
+161.645
+"(-)"
+161.645
+161.81
+"sort"
+161.81
+161.95
+"of"
+161.95
+162.09
+""
+162.09
+162.29
+"shook"
+162.29
+162.41
+"her"
+162.41
+162.70817159105516
+"hand"
+162.70817159105516
+162.86
+"and"
+162.86
+162.99
+"made"
+162.99
+163.14
+"her"
+163.14
+163.31
+"drop"
+163.31
+163.44
+"her"
+163.44
+163.89
+"groceries"
+163.89
+163.94
+"a/"
+163.94
+164.05
+""
+164.05
+164.32
+"all"
+164.32
+164.49
+"over"
+164.49
+164.63
+"the"
+164.63
+164.94
+"(-)"
+164.94
+165.28
+"street"
+165.28
+166.025
+"(-)"
+166.025
+166.18
+"or"
+166.18
+166.24
+"(-)"
+166.24
+166.53
+"parking"
+166.53
+166.71
+"lot"
+166.71
+166.955
+"(-)"
+166.955
+167.05
+"i"
+167.05
+167.27
+"guess"
+167.27
+167.5
+"(-)"
+167.5
+167.73
+"behind"
+167.73
+167.84
+"her"
+167.84
+168.15307551973095
+"car"
+168.15307551973095
+170.2800259210047
+"(--)"
+170.2800259210047
+170.47
+"and"
+170.47
+171.5
+"the:n"
+171.5
+171.56
+"u:m"
+171.56
+172.52
+"(-)"
+172.52
+173.4
+"[tongueclicking]"
+173.4
+173.495
+"(-)"
+173.495
+173.56
+"and"
+173.56
+173.72
+"then"
+173.72
+173.78
+"the"
+173.78
+174.03
+"white"
+174.03
+174.39
+"car"
+174.39
+174.72
+"(-)"
+174.72
+174.79
+"the"
+174.79
+174.99
+"white"
+174.99
+175.52
+"volkswagen"
+175.52
+175.68
+"that"
+175.68
+175.87
+"(-)"
+175.87
+176.06
+"pulled"
+176.06
+176.32
+"in"
+176.32
+176.59
+"(-)"
+176.59
+176.97
+"immediately"
+176.97
+177.47
+"behind"
+177.47
+177.69
+"the"
+177.69
+178.28
+"(-)"
+178.28
+178.35
+"the"
+178.35
+178.59
+"blue"
+178.59
+178.93
+"renault"
+178.93
+179.48
+"(-)"
+179.48
+179.78
+"um"
+179.78
+181.03
+"(--)"
+181.03
+181.27
+"because"
+181.27
+181.43
+"they"
+181.43
+181.64
+"pulled"
+181.64
+181.87
+"in"
+181.87
+182.12
+"so"
+182.12
+182.44
+"late"
+182.44
+183.18987502740748
+"afterwards"
+183.18987502740748
+183.60754116770593
+"(-)"
+183.60754116770593
+183.96
+"and"
+183.96
+184.38
+"(-)"
+184.38
+184.44
+"the"
+184.44
+184.69
+"reason"
+184.69
+184.75
+"the"
+184.75
+184.89
+"blue"
+184.89
+185.21
+"renault"
+185.21
+185.33
+"(-)"
+185.33
+185.53
+"had"
+185.53
+185.67
+"hit"
+185.67
+185.8
+"their"
+185.8
+186.06
+"brakes"
+186.06
+186.21
+"so"
+186.21
+186.49
+"late"
+186.49
+186.58
+"and"
+186.58
+186.8
+"didn=t"
+186.8
+186.98
+"see"
+186.98
+187.04
+"the"
+187.04
+187.32
+"man"
+187.32
+187.52
+"until"
+187.52
+187.59
+"he"
+187.59
+187.82
+"dropped"
+187.82
+187.88
+"the"
+187.88
+188.2
+"ball"
+188.2
+188.32
+"was"
+188.32
+188.58
+"because"
+188.58
+188.64
+"of"
+188.64
+188.71
+"the"
+188.71
+188.91
+"white"
+188.91
+189.13
+"van"
+189.13
+189.51
+"obscuring"
+189.51
+189.61
+"their"
+189.61
+189.90246176551432
+"vision"
+189.90246176551432
+190.29939265025908
+"(-)"
+190.29939265025908
+190.4
+"but"
+190.4
+190.68
+"because"
+190.68
+190.78
+"the"
+190.78
+190.94
+"w/(-)"
+190.94
+191.43
+""
+191.43
+191.72
+"blue"
+191.72
+191.8
+""
+191.8
+192.07
+"white"
+192.07
+192.31
+"car"
+192.31
+192.53
+"turned"
+192.53
+192.8
+"in"
+192.8
+193.14
+"(-)"
+193.14
+193.57
+"immediately"
+193.57
+193.72
+"after"
+193.72
+193.78
+"the"
+193.78
+193.99
+"blue"
+193.99
+194.2
+"one"
+194.2
+194.88
+"(--)"
+194.88
+195.275
+"[gulping]"
+195.275
+195.34
+"and"
+195.34
+195.4
+"there"
+195.4
+195.59
+"wasn=t"
+195.59
+195.81
+"much"
+195.81
+196.18
+"room"
+196.18
+196.28
+"for"
+196.28
+196.38
+"the"
+196.38
+196.53
+"blue"
+196.53
+196.7
+"one"
+196.7
+196.89
+"to"
+196.89
+197.06
+""
+197.06
+197.13
+"you"
+197.13
+197.24
+"know"
+197.24
+197.82
+"(-)"
+197.82
+198.32
+"accelerate"
+198.32
+198.4
+"and"
+198.4
+198.55
+"get"
+198.55
+198.75
+"ahead"
+198.75
+198.81
+"of"
+198.81
+198.99
+"them"
+198.99
+199.72
+"(-)"
+199.72
+199.96
+"and"
+199.96
+200.135
+"(-)"
+200.135
+200.22
+"you"
+200.22
+200.53
+"know"
+200.53
+200.59
+""
+200.59
+200.73
+"gain"
+200.73
+200.92
+"much"
+200.92
+200.98
+"of"
+200.98
+201.02
+"a"
+201.02
+201.4
+"gap"
+201.4
+202.035
+"(-)"
+202.035
+202.11
+"the"
+202.11
+202.31
+"white"
+202.31
+202.43
+"car"
+202.43
+202.54
+"was"
+202.54
+202.75
+"already"
+202.75
+203.06
+"following"
+203.06
+203.25
+"really"
+203.25
+203.59
+"closely"
+203.59
+204.13372040310668
+"behind"
+204.13372040310668
+204.28
+"and"
+204.28
+204.4
+"so"
+204.4
+204.49
+"when"
+204.49
+204.58
+"the"
+204.58
+204.73
+"blue"
+204.73
+204.92
+"one"
+204.92
+205.17
+"slammed"
+205.17
+205.29
+"on"
+205.29
+205.43
+"their"
+205.43
+205.89
+"brakes"
+205.89
+205.95
+""
+205.95
+206.01
+"and"
+206.01
+206.07
+"the"
+206.07
+206.25
+"white"
+206.25
+206.37
+"one"
+206.37
+206.56
+"didn=t"
+206.56
+206.76
+"see"
+206.76
+206.88
+"what"
+206.88
+207.03
+"was"
+207.03
+207.5
+"happening"
+207.5
+207.71
+"and"
+207.71
+207.84
+"you"
+207.84
+207.91
+"know"
+207.91
+208.25
+"(-)"
+208.25
+208.53
+"obviously"
+208.53
+208.74
+"wasn=t"
+208.74
+209.32
+"expecting"
+209.32
+210.36
+"(--)"
+210.36
+210.5
+"him"
+210.5
+210.59
+"to"
+210.59
+210.78
+"brake"
+210.78
+210.91
+"so"
+210.91
+211.34
+"suddenly"
+211.34
+212.61
+"(--)"
+212.61
+212.94
+"he"
+212.94
+213.09
+"uh"
+213.09
+213.25
+"didn't"
+213.25
+213.41
+"have"
+213.41
+213.56
+"time"
+213.56
+213.64
+"to"
+213.64
+214.24052332902275
+"respond"
+214.24052332902275
+214.68523605000377
+"(-)"
+214.68523605000377
+215.01
+"and"
+215.01
+215.95
+"(-)"
+215.95
+216.22
+"apply"
+216.22
+216.38
+"his"
+216.38
+216.81943832757023
+"brakes"
+216.81943832757023
+216.96
+"and"
+216.96
+217.3
+"so"
+217.3
+217.885
+"(-)"
+217.885
+218.1
+"he"
+218.1
+218.28
+"ran"
+218.28
+218.47
+"into"
+218.47
+218.67
+"the"
+218.67
+218.93
+"(-)"
+218.93
+219.16
+"back"
+219.16
+219.63
+"bumper"
+219.63
+219.76
+"of"
+219.76
+219.97
+"the"
+219.97
+220.66
+"(-)"
+220.66
+220.96
+"um"
+220.96
+221.43
+"(-)"
+221.43
+221.52
+"of"
+221.52
+221.62
+"the"
+221.62
+222.04
+"blue"
+222.04
+222.375
+"(-)"
+222.375
+222.64
+"of"
+222.64
+222.69
+""
+222.69
+222.79
+"of"
+222.79
+222.89
+"the"
+222.89
+223.12
+"blue"
+223.12
+223.56
+"hatchback"
+223.56
+224.37
+"(-)"
+224.37
+224.71
+"which"
+224.71
+224.99
+"(-)"
+224.99
+225.49
+"obviously"
+225.49
+225.775
+"(-)"
+225.775
+225.91
+"is"
+225.91
+226.05
+"the"
+226.05
+226.21
+""
+226.21
+226.76
+"accident"
+226.76
+227.28
+"(-)"
+227.28
+227.44
+"that"
+227.44
+227.85278374168897
+"happened"
+227.85278374168897
+228.9012804183732
+"(--)"
+228.9012804183732
+229.05
+"so"
+229.05
+229.11
+"the"
+229.11
+229.3
+"white"
+229.3
+229.5
+"car"
+229.5
+229.74
+"hit"
+229.74
+229.9
+"(-)"
+229.9
+229.97
+"the"
+229.97
+230.17
+"blue"
+230.17
+230.52447007635647
+"car"
+230.52447007635647
+231.49058487130122
+"(-)"
+231.49058487130122
+231.62
+"and"
+231.62
+232.05
+"then"
+232.05
+233.155
+"(--)"
+233.155
+233.27
+"you"
+233.27
+233.34
+"know"
+233.34
+233.62
+"everything"
+233.62
+233.94
+"stopped"
+233.94
+233.99
+""
+233.99
+234.21
+"for"
+234.21
+234.295
+"(-)"
+234.295
+234.47
+"like"
+234.47
+234.52
+"a"
+234.52
+234.83
+"second"
+234.83
+234.95
+"or"
+234.95
+235.26528584625456
+"two"
+235.26528584625456
+235.9992335199335
+"(-)"
+235.9992335199335
+236.15
+"and"
+236.15
+236.59
+"the:n"
+236.59
+236.66
+"(-)"
+236.66
+237.46
+"[gulping]"
+237.46
+237.63
+"both"
+237.63
+238.24
+"drivers"
+238.24
+238.66
+"(-)"
+238.66
+238.76
+"got"
+238.76
+238.89
+"out"
+238.89
+238.95
+"of"
+238.95
+239.06
+"their"
+239.06
+239.47785710066054
+"cars"
+239.47785710066054
+239.7
+"started"
+239.7
+240.20070948864677
+"talking"
+240.20070948864677
+240.43287660991257
+"(-)"
+240.43287660991257
+240.49
+"they"
+240.49
+240.64
+"weren=t"
+240.64
+240.78
+"really"
+240.78
+240.96
+"like"
+240.96
+241.41394244610788
+"arguing"
+241.41394244610788
+241.47
+"they"
+241.47
+241.56
+"were"
+241.56
+241.66
+"just"
+241.66
+241.77
+"kind"
+241.77
+241.83
+"of"
+241.83
+242.21
+"talking"
+242.21
+242.42
+"about"
+242.42
+242.53
+"what"
+242.53
+242.96094594500764
+"happened"
+242.96094594500764
+243.58255468904187
+"(-)"
+243.58255468904187
+243.85
+"and"
+243.85
+243.95
+"one"
+243.95
+244.01
+"of"
+244.01
+244.13
+"them"
+244.13
+244.26
+"pulled"
+244.26
+244.33
+"out"
+244.33
+244.5
+"his"
+244.5
+244.79
+"phone"
+244.79
+244.87
+"to"
+244.87
+244.92
+""
+244.92
+245.29
+"call"
+245.29
+245.65
+"(-)"
+245.65
+245.76
+"the"
+245.76
+246.35
+"police"
+246.35
+246.74
+"and"
+246.74
+246.93
+"get"
+246.93
+247.16
+"(-)"
+247.16
+247.27
+"you"
+247.27
+247.39
+"know"
+247.39
+247.47
+"an"
+247.47
+247.88
+"officer"
+247.88
+247.95
+"on"
+247.95
+248.01
+"the"
+248.01
+248.35
+"scene"
+248.35
+248.54
+"to"
+248.54
+249.12
+"(-)"
+249.12
+249.3
+"sort"
+249.3
+249.43
+"of"
+249.43
+249.52
+""
+249.52
+249.7
+"break"
+249.7
+249.86
+"down"
+249.86
+249.92
+"the"
+249.92
+250.56200062100353
+"situation"
+250.56200062100353
+251.16565227153347
+"(-)"
+251.16565227153347
+251.28
+"and"
+251.28
+251.55
+"then"
+251.55
+251.61
+"the"
+251.61
+252.08
+"man"
+252.08
+252.44
+"(-)"
+252.44
+252.78
+"who"
+252.78
+252.95
+""
+252.95
+253.38
+"originally"
+253.38
+253.56
+"had"
+253.56
+253.62
+"the"
+253.62
+254.05
+"ball"
+254.05
+254.86
+"(-)"
+254.86
+255.055
+"[gulping]"
+255.055
+255.31
+"u:h"
+255.31
+255.58
+"walked"
+255.58
+256.07
+"across"
+256.07
+256.29
+""
+256.29
+256.59
+"to"
+256.59
+256.94
+"the:"
+256.94
+257.05
+""
+257.05
+257.46181935590374
+"lady"
+257.46181935590374
+258.35304153108535
+"(-)"
+258.35304153108535
+258.86
+"u:m"
+258.86
+258.92
+"the"
+258.92
+259.19
+"lady"
+259.19
+259.32
+"went"
+259.32
+259.39
+"to"
+259.39
+259.57
+"pick"
+259.57
+259.64
+"up"
+259.64
+259.74
+"her"
+259.74
+260.1544942304416
+"do:g"
+260.1544942304416
+260.19
+"and"
+260.19
+260.34
+"then"
+260.34
+260.45
+"he"
+260.45
+260.66
+"walked"
+260.66
+260.95
+"across"
+260.95
+261.07
+"to"
+261.07
+261.22
+"her"
+261.22
+261.34
+"(and)"
+261.34
+261.42
+"to"
+261.42
+261.53
+"help"
+261.53
+261.63
+"her"
+261.63
+261.79
+"pick"
+261.79
+261.87
+"up"
+261.87
+261.98
+"her"
+261.98
+262.6921925845828
+"groceries"
+262.6921925845828
+263.58
+"(-)"
+263.58
+264.19
+"a:nd"
+264.19
+264.57
+"u:m"
+264.57
+265.04
+"(-)"
+265.04
+265.18
+"no"
+265.18
+265.27
+"one"
+265.27
+265.42
+"was"
+265.42
+265.7472647935694
+"hurt"
+265.7472647935694
+266.16666346424313
+"(-)"
+266.16666346424313
+266.34
+"so"
+266.34
+266.61
+"he"
+266.61
+266.8
+"picked"
+266.8
+266.94
+"up"
+266.94
+267.1
+"(-)"
+267.1
+267.22
+"he"
+267.22
+267.37
+"helped"
+267.37
+267.45
+"her"
+267.45
+267.56
+"with"
+267.56
+267.65
+"her"
+267.65
+268.22830438313986
+"groceries"
+268.22830438313986
+268.31
+"and"
+268.31
+268.49
+"then"
+268.49
+268.67
+"she"
+268.67
+268.86
+"got"
+268.86
+268.92
+"the"
+268.92
+269.29177958377676
+"do:g"
+269.29177958377676
+269.4613920147384
+"and"
+269.4613920147384
+269.47
+"then"
+269.47
+269.53
+"the"
+269.53
+269.8
+"lady"
+269.8
+269.94
+"with"
+269.94
+270.03
+"the"
+270.03
+270.53
+"stroller"
+270.53
+271.21
+"(-)"
+271.21
+271.38
+"just"
+271.38
+271.54
+"kinda"
+271.54
+271.76
+"stood"
+271.76
+271.98
+"there"
+271.98
+272.23
+"and"
+272.23
+272.48
+"didn=t"
+272.48
+272.59
+"do"
+272.59
+272.94
+"much"
+272.94
+273.27
+"(-)"
+273.27
+273.56
+"cause"
+273.56
+273.78
+""
+273.78
+274.09
+"she"
+274.09
+274.25
+"she"
+274.25
+274.44
+""
+274.44
+274.76
+"wasn=t"
+274.76
+274.97
+"really"
+274.97
+275.22
+"close"
+275.22
+275.35
+"to"
+275.35
+275.42
+"it"
+275.42
+275.48
+"and"
+275.48
+275.58
+"she"
+275.58
+275.77
+"wasn=t"
+275.77
+276.11
+"involved"
+276.11
+276.17
+"at"
+276.17
+276.4155016841658
+"all"
+276.4155016841658
+277.2081568618076
+"(-)"
+277.2081568618076
+277.4486536274119
+"u:m"
+277.4486536274119
+277.6891503930162
+"(-)"
+277.6891503930162
+279.0519653981072
+"[tongueclickking]"
+279.0519653981072
+279.2924621637115
+"and"
+279.2924621637115
+279.5329589293158
+"the"
+279.5329589293158
+279.85362128345486
+"ma:n"
+279.85362128345486
+280.09411804905915
+"(-)"
+280.09411804905915
+280.11
+"again"
+280.11
+280.19
+"the"
+280.19
+280.515
+"(-)"
+280.515
+280.81
+"soccer"
+280.81
+280.96
+"ball"
+280.96
+281.21
+"man"
+281.21
+281.65
+"(-)"
+281.65
+281.8
+"went"
+281.8
+282.24
+"over"
+282.24
+282.5
+"and"
+282.5
+282.78
+"um"
+282.78
+283.82
+"(-)"
+283.82
+283.93
+"to"
+283.93
+284.19
+"talk"
+284.19
+284.26
+"to"
+284.26
+284.32
+"the"
+284.32
+284.9842189496798
+"drivers"
+284.9842189496798
+285.16
+"i"
+285.16
+285.3
+"guess"
+285.3
+285.41
+"they"
+285.41
+285.57
+"sort"
+285.57
+285.66
+"of"
+285.66
+285.87
+"(-)"
+285.87
+286.12
+"helped"
+286.12
+286.35
+"him"
+286.35
+286.62
+"(-)"
+286.62
+286.73
+"as"
+286.73
+286.84
+"like"
+286.84
+286.88
+"a"
+286.88
+287.22
+"third"
+287.22
+287.46
+"party"
+287.46
+287.91
+"viewer"
+287.91
+288.09
+"like"
+288.09
+288.23
+""
+288.23
+288.43
+"break"
+288.43
+289.62
+"down"
+289.62
+289.84
+"the"
+289.84
+289.87
+"(-)"
+289.87
+289.93
+"the"
+289.93
+290.12
+"(-)"
+290.12
+290.92
+"accident"
+290.92
+290.95
+"(-)"
+290.95
+291.11
+"from"
+291.11
+291.23
+"his"
+291.23
+291.87
+"perspective"
+291.87
+292.26
+"(-)"
+292.26
+292.4616028409187
+"and"
+292.4616028409187
+292.61974956980134
+"add"
+292.61974956980134
+292.7327115190032
+"it"
+292.7327115190032
+292.9416911250267
+"to"
+292.9416911250267
+293.077245464069
+"the"
+293.077245464069
+294.31982690528963
+"(--)"
+294.31982690528963
+294.41584456211126
+"to"
+294.41584456211126
+294.66436085035537
+"their"
+294.66436085035537
+295.2749308046542
+"opinions"
+295.2749308046542
+295.34270797417537
+"of"
+295.34270797417537
+295.39918894877627
+"it"
+295.39918894877627
+295.5177989954383
+"i"
+295.5177989954383
+295.6928900167012
+"guess"
+295.6928900167012
+296.5429286844453
+"(-)"
+296.5429286844453
+296.7436830656507
+"yeah"
+296.7436830656507
+298.25695833333333
+"(--)"
