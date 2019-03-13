@@ -1,164 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url=""></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
-<tli id="T0" time="0"/>
-<tli id="T1" time="1"/>
-<tli id="T2" time="2"/>
-<tli id="T3" time="3"/>
-<tli id="T4" time="4"/>
-<tli id="T5" time="5"/>
-<tli id="T6" time="6"/>
-<tli id="T7" time="7"/>
-<tli id="T8" time="8"/>
-<tli id="T9" time="9"/>
-<tli id="T10" time="10"/>
-<tli id="T11" time="11"/>
-<tli id="T12" time="12"/>
-<tli id="T13" time="13"/>
-<tli id="T14" time="14"/>
-<tli id="T15" time="15"/>
-<tli id="T16" time="16"/>
-<tli id="T17" time="17"/>
-<tli id="T18" time="18"/>
-<tli id="T19" time="19"/>
-<tli id="T20" time="20"/>
-<tli id="T21" time="21"/>
-<tli id="T22" time="22"/>
-<tli id="T23" time="23"/>
-<tli id="T24" time="24"/>
-<tli id="T25" time="25"/>
-<tli id="T26" time="26"/>
-<tli id="T27" time="27"/>
-<tli id="T28" time="28"/>
-<tli id="T29" time="29"/>
-<tli id="T30" time="30"/>
-<tli id="T31" time="31"/>
-<tli id="T32" time="32"/>
-<tli id="T33" time="33"/>
-<tli id="T34" time="34"/>
-<tli id="T35" time="35"/>
-<tli id="T36" time="36"/>
-<tli id="T37" time="37"/>
-<tli id="T38" time="38"/>
-<tli id="T39" time="39"/>
-<tli id="T40" time="40"/>
-<tli id="T41" time="41"/>
-<tli id="T42" time="42"/>
-<tli id="T43" time="43"/>
-<tli id="T44" time="44"/>
-<tli id="T45" time="45"/>
-<tli id="T46" time="46"/>
-<tli id="T47" time="47"/>
-<tli id="T48" time="48"/>
-<tli id="T49" time="49"/>
-<tli id="T50" time="50"/>
-<tli id="T51" time="51"/>
-<tli id="T52" time="52"/>
-<tli id="T53" time="53"/>
-<tli id="T54" time="54"/>
-<tli id="T55" time="55"/>
-<tli id="T56" time="56"/>
-<tli id="T57" time="57"/>
-<tli id="T58" time="58"/>
-<tli id="T59" time="59"/>
-<tli id="T60" time="60"/>
-<tli id="T61" time="61"/>
-<tli id="T62" time="62"/>
-<tli id="T63" time="63"/>
-<tli id="T64" time="64"/>
-<tli id="T65" time="65"/>
-<tli id="T66" time="66"/>
-<tli id="T67" time="67"/>
-<tli id="T68" time="68"/>
-<tli id="T69" time="69"/>
-<tli id="T70" time="70"/>
-<tli id="T71" time="71"/>
-<tli id="T72" time="72"/>
-<tli id="T73" time="73"/>
-<tli id="T74" time="74"/>
-<tli id="T75" time="75"/>
-<tli id="T76" time="76"/>
-<tli id="T77" time="77"/>
-<tli id="T78" time="78"/>
-<tli id="T79" time="79"/>
-<tli id="T80" time="80"/>
-<tli id="T81" time="81"/>
-<tli id="T82" time="82"/>
-<tli id="T83" time="83"/>
-<tli id="T84" time="84"/>
-<tli id="T85" time="85"/>
-<tli id="T86" time="86"/>
-<tli id="T87" time="87"/>
-<tli id="T88" time="88"/>
-<tli id="T89" time="89"/>
-<tli id="T90" time="90"/>
-<tli id="T91" time="91"/>
-<tli id="T92" time="92"/>
-<tli id="T93" time="93"/>
-<tli id="T94" time="94"/>
-<tli id="T95" time="95"/>
-<tli id="T96" time="96"/>
-<tli id="T97" time="97"/>
-<tli id="T98" time="98"/>
-<tli id="T99" time="99"/>
-<tli id="T100" time="100"/>
-<tli id="T101" time="101"/>
-<tli id="T102" time="102"/>
-<tli id="T103" time="103"/>
-<tli id="T104" time="104"/>
-<tli id="T105" time="105"/>
-<tli id="T106" time="106"/>
-<tli id="T107" time="107"/>
-<tli id="T108" time="108"/>
-<tli id="T109" time="109"/>
-<tli id="T110" time="110"/>
-<tli id="T111" time="111"/>
-<tli id="T112" time="112"/>
-<tli id="T113" time="113"/>
-<tli id="T114" time="114"/>
-<tli id="T115" time="115"/>
-<tli id="T116" time="116"/>
-<tli id="T117" time="117"/>
-<tli id="T118" time="118"/>
-<tli id="T119" time="119"/>
-<tli id="T120" time="120"/>
-<tli id="T121" time="121"/>
+<tli id="T0" time="0.0"/>
+<tli id="T1" time="1.0"/>
+<tli id="T2" time="2.0"/>
+<tli id="T3" time="3.0"/>
+<tli id="T4" time="4.0"/>
+<tli id="T5" time="5.0"/>
+<tli id="T6" time="6.0"/>
+<tli id="T7" time="7.0"/>
+<tli id="T8" time="8.0"/>
+<tli id="T9" time="9.0"/>
+<tli id="T10" time="10.0"/>
+<tli id="T11" time="11.0"/>
+<tli id="T12" time="12.0"/>
+<tli id="T13" time="13.0"/>
+<tli id="T14" time="14.0"/>
+<tli id="T15" time="15.0"/>
+<tli id="T16" time="16.0"/>
+<tli id="T17" time="17.0"/>
+<tli id="T18" time="18.0"/>
+<tli id="T19" time="19.0"/>
+<tli id="T20" time="20.0"/>
+<tli id="T21" time="21.0"/>
+<tli id="T22" time="22.0"/>
+<tli id="T23" time="23.0"/>
+<tli id="T24" time="24.0"/>
+<tli id="T25" time="25.0"/>
+<tli id="T26" time="26.0"/>
+<tli id="T27" time="27.0"/>
+<tli id="T28" time="28.0"/>
+<tli id="T29" time="29.0"/>
+<tli id="T30" time="30.0"/>
+<tli id="T31" time="31.0"/>
+<tli id="T32" time="32.0"/>
+<tli id="T33" time="33.0"/>
+<tli id="T34" time="34.0"/>
+<tli id="T35" time="35.0"/>
+<tli id="T36" time="36.0"/>
+<tli id="T37" time="37.0"/>
+<tli id="T38" time="38.0"/>
+<tli id="T39" time="39.0"/>
+<tli id="T40" time="40.0"/>
+<tli id="T41" time="41.0"/>
+<tli id="T42" time="42.0"/>
+<tli id="T43" time="43.0"/>
+<tli id="T44" time="44.0"/>
+<tli id="T45" time="45.0"/>
+<tli id="T46" time="46.0"/>
+<tli id="T47" time="47.0"/>
+<tli id="T48" time="48.0"/>
+<tli id="T49" time="49.0"/>
+<tli id="T50" time="50.0"/>
+<tli id="T51" time="51.0"/>
+<tli id="T52" time="52.0"/>
+<tli id="T53" time="53.0"/>
+<tli id="T54" time="54.0"/>
+<tli id="T55" time="55.0"/>
+<tli id="T56" time="56.0"/>
+<tli id="T57" time="57.0"/>
+<tli id="T58" time="58.0"/>
+<tli id="T59" time="59.0"/>
+<tli id="T60" time="60.0"/>
+<tli id="T61" time="61.0"/>
+<tli id="T62" time="62.0"/>
+<tli id="T63" time="63.0"/>
+<tli id="T64" time="64.0"/>
+<tli id="T65" time="65.0"/>
+<tli id="T66" time="66.0"/>
+<tli id="T67" time="67.0"/>
+<tli id="T68" time="68.0"/>
+<tli id="T69" time="69.0"/>
+<tli id="T70" time="70.0"/>
+<tli id="T71" time="71.0"/>
+<tli id="T72" time="72.0"/>
+<tli id="T73" time="73.0"/>
+<tli id="T74" time="74.0"/>
+<tli id="T75" time="75.0"/>
+<tli id="T76" time="76.0"/>
+<tli id="T77" time="77.0"/>
+<tli id="T78" time="78.0"/>
+<tli id="T79" time="79.0"/>
+<tli id="T80" time="80.0"/>
+<tli id="T81" time="81.0"/>
+<tli id="T82" time="82.0"/>
+<tli id="T83" time="83.0"/>
+<tli id="T84" time="84.0"/>
+<tli id="T85" time="85.0"/>
+<tli id="T86" time="86.0"/>
+<tli id="T87" time="87.0"/>
+<tli id="T88" time="88.0"/>
+<tli id="T89" time="89.0"/>
+<tli id="T90" time="90.0"/>
+<tli id="T91" time="91.0"/>
+<tli id="T92" time="92.0"/>
+<tli id="T93" time="93.0"/>
+<tli id="T94" time="94.0"/>
+<tli id="T95" time="95.0"/>
+<tli id="T96" time="96.0"/>
+<tli id="T97" time="97.0"/>
+<tli id="T98" time="98.0"/>
+<tli id="T99" time="99.0"/>
+<tli id="T100" time="100.0"/>
+<tli id="T101" time="101.0"/>
+<tli id="T102" time="102.0"/>
+<tli id="T103" time="103.0"/>
+<tli id="T104" time="104.0"/>
+<tli id="T105" time="105.0"/>
+<tli id="T106" time="106.0"/>
+<tli id="T107" time="107.0"/>
+<tli id="T108" time="108.0"/>
+<tli id="T109" time="109.0"/>
+<tli id="T110" time="110.0"/>
+<tli id="T111" time="111.0"/>
+<tli id="T112" time="112.0"/>
+<tli id="T113" time="113.0"/>
+<tli id="T114" time="114.0"/>
+<tli id="T115" time="115.0"/>
+<tli id="T116" time="116.0"/>
+<tli id="T117" time="117.0"/>
+<tli id="T118" time="118.0"/>
+<tli id="T119" time="119.0"/>
+<tli id="T120" time="120.0"/>
+<tli id="T121" time="121.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">‎Nachrichten</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">‎Nachrichten</event>
 <event start="T1" end="T2">an</event>
 <event start="T2" end="T3">diese</event>
 <event start="T3" end="T4">Gruppe</event>
 <event start="T4" end="T5">sind</event>
 <event start="T5" end="T6">jetzt</event>
 <event start="T6" end="T7">mit</event>
-<event start="T7" end="T8">Ende-zu-Ende-Verschl&#252;sselung</event>
-<event start="T8" end="T9">gesch&#252;tzt</event>
+<event start="T7" end="T8">Ende-zu-Ende-Verschlüsselung</event>
+<event start="T8" end="T9">geschützt</event>
 <event start="T9" end="T10">.</event>
 <event start="T10" end="T11">Alter</event>
 <event start="T11" end="T12">,</event>
@@ -210,7 +208,7 @@
 <event start="T57" end="T58">dude</event>
 <event start="T58" end="T59">mit</event>
 <event start="T59" end="T60">nem</event>
-<event start="T60" end="T61">fu&#223;ball</event>
+<event start="T60" end="T61">fußball</event>
 <event start="T61" end="T62">,</event>
 <event start="T62" end="T63">den</event>
 <event start="T63" end="T64">er</event>
@@ -226,7 +224,7 @@
 <event start="T73" end="T74">und</event>
 <event start="T74" end="T75">der</event>
 <event start="T75" end="T76">hund</event>
-<event start="T76" end="T77">f&#228;ngt</event>
+<event start="T76" end="T77">fängt</event>
 <event start="T77" end="T78">laut</event>
 <event start="T78" end="T79">an</event>
 <event start="T79" end="T80">zu</event>
@@ -252,13 +250,13 @@
 <event start="T99" end="T100">musste</event>
 <event start="T100" end="T101">der</event>
 <event start="T101" end="T102">vordere</event>
-<event start="T102" end="T103">pl&#246;tzlich</event>
+<event start="T102" end="T103">plötzlich</event>
 <event start="T103" end="T104">bremsen</event>
 <event start="T104" end="T105">Der</event>
 <event start="T105" end="T106">hintere</event>
 <event start="T106" end="T107">hat</event>
 <event start="T107" end="T108">das</event>
-<event start="T108" end="T109">nat&#252;rlich</event>
+<event start="T108" end="T109">natürlich</event>
 <event start="T109" end="T110">nicht</event>
 <event start="T110" end="T111">gecheckt</event>
 <event start="T111" end="T112">und</event>
@@ -271,17 +269,15 @@
 <event start="T118" end="T119">dem</event>
 <event start="T119" end="T120">hund</event>
 <event start="T120" end="T121">hahahah</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">‎Nachrichten</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">‎Nachrichten</event>
 <event start="T1" end="T2">an</event>
 <event start="T2" end="T3">diese</event>
 <event start="T3" end="T4">Gruppe</event>
 <event start="T4" end="T5">sind</event>
 <event start="T5" end="T6">jetzt</event>
 <event start="T6" end="T7">mit</event>
-<event start="T7" end="T8">Ende-zu-Ende-Verschl&#252;sselung</event>
-<event start="T8" end="T9">gesch&#252;tzt</event>
+<event start="T7" end="T8">Ende-zu-Ende-Verschlüsselung</event>
+<event start="T8" end="T9">geschützt</event>
 <event start="T9" end="T10">.</event>
 <event start="T10" end="T11">Alter</event>
 <event start="T11" end="T12">,</event>
@@ -290,66 +286,66 @@
 <event start="T14" end="T15">gerade</event>
 <event start="T15" end="T16">so</event>
 <event start="T16" end="T17">nach</event>
-<event start="T17" end="T18">hause</event>
+<event start="T17" end="T18">Hause</event>
 <event start="T18" end="T19">gelaufen</event>
 <event start="T19" end="T20">und</event>
 <event start="T20" end="T21">da</event>
 <event start="T21" end="T22">ist</event>
 <event start="T22" end="T23">ja</event>
 <event start="T23" end="T24">dieser</event>
-<event start="T24" end="T25">parkplatz</event>
+<event start="T24" end="T25">Parkplatz</event>
 <event start="T25" end="T26">,</event>
 <event start="T26" end="T27">you</event>
 <event start="T27" end="T28">know</event>
 <event start="T28" end="T29">?</event>
 <event start="T29" end="T30">Auf</event>
 <event start="T30" end="T31">jeden</event>
-<event start="T31" end="T32">fall</event>
+<event start="T31" end="T32">Fall</event>
 <event start="T32" end="T33">,</event>
 <event start="T33" end="T34">war</event>
 <event start="T34" end="T35">da</event>
 <event start="T35" end="T36">so</event>
-<event start="T36" end="T37">ne</event>
-<event start="T37" end="T38">frau</event>
+<event start="T36" end="T37">eine</event>
+<event start="T37" end="T38">Frau</event>
 <event start="T38" end="T39">die</event>
 <event start="T39" end="T40">an</event>
 <event start="T40" end="T41">ihrem</event>
-<event start="T41" end="T42">kofferraum</event>
+<event start="T41" end="T42">Kofferraum</event>
 <event start="T42" end="T43">stand</event>
 <event start="T43" end="T44">mit</event>
 <event start="T44" end="T45">so</event>
-<event start="T45" end="T46">n</event>
+<event start="T45" end="T46">ein</event>
 <event start="T46" end="T47">kleinem</event>
 <event start="T47" end="T48">komischen</event>
-<event start="T48" end="T49">hund</event>
+<event start="T48" end="T49">Hund</event>
 <event start="T49" end="T50">und</event>
 <event start="T50" end="T51">von</event>
 <event start="T51" end="T52">der</event>
 <event start="T52" end="T53">anderen</event>
-<event start="T53" end="T54">seite</event>
+<event start="T53" end="T54">Seite</event>
 <event start="T54" end="T55">kamen</event>
 <event start="T55" end="T56">so</event>
-<event start="T56" end="T57">nen</event>
+<event start="T56" end="T57">ein</event>
 <event start="T57" end="T58">dude</event>
 <event start="T58" end="T59">mit</event>
-<event start="T59" end="T60">nem</event>
-<event start="T60" end="T61">fu&#223;ball</event>
+<event start="T59" end="T60">einem</event>
+<event start="T60" end="T61">Fußball</event>
 <event start="T61" end="T62">,</event>
 <event start="T62" end="T63">den</event>
 <event start="T63" end="T64">er</event>
-<event start="T64" end="T65">iwie</event>
+<event start="T64" end="T65">irgendwie</event>
 <event start="T65" end="T66">gedribbelt</event>
 <event start="T66" end="T67">hat</event>
 <event start="T67" end="T68">Auf</event>
 <event start="T68" end="T69">einmal</event>
 <event start="T69" end="T70">rollt</event>
 <event start="T70" end="T71">dieser</event>
-<event start="T71" end="T72">ball</event>
+<event start="T71" end="T72">Ball</event>
 <event start="T72" end="T73">weg</event>
 <event start="T73" end="T74">und</event>
 <event start="T74" end="T75">der</event>
-<event start="T75" end="T76">hund</event>
-<event start="T76" end="T77">f&#228;ngt</event>
+<event start="T75" end="T76">Hund</event>
+<event start="T76" end="T77">fängt</event>
 <event start="T77" end="T78">laut</event>
 <event start="T78" end="T79">an</event>
 <event start="T79" end="T80">zu</event>
@@ -357,31 +353,31 @@
 <event start="T81" end="T82">Und</event>
 <event start="T82" end="T83">rennt</event>
 <event start="T83" end="T84">diesem</event>
-<event start="T84" end="T85">ball</event>
+<event start="T84" end="T85">Ball</event>
 <event start="T85" end="T86">hinterher</event>
 <event start="T86" end="T87">Im</event>
 <event start="T87" end="T88">selben</event>
-<event start="T88" end="T89">moment</event>
+<event start="T88" end="T89">Moment</event>
 <event start="T89" end="T90">wollen</event>
 <event start="T90" end="T91">so</event>
 <event start="T91" end="T92">2</event>
-<event start="T92" end="T93">autos</event>
+<event start="T92" end="T93">Autos</event>
 <event start="T93" end="T94">auf</event>
 <event start="T94" end="T95">den</event>
-<event start="T95" end="T96">parkplatz</event>
+<event start="T95" end="T96">Parkplatz</event>
 <event start="T96" end="T97">fahren</event>
 <event start="T97" end="T98">und</event>
 <event start="T98" end="T99">logischerweise</event>
 <event start="T99" end="T100">musste</event>
 <event start="T100" end="T101">der</event>
 <event start="T101" end="T102">vordere</event>
-<event start="T102" end="T103">pl&#246;tzlich</event>
+<event start="T102" end="T103">plötzlich</event>
 <event start="T103" end="T104">bremsen</event>
 <event start="T104" end="T105">Der</event>
 <event start="T105" end="T106">hintere</event>
 <event start="T106" end="T107">hat</event>
 <event start="T107" end="T108">das</event>
-<event start="T108" end="T109">nat&#252;rlich</event>
+<event start="T108" end="T109">natürlich</event>
 <event start="T109" end="T110">nicht</event>
 <event start="T110" end="T111">gecheckt</event>
 <event start="T111" end="T112">und</event>
@@ -392,11 +388,9 @@
 <event start="T116" end="T117">nur</event>
 <event start="T117" end="T118">wegen</event>
 <event start="T118" end="T119">dem</event>
-<event start="T119" end="T120">hund</event>
+<event start="T119" end="T120">Hund</event>
 <event start="T120" end="T121">hahahah</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">deu</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">deu</event>
 <event start="T1" end="T2">deu</event>
 <event start="T2" end="T3">deu</event>
 <event start="T3" end="T4">deu</event>
@@ -517,19 +511,15 @@
 <event start="T118" end="T119">deu</event>
 <event start="T119" end="T120">deu</event>
 <event start="T120" end="T121">deu</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]">
-<event start="T0" end="T10">‎Nachrichten an diese Gruppe sind jetzt mit Ende-zu-Ende-Verschl&#252;sselung gesch&#252;tzt.</event>
+</tier><tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]"><event start="T0" end="T10">‎Nachrichten an diese Gruppe sind jetzt mit Ende-zu-Ende-Verschlüsselung geschützt.</event>
 <event start="T10" end="T29">Alter, ich bin gerade so nach hause gelaufen und da ist ja dieser parkplatz, you know?</event>
-<event start="T29" end="T67">Auf jeden fall, war da so ne frau die an ihrem kofferraum stand mit so n kleinem komischen hund und von der anderen seite kamen so nen dude mit nem fu&#223;ball, den er iwie gedribbelt hat</event>
-<event start="T67" end="T81">Auf einmal rollt dieser ball weg und der hund f&#228;ngt laut an zu bellen</event>
+<event start="T29" end="T67">Auf jeden fall, war da so ne frau die an ihrem kofferraum stand mit so n kleinem komischen hund und von der anderen seite kamen so nen dude mit nem fußball, den er iwie gedribbelt hat</event>
+<event start="T67" end="T81">Auf einmal rollt dieser ball weg und der hund fängt laut an zu bellen</event>
 <event start="T81" end="T86">Und rennt diesem ball hinterher</event>
-<event start="T86" end="T104">Im selben moment wollen so 2 autos auf den parkplatz fahren und logischerweise musste der vordere pl&#246;tzlich bremsen</event>
-<event start="T104" end="T115">Der hintere hat das nat&#252;rlich nicht gecheckt und ist dem raufgefahren</event>
+<event start="T86" end="T104">Im selben moment wollen so 2 autos auf den parkplatz fahren und logischerweise musste der vordere plötzlich bremsen</event>
+<event start="T104" end="T115">Der hintere hat das natürlich nicht gecheckt und ist dem raufgefahren</event>
 <event start="T115" end="T121">Alles nur wegen dem hund hahahah</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]">
-<event start="T0" end="T10">1</event>
+</tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T10">1</event>
 <event start="T10" end="T29">2</event>
 <event start="T29" end="T67">3</event>
 <event start="T67" end="T81">4</event>
@@ -537,6 +527,19 @@
 <event start="T86" end="T104">6</event>
 <event start="T104" end="T115">7</event>
 <event start="T115" end="T121">8</event>
-</tier>
-</basic-body>
+</tier><tier id="TIE5" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T10" end="T12">cu</event>
+<event start="T12" end="T19">cu</event>
+<event start="T19" end="T26">cu</event>
+<event start="T26" end="T29">cu</event>
+<event start="T29" end="T49">cu</event>
+<event start="T49" end="T67">cu</event>
+<event start="T67" end="T73">cu</event>
+<event start="T73" end="T81">cu</event>
+<event start="T81" end="T86">cu</event>
+<event start="T86" end="T97">cu</event>
+<event start="T97" end="T104">cu</event>
+<event start="T104" end="T111">cu</event>
+<event start="T111" end="T115">cu</event>
+<event start="T115" end="T121">cu</event>
+</tier></basic-body>
 </basic-transcription>
