@@ -263,6 +263,7 @@
 <tli id="T230" time="83.16756215105742"/>
 <tli id="T231" time="83.66943400266078"/>
 <tli id="T232" time="84.17130585426413"/>
+<tli id="T243" time="84.6731777058675" type="intp"/>
 <tli id="T233" time="85.00775894026975"/>
 <tli id="T234" time="85.59438713872831"/>
 <tli id="T235" time="85.89436746748554"/>
@@ -675,7 +676,6 @@
 <event start="T189" end="T190">Hund</event>
 <event start="T190" end="T191">nicht</event>
 <event start="T191" end="T192">schaden</event>
-<event start="T192" end="T193">(--)</event>
 <event start="T193" end="T194">zu</event>
 <event start="T194" end="T195">können</event>
 <event start="T195" end="T196">und</event>
@@ -687,8 +687,7 @@
 <event start="T201" end="T202">also</event>
 <event start="T203" end="T204">ist</event>
 <event start="T204" end="T205">auch</event>
-<event start="T205" end="T206">(hinter)</event>
-<event start="T206" end="T207">(-)</event>
+<event start="T205" end="T206">hinter</event>
 <event start="T207" end="T208">ihm</event>
 <event start="T208" end="T209">aufgefahren</event>
 <event start="T209" end="T210">weil</event>
@@ -702,22 +701,16 @@
 <event start="T217" end="T218">zu</event>
 <event start="T218" end="T219">schnell</event>
 <event start="T219" end="T220">war</event>
-<event start="T220" end="T221">(-)</event>
 <event start="T221" end="T222">und</event>
-<event start="T222" end="T223">(-)</event>
 <event start="T223" end="T224">ist</event>
 <event start="T224" end="T225">aufgefahren</event>
 <event start="T225" end="T226">definitiv</event>
-<event start="T226" end="T227">(-)</event>
 <event start="T227" end="T228">ja</event>
-<event start="T228" end="T229">(--)</event>
 <event start="T229" end="T230">okay</event>
-<event start="T230" end="T231">(-)</event>
 <event start="T231" end="T232">das</event>
-<event start="T232" end="T233">war=s</event>
-<event start="T233" end="T234">(-)</event>
-<event start="T234" end="T235">tschü%üss</event>
-<event start="T235" end="T236">[laughing]</event>
+<event start="T232" end="T243">war</event>
+<event start="T243" end="T233">es</event>
+<event start="T234" end="T235">tschüss</event>
 </tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">deu</event>
 <event start="T1" end="T2">deu</event>
 <event start="T2" end="T3">deu</event>
@@ -890,7 +883,6 @@
 <event start="T189" end="T190">deu</event>
 <event start="T190" end="T191">deu</event>
 <event start="T191" end="T192">deu</event>
-<event start="T192" end="T193">deu</event>
 <event start="T193" end="T194">deu</event>
 <event start="T194" end="T195">deu</event>
 <event start="T195" end="T196">deu</event>
@@ -903,7 +895,6 @@
 <event start="T203" end="T204">deu</event>
 <event start="T204" end="T205">deu</event>
 <event start="T205" end="T206">deu</event>
-<event start="T206" end="T207">deu</event>
 <event start="T207" end="T208">deu</event>
 <event start="T208" end="T209">deu</event>
 <event start="T209" end="T210">deu</event>
@@ -917,22 +908,15 @@
 <event start="T217" end="T218">deu</event>
 <event start="T218" end="T219">deu</event>
 <event start="T219" end="T220">deu</event>
-<event start="T220" end="T221">deu</event>
 <event start="T221" end="T222">deu</event>
-<event start="T222" end="T223">deu</event>
 <event start="T223" end="T224">deu</event>
 <event start="T224" end="T225">deu</event>
 <event start="T225" end="T226">deu</event>
-<event start="T226" end="T227">deu</event>
 <event start="T227" end="T228">deu</event>
-<event start="T228" end="T229">deu</event>
 <event start="T229" end="T230">deu</event>
-<event start="T230" end="T231">deu</event>
 <event start="T231" end="T232">deu</event>
 <event start="T232" end="T233">deu</event>
-<event start="T233" end="T234">deu</event>
 <event start="T234" end="T235">deu</event>
-<event start="T235" end="T236">deu</event>
 </tier><tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T184" end="T185">laughing</event>
 <event start="T235" end="T236">laughing</event>
 </tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T3">schönen guten tag </event>

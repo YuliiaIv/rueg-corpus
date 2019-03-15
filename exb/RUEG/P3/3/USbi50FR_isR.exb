@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/3/USbi50FR_isR.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/3/USbi50FR_isR.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -146,8 +145,7 @@
 <tli id="T117" time="50.460827449191335"/>
 <tli id="T118" time="51.05860416666667"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">(-)</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">слышь</event>
 <event start="T2" end="T3">привет</event>
 <event start="T3" end="T4">я</event>
@@ -265,20 +263,16 @@
 <event start="T115" end="T116">так</event>
 <event start="T116" end="T117">вот</event>
 <event start="T117" end="T118">(-)</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">(-)</event>
-<event start="T1" end="T2">слышь</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T1" end="T2">слышь</event>
 <event start="T2" end="T3">привет</event>
 <event start="T3" end="T4">я</event>
 <event start="T4" end="T5">видела</event>
 <event start="T5" end="T6">тут</event>
 <event start="T6" end="T7">только</event>
 <event start="T7" end="T8">что</event>
-<event start="T8" end="T9">столкотворение</event>
-<event start="T9" end="T10">(-)</event>
+<event start="T8" end="T9">столпотворение</event>
 <event start="T10" end="T11">дай</event>
-<event start="T11" end="T12">те</event>
+<event start="T11" end="T12">тебе</event>
 <event start="T12" end="T13">расскажу</event>
 <event start="T13" end="T14">короче</event>
 <event start="T14" end="T15">я</event>
@@ -286,41 +280,33 @@
 <event start="T16" end="T17">на</event>
 <event start="T17" end="T18">парковке</event>
 <event start="T18" end="T19">и</event>
-<event start="T19" end="T20">(-)</event>
 <event start="T20" end="T21">ко</event>
 <event start="T21" end="T22">мне</event>
-<event start="T22" end="T23">(-)</event>
 <event start="T23" end="T24">идёт</event>
 <event start="T24" end="T25">пара</event>
 <event start="T25" end="T26">такая</event>
 <event start="T26" end="T27">женщина</event>
 <event start="T27" end="T28">с</event>
 <event start="T28" end="T29">коляской</event>
-<event start="T29" end="T30">(--)</event>
 <event start="T30" end="T31">мужчина</event>
 <event start="T31" end="T32">такой</event>
-<event start="T32" end="T33">э:т</event>
+<event start="T32" end="T33">это</event>
 <event start="T33" end="T34">с</event>
-<event start="T34" end="T35">э:</event>
 <event start="T35" end="T36">мячом</event>
-<event start="T36" end="T37">(--)</event>
-<event start="T37" end="T38">и:</event>
-<event start="T38" end="T39">(-)</event>
+<event start="T37" end="T38">и</event>
 <event start="T39" end="T40">они</event>
 <event start="T40" end="T41">начинают</event>
 <event start="T41" end="T42">переходить</event>
 <event start="T42" end="T43">дорогу</event>
 <event start="T43" end="T44">напротив</event>
 <event start="T44" end="T45">них</event>
-<event start="T45" end="T46">(-)</event>
 <event start="T46" end="T47">женщина</event>
 <event start="T47" end="T48">стоит</event>
-<event start="T48" end="T49">с:</event>
+<event start="T48" end="T49">с</event>
 <event start="T49" end="T50">собакой</event>
-<event start="T50" end="T51">(-)</event>
 <event start="T51" end="T52">и</event>
 <event start="T52" end="T53">у</event>
-<event start="T53" end="T54">днеё</event>
+<event start="T53" end="T54">неё</event>
 <event start="T54" end="T55">в</event>
 <event start="T55" end="T56">руке</event>
 <event start="T56" end="T57">мешок</event>
@@ -328,14 +314,12 @@
 <event start="T58" end="T59">яблоками</event>
 <event start="T59" end="T60">и</event>
 <event start="T60" end="T61">вот</event>
-<event start="T61" end="T62">(-)</event>
 <event start="T62" end="T63">мужчина</event>
 <event start="T63" end="T64">он</event>
 <event start="T64" end="T65">роняет</event>
 <event start="T65" end="T66">мяч</event>
 <event start="T66" end="T67">мяч</event>
 <event start="T67" end="T68">падает</event>
-<event start="T68" end="T69">(--)</event>
 <event start="T69" end="T70">и</event>
 <event start="T70" end="T71">катится</event>
 <event start="T71" end="T72">через</event>
@@ -343,52 +327,39 @@
 <event start="T73" end="T74">собака</event>
 <event start="T74" end="T75">бросается</event>
 <event start="T75" end="T76">на</event>
-<event start="T76" end="T77">мя:ч</event>
+<event start="T76" end="T77">мяч</event>
 <event start="T77" end="T78">ну</event>
-<event start="T78" end="T79">(-)</event>
 <event start="T79" end="T80">короче</event>
 <event start="T80" end="T81">там</event>
 <event start="T81" end="T82">всё</event>
-<event start="T82" end="T83">(-)</event>
 <event start="T83" end="T84">падает</event>
 <event start="T84" end="T85">яблоки</event>
 <event start="T85" end="T86">по</event>
 <event start="T86" end="T87">всей</event>
 <event start="T87" end="T88">парковке</event>
-<event start="T88" end="T89">(-)</event>
 <event start="T89" end="T90">а</event>
 <event start="T90" end="T91">в</event>
 <event start="T91" end="T92">то</event>
 <event start="T92" end="T93">время</event>
 <event start="T93" end="T94">две</event>
 <event start="T94" end="T95">машины</event>
-<event start="T95" end="T96">(-)</event>
 <event start="T96" end="T97">подъезжают</event>
 <event start="T97" end="T98">в</event>
 <event start="T98" end="T99">парковку</event>
 <event start="T99" end="T100">и</event>
 <event start="T100" end="T101">она</event>
-<event start="T101" end="T102">дрезко</event>
+<event start="T101" end="T102">резко</event>
 <event start="T102" end="T103">затормаживает</event>
 <event start="T103" end="T104">первая</event>
-<event start="T104" end="T105">(-)</event>
-<event start="T105" end="T106">и:</event>
+<event start="T105" end="T106">и</event>
 <event start="T106" end="T107">вторая</event>
-<event start="T107" end="T108">(--)</event>
 <event start="T108" end="T109">сталкивается</event>
 <event start="T109" end="T110">вторую</event>
-<event start="T110" end="T111">(-)</event>
 <event start="T111" end="T112">вот</event>
-<event start="T112" end="T113">(-)</event>
 <event start="T113" end="T114">да</event>
-<event start="T114" end="T115">(-)</event>
 <event start="T115" end="T116">так</event>
 <event start="T116" end="T117">вот</event>
-<event start="T117" end="T118">(-)</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">rus</event>
-<event start="T1" end="T2">rus</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T1" end="T2">rus</event>
 <event start="T2" end="T3">rus</event>
 <event start="T3" end="T4">rus</event>
 <event start="T4" end="T5">rus</event>
@@ -396,7 +367,6 @@
 <event start="T6" end="T7">rus</event>
 <event start="T7" end="T8">rus</event>
 <event start="T8" end="T9">rus</event>
-<event start="T9" end="T10">rus</event>
 <event start="T10" end="T11">rus</event>
 <event start="T11" end="T12">rus</event>
 <event start="T12" end="T13">rus</event>
@@ -406,38 +376,30 @@
 <event start="T16" end="T17">rus</event>
 <event start="T17" end="T18">rus</event>
 <event start="T18" end="T19">rus</event>
-<event start="T19" end="T20">rus</event>
 <event start="T20" end="T21">rus</event>
 <event start="T21" end="T22">rus</event>
-<event start="T22" end="T23">rus</event>
 <event start="T23" end="T24">rus</event>
 <event start="T24" end="T25">rus</event>
 <event start="T25" end="T26">rus</event>
 <event start="T26" end="T27">rus</event>
 <event start="T27" end="T28">rus</event>
 <event start="T28" end="T29">rus</event>
-<event start="T29" end="T30">rus</event>
 <event start="T30" end="T31">rus</event>
 <event start="T31" end="T32">rus</event>
 <event start="T32" end="T33">rus</event>
 <event start="T33" end="T34">rus</event>
-<event start="T34" end="T35">rus</event>
 <event start="T35" end="T36">rus</event>
-<event start="T36" end="T37">rus</event>
 <event start="T37" end="T38">rus</event>
-<event start="T38" end="T39">rus</event>
 <event start="T39" end="T40">rus</event>
 <event start="T40" end="T41">rus</event>
 <event start="T41" end="T42">rus</event>
 <event start="T42" end="T43">rus</event>
 <event start="T43" end="T44">rus</event>
 <event start="T44" end="T45">rus</event>
-<event start="T45" end="T46">rus</event>
 <event start="T46" end="T47">rus</event>
 <event start="T47" end="T48">rus</event>
 <event start="T48" end="T49">rus</event>
 <event start="T49" end="T50">rus</event>
-<event start="T50" end="T51">rus</event>
 <event start="T51" end="T52">rus</event>
 <event start="T52" end="T53">rus</event>
 <event start="T53" end="T54">rus</event>
@@ -448,14 +410,12 @@
 <event start="T58" end="T59">rus</event>
 <event start="T59" end="T60">rus</event>
 <event start="T60" end="T61">rus</event>
-<event start="T61" end="T62">rus</event>
 <event start="T62" end="T63">rus</event>
 <event start="T63" end="T64">rus</event>
 <event start="T64" end="T65">rus</event>
 <event start="T65" end="T66">rus</event>
 <event start="T66" end="T67">rus</event>
 <event start="T67" end="T68">rus</event>
-<event start="T68" end="T69">rus</event>
 <event start="T69" end="T70">rus</event>
 <event start="T70" end="T71">rus</event>
 <event start="T71" end="T72">rus</event>
@@ -465,24 +425,20 @@
 <event start="T75" end="T76">rus</event>
 <event start="T76" end="T77">rus</event>
 <event start="T77" end="T78">rus</event>
-<event start="T78" end="T79">rus</event>
 <event start="T79" end="T80">rus</event>
 <event start="T80" end="T81">rus</event>
 <event start="T81" end="T82">rus</event>
-<event start="T82" end="T83">rus</event>
 <event start="T83" end="T84">rus</event>
 <event start="T84" end="T85">rus</event>
 <event start="T85" end="T86">rus</event>
 <event start="T86" end="T87">rus</event>
 <event start="T87" end="T88">rus</event>
-<event start="T88" end="T89">rus</event>
 <event start="T89" end="T90">rus</event>
 <event start="T90" end="T91">rus</event>
 <event start="T91" end="T92">rus</event>
 <event start="T92" end="T93">rus</event>
 <event start="T93" end="T94">rus</event>
 <event start="T94" end="T95">rus</event>
-<event start="T95" end="T96">rus</event>
 <event start="T96" end="T97">rus</event>
 <event start="T97" end="T98">rus</event>
 <event start="T98" end="T99">rus</event>
@@ -491,27 +447,17 @@
 <event start="T101" end="T102">rus</event>
 <event start="T102" end="T103">rus</event>
 <event start="T103" end="T104">rus</event>
-<event start="T104" end="T105">rus</event>
 <event start="T105" end="T106">rus</event>
 <event start="T106" end="T107">rus</event>
-<event start="T107" end="T108">rus</event>
 <event start="T108" end="T109">rus</event>
 <event start="T109" end="T110">rus</event>
-<event start="T110" end="T111">rus</event>
 <event start="T111" end="T112">rus</event>
-<event start="T112" end="T113">rus</event>
 <event start="T113" end="T114">rus</event>
-<event start="T114" end="T115">rus</event>
 <event start="T115" end="T116">rus</event>
 <event start="T116" end="T117">rus</event>
-<event start="T117" end="T118">rus</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
-<event start="T1" end="T2">laughing</event>
+</tier><tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T1" end="T2">laughing</event>
 <event start="T85" end="T88">laughing</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T1">(-)</event>
+</tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">[[laughing] слышь]</event>
 <event start="T2" end="T3">привет</event>
 <event start="T3" end="T9">я видела тут только что столкотворение</event>
@@ -543,6 +489,5 @@
 <event start="T114" end="T115">(-)</event>
 <event start="T115" end="T117">так вот</event>
 <event start="T117" end="T118">(-)</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
