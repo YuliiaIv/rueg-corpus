@@ -26,6 +26,7 @@
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
+<tli id="T185" time="0.051" type="intp"/>
 <tli id="T1" time="1.0"/>
 <tli id="T2" time="2.0"/>
 <tli id="T3" time="3.0"/>
@@ -393,7 +394,8 @@
 <event start="T179" end="T180">was</event>
 <event start="T180" end="T181">okay</event>
 <event start="T181" end="T182">.</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">The</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T185">﻿</event>
+<event start="T185" end="T1">The</event>
 <event start="T1" end="T2">accident</event>
 <event start="T2" end="T3">that</event>
 <event start="T3" end="T4">occurred</event>
@@ -443,7 +445,7 @@
 <event start="T47" end="T48">who</event>
 <event start="T48" end="T49">was</event>
 <event start="T49" end="T50">standing</event>
-<event start="T50" end="T51">acrss</event>
+<event start="T50" end="T51">across</event>
 <event start="T51" end="T52">the</event>
 <event start="T52" end="T53">street</event>
 <event start="T53" end="T54">,</event>
@@ -577,7 +579,8 @@
 <event start="T179" end="T180">was</event>
 <event start="T180" end="T181">okay</event>
 <event start="T181" end="T182">.</event>
-</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T185">eng</event>
+<event start="T185" end="T1">eng</event>
 <event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
@@ -737,7 +740,9 @@
 <event start="T157" end="T158">eng</event>
 <event start="T158" end="T159">eng</event>
 <event start="T159" end="T160">eng</event>
-<event start="T160" end="T161">eng</event>
+<event start="T160" end="T183">eng</event>
+<event start="T183" end="T184">eng</event>
+<event start="T184" end="T161">eng</event>
 <event start="T161" end="T162">eng</event>
 <event start="T162" end="T163">eng</event>
 <event start="T163" end="T164">eng</event>

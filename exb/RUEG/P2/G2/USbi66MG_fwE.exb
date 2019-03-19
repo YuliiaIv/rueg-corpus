@@ -26,6 +26,7 @@
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
+<tli id="T118" time="0.051" type="intp"/>
 <tli id="T1" time="1.0"/>
 <tli id="T113" time="1.25" type="intp"/>
 <tli id="T2" time="2.0"/>
@@ -256,8 +257,9 @@
 <event start="T109" end="T110">fallen</event>
 <event start="T110" end="T111">groceries</event>
 <event start="T111" end="T112">.</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">Case</event>
-<event start="T1" end="T113">number</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T118">﻿</event>
+<event start="T118" end="T1">Case</event>
+<event start="T1" end="T113">#</event>
 <event start="T113" end="T2">F16</event>
 <event start="T2" end="T3">:</event>
 <event start="T3" end="T4">In</event>
@@ -373,14 +375,18 @@
 <event start="T109" end="T110">fallen</event>
 <event start="T110" end="T111">groceries</event>
 <event start="T111" end="T112">.</event>
-</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
-<event start="T1" end="T2">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T118">eng</event>
+<event start="T118" end="T1">eng</event>
+<event start="T1" end="T113">eng</event>
+<event start="T113" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
 <event start="T4" end="T5">eng</event>
 <event start="T5" end="T6">eng</event>
 <event start="T6" end="T7">eng</event>
-<event start="T7" end="T8">eng</event>
+<event start="T7" end="T115">eng</event>
+<event start="T115" end="T114">eng</event>
+<event start="T114" end="T8">eng</event>
 <event start="T8" end="T9">eng</event>
 <event start="T9" end="T10">eng</event>
 <event start="T10" end="T11">eng</event>
@@ -398,7 +404,9 @@
 <event start="T22" end="T23">eng</event>
 <event start="T23" end="T24">eng</event>
 <event start="T24" end="T25">eng</event>
-<event start="T25" end="T26">eng</event>
+<event start="T25" end="T116">eng</event>
+<event start="T116" end="T117">eng</event>
+<event start="T117" end="T26">eng</event>
 <event start="T26" end="T27">eng</event>
 <event start="T27" end="T28">eng</event>
 <event start="T28" end="T29">eng</event>
