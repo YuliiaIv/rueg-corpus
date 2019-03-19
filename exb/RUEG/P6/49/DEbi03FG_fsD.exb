@@ -120,6 +120,7 @@
 <tli id="T92" time="37.42389872789613"/>
 <tli id="T93" time="37.59138453612844"/>
 <tli id="T94" time="37.926356152593044"/>
+<tli id="T262" time="38.40105814842312" type="intp"/>
 <tli id="T95" time="38.5065474808298"/>
 <tli id="T96" time="38.77027081184651"/>
 <tli id="T97" time="39.1394834752699"/>
@@ -629,10 +630,11 @@
 <event start="T89" end="T90">oder</event>
 <event start="T92" end="T93">na</event>
 <event start="T93" end="T94">egal</event>
-<event start="T94" end="T95">gefesselt=s</event>
+<event start="T94" end="T262">gefesselt</event>
+<event start="T262" end="T95">ist</event>
 <event start="T95" end="T96">jetzt</event>
 <event start="T96" end="T97">falsche</event>
-<event start="T97" end="T98">wort</event>
+<event start="T97" end="T98">Wort</event>
 <event start="T98" end="T99">aber</event>
 <event start="T99" end="T100">jut</event>
 <event start="T100" end="T101">(-)</event>
