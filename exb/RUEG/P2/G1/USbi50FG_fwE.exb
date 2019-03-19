@@ -26,6 +26,7 @@
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
+<tli id="T128" time="0.949" type="intp"/>
 <tli id="T1" time="1.0"/>
 <tli id="T2" time="2.0"/>
 <tli id="T3" time="3.0"/>
@@ -281,7 +282,8 @@
 <event start="T124" end="T125">help</event>
 <event start="T125" end="T126">out</event>
 <event start="T126" end="T127">.</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">I</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T128">﻿</event>
+<event start="T128" end="T1">I</event>
 <event start="T1" end="T2">saw</event>
 <event start="T2" end="T3">two</event>
 <event start="T3" end="T4">pedestrians</event>
@@ -408,7 +410,8 @@
 <event start="T124" end="T125">help</event>
 <event start="T125" end="T126">out</event>
 <event start="T126" end="T127">.</event>
-</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T128">eng</event>
+<event start="T128" end="T1">eng</event>
 <event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>

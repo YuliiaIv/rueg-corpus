@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P2/G5/USbi64FG_isE.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P2/G5/USbi64FG_isE.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -113,6 +112,7 @@
 <tli id="T84" time="23.32012239041618"/>
 <tli id="T85" time="23.424724663846217"/>
 <tli id="T86" time="23.581628073991272"/>
+<tli id="T209" time="23.790832620851347" type="intp"/>
 <tli id="T87" time="23.843133757566367"/>
 <tli id="T88" time="24.261542851286517"/>
 <tli id="T89" time="24.366145124716557"/>
@@ -152,6 +152,7 @@
 <tli id="T123" time="35.581359357615746"/>
 <tli id="T124" time="35.830508686458764"/>
 <tli id="T125" time="36.07965801530178"/>
+<tli id="T210" time="36.32880734414479" type="intp"/>
 <tli id="T126" time="36.57795667298781"/>
 <tli id="T127" time="36.82710600183083"/>
 <tli id="T128" time="37.15930510695485"/>
@@ -160,6 +161,7 @@
 <tli id="T131" time="38.16212792768241"/>
 <tli id="T132" time="38.26945789091771"/>
 <tli id="T133" time="38.43045283577065"/>
+<tli id="T211" time="38.5914477806236" type="intp"/>
 <tli id="T134" time="38.752442725476534"/>
 <tli id="T135" time="38.96710265194712"/>
 <tli id="T136" time="39.18176257841771"/>
@@ -170,6 +172,7 @@
 <tli id="T141" time="39.98673730268242"/>
 <tli id="T142" time="40.14773224753536"/>
 <tli id="T143" time="40.308727192388304"/>
+<tli id="T212" time="40.52338711885889" type="intp"/>
 <tli id="T144" time="40.577052100476536"/>
 <tli id="T145" time="40.84537700856477"/>
 <tli id="T146" time="41.25672273088974"/>
@@ -222,6 +225,7 @@
 <tli id="T193" time="55.048897257912536"/>
 <tli id="T194" time="55.36128876618626"/>
 <tli id="T195" time="55.43938664325469"/>
+<tli id="T213" time="55.82987602859685" type="intp"/>
 <tli id="T196" time="55.98607178273372"/>
 <tli id="T197" time="56.220365413939014"/>
 <tli id="T198" time="56.68895267634961"/>
@@ -236,8 +240,7 @@
 <tli id="T207" time="59.59851267153194"/>
 <tli id="T208" time="60.24410430839002"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">so:</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">so:</event>
 <event start="T1" end="T2">(-)</event>
 <event start="T2" end="T3">i</event>
 <event start="T3" end="T4">was</event>
@@ -445,35 +448,28 @@
 <event start="T205" end="T206">it</event>
 <event start="T206" end="T207">was</event>
 <event start="T207" end="T208">crazy</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">so:</event>
-<event start="T1" end="T2">(-)</event>
-<event start="T2" end="T3">i</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">So</event>
+<event start="T2" end="T3">I</event>
 <event start="T3" end="T4">was</event>
-<event start="T4" end="T5">walking:</event>
+<event start="T4" end="T5">walking</event>
 <event start="T5" end="T6">in</event>
 <event start="T6" end="T7">a</event>
 <event start="T7" end="T8">parking</event>
 <event start="T8" end="T9">lot</event>
-<event start="T9" end="T10">(-)</event>
-<event start="T10" end="T11">a:nd</event>
-<event start="T11" end="T12">(-)</event>
+<event start="T10" end="T11">and</event>
 <event start="T12" end="T13">there</event>
 <event start="T13" end="T14">were</event>
-<event start="T14" end="T15">thes:e</event>
+<event start="T14" end="T15">these</event>
 <event start="T15" end="T16">two</event>
 <event start="T16" end="T17">cars</event>
 <event start="T17" end="T18">that</event>
 <event start="T18" end="T19">were</event>
 <event start="T19" end="T20">coming</event>
 <event start="T20" end="T21">in</event>
-<event start="T21" end="T22">(-)</event>
 <event start="T22" end="T23">to</event>
 <event start="T23" end="T24">try</event>
 <event start="T24" end="T25">and</event>
 <event start="T25" end="T26">park</event>
-<event start="T26" end="T27">(-)</event>
 <event start="T27" end="T28">and</event>
 <event start="T28" end="T29">at</event>
 <event start="T29" end="T30">the</event>
@@ -484,8 +480,7 @@
 <event start="T34" end="T35">there</event>
 <event start="T35" end="T36">was</event>
 <event start="T36" end="T37">this</event>
-<event start="T37" end="T38">guy:</event>
-<event start="T38" end="T39">(-)</event>
+<event start="T37" end="T38">guy</event>
 <event start="T39" end="T40">with</event>
 <event start="T40" end="T41">his</event>
 <event start="T41" end="T42">wife</event>
@@ -495,7 +490,6 @@
 <event start="T45" end="T46">in</event>
 <event start="T46" end="T47">a</event>
 <event start="T47" end="T48">stroller</event>
-<event start="T48" end="T49">(-)</event>
 <event start="T49" end="T50">and</event>
 <event start="T50" end="T51">then</event>
 <event start="T51" end="T52">there</event>
@@ -507,7 +501,6 @@
 <event start="T57" end="T58">across</event>
 <event start="T58" end="T59">from</event>
 <event start="T59" end="T60">them</event>
-<event start="T60" end="T61">(-)</event>
 <event start="T61" end="T62">and</event>
 <event start="T62" end="T63">she</event>
 <event start="T63" end="T64">was</event>
@@ -518,8 +511,7 @@
 <event start="T68" end="T69">groceries</event>
 <event start="T69" end="T70">in</event>
 <event start="T70" end="T71">the</event>
-<event start="T71" end="T72">car:</event>
-<event start="T72" end="T73">(-)</event>
+<event start="T71" end="T72">car</event>
 <event start="T73" end="T74">and</event>
 <event start="T74" end="T75">the</event>
 <event start="T75" end="T76">guy</event>
@@ -533,19 +525,17 @@
 <event start="T83" end="T84">and</event>
 <event start="T84" end="T85">he</event>
 <event start="T85" end="T86">was</event>
-<event start="T86" end="T87">kinda</event>
+<event start="T86" end="T209">kind</event>
+<event start="T209" end="T87">of</event>
 <event start="T87" end="T88">bouncing</event>
 <event start="T88" end="T89">it</event>
-<event start="T89" end="T90">(-)</event>
 <event start="T90" end="T91">and</event>
-<event start="T91" end="T92">then:</event>
-<event start="T92" end="T93">(-)</event>
+<event start="T91" end="T92">then</event>
 <event start="T93" end="T94">it</event>
 <event start="T94" end="T95">fell</event>
 <event start="T95" end="T96">onto</event>
 <event start="T96" end="T97">the</event>
 <event start="T97" end="T98">road</event>
-<event start="T98" end="T99">(-)</event>
 <event start="T99" end="T100">so</event>
 <event start="T100" end="T101">the</event>
 <event start="T101" end="T102">two</event>
@@ -559,28 +549,25 @@
 <event start="T109" end="T110">in</event>
 <event start="T110" end="T111">the</event>
 <event start="T111" end="T112">way</event>
-<event start="T112" end="T113">(-)</event>
 <event start="T113" end="T114">so</event>
 <event start="T114" end="T115">the</event>
 <event start="T115" end="T116">first</event>
 <event start="T116" end="T117">car</event>
 <event start="T117" end="T118">braked</event>
-<event start="T118" end="T119">(-)</event>
 <event start="T119" end="T120">but</event>
 <event start="T120" end="T121">the</event>
 <event start="T121" end="T122">guy</event>
 <event start="T122" end="T123">behind</event>
 <event start="T123" end="T124">him</event>
-<event start="T124" end="T125">(-)</event>
-<event start="T125" end="T126">didn=t</event>
+<event start="T125" end="T210">did</event>
+<event start="T210" end="T126">not</event>
 <event start="T126" end="T127">see</event>
 <event start="T127" end="T128">like</event>
 <event start="T128" end="T129">the</event>
 <event start="T129" end="T130">ball</event>
-<event start="T130" end="T131">(-)</event>
-<event start="T131" end="T132">er</event>
 <event start="T132" end="T133">and</event>
-<event start="T133" end="T134">didn=t</event>
+<event start="T133" end="T211">did</event>
+<event start="T211" end="T134">not</event>
 <event start="T134" end="T135">know</event>
 <event start="T135" end="T136">that</event>
 <event start="T136" end="T137">the</event>
@@ -590,11 +577,10 @@
 <event start="T140" end="T141">of</event>
 <event start="T141" end="T142">him</event>
 <event start="T142" end="T143">was</event>
-<event start="T143" end="T144">gonna</event>
+<event start="T143" end="T212">going</event>
+<event start="T212" end="T144">to</event>
 <event start="T144" end="T145">brake</event>
-<event start="T145" end="T146">(-)</event>
-<event start="T146" end="T147">so:</event>
-<event start="T147" end="T148">(-)</event>
+<event start="T146" end="T147">so</event>
 <event start="T148" end="T149">he</event>
 <event start="T149" end="T150">pretty</event>
 <event start="T150" end="T151">much</event>
@@ -602,7 +588,6 @@
 <event start="T152" end="T153">crashed</event>
 <event start="T153" end="T154">into</event>
 <event start="T154" end="T155">him</event>
-<event start="T155" end="T156">(-)</event>
 <event start="T156" end="T157">to</event>
 <event start="T157" end="T158">the</event>
 <event start="T158" end="T159">guy</event>
@@ -610,8 +595,7 @@
 <event start="T160" end="T161">front</event>
 <event start="T161" end="T162">of</event>
 <event start="T162" end="T163">him</event>
-<event start="T163" end="T164">(-)</event>
-<event start="T164" end="T165">a:nd</event>
+<event start="T164" end="T165">and</event>
 <event start="T165" end="T166">yeah</event>
 <event start="T166" end="T167">both</event>
 <event start="T167" end="T168">of</event>
@@ -624,17 +608,15 @@
 <event start="T174" end="T175">of</event>
 <event start="T175" end="T176">talked</event>
 <event start="T176" end="T177">and</event>
-<event start="T177" end="T178">then:</event>
+<event start="T177" end="T178">then</event>
 <event start="T178" end="T179">they</event>
 <event start="T179" end="T180">had</event>
 <event start="T180" end="T181">to</event>
 <event start="T181" end="T182">call</event>
 <event start="T182" end="T183">the</event>
 <event start="T183" end="T184">cops</event>
-<event start="T184" end="T185">(-)</event>
 <event start="T185" end="T186">and</event>
 <event start="T186" end="T187">then</event>
-<event start="T187" end="T188">(-)</event>
 <event start="T188" end="T189">while</event>
 <event start="T189" end="T190">all</event>
 <event start="T190" end="T191">this</event>
@@ -642,23 +624,19 @@
 <event start="T192" end="T193">happening</event>
 <event start="T193" end="T194">like</event>
 <event start="T194" end="T195">a</event>
-<event start="T195" end="T196">woman=s</event>
+<event start="T195" end="T213">woman</event>
+<event start="T213" end="T196">'s</event>
 <event start="T196" end="T197">dog</event>
 <event start="T197" end="T198">almost</event>
 <event start="T198" end="T199">got</event>
 <event start="T199" end="T200">hit</event>
-<event start="T200" end="T201">(-)</event>
 <event start="T201" end="T202">too</event>
-<event start="T202" end="T203">(-)</event>
 <event start="T203" end="T204">so</event>
 <event start="T204" end="T205">yeah</event>
 <event start="T205" end="T206">it</event>
 <event start="T206" end="T207">was</event>
 <event start="T207" end="T208">crazy</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">eng</event>
-<event start="T1" end="T2">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
 <event start="T4" end="T5">eng</event>
@@ -666,9 +644,7 @@
 <event start="T6" end="T7">eng</event>
 <event start="T7" end="T8">eng</event>
 <event start="T8" end="T9">eng</event>
-<event start="T9" end="T10">eng</event>
 <event start="T10" end="T11">eng</event>
-<event start="T11" end="T12">eng</event>
 <event start="T12" end="T13">eng</event>
 <event start="T13" end="T14">eng</event>
 <event start="T14" end="T15">eng</event>
@@ -678,12 +654,10 @@
 <event start="T18" end="T19">eng</event>
 <event start="T19" end="T20">eng</event>
 <event start="T20" end="T21">eng</event>
-<event start="T21" end="T22">eng</event>
 <event start="T22" end="T23">eng</event>
 <event start="T23" end="T24">eng</event>
 <event start="T24" end="T25">eng</event>
 <event start="T25" end="T26">eng</event>
-<event start="T26" end="T27">eng</event>
 <event start="T27" end="T28">eng</event>
 <event start="T28" end="T29">eng</event>
 <event start="T29" end="T30">eng</event>
@@ -695,7 +669,6 @@
 <event start="T35" end="T36">eng</event>
 <event start="T36" end="T37">eng</event>
 <event start="T37" end="T38">eng</event>
-<event start="T38" end="T39">eng</event>
 <event start="T39" end="T40">eng</event>
 <event start="T40" end="T41">eng</event>
 <event start="T41" end="T42">eng</event>
@@ -705,7 +678,6 @@
 <event start="T45" end="T46">eng</event>
 <event start="T46" end="T47">eng</event>
 <event start="T47" end="T48">eng</event>
-<event start="T48" end="T49">eng</event>
 <event start="T49" end="T50">eng</event>
 <event start="T50" end="T51">eng</event>
 <event start="T51" end="T52">eng</event>
@@ -717,7 +689,6 @@
 <event start="T57" end="T58">eng</event>
 <event start="T58" end="T59">eng</event>
 <event start="T59" end="T60">eng</event>
-<event start="T60" end="T61">eng</event>
 <event start="T61" end="T62">eng</event>
 <event start="T62" end="T63">eng</event>
 <event start="T63" end="T64">eng</event>
@@ -729,7 +700,6 @@
 <event start="T69" end="T70">eng</event>
 <event start="T70" end="T71">eng</event>
 <event start="T71" end="T72">eng</event>
-<event start="T72" end="T73">eng</event>
 <event start="T73" end="T74">eng</event>
 <event start="T74" end="T75">eng</event>
 <event start="T75" end="T76">eng</event>
@@ -743,19 +713,17 @@
 <event start="T83" end="T84">eng</event>
 <event start="T84" end="T85">eng</event>
 <event start="T85" end="T86">eng</event>
-<event start="T86" end="T87">eng</event>
+<event start="T86" end="T209">eng</event>
+<event start="T209" end="T87">eng</event>
 <event start="T87" end="T88">eng</event>
 <event start="T88" end="T89">eng</event>
-<event start="T89" end="T90">eng</event>
 <event start="T90" end="T91">eng</event>
 <event start="T91" end="T92">eng</event>
-<event start="T92" end="T93">eng</event>
 <event start="T93" end="T94">eng</event>
 <event start="T94" end="T95">eng</event>
 <event start="T95" end="T96">eng</event>
 <event start="T96" end="T97">eng</event>
 <event start="T97" end="T98">eng</event>
-<event start="T98" end="T99">eng</event>
 <event start="T99" end="T100">eng</event>
 <event start="T100" end="T101">eng</event>
 <event start="T101" end="T102">eng</event>
@@ -769,28 +737,25 @@
 <event start="T109" end="T110">eng</event>
 <event start="T110" end="T111">eng</event>
 <event start="T111" end="T112">eng</event>
-<event start="T112" end="T113">eng</event>
 <event start="T113" end="T114">eng</event>
 <event start="T114" end="T115">eng</event>
 <event start="T115" end="T116">eng</event>
 <event start="T116" end="T117">eng</event>
 <event start="T117" end="T118">eng</event>
-<event start="T118" end="T119">eng</event>
 <event start="T119" end="T120">eng</event>
 <event start="T120" end="T121">eng</event>
 <event start="T121" end="T122">eng</event>
 <event start="T122" end="T123">eng</event>
 <event start="T123" end="T124">eng</event>
-<event start="T124" end="T125">eng</event>
-<event start="T125" end="T126">eng</event>
+<event start="T125" end="T210">eng</event>
+<event start="T210" end="T126">eng</event>
 <event start="T126" end="T127">eng</event>
 <event start="T127" end="T128">eng</event>
 <event start="T128" end="T129">eng</event>
 <event start="T129" end="T130">eng</event>
-<event start="T130" end="T131">eng</event>
-<event start="T131" end="T132">eng</event>
 <event start="T132" end="T133">eng</event>
-<event start="T133" end="T134">eng</event>
+<event start="T133" end="T211">eng</event>
+<event start="T211" end="T134">eng</event>
 <event start="T134" end="T135">eng</event>
 <event start="T135" end="T136">eng</event>
 <event start="T136" end="T137">eng</event>
@@ -800,11 +765,10 @@
 <event start="T140" end="T141">eng</event>
 <event start="T141" end="T142">eng</event>
 <event start="T142" end="T143">eng</event>
-<event start="T143" end="T144">eng</event>
+<event start="T143" end="T212">eng</event>
+<event start="T212" end="T144">eng</event>
 <event start="T144" end="T145">eng</event>
-<event start="T145" end="T146">eng</event>
 <event start="T146" end="T147">eng</event>
-<event start="T147" end="T148">eng</event>
 <event start="T148" end="T149">eng</event>
 <event start="T149" end="T150">eng</event>
 <event start="T150" end="T151">eng</event>
@@ -812,7 +776,6 @@
 <event start="T152" end="T153">eng</event>
 <event start="T153" end="T154">eng</event>
 <event start="T154" end="T155">eng</event>
-<event start="T155" end="T156">eng</event>
 <event start="T156" end="T157">eng</event>
 <event start="T157" end="T158">eng</event>
 <event start="T158" end="T159">eng</event>
@@ -820,7 +783,6 @@
 <event start="T160" end="T161">eng</event>
 <event start="T161" end="T162">eng</event>
 <event start="T162" end="T163">eng</event>
-<event start="T163" end="T164">eng</event>
 <event start="T164" end="T165">eng</event>
 <event start="T165" end="T166">eng</event>
 <event start="T166" end="T167">eng</event>
@@ -841,10 +803,8 @@
 <event start="T181" end="T182">eng</event>
 <event start="T182" end="T183">eng</event>
 <event start="T183" end="T184">eng</event>
-<event start="T184" end="T185">eng</event>
 <event start="T185" end="T186">eng</event>
 <event start="T186" end="T187">eng</event>
-<event start="T187" end="T188">eng</event>
 <event start="T188" end="T189">eng</event>
 <event start="T189" end="T190">eng</event>
 <event start="T190" end="T191">eng</event>
@@ -852,25 +812,20 @@
 <event start="T192" end="T193">eng</event>
 <event start="T193" end="T194">eng</event>
 <event start="T194" end="T195">eng</event>
-<event start="T195" end="T196">eng</event>
+<event start="T195" end="T213">eng</event>
+<event start="T213" end="T196">eng</event>
 <event start="T196" end="T197">eng</event>
 <event start="T197" end="T198">eng</event>
 <event start="T198" end="T199">eng</event>
 <event start="T199" end="T200">eng</event>
-<event start="T200" end="T201">eng</event>
 <event start="T201" end="T202">eng</event>
-<event start="T202" end="T203">eng</event>
 <event start="T203" end="T204">eng</event>
 <event start="T204" end="T205">eng</event>
 <event start="T205" end="T206">eng</event>
 <event start="T206" end="T207">eng</event>
 <event start="T207" end="T208">eng</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
-<event start="T204" end="T208">laughing</event>
-</tier>
-<tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T9">so: (-) i was walking: in a parking lot</event>
+</tier><tier id="TIE3" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T204" end="T208">laughing</event>
+</tier><tier id="TIE4" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T9">so: (-) i was walking: in a parking lot</event>
 <event start="T9" end="T10">(-)</event>
 <event start="T10" end="T26">a:nd (-) there were thes:e two cars that were coming in (-) to try and park</event>
 <event start="T26" end="T27">(-)</event>
@@ -885,7 +840,7 @@
 <event start="T89" end="T90">(-)</event>
 <event start="T90" end="T98">and then: (-) it fell onto the road</event>
 <event start="T98" end="T99">(-)</event>
-<event start="T99" end="T112">so the two cars that were coming they were like in the way	</event>
+<event start="T99" end="T112">so the two cars that were coming they were like in the way</event>
 <event start="T112" end="T113">(-)</event>
 <event start="T113" end="T118">so the first car braked</event>
 <event start="T118" end="T119">(-)</event>
@@ -902,6 +857,5 @@
 <event start="T185" end="T202">and then (-) while all this was happening like a woman=s dog almost got hit (-) too</event>
 <event start="T202" end="T203">(-)</event>
 <event start="T203" end="T208">so [[laughing]yeah] it was crazy</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
