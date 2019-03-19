@@ -56,6 +56,8 @@
 <tli id="T27" time="27.0"/>
 <tli id="T28" time="28.0"/>
 <tli id="T29" time="29.0"/>
+<tli id="T94" time="30.0" type="intp"/>
+<tli id="T95" time="30.0" type="intp"/>
 <tli id="T30" time="30.0"/>
 <tli id="T31" time="31.0"/>
 <tli id="T32" time="32.0"/>
@@ -103,6 +105,7 @@
 <tli id="T74" time="74.0"/>
 <tli id="T75" time="75.0"/>
 <tli id="T76" time="76.0"/>
+<tli id="T96" time="76.5" type="intp"/>
 <tli id="T77" time="77.0"/>
 <tli id="T93" time="77.949" type="intp"/>
 <tli id="T78" time="78.0"/>
@@ -118,6 +121,8 @@
 <tli id="T88" time="88.0"/>
 <tli id="T89" time="89.0"/>
 <tli id="T90" time="90.0"/>
+<tli id="T97" time="90.33333333333333" type="intp"/>
+<tli id="T98" time="90.66666666666666" type="intp"/>
 <tli id="T91" time="91.0"/>
 </common-timeline>
 <tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">Omg</event>
@@ -241,7 +246,9 @@
 <event start="T26" end="T27">with</event>
 <event start="T27" end="T28">a</event>
 <event start="T28" end="T29">ball</event>
-<event start="T29" end="T30">...</event>
+<event start="T29" end="T94">.</event>
+<event start="T94" end="T95">.</event>
+<event start="T95" end="T30">.</event>
 <event start="T30" end="T31">It</event>
 <event start="T31" end="T32">slipped</event>
 <event start="T32" end="T33">from</event>
@@ -288,7 +295,8 @@
 <event start="T73" end="T74">guy</event>
 <event start="T74" end="T75">behind</event>
 <event start="T75" end="T76">him</event>
-<event start="T76" end="T77">DX</event>
+<event start="T76" end="T96">D</event>
+<event start="T96" end="T77">X</event>
 <event start="T77" end="T93">it</event>
 <event start="T93" end="T78">'s</event>
 <event start="T78" end="T79">crazy</event>
@@ -303,10 +311,13 @@
 <event start="T87" end="T88">was</event>
 <event start="T88" end="T89">playing</event>
 <event start="T89" end="T90">around</event>
-<event start="T90" end="T91">-_-</event>
+<event start="T90" end="T97">-</event>
+<event start="T97" end="T98">_</event>
+<event start="T98" end="T91">-</event>
 </tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
 <event start="T1" end="T2">eng</event>
-<event start="T2" end="T3">eng</event>
+<event start="T2" end="T92">eng</event>
+<event start="T92" end="T3">enb</event>
 <event start="T3" end="T4">eng</event>
 <event start="T4" end="T5">eng</event>
 <event start="T5" end="T6">eng</event>
@@ -333,7 +344,9 @@
 <event start="T26" end="T27">eng</event>
 <event start="T27" end="T28">eng</event>
 <event start="T28" end="T29">eng</event>
-<event start="T29" end="T30">eng</event>
+<event start="T29" end="T94">eng</event>
+<event start="T94" end="T95">eng</event>
+<event start="T95" end="T30">eng</event>
 <event start="T30" end="T31">eng</event>
 <event start="T31" end="T32">eng</event>
 <event start="T32" end="T33">eng</event>
@@ -380,8 +393,10 @@
 <event start="T73" end="T74">eng</event>
 <event start="T74" end="T75">eng</event>
 <event start="T75" end="T76">eng</event>
-<event start="T76" end="T77">eng</event>
-<event start="T77" end="T78">eng</event>
+<event start="T76" end="T96">eng</event>
+<event start="T96" end="T77">eng</event>
+<event start="T77" end="T93">eng</event>
+<event start="T93" end="T78">eng</event>
 <event start="T78" end="T79">eng</event>
 <event start="T79" end="T80">eng</event>
 <event start="T80" end="T81">eng</event>
@@ -394,7 +409,9 @@
 <event start="T87" end="T88">eng</event>
 <event start="T88" end="T89">eng</event>
 <event start="T89" end="T90">eng</event>
-<event start="T90" end="T91">eng</event>
+<event start="T90" end="T97">eng</event>
+<event start="T97" end="T98">eng</event>
+<event start="T98" end="T91">eng</event>
 </tier><tier id="TIE3" speaker="dipl" category="line" type="a" display-name="dipl [line]"><event start="T0" end="T91">Omg you wouldnt believe what just happened!!!!!!! i was walking by a store and this 1 guy was playing with a ball... it slipped from his hand and rolled into the middle of the rode. Then a puppy chased after it and was about to get hit by a car when da guy driving hit the brakes and got into an accident with the guy behind him DX itz crazy how he got crashed into cuz one guy was playing around -_-</event>
 </tier><tier id="TIE4" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T91">1</event>
 </tier><tier id="TIE5" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T14">cu</event>

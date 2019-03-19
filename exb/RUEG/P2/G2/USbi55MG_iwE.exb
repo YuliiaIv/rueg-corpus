@@ -71,6 +71,7 @@
 <tli id="T43" time="43.0"/>
 <tli id="T44" time="44.0"/>
 <tli id="T45" time="45.0"/>
+<tli id="T66" time="45.6" type="intp"/>
 <tli id="T46" time="46.0"/>
 <tli id="T47" time="47.0"/>
 <tli id="T48" time="48.0"/>
@@ -202,7 +203,8 @@
 <event start="T42" end="T43">the</event>
 <event start="T43" end="T44">first</event>
 <event start="T44" end="T45">car</event>
-<event start="T45" end="T46">didnt</event>
+<event start="T45" end="T66">did</event>
+<event start="T66" end="T46">not</event>
 <event start="T46" end="T47">want</event>
 <event start="T47" end="T48">to</event>
 <event start="T48" end="T49">hit</event>
@@ -267,7 +269,8 @@
 <event start="T42" end="T43">eng</event>
 <event start="T43" end="T44">eng</event>
 <event start="T44" end="T45">eng</event>
-<event start="T45" end="T46">eng</event>
+<event start="T45" end="T66">eng</event>
+<event start="T66" end="T46">eng</event>
 <event start="T46" end="T47">eng</event>
 <event start="T47" end="T48">eng</event>
 <event start="T48" end="T49">eng</event>

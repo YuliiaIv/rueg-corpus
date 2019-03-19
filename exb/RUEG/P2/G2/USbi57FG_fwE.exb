@@ -26,6 +26,7 @@
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
+<tli id="T165" time="0.051" type="intp"/>
 <tli id="T1" time="1.0"/>
 <tli id="T2" time="2.0"/>
 <tli id="T3" time="3.0"/>
@@ -156,6 +157,8 @@
 <tli id="T128" time="128.0"/>
 <tli id="T129" time="129.0"/>
 <tli id="T130" time="130.0"/>
+<tli id="T166" time="130.4" type="intp"/>
+<tli id="T167" time="130.5" type="intp"/>
 <tli id="T131" time="131.0"/>
 <tli id="T132" time="132.0"/>
 <tli id="T133" time="133.0"/>
@@ -355,7 +358,8 @@
 <event start="T161" end="T162">just</event>
 <event start="T162" end="T163">happened</event>
 <event start="T163" end="T164">.</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">I</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T165">﻿</event>
+<event start="T165" end="T1">I</event>
 <event start="T1" end="T2">was</event>
 <event start="T2" end="T3">walking</event>
 <event start="T3" end="T4">down</event>
@@ -485,7 +489,9 @@
 <event start="T127" end="T128">stopped</event>
 <event start="T128" end="T129">it</event>
 <event start="T129" end="T130">got</event>
-<event start="T130" end="T131">rear-ended</event>
+<event start="T130" end="T166">rear</event>
+<event start="T166" end="T167">-</event>
+<event start="T167" end="T131">ended</event>
 <event start="T131" end="T132">by</event>
 <event start="T132" end="T133">the</event>
 <event start="T133" end="T134">white</event>
@@ -649,7 +655,9 @@
 <event start="T127" end="T128">eng</event>
 <event start="T128" end="T129">eng</event>
 <event start="T129" end="T130">eng</event>
-<event start="T130" end="T131">eng</event>
+<event start="T130" end="T166">eng</event>
+<event start="T166" end="T167">eng</event>
+<event start="T167" end="T131">eng</event>
 <event start="T131" end="T132">eng</event>
 <event start="T132" end="T133">eng</event>
 <event start="T133" end="T134">eng</event>
