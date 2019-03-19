@@ -26,6 +26,7 @@
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
+<tli id="T125" time="0.051" type="intp"/>
 <tli id="T1" time="1.0"/>
 <tli id="T2" time="2.0"/>
 <tli id="T3" time="3.0"/>
@@ -271,7 +272,8 @@
 <event start="T117" end="T118">boy</event>
 <event start="T118" end="T119">called</event>
 <event start="T119" end="T120">911.</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">A</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T125">﻿</event>
+<event start="T125" end="T1">A</event>
 <event start="T1" end="T2">student</event>
 <event start="T2" end="T3">of</event>
 <event start="T3" end="T4">some</event>
@@ -395,7 +397,8 @@
 <event start="T122" end="T123">one</event>
 <event start="T123" end="T124">one</event>
 <event start="T124" end="T120">.</event>
-</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T125">eng</event>
+<event start="T125" end="T1">eng</event>
 <event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
@@ -464,7 +467,8 @@
 <event start="T66" end="T67">eng</event>
 <event start="T67" end="T68">eng</event>
 <event start="T68" end="T69">eng</event>
-<event start="T69" end="T70">eng</event>
+<event start="T69" end="T121">eng</event>
+<event start="T121" end="T70">eng</event>
 <event start="T70" end="T71">eng</event>
 <event start="T71" end="T72">eng</event>
 <event start="T72" end="T73">eng</event>
@@ -514,11 +518,14 @@
 <event start="T116" end="T117">eng</event>
 <event start="T117" end="T118">eng</event>
 <event start="T118" end="T119">eng</event>
-<event start="T119" end="T120">eng</event>
+<event start="T119" end="T122">eng</event>
+<event start="T122" end="T123">eng</event>
+<event start="T123" end="T124">eng</event>
+<event start="T124" end="T120">eng</event>
 </tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T45">cu</event>
 <event start="T45" end="T73">cu</event>
-<event start="T73" end="T81">cu</event>
-<event start="T81" end="T88">cu</event>
+<event start="T73" end="T88">cu</event>
 <event start="T88" end="T108">cu</event>
+<event start="T108" end="T120">cu</event>
 </tier></basic-body>
 </basic-transcription>
