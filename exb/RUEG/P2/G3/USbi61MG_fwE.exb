@@ -395,7 +395,8 @@
 <event start="T180" end="T181">911</event>
 <event start="T181" end="T182">was</event>
 <event start="T182" end="T183">called</event>
-</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T1" end="T2">First</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">﻿</event>
+<event start="T1" end="T2">First</event>
 <event start="T2" end="T3">the</event>
 <event start="T3" end="T4">lady</event>
 <event start="T4" end="T5">with</event>
@@ -491,7 +492,7 @@
 <event start="T94" end="T95">to</event>
 <event start="T95" end="T96">drop</event>
 <event start="T96" end="T97">her</event>
-<event start="T97" end="T98">goceries</event>
+<event start="T97" end="T98">groceries</event>
 <event start="T98" end="T99">.</event>
 <event start="T99" end="T100">The</event>
 <event start="T100" end="T101">blue</event>
@@ -517,7 +518,7 @@
 <event start="T120" end="T121">was</event>
 <event start="T121" end="T122">unable</event>
 <event start="T122" end="T123">to</event>
-<event start="T123" end="T124">break</event>
+<event start="T123" end="T124">brake</event>
 <event start="T124" end="T125">fast</event>
 <event start="T125" end="T126">enough</event>
 <event start="T126" end="T127">,</event>
@@ -579,7 +580,8 @@
 <event start="T185" end="T181">one</event>
 <event start="T181" end="T182">was</event>
 <event start="T182" end="T183">called</event>
-</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T1" end="T2">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
+<event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
 <event start="T4" end="T5">eng</event>
@@ -758,7 +760,9 @@
 <event start="T177" end="T178">eng</event>
 <event start="T178" end="T179">eng</event>
 <event start="T179" end="T180">eng</event>
-<event start="T180" end="T181">eng</event>
+<event start="T180" end="T184">eng</event>
+<event start="T184" end="T185">eng</event>
+<event start="T185" end="T181">eng</event>
 <event start="T181" end="T182">eng</event>
 <event start="T182" end="T183">eng</event>
 </tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T1" end="T23">cu</event>
