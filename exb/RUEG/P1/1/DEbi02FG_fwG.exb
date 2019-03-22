@@ -820,29 +820,6 @@
 <event start="T128" end="T129">Acc</event>
 <event start="T129" end="T130">Acc</event>
 <event start="T131" end="T132">Nom</event>
-</tier><tier id="TIE5" speaker="norm" category="Definite" type="a" display-name="norm [Definite]"><event start="T1" end="T2">Def</event>
-<event start="T12" end="T13">Def</event>
-<event start="T17" end="T18">Ind</event>
-<event start="T21" end="T22">Def</event>
-<event start="T29" end="T30">Def</event>
-<event start="T33" end="T34">Def</event>
-<event start="T38" end="T39">Ind</event>
-<event start="T44" end="T45">Def</event>
-<event start="T47" end="T48">Ind</event>
-<event start="T53" end="T54">Def</event>
-<event start="T58" end="T59">Def</event>
-<event start="T61" end="T62">Def</event>
-<event start="T64" end="T65">Ind</event>
-<event start="T67" end="T68">Ind</event>
-<event start="T71" end="T72">Def</event>
-<event start="T75" end="T76">Def</event>
-<event start="T80" end="T81">Def</event>
-<event start="T83" end="T84">Def</event>
-<event start="T89" end="T90">Def</event>
-<event start="T96" end="T97">Def</event>
-<event start="T100" end="T101">Def</event>
-<event start="T111" end="T112">Def</event>
-<event start="T127" end="T128">Def</event>
 </tier><tier id="TIE6" speaker="norm" category="Foreign" type="a" display-name="norm [Foreign]"><event start="T18" end="T19">Yes</event>
 </tier><tier id="TIE7" speaker="norm" category="Gender" type="a" display-name="norm [Gender]"><event start="T1" end="T2">Fem</event>
 <event start="T2" end="T3">Fem</event>
@@ -937,13 +914,6 @@
 <event start="T115" end="T116">Ind</event>
 <event start="T126" end="T127">Ind</event>
 <event start="T132" end="T133">Ind</event>
-</tier><tier id="TIE9" speaker="norm" category="NumType" type="a" display-name="norm [NumType]"><event start="T22" end="T23">Card</event>
-<event start="T30" end="T31">Ord</event>
-<event start="T34" end="T35">Ord</event>
-<event start="T97" end="T98">Ord</event>
-<event start="T112" end="T113">Ord</event>
-<event start="T121" end="T122">Ord</event>
-<event start="T128" end="T129">Ord</event>
 </tier><tier id="TIE10" speaker="norm" category="Number" type="a" display-name="norm [Number]"><event start="T1" end="T2">Sing</event>
 <event start="T2" end="T3">Sing</event>
 <event start="T5" end="T6">Sing</event>
@@ -1069,43 +1039,6 @@
 <event start="T126" end="T127">3</event>
 <event start="T131" end="T132">3</event>
 <event start="T132" end="T133">3</event>
-</tier><tier id="TIE12" speaker="norm" category="Poss" type="a" display-name="norm [Poss]"><event start="T55" end="T56">Yes</event>
-<event start="T73" end="T74">Yes</event>
-</tier><tier id="TIE13" speaker="norm" category="PronType" type="a" display-name="norm [PronType]"><event start="T1" end="T2">Art</event>
-<event start="T5" end="T6">Int</event>
-<event start="T7" end="T8">Prs</event>
-<event start="T12" end="T13">Art</event>
-<event start="T17" end="T18">Art</event>
-<event start="T20" end="T21">Dem</event>
-<event start="T21" end="T22">Art</event>
-<event start="T29" end="T30">Art</event>
-<event start="T33" end="T34">Art</event>
-<event start="T38" end="T39">Art</event>
-<event start="T44" end="T45">Art</event>
-<event start="T47" end="T48">Art</event>
-<event start="T49" end="T50">Rel</event>
-<event start="T50" end="T51">Prs</event>
-<event start="T53" end="T54">Art</event>
-<event start="T55" end="T56">Prs</event>
-<event start="T58" end="T59">Art</event>
-<event start="T59" end="T60">Ind</event>
-<event start="T61" end="T62">Art</event>
-<event start="T64" end="T65">Art</event>
-<event start="T67" end="T68">Art</event>
-<event start="T71" end="T72">Art</event>
-<event start="T73" end="T74">Prs</event>
-<event start="T75" end="T76">Art</event>
-<event start="T80" end="T81">Art</event>
-<event start="T83" end="T84">Art</event>
-<event start="T89" end="T90">Art</event>
-<event start="T93" end="T94">Prs</event>
-<event start="T96" end="T97">Art</event>
-<event start="T100" end="T101">Art</event>
-<event start="T109" end="T110">Prs</event>
-<event start="T111" end="T112">Art</event>
-<event start="T125" end="T126">Dem</event>
-<event start="T127" end="T128">Art</event>
-<event start="T131" end="T132">Ind</event>
 </tier><tier id="TIE14" speaker="norm" category="Tense" type="a" display-name="norm [Tense]"><event start="T6" end="T7">Past</event>
 <event start="T11" end="T12">Past</event>
 <event start="T15" end="T16">Pres</event>
