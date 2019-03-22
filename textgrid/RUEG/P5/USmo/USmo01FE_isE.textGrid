@@ -1,0 +1,42 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 12.921 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "SPK0|t|CU" 
+        xmin = 0 
+        xmax = 12.921 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.8000000251698483 
+            text = "um i just saw an accident " 
+        intervals [2]:
+            xmin = 1.8000000251698483 
+            xmax = 4.245102133630415 
+            text = "this: guy let his ba:ll roll on the street" 
+        intervals [3]:
+            xmin = 4.245102133630415 
+            xmax = 6.317671621164259 
+            text = "and then the other woman=s dog went to go chase the ball " 
+        intervals [4]:
+            xmin = 6.317671621164259 
+            xmax = 8.050366369584838 
+            text = "and then the cars: there were two cars coming up " 
+        intervals [5]:
+            xmin = 8.050366369584838 
+            xmax = 9.216603219483304 
+            text = "and they=d to stop abruptly " 
+        intervals [6]:
+            xmin = 9.216603219483304 
+            xmax = 9.513030493619198 
+            text = "(-) " 
+        intervals [7]:
+            xmin = 9.513030493619198 
+            xmax = 12.921 
+            text = "so: one hit the other one=s um (-) fender " 
