@@ -548,7 +548,8 @@
 <event start="T104" end="T112">CU</event>
 <event start="T112" end="T115">CU</event>
 <event start="T115" end="T121">CU</event>
-</tier><tier id="TIE2" speaker="norm" category="Animacy" type="a" display-name="norm [Animacy]"><event start="T8" end="T9">Anim</event>
+</tier><tier id="TIE2" speaker="norm" category="Animacy" type="a" display-name="norm [Animacy]"><event start="T3" end="T4">Anim</event>
+<event start="T8" end="T9">Anim</event>
 <event start="T10" end="T11">Inan</event>
 <event start="T11" end="T12">Inan</event>
 <event start="T16" end="T17">Anim</event>
@@ -598,7 +599,8 @@
 <event start="T108" end="T109">Imp</event>
 <event start="T113" end="T114">Perf</event>
 <event start="T119" end="T120">Perf</event>
-</tier><tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]"><event start="T6" end="T7">Nom</event>
+</tier><tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]"><event start="T3" end="T4">Nom</event>
+<event start="T6" end="T7">Nom</event>
 <event start="T8" end="T9">Ins</event>
 <event start="T9" end="T10">Acc</event>
 <event start="T10" end="T11">Gen</event>
@@ -660,8 +662,7 @@
 <event start="T98" end="T99">Cmp</event>
 <event start="T105" end="T106">Pos</event>
 <event start="T118" end="T119">Pos</event>
-</tier><tier id="TIE6" speaker="norm" category="Foreign" type="a" display-name="norm [Foreign]"><event start="T3" end="T4">Yes</event>
-</tier><tier id="TIE7" speaker="norm" category="Gender" type="a" display-name="norm [Gender]"><event start="T7" end="T8">Fem</event>
+</tier><tier id="TIE6" speaker="norm" category="Foreign" type="a" display-name="norm [Foreign]"></tier><tier id="TIE7" speaker="norm" category="Gender" type="a" display-name="norm [Gender]"><event start="T7" end="T8">Fem</event>
 <event start="T8" end="T9">Fem</event>
 <event start="T9" end="T10">Neut</event>
 <event start="T10" end="T11">Masc</event>
@@ -730,7 +731,8 @@
 <event start="T92" end="T93">Ind</event>
 <event start="T99" end="T100">Ind</event>
 <event start="T113" end="T114">Ind</event>
-</tier><tier id="TIE9" speaker="norm" category="Number" type="a" display-name="norm [Number]"><event start="T6" end="T7">Sing</event>
+</tier><tier id="TIE9" speaker="norm" category="Number" type="a" display-name="norm [Number]"><event start="T3" end="T4">Sing</event>
+<event start="T6" end="T7">Sing</event>
 <event start="T7" end="T8">Sing</event>
 <event start="T8" end="T9">Sing</event>
 <event start="T9" end="T10">Sing</event>
@@ -853,6 +855,7 @@
 <event start="T113" end="T114">Act</event>
 <event start="T119" end="T120">Act</event>
 </tier><tier id="TIE18" speaker="norm" category="mystem_gr" type="a" display-name="norm [mystem_gr]"><event start="T2" end="T3">INTJ</event>
+<event start="T3" end="T4">S, persn</event>
 <event start="T5" end="T6">INTJ</event>
 <event start="T6" end="T7">SPRO</event>
 <event start="T7" end="T8">V,intr</event>
@@ -957,6 +960,7 @@
 <event start="T119" end="T120">V,tran</event>
 <event start="T120" end="T121">S</event>
 </tier><tier id="TIE19" speaker="norm" category="mystem_lex" type="a" display-name="norm [mystem_lex]"><event start="T2" end="T3">эй</event>
+<event start="T3" end="T4">DEbi54FR_P</event>
 <event start="T5" end="T6">прикинь</event>
 <event start="T6" end="T7">я</event>
 <event start="T7" end="T8">стать</event>
