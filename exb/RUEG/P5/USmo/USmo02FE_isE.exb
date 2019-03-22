@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P5/USmo/USmo02FE_isE.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P5/USmo/USmo02FE_isE.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -87,8 +86,7 @@
 <tli id="T58" time="23.579761512968712"/>
 <tli id="T59" time="24.148"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">hey</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">hey</event>
 <event start="T1" end="T2">USmo02FE_P</event>
 <event start="T2" end="T3">um</event>
 <event start="T3" end="T4">i</event>
@@ -147,12 +145,9 @@
 <event start="T56" end="T57">a</event>
 <event start="T57" end="T58">following</event>
 <event start="T58" end="T59">vehicle</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">hey</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">hey</event>
 <event start="T1" end="T2">USmo02FE_P</event>
-<event start="T2" end="T3">um</event>
-<event start="T3" end="T4">i</event>
+<event start="T3" end="T4">I</event>
 <event start="T4" end="T5">just</event>
 <event start="T5" end="T6">witnessed</event>
 <event start="T6" end="T7">an</event>
@@ -161,56 +156,45 @@
 <event start="T9" end="T10">the</event>
 <event start="T10" end="T11">parking</event>
 <event start="T11" end="T12">lot</event>
-<event start="T12" end="T13">(-)</event>
-<event start="T13" end="T14">u:m:</event>
-<event start="T14" end="T15">(-)</event>
 <event start="T15" end="T16">a</event>
-<event start="T16" end="T17">gentlema:n:</event>
-<event start="T17" end="T18">(-)</event>
+<event start="T16" end="T17">gentleman</event>
 <event start="T18" end="T19">kicked</event>
 <event start="T19" end="T20">his</event>
 <event start="T20" end="T21">soccer</event>
-<event start="T21" end="T22">ba:ll</event>
+<event start="T21" end="T22">ball</event>
 <event start="T22" end="T23">into</event>
 <event start="T23" end="T24">in</event>
 <event start="T24" end="T25">front</event>
 <event start="T25" end="T26">of</event>
 <event start="T26" end="T27">a</event>
 <event start="T27" end="T28">moving</event>
-<event start="T28" end="T29">car:</event>
-<event start="T29" end="T30">a:n:d</event>
-<event start="T30" end="T31">(-)</event>
+<event start="T28" end="T29">car</event>
+<event start="T29" end="T30">and</event>
 <event start="T31" end="T32">a</event>
 <event start="T32" end="T33">little</event>
-<event start="T33" end="T34">puppy:</event>
+<event start="T33" end="T34">puppy</event>
 <event start="T34" end="T35">ran</event>
 <event start="T35" end="T36">after</event>
 <event start="T36" end="T37">it</event>
-<event start="T37" end="T38">(-)</event>
 <event start="T38" end="T39">and</event>
 <event start="T39" end="T40">the</event>
 <event start="T40" end="T41">driver</event>
 <event start="T41" end="T42">stopped</event>
 <event start="T42" end="T43">just</event>
 <event start="T43" end="T44">in</event>
-<event start="T44" end="T45">ti:me</event>
-<event start="T45" end="T46">(-)</event>
+<event start="T44" end="T45">time</event>
 <event start="T46" end="T47">before</event>
 <event start="T47" end="T48">hitting</event>
 <event start="T48" end="T49">the</event>
 <event start="T49" end="T50">puppy</event>
-<event start="T50" end="T51">bu:t</event>
+<event start="T50" end="T51">but</event>
 <event start="T51" end="T52">was</event>
-<event start="T52" end="T53">rearended</event>
-<event start="T53" end="T54">(--)</event>
-<event start="T54" end="T55">um</event>
+<event start="T52" end="T53">rear-ended</event>
 <event start="T55" end="T56">by</event>
 <event start="T56" end="T57">a</event>
 <event start="T57" end="T58">following</event>
 <event start="T58" end="T59">vehicle</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">eng</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">eng</event>
 <event start="T1" end="T2">eng</event>
 <event start="T2" end="T3">eng</event>
 <event start="T3" end="T4">eng</event>
@@ -269,9 +253,7 @@
 <event start="T56" end="T57">eng</event>
 <event start="T57" end="T58">eng</event>
 <event start="T58" end="T59">eng</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T2">hey USmo02FE_P </event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T2">hey USmo02FE_P </event>
 <event start="T2" end="T12">um i just witnessed an accident in the parking lot </event>
 <event start="T12" end="T13">(-) </event>
 <event start="T13" end="T14">u:m: </event>
@@ -283,6 +265,5 @@
 <event start="T50" end="T53">bu:t was rearended </event>
 <event start="T53" end="T54">(--) </event>
 <event start="T54" end="T59">um by a following vehicle </event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
