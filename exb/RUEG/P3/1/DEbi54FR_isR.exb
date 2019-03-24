@@ -451,8 +451,7 @@
 <event start="T4" end="T5">rus</event>
 <event start="T6" end="T7">rus</event>
 <event start="T8" end="T9">rus</event>
-<event start="T9" end="T10">rus</event>
-<event start="T10" end="T11">rus</event>
+<event start="T9" end="T11">rus</event>
 <event start="T11" end="T12">rus</event>
 <event start="T12" end="T13">rus</event>
 <event start="T13" end="T14">rus</event>
@@ -590,7 +589,8 @@
 <event start="T60" end="T66">CU</event>
 <event start="T66" end="T75">CU</event>
 <event start="T75" end="T76">(-)</event>
-<event start="T76" end="T96">CU</event>
+<event start="T76" end="T83">CU</event>
+<event start="T83" end="T96">CU</event>
 <event start="T97" end="T98">(-)</event>
 <event start="T98" end="T99">CU</event>
 <event start="T100" end="T106">CU</event>
@@ -604,7 +604,6 @@
 <event start="T136" end="T149">CU</event>
 <event start="T149" end="T150">(-)</event>
 </tier><tier id="TIE2" speaker="norm" category="Animacy" type="a" display-name="norm [Animacy]"><event start="T4" end="T5">Anim</event>
-<event start="T9" end="T11"></event>
 <event start="T13" end="T14">Inan</event>
 <event start="T15" end="T16">Inan</event>
 <event start="T20" end="T21">Anim</event>
@@ -630,8 +629,7 @@
 <event start="T134" end="T135">Inan</event>
 <event start="T142" end="T143">Inan</event>
 <event start="T147" end="T148">Anim</event>
-</tier><tier id="TIE3" speaker="norm" category="Aspect" type="a" display-name="norm [Aspect]"><event start="T9" end="T11"></event>
-<event start="T11" end="T12">Imp</event>
+</tier><tier id="TIE3" speaker="norm" category="Aspect" type="a" display-name="norm [Aspect]"><event start="T11" end="T12">Imp</event>
 <event start="T23" end="T24">Imp</event>
 <event start="T28" end="T29">Imp</event>
 <event start="T40" end="T41">Imp</event>
@@ -656,7 +654,6 @@
 <event start="T146" end="T147">Imp</event>
 </tier><tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]"><event start="T4" end="T5">Nom</event>
 <event start="T8" end="T9">Nom</event>
-<event start="T9" end="T11"></event>
 <event start="T13" end="T14">Loc</event>
 <event start="T15" end="T16">Gen</event>
 <event start="T19" end="T20">Nom</event>
@@ -714,9 +711,7 @@
 <event start="T132" end="T133">Pos</event>
 <event start="T138" end="T139">Pos</event>
 <event start="T143" end="T144">Pos</event>
-</tier><tier id="TIE6" speaker="norm" category="Foreign" type="a" display-name="norm [Foreign]"><event start="T9" end="T11"></event>
-</tier><tier id="TIE7" speaker="norm" category="Gender" type="a" display-name="norm [Gender]"><event start="T9" end="T11"></event>
-<event start="T11" end="T12">Fem</event>
+</tier><tier id="TIE6" speaker="norm" category="Foreign" type="a" display-name="norm [Foreign]"></tier><tier id="TIE7" speaker="norm" category="Gender" type="a" display-name="norm [Gender]"><event start="T11" end="T12">Fem</event>
 <event start="T13" end="T14">Fem</event>
 <event start="T15" end="T16">Fem</event>
 <event start="T19" end="T20">Masc</event>
@@ -765,8 +760,7 @@
 <event start="T142" end="T143">Neut</event>
 <event start="T146" end="T147">Fem</event>
 <event start="T147" end="T148">Fem</event>
-</tier><tier id="TIE8" speaker="norm" category="Mood" type="a" display-name="norm [Mood]"><event start="T9" end="T11"></event>
-<event start="T11" end="T12">Ind</event>
+</tier><tier id="TIE8" speaker="norm" category="Mood" type="a" display-name="norm [Mood]"><event start="T11" end="T12">Ind</event>
 <event start="T23" end="T24">Ind</event>
 <event start="T28" end="T29">Ind</event>
 <event start="T40" end="T41">Ind</event>
@@ -785,7 +779,6 @@
 <event start="T146" end="T147">Ind</event>
 </tier><tier id="TIE9" speaker="norm" category="Number" type="a" display-name="norm [Number]"><event start="T4" end="T5">Sing</event>
 <event start="T8" end="T9">Sing</event>
-<event start="T9" end="T11"></event>
 <event start="T11" end="T12">Sing</event>
 <event start="T13" end="T14">Sing</event>
 <event start="T15" end="T16">Sing</event>
@@ -843,7 +836,6 @@
 <event start="T146" end="T147">Sing</event>
 <event start="T147" end="T148">Sing</event>
 </tier><tier id="TIE10" speaker="norm" category="Person" type="a" display-name="norm [Person]"><event start="T8" end="T9">1</event>
-<event start="T9" end="T11"></event>
 <event start="T48" end="T49">3</event>
 <event start="T55" end="T56">1</event>
 <event start="T91" end="T92">3</event>
@@ -854,8 +846,7 @@
 <event start="T121" end="T122">3</event>
 <event start="T137" end="T138">1</event>
 <event start="T145" end="T146">1</event>
-</tier><tier id="TIE11" speaker="norm" category="Tense" type="a" display-name="norm [Tense]"><event start="T9" end="T11"></event>
-<event start="T11" end="T12">Past</event>
+</tier><tier id="TIE11" speaker="norm" category="Tense" type="a" display-name="norm [Tense]"><event start="T11" end="T12">Past</event>
 <event start="T23" end="T24">Past</event>
 <event start="T28" end="T29">Past</event>
 <event start="T40" end="T41">Past</event>
@@ -872,8 +863,7 @@
 <event start="T133" end="T134">Past</event>
 <event start="T139" end="T140">Past</event>
 <event start="T146" end="T147">Past</event>
-</tier><tier id="TIE12" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]"><event start="T9" end="T11"></event>
-<event start="T11" end="T12">Fin</event>
+</tier><tier id="TIE12" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]"><event start="T11" end="T12">Fin</event>
 <event start="T23" end="T24">Fin</event>
 <event start="T28" end="T29">Fin</event>
 <event start="T40" end="T41">Fin</event>
@@ -896,8 +886,7 @@
 <event start="T139" end="T140">Fin</event>
 <event start="T141" end="T142">Inf</event>
 <event start="T146" end="T147">Fin</event>
-</tier><tier id="TIE13" speaker="norm" category="Voice" type="a" display-name="norm [Voice]"><event start="T9" end="T11"></event>
-<event start="T11" end="T12">Act</event>
+</tier><tier id="TIE13" speaker="norm" category="Voice" type="a" display-name="norm [Voice]"><event start="T11" end="T12">Act</event>
 <event start="T23" end="T24">Act</event>
 <event start="T28" end="T29">Act</event>
 <event start="T40" end="T41">Act</event>
