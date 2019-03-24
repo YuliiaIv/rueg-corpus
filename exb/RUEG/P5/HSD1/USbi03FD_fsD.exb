@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../exb_transcription/RUEG/P5/HSD1/USbi03FD_fsD.wav"></referenced-file><ud-meta-information><ud-information attribute-name="sex">u</ud-information><ud-information attribute-name="abbreviation">norm</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../exb_transcription/RUEG/P5/HSD1/USbi03FD_fsD.wav"/><ud-meta-information><ud-information attribute-name="sex">u</ud-information><ud-information attribute-name="abbreviation">norm</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -294,19 +293,19 @@
 <tli id="T265" time="99.05036102920056"/>
 <tli id="T266" time="99.64692667208733"/>
 <tli id="T267" time="99.79606808280906"/>
+<tli id="T268" time="100.136"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">&#228;hm</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">ähm</event>
 <event start="T1" end="T2">[tongueclicking]</event>
 <event start="T2" end="T3">ja</event>
 <event start="T3" end="T4">ich</event>
-<event start="T4" end="T5">&#228;hm:</event>
+<event start="T4" end="T5">ähm:</event>
 <event start="T5" end="T6">ich</event>
 <event start="T6" end="T7">war</event>
 <event start="T7" end="T8">im</event>
 <event start="T8" end="T9">parkplatz</event>
 <event start="T9" end="T10">und</event>
-<event start="T10" end="T11">&#246;m</event>
+<event start="T10" end="T11">öm</event>
 <event start="T11" end="T12">(-)</event>
 <event start="T12" end="T13">[tongueclicking]</event>
 <event start="T13" end="T14">er</event>
@@ -330,13 +329,13 @@
 <event start="T31" end="T32">mann</event>
 <event start="T32" end="T33">hatte</event>
 <event start="T33" end="T34">ein</event>
-<event start="T34" end="T35">&#228;hm</event>
-<event start="T35" end="T36">fu&#223;ball</event>
+<event start="T34" end="T35">ähm</event>
+<event start="T35" end="T36">fußball</event>
 <event start="T36" end="T37">und</event>
-<event start="T37" end="T38">&#228;h</event>
+<event start="T37" end="T38">äh</event>
 <event start="T38" end="T39">die</event>
 <event start="T39" end="T40">(-)</event>
-<event start="T40" end="T41">w&#228;/</event>
+<event start="T40" end="T41">wä/</event>
 <event start="T41" end="T42">m/</event>
 <event start="T42" end="T43">ts/</event>
 <event start="T43" end="T44">wa/</event>
@@ -354,13 +353,13 @@
 <event start="T55" end="T56">gehn</event>
 <event start="T56" end="T57">und</event>
 <event start="T57" end="T58">dann</event>
-<event start="T58" end="T59">&#228;hm</event>
+<event start="T58" end="T59">ähm</event>
 <event start="T59" end="T60">es</event>
 <event start="T60" end="T61">gab</event>
 <event start="T61" end="T62">eine</event>
 <event start="T62" end="T63">frau</event>
 <event start="T63" end="T64">und</event>
-<event start="T64" end="T65">&#228;hm</event>
+<event start="T64" end="T65">ähm</event>
 <event start="T65" end="T66">(-)</event>
 <event start="T66" end="T67">[tongueclicking]</event>
 <event start="T67" end="T68">die</event>
@@ -369,12 +368,12 @@
 <event start="T70" end="T71">ein</event>
 <event start="T71" end="T72">hund</event>
 <event start="T72" end="T73">und</event>
-<event start="T73" end="T74">&#228;hm</event>
+<event start="T73" end="T74">ähm</event>
 <event start="T74" end="T75">auch</event>
-<event start="T75" end="T76">&#228;h</event>
+<event start="T75" end="T76">äh</event>
 <event start="T76" end="T77">hat</event>
 <event start="T77" end="T78">(-)</event>
-<event start="T78" end="T79">&#228;hm</event>
+<event start="T78" end="T79">ähm</event>
 <event start="T79" end="T80">(-)</event>
 <event start="T80" end="T81">ich:</event>
 <event start="T81" end="T82">glaube</event>
@@ -385,45 +384,45 @@
 <event start="T86" end="T87">die</event>
 <event start="T87" end="T88">war</event>
 <event start="T88" end="T89">grad</event>
-<event start="T89" end="T90">&#228;hm</event>
+<event start="T89" end="T90">ähm</event>
 <event start="T90" end="T91">(-)</event>
 <event start="T91" end="T92">[tongueclicking]</event>
-<event start="T92" end="T93">&#228;h</event>
+<event start="T92" end="T93">äh</event>
 <event start="T93" end="T94">einkaufen</event>
 <event start="T94" end="T95">gegangen</event>
 <event start="T95" end="T96">und</event>
-<event start="T96" end="T97">&#228;hm:</event>
+<event start="T96" end="T97">ähm:</event>
 <event start="T97" end="T98">wollte</event>
 <event start="T98" end="T99">alles</event>
 <event start="T99" end="T100">in</event>
 <event start="T100" end="T102">in=s</event>
 <event start="T102" end="T103">auto</event>
-<event start="T103" end="T104">&#228;hm</event>
+<event start="T103" end="T104">ähm</event>
 <event start="T104" end="T106">hintun</event>
 <event start="T106" end="T107">und</event>
 <event start="T107" end="T108">(-)</event>
-<event start="T108" end="T109">&#228;hm</event>
+<event start="T108" end="T109">ähm</event>
 <event start="T109" end="T110">(-)</event>
 <event start="T110" end="T111">[tongueclicking]</event>
 <event start="T111" end="T112">ein</event>
-<event start="T112" end="T113">&#228;h</event>
+<event start="T112" end="T113">äh</event>
 <event start="T113" end="T114">auto</event>
 <event start="T114" end="T115">is</event>
-<event start="T115" end="T116">&#228;hm</event>
+<event start="T115" end="T116">ähm</event>
 <event start="T116" end="T117">im</event>
 <event start="T117" end="T118">pap/</event>
 <event start="T118" end="T119">parkplatz</event>
 <event start="T119" end="T120">gefahrn</event>
 <event start="T120" end="T121">und</event>
-<event start="T121" end="T122">&#228;hm</event>
+<event start="T121" end="T122">ähm</event>
 <event start="T122" end="T123">musste</event>
-<event start="T123" end="T124">&#228;hm</event>
+<event start="T123" end="T124">ähm</event>
 <event start="T124" end="T125">ganz</event>
 <event start="T125" end="T126">schnell</event>
 <event start="T126" end="T127">stoppen</event>
 <event start="T127" end="T128">(-)</event>
 <event start="T128" end="T129">und</event>
-<event start="T129" end="T130">&#228;h</event>
+<event start="T129" end="T130">äh</event>
 <event start="T130" end="T131">weil:</event>
 <event start="T131" end="T132">die</event>
 <event start="T132" end="T133">das</event>
@@ -432,15 +431,15 @@
 <event start="T135" end="T136">die</event>
 <event start="T136" end="T137">frau</event>
 <event start="T137" end="T138">nicht</event>
-<event start="T138" end="T139">&#228;hm</event>
+<event start="T138" end="T139">ähm</event>
 <event start="T139" end="T140">(-)</event>
-<event start="T140" end="T141">&#228;h</event>
+<event start="T140" end="T141">äh</event>
 <event start="T141" end="T142">(-)</event>
 <event start="T142" end="T143">hi:n</event>
-<event start="T143" end="T144">(&#252;berfahrn)</event>
+<event start="T143" end="T144">(überfahrn)</event>
 <event start="T144" end="T145">(-)</event>
 <event start="T145" end="T146">und</event>
-<event start="T146" end="T147">&#228;hm</event>
+<event start="T146" end="T147">ähm</event>
 <event start="T147" end="T148">[tongueclicking]</event>
 <event start="T148" end="T149">es</event>
 <event start="T149" end="T150">(-)</event>
@@ -450,12 +449,12 @@
 <event start="T153" end="T154">andres</event>
 <event start="T154" end="T155">auto</event>
 <event start="T155" end="T156">und</event>
-<event start="T156" end="T157">&#228;hm</event>
+<event start="T156" end="T157">ähm</event>
 <event start="T157" end="T158">[tongueclicking]</event>
-<event start="T158" end="T159">&#228;h</event>
+<event start="T158" end="T159">äh</event>
 <event start="T159" end="T160">dieses</event>
 <event start="T160" end="T161">auto</event>
-<event start="T161" end="T162">&#228;h</event>
+<event start="T161" end="T162">äh</event>
 <event start="T162" end="T163">m:usste</event>
 <event start="T163" end="T164">ga/</event>
 <event start="T164" end="T165">a/</event>
@@ -466,38 +465,38 @@
 <event start="T169" end="T170">und</event>
 <event start="T170" end="T171">is</event>
 <event start="T171" end="T172">eigentlich</event>
-<event start="T172" end="T173">&#228;hm</event>
+<event start="T172" end="T173">ähm</event>
 <event start="T173" end="T175">in=s</event>
 <event start="T175" end="T176">erst/</event>
 <event start="T176" end="T177">erstes</event>
 <event start="T177" end="T178">auto</event>
 <event start="T178" end="T179">(-)</event>
-<event start="T179" end="T180">&#228;h</event>
+<event start="T179" end="T180">äh</event>
 <event start="T180" end="T181">hingefahrn</event>
 <event start="T181" end="T182">in</event>
 <event start="T182" end="T183">reingefahrn</event>
 <event start="T183" end="T184">und</event>
-<event start="T184" end="T185">&#228;hm</event>
+<event start="T184" end="T185">ähm</event>
 <event start="T185" end="T186">(-)</event>
 <event start="T186" end="T187">[tongueclicking]</event>
 <event start="T187" end="T188">und</event>
 <event start="T188" end="T189">dann</event>
-<event start="T189" end="T190">&#228;hm</event>
+<event start="T189" end="T190">ähm</event>
 <event start="T190" end="T191">(--)</event>
 <event start="T191" end="T192">[tongueclicking]</event>
-<event start="T192" end="T193">&#228;h</event>
+<event start="T192" end="T193">äh</event>
 <event start="T193" end="T194">die</event>
 <event start="T194" end="T195">(-)</event>
 <event start="T195" end="T196">die</event>
-<event start="T196" end="T197">m&#252;sstn</event>
-<event start="T197" end="T198">&#228;hm</event>
+<event start="T196" end="T197">müsstn</event>
+<event start="T197" end="T198">ähm</event>
 <event start="T198" end="T199">(-)</event>
 <event start="T199" end="T200">die</event>
 <event start="T200" end="T201">polizei:</event>
-<event start="T201" end="T202">&#228;hm:</event>
+<event start="T201" end="T202">ähm:</event>
 <event start="T202" end="T203">anrufen</event>
 <event start="T203" end="T204">und</event>
-<event start="T204" end="T205">&#228;hm</event>
+<event start="T204" end="T205">ähm</event>
 <event start="T205" end="T206">(--)</event>
 <event start="T206" end="T207">[tongueclicking]</event>
 <event start="T207" end="T208">und</event>
@@ -507,26 +506,26 @@
 <event start="T211" end="T212">(-)</event>
 <event start="T212" end="T213">der</event>
 <event start="T213" end="T214">mann</event>
-<event start="T214" end="T215">&#228;hm</event>
+<event start="T214" end="T215">ähm</event>
 <event start="T215" end="T216">und</event>
 <event start="T216" end="T217">die</event>
 <event start="T217" end="T218">frau</event>
 <event start="T218" end="T219">(-)</event>
 <event start="T219" end="T220">ham</event>
 <event start="T220" end="T221">die</event>
-<event start="T221" end="T222">&#228;h:</event>
+<event start="T221" end="T222">äh:</event>
 <event start="T222" end="T223">frau</event>
 <event start="T223" end="T224">mit</event>
 <event start="T224" end="T225">mit</event>
 <event start="T225" end="T226">den</event>
 <event start="T226" end="T227">hund</event>
-<event start="T227" end="T228">&#228;hm</event>
+<event start="T227" end="T228">ähm</event>
 <event start="T228" end="T229">(-)</event>
 <event start="T229" end="T230">[tongueclicking]</event>
-<event start="T230" end="T231">&#228;h:</event>
+<event start="T230" end="T231">äh:</event>
 <event start="T231" end="T232">geholfen</event>
 <event start="T232" end="T233">u/</event>
-<event start="T233" end="T234">&#228;h:</event>
+<event start="T233" end="T234">äh:</event>
 <event start="T234" end="T235">um</event>
 <event start="T235" end="T236">ihre</event>
 <event start="T236" end="T237">sachen</event>
@@ -537,7 +536,7 @@
 <event start="T242" end="T243">zu</event>
 <event start="T243" end="T244">tun</event>
 <event start="T244" end="T245">und</event>
-<event start="T245" end="T246">&#228;hm</event>
+<event start="T245" end="T246">ähm</event>
 <event start="T246" end="T247">ja</event>
 <event start="T247" end="T248">aber</event>
 <event start="T248" end="T249">e:igentlich</event>
@@ -551,7 +550,7 @@
 <event start="T256" end="T257">(-)</event>
 <event start="T257" end="T258">[tongueclicking]</event>
 <event start="T258" end="T259">nichts:</event>
-<event start="T259" end="T260">&#228;h:</event>
+<event start="T259" end="T260">äh:</event>
 <event start="T260" end="T261">schlechtes</event>
 <event start="T261" end="T262">is</event>
 <event start="T262" end="T263">eigentlich</event>
@@ -559,18 +558,16 @@
 <event start="T264" end="T265">a:lso</event>
 <event start="T265" end="T266">schlecht</event>
 <event start="T266" end="T267">ja</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">&#228;h</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">äh</event>
 <event start="T2" end="T3">ja</event>
 <event start="T3" end="T4">ich</event>
-<event start="T4" end="T5">&#228;h</event>
+<event start="T4" end="T5">äh</event>
 <event start="T5" end="T6">ich</event>
 <event start="T6" end="T7">war</event>
 <event start="T7" end="T8">im</event>
 <event start="T8" end="T9">Parkplatz</event>
 <event start="T9" end="T10">und</event>
-<event start="T10" end="T11">&#228;h</event>
+<event start="T10" end="T11">äh</event>
 <event start="T13" end="T14">er</event>
 <event start="T15" end="T16">ein</event>
 <event start="T17" end="T18">so</event>
@@ -589,10 +586,10 @@
 <event start="T31" end="T32">Mann</event>
 <event start="T32" end="T33">hatte</event>
 <event start="T33" end="T34">ein</event>
-<event start="T34" end="T35">&#228;h</event>
-<event start="T35" end="T36">Fu&#223;ball</event>
+<event start="T34" end="T35">äh</event>
+<event start="T35" end="T36">Fußball</event>
 <event start="T36" end="T37">und</event>
-<event start="T37" end="T38">&#228;h</event>
+<event start="T37" end="T38">äh</event>
 <event start="T38" end="T39">die</event>
 <event start="T46" end="T47">wann</event>
 <event start="T48" end="T49">also</event>
@@ -600,68 +597,68 @@
 <event start="T52" end="T53">die</event>
 <event start="T53" end="T54">die</event>
 <event start="T54" end="T55">die</event>
-<event start="T55" end="T56">gehn</event>
+<event start="T55" end="T56">gehen</event>
 <event start="T56" end="T57">und</event>
 <event start="T57" end="T58">dann</event>
-<event start="T58" end="T59">&#228;h</event>
+<event start="T58" end="T59">äh</event>
 <event start="T59" end="T60">es</event>
 <event start="T60" end="T61">gab</event>
 <event start="T61" end="T62">eine</event>
 <event start="T62" end="T63">Frau</event>
 <event start="T63" end="T64">und</event>
-<event start="T64" end="T65">&#228;h</event>
+<event start="T64" end="T65">äh</event>
 <event start="T67" end="T68">die</event>
 <event start="T68" end="T69">hatte</event>
 <event start="T69" end="T70">ein</event>
 <event start="T70" end="T71">ein</event>
 <event start="T71" end="T72">Hund</event>
 <event start="T72" end="T73">und</event>
-<event start="T73" end="T74">&#228;h</event>
+<event start="T73" end="T74">äh</event>
 <event start="T74" end="T75">auch</event>
-<event start="T75" end="T76">&#228;h</event>
+<event start="T75" end="T76">äh</event>
 <event start="T76" end="T77">hat</event>
-<event start="T78" end="T79">&#228;h</event>
+<event start="T78" end="T79">äh</event>
 <event start="T80" end="T81">ich</event>
 <event start="T81" end="T82">glaube</event>
 <event start="T83" end="T84">gerade</event>
-<event start="T84" end="T85">&#228;h</event>
+<event start="T84" end="T85">äh</event>
 <event start="T86" end="T87">die</event>
 <event start="T87" end="T88">war</event>
 <event start="T88" end="T89">gerade</event>
-<event start="T89" end="T90">&#228;h</event>
-<event start="T92" end="T93">&#228;h</event>
+<event start="T89" end="T90">äh</event>
+<event start="T92" end="T93">äh</event>
 <event start="T93" end="T94">einkaufen</event>
 <event start="T94" end="T95">gegangen</event>
 <event start="T95" end="T96">und</event>
-<event start="T96" end="T97">&#228;h</event>
+<event start="T96" end="T97">äh</event>
 <event start="T97" end="T98">wollte</event>
 <event start="T98" end="T99">alles</event>
 <event start="T99" end="T100">in</event>
 <event start="T100" end="T101">in</event>
 <event start="T101" end="T102">das</event>
 <event start="T102" end="T103">Auto</event>
-<event start="T103" end="T104">&#228;h</event>
+<event start="T103" end="T104">äh</event>
 <event start="T104" end="T105">hin</event>
 <event start="T105" end="T106">tun</event>
 <event start="T106" end="T107">und</event>
-<event start="T108" end="T109">&#228;h</event>
+<event start="T108" end="T109">äh</event>
 <event start="T111" end="T112">ein</event>
-<event start="T112" end="T113">&#228;h</event>
+<event start="T112" end="T113">äh</event>
 <event start="T113" end="T114">Auto</event>
 <event start="T114" end="T115">ist</event>
-<event start="T115" end="T116">&#228;h</event>
+<event start="T115" end="T116">äh</event>
 <event start="T116" end="T117">im</event>
 <event start="T118" end="T119">Parkplatz</event>
 <event start="T119" end="T120">gefahren</event>
 <event start="T120" end="T121">und</event>
-<event start="T121" end="T122">&#228;h</event>
+<event start="T121" end="T122">äh</event>
 <event start="T122" end="T123">musste</event>
-<event start="T123" end="T124">&#228;h</event>
+<event start="T123" end="T124">äh</event>
 <event start="T124" end="T125">ganz</event>
 <event start="T125" end="T126">schnell</event>
 <event start="T126" end="T127">stoppen</event>
 <event start="T128" end="T129">und</event>
-<event start="T129" end="T130">&#228;h</event>
+<event start="T129" end="T130">äh</event>
 <event start="T130" end="T131">weil</event>
 <event start="T131" end="T132">die</event>
 <event start="T132" end="T133">das</event>
@@ -670,12 +667,11 @@
 <event start="T135" end="T136">die</event>
 <event start="T136" end="T137">Frau</event>
 <event start="T137" end="T138">nicht</event>
-<event start="T138" end="T139">&#228;h</event>
-<event start="T140" end="T141">&#228;h</event>
-<event start="T141" end="T142">(-)</event>
-<event start="T142" end="T144">hin&#252;berfahren</event>
+<event start="T138" end="T139">äh</event>
+<event start="T140" end="T141">äh</event>
+<event start="T142" end="T144">hinüberfahren</event>
 <event start="T145" end="T146">und</event>
-<event start="T146" end="T147">&#228;h</event>
+<event start="T146" end="T147">äh</event>
 <event start="T148" end="T149">es</event>
 <event start="T150" end="T151">dann</event>
 <event start="T151" end="T152">kam</event>
@@ -683,11 +679,11 @@
 <event start="T153" end="T154">anderes</event>
 <event start="T154" end="T155">auto</event>
 <event start="T155" end="T156">und</event>
-<event start="T156" end="T157">&#228;h</event>
-<event start="T158" end="T159">&#228;h</event>
+<event start="T156" end="T157">äh</event>
+<event start="T158" end="T159">äh</event>
 <event start="T159" end="T160">dieses</event>
 <event start="T160" end="T161">Auto</event>
-<event start="T161" end="T162">&#228;h</event>
+<event start="T161" end="T162">äh</event>
 <event start="T162" end="T163">musste</event>
 <event start="T165" end="T166">auch</event>
 <event start="T166" end="T167">ganz</event>
@@ -696,53 +692,53 @@
 <event start="T169" end="T170">und</event>
 <event start="T170" end="T171">ist</event>
 <event start="T171" end="T172">eigentlich</event>
-<event start="T172" end="T173">&#228;h</event>
+<event start="T172" end="T173">äh</event>
 <event start="T173" end="T174">in</event>
 <event start="T174" end="T175">das</event>
 <event start="T176" end="T177">erstes</event>
 <event start="T177" end="T178">Auto</event>
-<event start="T179" end="T180">&#228;h</event>
+<event start="T179" end="T180">äh</event>
 <event start="T180" end="T181">hingefahren</event>
 <event start="T181" end="T182">in</event>
 <event start="T182" end="T183">reingefahren</event>
 <event start="T183" end="T184">und</event>
-<event start="T184" end="T185">&#228;h</event>
+<event start="T184" end="T185">äh</event>
 <event start="T187" end="T188">und</event>
 <event start="T188" end="T189">dann</event>
-<event start="T189" end="T190">&#228;h</event>
-<event start="T192" end="T193">&#228;h</event>
+<event start="T189" end="T190">äh</event>
+<event start="T192" end="T193">äh</event>
 <event start="T193" end="T194">die</event>
 <event start="T195" end="T196">die</event>
-<event start="T196" end="T197">m&#252;ssten</event>
-<event start="T197" end="T198">&#228;h</event>
+<event start="T196" end="T197">müssten</event>
+<event start="T197" end="T198">äh</event>
 <event start="T199" end="T200">die</event>
 <event start="T200" end="T201">Polizei</event>
-<event start="T201" end="T202">&#228;h</event>
+<event start="T201" end="T202">äh</event>
 <event start="T202" end="T203">anrufen</event>
 <event start="T203" end="T204">und</event>
-<event start="T204" end="T205">&#228;h</event>
+<event start="T204" end="T205">äh</event>
 <event start="T207" end="T208">und</event>
 <event start="T208" end="T209">dann</event>
 <event start="T209" end="T210">der</event>
 <event start="T210" end="T211">der</event>
 <event start="T212" end="T213">der</event>
 <event start="T213" end="T214">Mann</event>
-<event start="T214" end="T215">&#228;h</event>
+<event start="T214" end="T215">äh</event>
 <event start="T215" end="T216">und</event>
 <event start="T216" end="T217">die</event>
 <event start="T217" end="T218">Frau</event>
 <event start="T219" end="T220">haben</event>
 <event start="T220" end="T221">die</event>
-<event start="T221" end="T222">&#228;h</event>
+<event start="T221" end="T222">äh</event>
 <event start="T222" end="T223">Frau</event>
 <event start="T223" end="T224">mit</event>
 <event start="T224" end="T225">mit</event>
 <event start="T225" end="T226">den</event>
 <event start="T226" end="T227">Hund</event>
-<event start="T227" end="T228">&#228;h</event>
-<event start="T230" end="T231">&#228;h</event>
+<event start="T227" end="T228">äh</event>
+<event start="T230" end="T231">äh</event>
 <event start="T231" end="T232">geholfen</event>
-<event start="T233" end="T234">&#228;h</event>
+<event start="T233" end="T234">äh</event>
 <event start="T234" end="T235">um</event>
 <event start="T235" end="T236">ihre</event>
 <event start="T236" end="T237">Sachen</event>
@@ -753,7 +749,7 @@
 <event start="T242" end="T243">zu</event>
 <event start="T243" end="T244">tun</event>
 <event start="T244" end="T245">und</event>
-<event start="T245" end="T246">&#228;h</event>
+<event start="T245" end="T246">äh</event>
 <event start="T246" end="T247">ja</event>
 <event start="T247" end="T248">aber</event>
 <event start="T248" end="T249">eigentlich</event>
@@ -762,9 +758,9 @@
 <event start="T251" end="T252">okay</event>
 <event start="T252" end="T253">und</event>
 <event start="T253" end="T254">nichts</event>
-<event start="T255" end="T256">&#228;h</event>
+<event start="T255" end="T256">äh</event>
 <event start="T258" end="T259">nichts</event>
-<event start="T259" end="T260">&#228;h</event>
+<event start="T259" end="T260">äh</event>
 <event start="T260" end="T261">Schlechtes</event>
 <event start="T261" end="T262">ist</event>
 <event start="T262" end="T263">eigentlich</event>
@@ -772,9 +768,7 @@
 <event start="T264" end="T265">also</event>
 <event start="T265" end="T266">schlecht</event>
 <event start="T266" end="T267">ja</event>
-</tier>
-<tier id="TIE17" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">deu</event>
+</tier><tier id="TIE17" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">deu</event>
 <event start="T1" end="T2">deu</event>
 <event start="T2" end="T3">deu</event>
 <event start="T3" end="T4">deu</event>
@@ -1037,9 +1031,7 @@
 <event start="T264" end="T265">deu</event>
 <event start="T265" end="T266">deu</event>
 <event start="T266" end="T267">deu</event>
-</tier>
-<tier id="TIE18" speaker="dipl" category="nv" type="a" display-name="dipl [nv]">
-<event start="T1" end="T2">tongueclicking</event>
+</tier><tier id="TIE18" speaker="dipl" category="nv" type="a" display-name="dipl [nv]"><event start="T1" end="T2">tongueclicking</event>
 <event start="T12" end="T13">tongueclicking</event>
 <event start="T66" end="T67">tongueclicking</event>
 <event start="T91" end="T92">tongueclicking</event>
@@ -1052,53 +1044,467 @@
 <event start="T206" end="T207">tongueclicking</event>
 <event start="T229" end="T230">tongueclicking</event>
 <event start="T257" end="T258">tongueclicking</event>
-</tier>
-<tier id="TIE16" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T9">&#228;hm [tongueclicking] ja ich &#228;hm: ich war im parkplatz </event>
-<event start="T9" end="T28">und &#246;m (-) [tongueclicking] er (-) ein (-) so (-) zwei leute mit ein ich glaub mit ein baby </event>
-<event start="T28" end="T36">und der der mann hatte ein &#228;hm fu&#223;ball </event>
-<event start="T36" end="T56">und &#228;h die (-) w&#228;/ m/ ts/ wa/ (-) w/ wann (-) also i/ (-) laufen die die die gehn </event>
-<event start="T56" end="T63">und dann &#228;hm es gab eine frau </event>
-<event start="T63" end="T72">und &#228;hm (-) [tongueclicking] die hatte ein ein hund </event>
-<event start="T72" end="T95">und &#228;hm auch &#228;h hat (-) &#228;hm (-) ich: glaube (-) grad hm (-) die war grad &#228;hm (-) [tongueclicking] &#228;h einkaufen gegangen </event>
-<event start="T95" end="T106">und &#228;hm: wollte alles in in=s auto &#228;hm hintun </event>
-<event start="T106" end="T120">und (-) &#228;hm (-) [tongueclicking] ein &#228;h auto is &#228;hm im pap/ parkplatz gefahrn </event>
-<event start="T120" end="T127">und &#228;hm musste &#228;hm ganz schnell stoppen </event>
+</tier><tier id="TIE19" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">äh</event>
+<event start="T2" end="T3">ja</event>
+<event start="T3" end="T4">ich</event>
+<event start="T4" end="T5">äh</event>
+<event start="T5" end="T6">ich</event>
+<event start="T6" end="T7">sein</event>
+<event start="T7" end="T8">im</event>
+<event start="T8" end="T9">Parkplatz</event>
+<event start="T9" end="T10">und</event>
+<event start="T10" end="T11">äh</event>
+<event start="T13" end="T14">er</event>
+<event start="T15" end="T16">ein</event>
+<event start="T17" end="T18">so</event>
+<event start="T19" end="T20">zwei</event>
+<event start="T20" end="T21">Leute</event>
+<event start="T21" end="T22">mit</event>
+<event start="T22" end="T23">ein</event>
+<event start="T23" end="T24">ich</event>
+<event start="T24" end="T25">glaub</event>
+<event start="T25" end="T26">mit</event>
+<event start="T26" end="T27">ein</event>
+<event start="T27" end="T28">Baby</event>
+<event start="T28" end="T29">und</event>
+<event start="T29" end="T30">d</event>
+<event start="T30" end="T31">d</event>
+<event start="T31" end="T32">Mann</event>
+<event start="T32" end="T33">haben</event>
+<event start="T33" end="T34">ein</event>
+<event start="T34" end="T35">äh</event>
+<event start="T35" end="T36">Fußball</event>
+<event start="T36" end="T37">und</event>
+<event start="T37" end="T38">äh</event>
+<event start="T38" end="T39">die</event>
+<event start="T46" end="T47">wann</event>
+<event start="T48" end="T49">also</event>
+<event start="T51" end="T52">laufen</event>
+<event start="T52" end="T53">die</event>
+<event start="T53" end="T54">die</event>
+<event start="T54" end="T55">die</event>
+<event start="T55" end="T56">gehen</event>
+<event start="T56" end="T57">und</event>
+<event start="T57" end="T58">dann</event>
+<event start="T58" end="T59">äh</event>
+<event start="T59" end="T60">es</event>
+<event start="T60" end="T61">geben</event>
+<event start="T61" end="T62">eine</event>
+<event start="T62" end="T63">Frau</event>
+<event start="T63" end="T64">und</event>
+<event start="T64" end="T65">äh</event>
+<event start="T67" end="T68">die</event>
+<event start="T68" end="T69">haben</event>
+<event start="T69" end="T70">ein</event>
+<event start="T70" end="T71">ein</event>
+<event start="T71" end="T72">Hund</event>
+<event start="T72" end="T73">und</event>
+<event start="T73" end="T74">äh</event>
+<event start="T74" end="T75">auch</event>
+<event start="T75" end="T76">äh</event>
+<event start="T76" end="T77">haben</event>
+<event start="T78" end="T79">äh</event>
+<event start="T80" end="T81">ich</event>
+<event start="T81" end="T82">glauben</event>
+<event start="T83" end="T84">gerade</event>
+<event start="T84" end="T85">äh</event>
+<event start="T86" end="T87">die</event>
+<event start="T87" end="T88">sein</event>
+<event start="T88" end="T89">gerade</event>
+<event start="T89" end="T90">äh</event>
+<event start="T92" end="T93">äh</event>
+<event start="T93" end="T94">einkaufen</event>
+<event start="T94" end="T95">gehen</event>
+<event start="T95" end="T96">und</event>
+<event start="T96" end="T97">äh</event>
+<event start="T97" end="T98">wollen</event>
+<event start="T98" end="T99">alles</event>
+<event start="T99" end="T100">in</event>
+<event start="T100" end="T101">in</event>
+<event start="T101" end="T102">d</event>
+<event start="T102" end="T103">Auto</event>
+<event start="T103" end="T104">äh</event>
+<event start="T104" end="T105">hin</event>
+<event start="T105" end="T106">tun</event>
+<event start="T106" end="T107">und</event>
+<event start="T108" end="T109">äh</event>
+<event start="T111" end="T112">ein</event>
+<event start="T112" end="T113">äh</event>
+<event start="T113" end="T114">Auto</event>
+<event start="T114" end="T115">sein</event>
+<event start="T115" end="T116">äh</event>
+<event start="T116" end="T117">im</event>
+<event start="T118" end="T119">Parkplatz</event>
+<event start="T119" end="T120">fahren</event>
+<event start="T120" end="T121">und</event>
+<event start="T121" end="T122">äh</event>
+<event start="T122" end="T123">müssen</event>
+<event start="T123" end="T124">äh</event>
+<event start="T124" end="T125">ganz</event>
+<event start="T125" end="T126">schnell</event>
+<event start="T126" end="T127">stoppen</event>
+<event start="T128" end="T129">und</event>
+<event start="T129" end="T130">äh</event>
+<event start="T130" end="T131">weil</event>
+<event start="T131" end="T132">die</event>
+<event start="T132" end="T133">d</event>
+<event start="T133" end="T134">Auto</event>
+<event start="T134" end="T135">wollen</event>
+<event start="T135" end="T136">d</event>
+<event start="T136" end="T137">Frau</event>
+<event start="T137" end="T138">nicht</event>
+<event start="T138" end="T139">äh</event>
+<event start="T140" end="T141">äh</event>
+<event start="T142" end="T144">hinüberfahren</event>
+<event start="T145" end="T146">und</event>
+<event start="T146" end="T147">äh</event>
+<event start="T148" end="T149">es</event>
+<event start="T150" end="T151">dann</event>
+<event start="T151" end="T152">kommen</event>
+<event start="T152" end="T153">ein</event>
+<event start="T153" end="T154">anderes</event>
+<event start="T154" end="T155">Auto</event>
+<event start="T155" end="T156">und</event>
+<event start="T156" end="T157">äh</event>
+<event start="T158" end="T159">äh</event>
+<event start="T159" end="T160">diese</event>
+<event start="T160" end="T161">Auto</event>
+<event start="T161" end="T162">äh</event>
+<event start="T162" end="T163">müssen</event>
+<event start="T165" end="T166">auch</event>
+<event start="T166" end="T167">ganz</event>
+<event start="T167" end="T168">schnell</event>
+<event start="T168" end="T169">stoppen</event>
+<event start="T169" end="T170">und</event>
+<event start="T170" end="T171">sein</event>
+<event start="T171" end="T172">eigentlich</event>
+<event start="T172" end="T173">äh</event>
+<event start="T173" end="T174">in</event>
+<event start="T174" end="T175">d</event>
+<event start="T176" end="T177">erste</event>
+<event start="T177" end="T178">Auto</event>
+<event start="T179" end="T180">äh</event>
+<event start="T180" end="T181">hinfahren</event>
+<event start="T181" end="T182">in</event>
+<event start="T182" end="T183">reinfahren</event>
+<event start="T183" end="T184">und</event>
+<event start="T184" end="T185">äh</event>
+<event start="T187" end="T188">und</event>
+<event start="T188" end="T189">dann</event>
+<event start="T189" end="T190">äh</event>
+<event start="T192" end="T193">äh</event>
+<event start="T193" end="T194">die</event>
+<event start="T195" end="T196">die</event>
+<event start="T196" end="T197">müssen</event>
+<event start="T197" end="T198">äh</event>
+<event start="T199" end="T200">d</event>
+<event start="T200" end="T201">Polizei</event>
+<event start="T201" end="T202">äh</event>
+<event start="T202" end="T203">anrufen</event>
+<event start="T203" end="T204">und</event>
+<event start="T204" end="T205">äh</event>
+<event start="T207" end="T208">und</event>
+<event start="T208" end="T209">dann</event>
+<event start="T209" end="T210">d</event>
+<event start="T210" end="T211">d</event>
+<event start="T212" end="T213">d</event>
+<event start="T213" end="T214">Mann</event>
+<event start="T214" end="T215">äh</event>
+<event start="T215" end="T216">und</event>
+<event start="T216" end="T217">d</event>
+<event start="T217" end="T218">Frau</event>
+<event start="T219" end="T220">haben</event>
+<event start="T220" end="T221">d</event>
+<event start="T221" end="T222">äh</event>
+<event start="T222" end="T223">Frau</event>
+<event start="T223" end="T224">mit</event>
+<event start="T224" end="T225">mit</event>
+<event start="T225" end="T226">d</event>
+<event start="T226" end="T227">Hund</event>
+<event start="T227" end="T228">äh</event>
+<event start="T230" end="T231">äh</event>
+<event start="T231" end="T232">helfen</event>
+<event start="T233" end="T234">äh</event>
+<event start="T234" end="T235">um</event>
+<event start="T235" end="T236">ihr</event>
+<event start="T236" end="T237">Sache</event>
+<event start="T238" end="T239">wieder</event>
+<event start="T239" end="T240">in</event>
+<event start="T240" end="T241">d</event>
+<event start="T241" end="T242">Beutel</event>
+<event start="T242" end="T243">zu</event>
+<event start="T243" end="T244">tun</event>
+<event start="T244" end="T245">und</event>
+<event start="T245" end="T246">äh</event>
+<event start="T246" end="T247">ja</event>
+<event start="T247" end="T248">aber</event>
+<event start="T248" end="T249">eigentlich</event>
+<event start="T249" end="T250">alle</event>
+<event start="T250" end="T251">sein</event>
+<event start="T251" end="T252">okay</event>
+<event start="T252" end="T253">und</event>
+<event start="T253" end="T254">nichts</event>
+<event start="T255" end="T256">äh</event>
+<event start="T258" end="T259">nichts</event>
+<event start="T259" end="T260">äh</event>
+<event start="T260" end="T261">Schlechte</event>
+<event start="T261" end="T262">sein</event>
+<event start="T262" end="T263">eigentlich</event>
+<event start="T263" end="T264">passieren</event>
+<event start="T264" end="T265">also</event>
+<event start="T265" end="T266">schlecht</event>
+<event start="T266" end="T267">ja</event>
+</tier><tier id="TIE21" speaker="norm" category="pos_lang" type="a" display-name="norm [pos_lang]"><event start="T0" end="T1">NGHES</event>
+<event start="T2" end="T3">NGIRR</event>
+<event start="T3" end="T4">PPER</event>
+<event start="T4" end="T5">NGHES</event>
+<event start="T5" end="T6">PPER</event>
+<event start="T6" end="T7">VAFIN</event>
+<event start="T7" end="T8">APPRART</event>
+<event start="T8" end="T9">NN</event>
+<event start="T9" end="T10">KON</event>
+<event start="T10" end="T11">NGHES</event>
+<event start="T13" end="T14">PPER</event>
+<event start="T15" end="T16">ART</event>
+<event start="T17" end="T18">PTKIFG</event>
+<event start="T19" end="T20">CARD</event>
+<event start="T20" end="T21">NN</event>
+<event start="T21" end="T22">APPR</event>
+<event start="T22" end="T23">ART</event>
+<event start="T23" end="T24">PPER</event>
+<event start="T24" end="T25">VVFIN</event>
+<event start="T25" end="T26">APPR</event>
+<event start="T26" end="T27">ART</event>
+<event start="T27" end="T28">NN</event>
+<event start="T28" end="T29">KON</event>
+<event start="T29" end="T30">ART</event>
+<event start="T30" end="T31">ART</event>
+<event start="T31" end="T32">NN</event>
+<event start="T32" end="T33">VAFIN</event>
+<event start="T33" end="T34">ART</event>
+<event start="T34" end="T35">NGHES</event>
+<event start="T35" end="T36">NN</event>
+<event start="T36" end="T37">KON</event>
+<event start="T37" end="T38">NGHES</event>
+<event start="T38" end="T39">PDS</event>
+<event start="T46" end="T47">PWAV</event>
+<event start="T48" end="T49">SEDM</event>
+<event start="T51" end="T52">VVINF</event>
+<event start="T52" end="T53">PDS</event>
+<event start="T53" end="T54">PDS</event>
+<event start="T54" end="T55">PDS</event>
+<event start="T55" end="T56">ADJA</event>
+<event start="T56" end="T57">KON</event>
+<event start="T57" end="T58">ADV</event>
+<event start="T58" end="T59">NGHES</event>
+<event start="T59" end="T60">PPER</event>
+<event start="T60" end="T61">VVFIN</event>
+<event start="T61" end="T62">ART</event>
+<event start="T62" end="T63">NN</event>
+<event start="T63" end="T64">KON</event>
+<event start="T64" end="T65">NGHES</event>
+<event start="T67" end="T68">PDS</event>
+<event start="T68" end="T69">VAFIN</event>
+<event start="T69" end="T70">ART</event>
+<event start="T70" end="T71">ART</event>
+<event start="T71" end="T72">NN</event>
+<event start="T72" end="T73">KON</event>
+<event start="T73" end="T74">NGHES</event>
+<event start="T74" end="T75">PTKIFG</event>
+<event start="T75" end="T76">NGHES</event>
+<event start="T76" end="T77">VAFIN</event>
+<event start="T78" end="T79">NGHES</event>
+<event start="T80" end="T81">PPER</event>
+<event start="T81" end="T82">VVFIN</event>
+<event start="T83" end="T84">ADV</event>
+<event start="T84" end="T85">NGHES</event>
+<event start="T86" end="T87">PDS</event>
+<event start="T87" end="T88">VAFIN</event>
+<event start="T88" end="T89">PTKIFG</event>
+<event start="T89" end="T90">NGHES</event>
+<event start="T92" end="T93">NGHES</event>
+<event start="T93" end="T94">VVINF</event>
+<event start="T94" end="T95">VVPP</event>
+<event start="T95" end="T96">KON</event>
+<event start="T96" end="T97">NGHES</event>
+<event start="T97" end="T98">VMFIN</event>
+<event start="T98" end="T99">PIS</event>
+<event start="T99" end="T100">APPR</event>
+<event start="T100" end="T101">APPR</event>
+<event start="T101" end="T102">ART</event>
+<event start="T102" end="T103">NN</event>
+<event start="T103" end="T104">NGHES</event>
+<event start="T104" end="T105">ADV</event>
+<event start="T105" end="T106">VVINF</event>
+<event start="T106" end="T107">KON</event>
+<event start="T108" end="T109">NGHES</event>
+<event start="T111" end="T112">ART</event>
+<event start="T112" end="T113">NGHES</event>
+<event start="T113" end="T114">NN</event>
+<event start="T114" end="T115">VAFIN</event>
+<event start="T115" end="T116">NGHES</event>
+<event start="T116" end="T117">APPRART</event>
+<event start="T118" end="T119">NN</event>
+<event start="T119" end="T120">VVPP</event>
+<event start="T120" end="T121">KON</event>
+<event start="T121" end="T122">NGHES</event>
+<event start="T122" end="T123">VMFIN</event>
+<event start="T123" end="T124">NGHES</event>
+<event start="T124" end="T125">PTKIFG</event>
+<event start="T125" end="T126">ADJD</event>
+<event start="T126" end="T127">VVINF</event>
+<event start="T128" end="T129">KON</event>
+<event start="T129" end="T130">NGHES</event>
+<event start="T130" end="T131">KOUS</event>
+<event start="T131" end="T132">PDS</event>
+<event start="T132" end="T133">ART</event>
+<event start="T133" end="T134">NN</event>
+<event start="T134" end="T135">VMFIN</event>
+<event start="T135" end="T136">ART</event>
+<event start="T136" end="T137">NN</event>
+<event start="T137" end="T138">PTKNEG</event>
+<event start="T138" end="T139">NGHES</event>
+<event start="T140" end="T141">NGHES</event>
+<event start="T142" end="T144">VVINF</event>
+<event start="T145" end="T146">KON</event>
+<event start="T146" end="T147">NGHES</event>
+<event start="T148" end="T149">PPER</event>
+<event start="T150" end="T151">ADV</event>
+<event start="T151" end="T152">VVFIN</event>
+<event start="T152" end="T153">ART</event>
+<event start="T153" end="T154">PIDAT</event>
+<event start="T154" end="T155">NN</event>
+<event start="T155" end="T156">KON</event>
+<event start="T156" end="T157">NGHES</event>
+<event start="T158" end="T159">NGHES</event>
+<event start="T159" end="T160">PDAT</event>
+<event start="T160" end="T161">NN</event>
+<event start="T161" end="T162">NGHES</event>
+<event start="T162" end="T163">VMFIN</event>
+<event start="T165" end="T166">PTKIFG</event>
+<event start="T166" end="T167">PTKIFG</event>
+<event start="T167" end="T168">ADJD</event>
+<event start="T168" end="T169">VVINF</event>
+<event start="T169" end="T170">KON</event>
+<event start="T170" end="T171">VAFIN</event>
+<event start="T171" end="T172">ADV</event>
+<event start="T172" end="T173">NGHES</event>
+<event start="T173" end="T174">APPR</event>
+<event start="T174" end="T175">ART</event>
+<event start="T176" end="T177">ORD</event>
+<event start="T177" end="T178">NN</event>
+<event start="T179" end="T180">NGHES</event>
+<event start="T180" end="T181">VVPP</event>
+<event start="T181" end="T182">APPR</event>
+<event start="T182" end="T183">VVPP</event>
+<event start="T183" end="T184">KON</event>
+<event start="T184" end="T185">NGHES</event>
+<event start="T187" end="T188">KON</event>
+<event start="T188" end="T189">ADV</event>
+<event start="T189" end="T190">NGHES</event>
+<event start="T192" end="T193">NGHES</event>
+<event start="T193" end="T194">PDS</event>
+<event start="T195" end="T196">PDS</event>
+<event start="T196" end="T197">VVFIN</event>
+<event start="T197" end="T198">NGHES</event>
+<event start="T199" end="T200">ART</event>
+<event start="T200" end="T201">NN</event>
+<event start="T201" end="T202">NGHES</event>
+<event start="T202" end="T203">VVINF</event>
+<event start="T203" end="T204">KON</event>
+<event start="T204" end="T205">NGHES</event>
+<event start="T207" end="T208">KON</event>
+<event start="T208" end="T209">ADV</event>
+<event start="T209" end="T210">ART</event>
+<event start="T210" end="T211">ART</event>
+<event start="T212" end="T213">ART</event>
+<event start="T213" end="T214">NN</event>
+<event start="T214" end="T215">NGHES</event>
+<event start="T215" end="T216">KON</event>
+<event start="T216" end="T217">ART</event>
+<event start="T217" end="T218">NN</event>
+<event start="T219" end="T220">VAFIN</event>
+<event start="T220" end="T221">ART</event>
+<event start="T221" end="T222">NGHES</event>
+<event start="T222" end="T223">NN</event>
+<event start="T223" end="T224">APPR</event>
+<event start="T224" end="T225">APPR</event>
+<event start="T225" end="T226">ART</event>
+<event start="T226" end="T227">NN</event>
+<event start="T227" end="T228">NGHES</event>
+<event start="T230" end="T231">NGHES</event>
+<event start="T231" end="T232">VVPP</event>
+<event start="T233" end="T234">NGHES</event>
+<event start="T234" end="T235">APPR</event>
+<event start="T235" end="T236">PPOSAT</event>
+<event start="T236" end="T237">NN</event>
+<event start="T238" end="T239">ADV</event>
+<event start="T239" end="T240">APPR</event>
+<event start="T240" end="T241">ART</event>
+<event start="T241" end="T242">NN</event>
+<event start="T242" end="T243">PTKZU</event>
+<event start="T243" end="T244">VVINF</event>
+<event start="T244" end="T245">KON</event>
+<event start="T245" end="T246">NGHES</event>
+<event start="T246" end="T247">NGIRR</event>
+<event start="T247" end="T248">KON</event>
+<event start="T248" end="T249">ADV</event>
+<event start="T249" end="T250">PIS</event>
+<event start="T250" end="T251">VAFIN</event>
+<event start="T251" end="T252">ADJD</event>
+<event start="T252" end="T253">KON</event>
+<event start="T253" end="T254">PIS</event>
+<event start="T255" end="T256">NGHES</event>
+<event start="T258" end="T259">PIS</event>
+<event start="T259" end="T260">NGHES</event>
+<event start="T260" end="T261">NN</event>
+<event start="T261" end="T262">VAFIN</event>
+<event start="T262" end="T263">ADV</event>
+<event start="T263" end="T264">VVPP</event>
+<event start="T264" end="T265">SEDM</event>
+<event start="T265" end="T266">ADJD</event>
+<event start="T266" end="T267">NGIRR</event>
+</tier><tier id="TIE16" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T9">ähm [tongueclicking] ja ich ähm: ich war im parkplatz </event>
+<event start="T9" end="T28">und öm (-) [tongueclicking] er (-) ein (-) so (-) zwei leute mit ein ich glaub mit ein baby </event>
+<event start="T28" end="T36">und der der mann hatte ein ähm fußball </event>
+<event start="T36" end="T56">und äh die (-) wä/ m/ ts/ wa/ (-) w/ wann (-) also i/ (-) laufen die die die gehn </event>
+<event start="T56" end="T63">und dann ähm es gab eine frau </event>
+<event start="T63" end="T72">und ähm (-) [tongueclicking] die hatte ein ein hund </event>
+<event start="T72" end="T95">und ähm auch äh hat (-) ähm (-) ich: glaube (-) grad hm (-) die war grad ähm (-) [tongueclicking] äh einkaufen gegangen </event>
+<event start="T95" end="T106">und ähm: wollte alles in in=s auto ähm hintun </event>
+<event start="T106" end="T120">und (-) ähm (-) [tongueclicking] ein äh auto is ähm im pap/ parkplatz gefahrn </event>
+<event start="T120" end="T127">und ähm musste ähm ganz schnell stoppen </event>
 <event start="T127" end="T128">(-)</event>
-<event start="T128" end="T144">und &#228;h weil: die das auto wollte die frau nicht &#228;hm [[laughing] (-) &#228;h (-) hi:n (&#252;berfahrn)] </event>
+<event start="T128" end="T144">und äh weil: die das auto wollte die frau nicht ähm [[laughing] (-) äh (-) hi:n (überfahrn)] </event>
 <event start="T144" end="T145">(-)  </event>
-<event start="T145" end="T155">und &#228;hm [tongueclicking] es (-) dann kam ein andres auto </event>
-<event start="T155" end="T169">und &#228;hm [tongueclicking] &#228;h dieses auto &#228;h m:usste ga/ a/ auch ganz schnell stoppen </event>
-<event start="T169" end="T183">und is eigentlich &#228;hm in=s erst/ erstes auto (-) &#228;h hingefahrn in reingefahrn </event>
-<event start="T183" end="T203">und &#228;hm (-) [tongueclicking] und dann &#228;hm (--) [tongueclicking] &#228;h die (-) die m&#252;sstn &#228;hm (-) die polizei: &#228;hm: anrufen </event>
-<event start="T203" end="T232">und &#228;hm (--) [tongueclicking] und dann der der (-) der mann &#228;hm und die frau (-) ham die &#228;h: frau mit mit den hund &#228;hm (-) [tongueclicking] &#228;h: geholfen </event>
-<event start="T232" end="T244">u/ &#228;h: um ihre sachen (-) wieder in=s beutel zu tun </event>
-<event start="T244" end="T252">und &#228;hm ja aber e:igentlich alles: war oke: </event>
-<event start="T252" end="T267">und nichts (-) ahm (-) [tongueclicking] nichts: &#228;h: schlechtes is eigentlich passiert a:lso schlecht ja</event>
-</tier>
-<tier id="TIE2" speaker="norm" category="CU" type="a" display-name="norm [CU]">
-<event start="T0" end="T9">&#228;hm [tongueclicking] ja ich &#228;hm: ich war im parkplatz </event>
-<event start="T9" end="T28">und &#246;m (-) [tongueclicking] er (-) ein (-) so (-) zwei leute mit ein ich glaub mit ein baby </event>
-<event start="T28" end="T36">und der der mann hatte ein &#228;hm fu&#223;ball </event>
-<event start="T36" end="T56">und &#228;h die (-) w&#228;/ m/ ts/ wa/ (-) w/ wann (-) also i/ (-) laufen die die die gehn </event>
-<event start="T56" end="T63">und dann &#228;hm es gab eine frau </event>
-<event start="T63" end="T72">und &#228;hm (-) [tongueclicking] die hatte ein ein hund </event>
-<event start="T72" end="T95">und &#228;hm auch &#228;h hat (-) &#228;hm (-) ich: glaube (-) grad hm (-) die war grad &#228;hm (-) [tongueclicking] &#228;h einkaufen gegangen </event>
-<event start="T95" end="T106">und &#228;hm: wollte alles in in=s auto &#228;hm hintun </event>
-<event start="T106" end="T120">und (-) &#228;hm (-) [tongueclicking] ein &#228;h auto is &#228;hm im pap/ parkplatz gefahrn </event>
-<event start="T120" end="T127">und &#228;hm musste &#228;hm ganz schnell stoppen </event>
-<event start="T128" end="T144">und &#228;h weil: die das auto wollte die frau nicht &#228;hm [[laughing] (-) &#228;h (-) hi:n (&#252;berfahrn)] </event>
-<event start="T145" end="T155">und &#228;hm [tongueclicking] es (-) dann kam ein andres auto </event>
-<event start="T155" end="T169">und &#228;hm [tongueclicking] &#228;h dieses auto &#228;h m:usste ga/ a/ auch ganz schnell stoppen </event>
-<event start="T169" end="T183">und is eigentlich &#228;hm in=s erst/ erstes auto (-) &#228;h hingefahrn in reingefahrn </event>
-<event start="T183" end="T203">und &#228;hm (-) [tongueclicking] und dann &#228;hm (--) [tongueclicking] &#228;h die (-) die m&#252;sstn &#228;hm (-) die polizei: &#228;hm: anrufen </event>
-<event start="T203" end="T232">und &#228;hm (--) [tongueclicking] und dann der der (-) der mann &#228;hm und die frau (-) ham die &#228;h: frau mit mit den hund &#228;hm (-) [tongueclicking] &#228;h: geholfen </event>
-<event start="T233" end="T244">u/ &#228;h: um ihre sachen (-) wieder in=s beutel zu tun </event>
-<event start="T244" end="T252">und &#228;hm ja aber e:igentlich alles: war oke: </event>
-<event start="T252" end="T267">und nichts (-) ahm (-) [tongueclicking] nichts: &#228;h: schlechtes is eigentlich passiert a:lso schlecht ja</event>
-</tier>
-<tier id="TIE3" speaker="norm" category="Case" type="a" display-name="norm [Case]">
-<event start="T3" end="T4">Nom</event>
+<event start="T145" end="T155">und ähm [tongueclicking] es (-) dann kam ein andres auto </event>
+<event start="T155" end="T169">und ähm [tongueclicking] äh dieses auto äh m:usste ga/ a/ auch ganz schnell stoppen </event>
+<event start="T169" end="T183">und is eigentlich ähm in=s erst/ erstes auto (-) äh hingefahrn in reingefahrn </event>
+<event start="T183" end="T203">und ähm (-) [tongueclicking] und dann ähm (--) [tongueclicking] äh die (-) die müsstn ähm (-) die polizei: ähm: anrufen </event>
+<event start="T203" end="T232">und ähm (--) [tongueclicking] und dann der der (-) der mann ähm und die frau (-) ham die äh: frau mit mit den hund ähm (-) [tongueclicking] äh: geholfen </event>
+<event start="T232" end="T244">u/ äh: um ihre sachen (-) wieder in=s beutel zu tun </event>
+<event start="T244" end="T252">und ähm ja aber e:igentlich alles: war oke: </event>
+<event start="T252" end="T267">und nichts (-) ahm (-) [tongueclicking] nichts: äh: schlechtes is eigentlich passiert a:lso schlecht ja</event>
+</tier><tier id="TIE2" speaker="norm" category="CU" type="a" display-name="norm [CU]"><event start="T0" end="T9">ähm [tongueclicking] ja ich ähm: ich war im parkplatz </event>
+<event start="T9" end="T28">und öm (-) [tongueclicking] er (-) ein (-) so (-) zwei leute mit ein ich glaub mit ein baby </event>
+<event start="T28" end="T36">und der der mann hatte ein ähm fußball </event>
+<event start="T36" end="T56">und äh die (-) wä/ m/ ts/ wa/ (-) w/ wann (-) also i/ (-) laufen die die die gehn </event>
+<event start="T56" end="T63">und dann ähm es gab eine frau </event>
+<event start="T63" end="T72">und ähm (-) [tongueclicking] die hatte ein ein hund </event>
+<event start="T72" end="T95">und ähm auch äh hat (-) ähm (-) ich: glaube (-) grad hm (-) die war grad ähm (-) [tongueclicking] äh einkaufen gegangen </event>
+<event start="T95" end="T106">und ähm: wollte alles in in=s auto ähm hintun </event>
+<event start="T106" end="T120">und (-) ähm (-) [tongueclicking] ein äh auto is ähm im pap/ parkplatz gefahrn </event>
+<event start="T120" end="T127">und ähm musste ähm ganz schnell stoppen </event>
+<event start="T128" end="T144">und äh weil: die das auto wollte die frau nicht ähm [[laughing] (-) äh (-) hi:n (überfahrn)] </event>
+<event start="T145" end="T155">und ähm [tongueclicking] es (-) dann kam ein andres auto </event>
+<event start="T155" end="T169">und ähm [tongueclicking] äh dieses auto äh m:usste ga/ a/ auch ganz schnell stoppen </event>
+<event start="T169" end="T183">und is eigentlich ähm in=s erst/ erstes auto (-) äh hingefahrn in reingefahrn </event>
+<event start="T183" end="T203">und ähm (-) [tongueclicking] und dann ähm (--) [tongueclicking] äh die (-) die müsstn ähm (-) die polizei: ähm: anrufen </event>
+<event start="T203" end="T232">und ähm (--) [tongueclicking] und dann der der (-) der mann ähm und die frau (-) ham die äh: frau mit mit den hund ähm (-) [tongueclicking] äh: geholfen </event>
+<event start="T233" end="T244">u/ äh: um ihre sachen (-) wieder in=s beutel zu tun </event>
+<event start="T244" end="T252">und ähm ja aber e:igentlich alles: war oke: </event>
+<event start="T252" end="T267">und nichts (-) ahm (-) [tongueclicking] nichts: äh: schlechtes is eigentlich passiert a:lso schlecht ja</event>
+</tier><tier id="TIE3" speaker="norm" category="Case" type="a" display-name="norm [Case]"><event start="T3" end="T4">Nom</event>
 <event start="T5" end="T6">Nom</event>
 <event start="T13" end="T14">Nom</event>
 <event start="T15" end="T16">Acc</event>
@@ -1157,9 +1563,7 @@
 <event start="T249" end="T250">Nom</event>
 <event start="T253" end="T254">Nom</event>
 <event start="T258" end="T259">Acc</event>
-</tier>
-<tier id="TIE4" speaker="norm" category="Definite" type="a" display-name="norm [Definite]">
-<event start="T15" end="T16">Ind</event>
+</tier><tier id="TIE4" speaker="norm" category="Definite" type="a" display-name="norm [Definite]"><event start="T15" end="T16">Ind</event>
 <event start="T22" end="T23">Ind</event>
 <event start="T26" end="T27">Ind</event>
 <event start="T29" end="T30">Def</event>
@@ -1185,9 +1589,7 @@
 <event start="T220" end="T221">Def</event>
 <event start="T225" end="T226">Def</event>
 <event start="T240" end="T241">Def</event>
-</tier>
-<tier id="TIE5" speaker="norm" category="Degree" type="a" display-name="norm [Degree]">
-<event start="T0" end="T1">Pos</event>
+</tier><tier id="TIE5" speaker="norm" category="Degree" type="a" display-name="norm [Degree]"><event start="T0" end="T1">Pos</event>
 <event start="T10" end="T11">Pos</event>
 <event start="T34" end="T35">Pos</event>
 <event start="T37" end="T38">Pos</event>
@@ -1232,9 +1634,7 @@
 <event start="T262" end="T263">Pos</event>
 <event start="T263" end="T264">Pos</event>
 <event start="T265" end="T266">Pos</event>
-</tier>
-<tier id="TIE6" speaker="norm" category="Gender" type="a" display-name="norm [Gender]">
-<event start="T13" end="T14">Masc</event>
+</tier><tier id="TIE6" speaker="norm" category="Gender" type="a" display-name="norm [Gender]"><event start="T13" end="T14">Masc</event>
 <event start="T15" end="T16">Masc,Neut</event>
 <event start="T22" end="T23">Masc,Neut</event>
 <event start="T24" end="T25">Masc,Neut</event>
@@ -1279,9 +1679,7 @@
 <event start="T226" end="T227">Masc</event>
 <event start="T240" end="T241">Neut</event>
 <event start="T241" end="T242">Masc</event>
-</tier>
-<tier id="TIE7" speaker="norm" category="Mood" type="a" display-name="norm [Mood]">
-<event start="T6" end="T7">Ind</event>
+</tier><tier id="TIE7" speaker="norm" category="Mood" type="a" display-name="norm [Mood]"><event start="T6" end="T7">Ind</event>
 <event start="T32" end="T33">Ind</event>
 <event start="T68" end="T69">Ind</event>
 <event start="T76" end="T77">Ind</event>
@@ -1296,14 +1694,10 @@
 <event start="T219" end="T220">Ind</event>
 <event start="T250" end="T251">Ind</event>
 <event start="T261" end="T262">Ind</event>
-</tier>
-<tier id="TIE8" speaker="norm" category="NumType" type="a" display-name="norm [NumType]">
-<event start="T19" end="T20">Card</event>
+</tier><tier id="TIE8" speaker="norm" category="NumType" type="a" display-name="norm [NumType]"><event start="T19" end="T20">Card</event>
 <event start="T55" end="T56">Card</event>
 <event start="T176" end="T177">Ord</event>
-</tier>
-<tier id="TIE9" speaker="norm" category="Number" type="a" display-name="norm [Number]">
-<event start="T3" end="T4">Sing</event>
+</tier><tier id="TIE9" speaker="norm" category="Number" type="a" display-name="norm [Number]"><event start="T3" end="T4">Sing</event>
 <event start="T5" end="T6">Sing</event>
 <event start="T6" end="T7">Sing</event>
 <event start="T13" end="T14">Sing</event>
@@ -1374,9 +1768,7 @@
 <event start="T253" end="T254">Sing</event>
 <event start="T258" end="T259">Sing</event>
 <event start="T261" end="T262">Sing</event>
-</tier>
-<tier id="TIE10" speaker="norm" category="Person" type="a" display-name="norm [Person]">
-<event start="T3" end="T4">1</event>
+</tier><tier id="TIE10" speaker="norm" category="Person" type="a" display-name="norm [Person]"><event start="T3" end="T4">1</event>
 <event start="T5" end="T6">1</event>
 <event start="T6" end="T7">1</event>
 <event start="T13" end="T14">3</event>
@@ -1402,15 +1794,9 @@
 <event start="T235" end="T236">3</event>
 <event start="T250" end="T251">3</event>
 <event start="T261" end="T262">3</event>
-</tier>
-<tier id="TIE11" speaker="norm" category="Polarity" type="a" display-name="norm [Polarity]">
-<event start="T137" end="T138">Neg</event>
-</tier>
-<tier id="TIE12" speaker="norm" category="Poss" type="a" display-name="norm [Poss]">
-<event start="T235" end="T236">Yes</event>
-</tier>
-<tier id="TIE13" speaker="norm" category="PronType" type="a" display-name="norm [PronType]">
-<event start="T3" end="T4">Prs</event>
+</tier><tier id="TIE11" speaker="norm" category="Polarity" type="a" display-name="norm [Polarity]"><event start="T137" end="T138">Neg</event>
+</tier><tier id="TIE12" speaker="norm" category="Poss" type="a" display-name="norm [Poss]"><event start="T235" end="T236">Yes</event>
+</tier><tier id="TIE13" speaker="norm" category="PronType" type="a" display-name="norm [PronType]"><event start="T3" end="T4">Prs</event>
 <event start="T5" end="T6">Prs</event>
 <event start="T13" end="T14">Prs</event>
 <event start="T15" end="T16">Art</event>
@@ -1455,9 +1841,7 @@
 <event start="T249" end="T250">Tot</event>
 <event start="T253" end="T254">Neg</event>
 <event start="T258" end="T259">Neg</event>
-</tier>
-<tier id="TIE14" speaker="norm" category="Tense" type="a" display-name="norm [Tense]">
-<event start="T6" end="T7">Past</event>
+</tier><tier id="TIE14" speaker="norm" category="Tense" type="a" display-name="norm [Tense]"><event start="T6" end="T7">Past</event>
 <event start="T32" end="T33">Past</event>
 <event start="T68" end="T69">Past</event>
 <event start="T76" end="T77">Pres</event>
@@ -1472,9 +1856,7 @@
 <event start="T219" end="T220">Pres</event>
 <event start="T250" end="T251">Past</event>
 <event start="T261" end="T262">Pres</event>
-</tier>
-<tier id="TIE15" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]">
-<event start="T6" end="T7">Fin</event>
+</tier><tier id="TIE15" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]"><event start="T6" end="T7">Fin</event>
 <event start="T32" end="T33">Fin</event>
 <event start="T51" end="T52">Fin</event>
 <event start="T60" end="T61">Fin</event>
@@ -1503,222 +1885,7 @@
 <event start="T243" end="T244">Inf</event>
 <event start="T250" end="T251">Fin</event>
 <event start="T261" end="T262">Fin</event>
-</tier>
-<tier id="TIE19" speaker="norm" category="lemma" type="a" display-name="norm [lemma]">
-<event start="T0" end="T1">&#228;h</event>
-<event start="T2" end="T3">ja</event>
-<event start="T3" end="T4">ich</event>
-<event start="T4" end="T5">&#228;h</event>
-<event start="T5" end="T6">ich</event>
-<event start="T6" end="T7">sein</event>
-<event start="T7" end="T8">im</event>
-<event start="T8" end="T9">Parkplatz</event>
-<event start="T9" end="T10">und</event>
-<event start="T10" end="T11">&#228;h</event>
-<event start="T13" end="T14">er</event>
-<event start="T15" end="T16">ein</event>
-<event start="T17" end="T18">so</event>
-<event start="T19" end="T20">zwei</event>
-<event start="T20" end="T21">Leute</event>
-<event start="T21" end="T22">mit</event>
-<event start="T22" end="T23">ein</event>
-<event start="T23" end="T24">ich</event>
-<event start="T24" end="T25">glaub</event>
-<event start="T25" end="T26">mit</event>
-<event start="T26" end="T27">ein</event>
-<event start="T27" end="T28">Baby</event>
-<event start="T28" end="T29">und</event>
-<event start="T29" end="T30">d</event>
-<event start="T30" end="T31">d</event>
-<event start="T31" end="T32">Mann</event>
-<event start="T32" end="T33">haben</event>
-<event start="T33" end="T34">ein</event>
-<event start="T34" end="T35">&#228;h</event>
-<event start="T35" end="T36">Fu&#223;ball</event>
-<event start="T36" end="T37">und</event>
-<event start="T37" end="T38">&#228;h</event>
-<event start="T38" end="T39">die</event>
-<event start="T46" end="T47">wann</event>
-<event start="T48" end="T49">also</event>
-<event start="T51" end="T52">laufen</event>
-<event start="T52" end="T53">die</event>
-<event start="T53" end="T54">die</event>
-<event start="T54" end="T55">d</event>
-<event start="T55" end="T56">gehn</event>
-<event start="T56" end="T57">und</event>
-<event start="T57" end="T58">dann</event>
-<event start="T58" end="T59">&#228;h</event>
-<event start="T59" end="T60">es</event>
-<event start="T60" end="T61">geben</event>
-<event start="T61" end="T62">eine</event>
-<event start="T62" end="T63">Frau</event>
-<event start="T63" end="T64">und</event>
-<event start="T64" end="T65">&#228;h</event>
-<event start="T67" end="T68">die</event>
-<event start="T68" end="T69">haben</event>
-<event start="T69" end="T70">ein</event>
-<event start="T70" end="T71">ein</event>
-<event start="T71" end="T72">Hund</event>
-<event start="T72" end="T73">und</event>
-<event start="T73" end="T74">&#228;h</event>
-<event start="T74" end="T75">auch</event>
-<event start="T75" end="T76">&#228;h</event>
-<event start="T76" end="T77">haben</event>
-<event start="T78" end="T79">&#228;h</event>
-<event start="T80" end="T81">ich</event>
-<event start="T81" end="T82">glauben</event>
-<event start="T83" end="T84">gerade</event>
-<event start="T84" end="T85">&#228;h</event>
-<event start="T86" end="T87">die</event>
-<event start="T87" end="T88">sein</event>
-<event start="T88" end="T89">gerade</event>
-<event start="T89" end="T90">&#228;h</event>
-<event start="T92" end="T93">&#228;h</event>
-<event start="T93" end="T94">einkaufen</event>
-<event start="T94" end="T95">gehen</event>
-<event start="T95" end="T96">und</event>
-<event start="T96" end="T97">&#228;h</event>
-<event start="T97" end="T98">wollen</event>
-<event start="T98" end="T99">alle</event>
-<event start="T99" end="T100">in</event>
-<event start="T100" end="T101">in</event>
-<event start="T101" end="T102">d</event>
-<event start="T102" end="T103">Auto</event>
-<event start="T103" end="T104">&#228;h</event>
-<event start="T104" end="T105">hin</event>
-<event start="T105" end="T106">tun</event>
-<event start="T106" end="T107">und</event>
-<event start="T108" end="T109">&#228;h</event>
-<event start="T111" end="T112">ein</event>
-<event start="T112" end="T113">&#228;h</event>
-<event start="T113" end="T114">Auto</event>
-<event start="T114" end="T115">sein</event>
-<event start="T115" end="T116">&#228;h</event>
-<event start="T116" end="T117">im</event>
-<event start="T118" end="T119">Parkplatz</event>
-<event start="T119" end="T120">fahren</event>
-<event start="T120" end="T121">und</event>
-<event start="T121" end="T122">&#228;h</event>
-<event start="T122" end="T123">m�ssen</event>
-<event start="T123" end="T124">&#228;h</event>
-<event start="T124" end="T125">ganz</event>
-<event start="T125" end="T126">schnell</event>
-<event start="T126" end="T127">stoppen</event>
-<event start="T128" end="T129">und</event>
-<event start="T129" end="T130">&#228;h</event>
-<event start="T130" end="T131">weil</event>
-<event start="T131" end="T132">die</event>
-<event start="T132" end="T133">d</event>
-<event start="T133" end="T134">Auto</event>
-<event start="T134" end="T135">wollen</event>
-<event start="T135" end="T136">d</event>
-<event start="T136" end="T137">Frau</event>
-<event start="T137" end="T138">nicht</event>
-<event start="T138" end="T139">&#228;h</event>
-<event start="T140" end="T141">&#228;h</event>
-<event start="T141" end="T142">(-)</event>
-<event start="T142" end="T144">hin&#252;berfahren</event>
-<event start="T145" end="T146">und</event>
-<event start="T146" end="T147">&#228;h</event>
-<event start="T148" end="T149">es</event>
-<event start="T150" end="T151">dann</event>
-<event start="T151" end="T152">kommen</event>
-<event start="T152" end="T153">ein</event>
-<event start="T153" end="T154">anderes</event>
-<event start="T154" end="T155">Auto</event>
-<event start="T155" end="T156">und</event>
-<event start="T156" end="T157">&#228;h</event>
-<event start="T158" end="T159">&#228;h</event>
-<event start="T159" end="T160">diese</event>
-<event start="T160" end="T161">Auto</event>
-<event start="T161" end="T162">&#228;h</event>
-<event start="T162" end="T163">m�ssen</event>
-<event start="T165" end="T166">auch</event>
-<event start="T166" end="T167">ganz</event>
-<event start="T167" end="T168">schnell</event>
-<event start="T168" end="T169">stoppen</event>
-<event start="T169" end="T170">und</event>
-<event start="T170" end="T171">sein</event>
-<event start="T171" end="T172">eigentlich</event>
-<event start="T172" end="T173">&#228;h</event>
-<event start="T173" end="T174">in</event>
-<event start="T174" end="T175">d</event>
-<event start="T176" end="T177">erste</event>
-<event start="T177" end="T178">Auto</event>
-<event start="T179" end="T180">&#228;h</event>
-<event start="T180" end="T181">hingefahren</event>
-<event start="T181" end="T182">in</event>
-<event start="T182" end="T183">reingefahren</event>
-<event start="T183" end="T184">und</event>
-<event start="T184" end="T185">&#228;h</event>
-<event start="T187" end="T188">und</event>
-<event start="T188" end="T189">dann</event>
-<event start="T189" end="T190">&#228;h</event>
-<event start="T192" end="T193">&#228;h</event>
-<event start="T193" end="T194">die</event>
-<event start="T195" end="T196">die</event>
-<event start="T196" end="T197">m&#252;ssten</event>
-<event start="T197" end="T198">&#228;h</event>
-<event start="T199" end="T200">d</event>
-<event start="T200" end="T201">Polizei</event>
-<event start="T201" end="T202">&#228;h</event>
-<event start="T202" end="T203">anrufen</event>
-<event start="T203" end="T204">und</event>
-<event start="T204" end="T205">&#228;h</event>
-<event start="T207" end="T208">und</event>
-<event start="T208" end="T209">dann</event>
-<event start="T209" end="T210">d</event>
-<event start="T210" end="T211">d</event>
-<event start="T212" end="T213">d</event>
-<event start="T213" end="T214">Mann</event>
-<event start="T214" end="T215">&#228;h</event>
-<event start="T215" end="T216">und</event>
-<event start="T216" end="T217">d</event>
-<event start="T217" end="T218">Frau</event>
-<event start="T219" end="T220">haben</event>
-<event start="T220" end="T221">d</event>
-<event start="T221" end="T222">&#228;h</event>
-<event start="T222" end="T223">Frau</event>
-<event start="T223" end="T224">mit</event>
-<event start="T224" end="T225">mit</event>
-<event start="T225" end="T226">d</event>
-<event start="T226" end="T227">Hund</event>
-<event start="T227" end="T228">&#228;h</event>
-<event start="T230" end="T231">&#228;h</event>
-<event start="T231" end="T232">helfen</event>
-<event start="T233" end="T234">&#228;h</event>
-<event start="T234" end="T235">um</event>
-<event start="T235" end="T236">ihr</event>
-<event start="T236" end="T237">Sache</event>
-<event start="T238" end="T239">wieder</event>
-<event start="T239" end="T240">in</event>
-<event start="T240" end="T241">d</event>
-<event start="T241" end="T242">Beutel</event>
-<event start="T242" end="T243">zu</event>
-<event start="T243" end="T244">tun</event>
-<event start="T244" end="T245">und</event>
-<event start="T245" end="T246">&#228;h</event>
-<event start="T246" end="T247">ja</event>
-<event start="T247" end="T248">aber</event>
-<event start="T248" end="T249">eigentlich</event>
-<event start="T249" end="T250">alle</event>
-<event start="T250" end="T251">sein</event>
-<event start="T251" end="T252">okay</event>
-<event start="T252" end="T253">und</event>
-<event start="T253" end="T254">nichts</event>
-<event start="T255" end="T256">&#228;h</event>
-<event start="T258" end="T259">nichts</event>
-<event start="T259" end="T260">&#228;h</event>
-<event start="T260" end="T261">Schlechte</event>
-<event start="T261" end="T262">sein</event>
-<event start="T262" end="T263">eigentlich</event>
-<event start="T263" end="T264">passieren</event>
-<event start="T264" end="T265">also</event>
-<event start="T265" end="T266">schlecht</event>
-<event start="T266" end="T267">ja</event>
-</tier>
-<tier id="TIE20" speaker="norm" category="pos" type="a" display-name="norm [pos]">
-<event start="T0" end="T1">ADJ</event>
+</tier><tier id="TIE20" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">ADJ</event>
 <event start="T2" end="T3">ADV</event>
 <event start="T3" end="T4">PRON</event>
 <event start="T4" end="T5">ADV</event>
@@ -1829,7 +1996,6 @@
 <event start="T137" end="T138">PART</event>
 <event start="T138" end="T139">ADJ</event>
 <event start="T140" end="T141">ADJ</event>
-<event start="T141" end="T142">PUNCT</event>
 <event start="T142" end="T144">VERB</event>
 <event start="T145" end="T146">CCONJ</event>
 <event start="T146" end="T147">ADJ</event>
@@ -1929,219 +2095,5 @@
 <event start="T264" end="T265">ADV</event>
 <event start="T265" end="T266">ADJ</event>
 <event start="T266" end="T267">ADV</event>
-</tier>
-<tier id="TIE21" speaker="norm" category="pos_1_1" type="a" display-name="norm [pos_1_1]">
-<event start="T0" end="T1">VVFIN</event>
-<event start="T2" end="T3">PTKMA</event>
-<event start="T3" end="T4">PPER</event>
-<event start="T4" end="T5">VVFIN</event>
-<event start="T5" end="T6">PPER</event>
-<event start="T6" end="T7">VAFIN</event>
-<event start="T7" end="T8">APPRART</event>
-<event start="T8" end="T9">NN</event>
-<event start="T9" end="T10">KON</event>
-<event start="T10" end="T11">VVFIN</event>
-<event start="T13" end="T14">PPER</event>
-<event start="T15" end="T16">ART</event>
-<event start="T17" end="T18">PTKIFG</event>
-<event start="T19" end="T20">CARD</event>
-<event start="T20" end="T21">NN</event>
-<event start="T21" end="T22">APPR</event>
-<event start="T22" end="T23">ART</event>
-<event start="T23" end="T24">PPER</event>
-<event start="T24" end="T25">VVFIN</event>
-<event start="T25" end="T26">APPR</event>
-<event start="T26" end="T27">ART</event>
-<event start="T27" end="T28">NN</event>
-<event start="T28" end="T29">KON</event>
-<event start="T29" end="T30">ART</event>
-<event start="T30" end="T31">ART</event>
-<event start="T31" end="T32">NN</event>
-<event start="T32" end="T33">VAFIN</event>
-<event start="T33" end="T34">ART</event>
-<event start="T34" end="T35">ADJA</event>
-<event start="T35" end="T36">NN</event>
-<event start="T36" end="T37">KON</event>
-<event start="T37" end="T38">VVFIN</event>
-<event start="T38" end="T39">PDS</event>
-<event start="T46" end="T47">PWAV</event>
-<event start="T48" end="T49">SEDM</event>
-<event start="T51" end="T52">VVINF</event>
-<event start="T52" end="T53">PDS</event>
-<event start="T53" end="T54">PRELS</event>
-<event start="T54" end="T55">ART</event>
-<event start="T55" end="T56">ADJA</event>
-<event start="T56" end="T57">KON</event>
-<event start="T57" end="T58">ADV</event>
-<event start="T58" end="T59">VVFIN</event>
-<event start="T59" end="T60">PPER</event>
-<event start="T60" end="T61">VVFIN</event>
-<event start="T61" end="T62">ART</event>
-<event start="T62" end="T63">NN</event>
-<event start="T63" end="T64">KON</event>
-<event start="T64" end="T65">VVFIN</event>
-<event start="T67" end="T68">PDS</event>
-<event start="T68" end="T69">VAFIN</event>
-<event start="T69" end="T70">ART</event>
-<event start="T70" end="T71">ART</event>
-<event start="T71" end="T72">NN</event>
-<event start="T72" end="T73">KON</event>
-<event start="T73" end="T74">VVFIN</event>
-<event start="T74" end="T75">PTKIFG</event>
-<event start="T75" end="T76">VVPP</event>
-<event start="T76" end="T77">VAFIN</event>
-<event start="T78" end="T79">VVFIN</event>
-<event start="T80" end="T81">PPER</event>
-<event start="T81" end="T82">VVFIN</event>
-<event start="T83" end="T84">ADV</event>
-<event start="T84" end="T85">VVFIN</event>
-<event start="T86" end="T87">PDS</event>
-<event start="T87" end="T88">VAFIN</event>
-<event start="T88" end="T89">PTKIFG</event>
-<event start="T89" end="T90">ADJD</event>
-<event start="T92" end="T93">ADJD</event>
-<event start="T93" end="T94">VVINF</event>
-<event start="T94" end="T95">VVPP</event>
-<event start="T95" end="T96">KON</event>
-<event start="T96" end="T97">VVFIN</event>
-<event start="T97" end="T98">VMFIN</event>
-<event start="T98" end="T99">PIS</event>
-<event start="T99" end="T100">APPR</event>
-<event start="T100" end="T101">APPR</event>
-<event start="T101" end="T102">ART</event>
-<event start="T102" end="T103">NN</event>
-<event start="T103" end="T104">VVFIN</event>
-<event start="T104" end="T105">ADV</event>
-<event start="T105" end="T106">VVINF</event>
-<event start="T106" end="T107">KON</event>
-<event start="T108" end="T109">VVFIN</event>
-<event start="T111" end="T112">ART</event>
-<event start="T112" end="T113">ADJA</event>
-<event start="T113" end="T114">NN</event>
-<event start="T114" end="T115">VAFIN</event>
-<event start="T115" end="T116">ADJD</event>
-<event start="T116" end="T117">APPRART</event>
-<event start="T118" end="T119">NN</event>
-<event start="T119" end="T120">VVPP</event>
-<event start="T120" end="T121">KON</event>
-<event start="T121" end="T122">VVINF</event>
-<event start="T122" end="T123">VMFIN</event>
-<event start="T123" end="T124">VVFIN</event>
-<event start="T124" end="T125">PTKIFG</event>
-<event start="T125" end="T126">ADJD</event>
-<event start="T126" end="T127">VVINF</event>
-<event start="T128" end="T129">KON</event>
-<event start="T129" end="T130">VVFIN</event>
-<event start="T130" end="T131">KOUS</event>
-<event start="T131" end="T132">PDS</event>
-<event start="T132" end="T133">ART</event>
-<event start="T133" end="T134">NN</event>
-<event start="T134" end="T135">VMFIN</event>
-<event start="T135" end="T136">ART</event>
-<event start="T136" end="T137">NN</event>
-<event start="T137" end="T138">PTKNEG</event>
-<event start="T138" end="T139">ADJA</event>
-<event start="T140" end="T141">ADJA</event>
-<event start="T141" end="T142">NE</event>
-<event start="T142" end="T144">VVPP</event>
-<event start="T145" end="T146">KON</event>
-<event start="T146" end="T147">VVFIN</event>
-<event start="T148" end="T149">PPER</event>
-<event start="T150" end="T151">ADV</event>
-<event start="T151" end="T152">VVFIN</event>
-<event start="T152" end="T153">ART</event>
-<event start="T153" end="T154">PIDAT</event>
-<event start="T154" end="T155">NN</event>
-<event start="T155" end="T156">KON</event>
-<event start="T156" end="T157">VVFIN</event>
-<event start="T158" end="T159">VVFIN</event>
-<event start="T159" end="T160">PDAT</event>
-<event start="T160" end="T161">NN</event>
-<event start="T161" end="T162">VVINF</event>
-<event start="T162" end="T163">VMFIN</event>
-<event start="T165" end="T166">PTKIFG</event>
-<event start="T166" end="T167">PTKIFG</event>
-<event start="T167" end="T168">ADJD</event>
-<event start="T168" end="T169">VVINF</event>
-<event start="T169" end="T170">KON</event>
-<event start="T170" end="T171">VAFIN</event>
-<event start="T171" end="T172">ADV</event>
-<event start="T172" end="T173">VVFIN</event>
-<event start="T173" end="T174">APPR</event>
-<event start="T174" end="T175">ART</event>
-<event start="T176" end="T177">ORD</event>
-<event start="T177" end="T178">NN</event>
-<event start="T179" end="T180">ADJD</event>
-<event start="T180" end="T181">VVPP</event>
-<event start="T181" end="T182">APPR</event>
-<event start="T182" end="T183">VVPP</event>
-<event start="T183" end="T184">KON</event>
-<event start="T184" end="T185">VVFIN</event>
-<event start="T187" end="T188">KON</event>
-<event start="T188" end="T189">ADV</event>
-<event start="T189" end="T190">VVFIN</event>
-<event start="T192" end="T193">VVFIN</event>
-<event start="T193" end="T194">PDS</event>
-<event start="T195" end="T196">PDS</event>
-<event start="T196" end="T197">VVFIN</event>
-<event start="T197" end="T198">VVFIN</event>
-<event start="T199" end="T200">ART</event>
-<event start="T200" end="T201">NN</event>
-<event start="T201" end="T202">VVINF</event>
-<event start="T202" end="T203">VVINF</event>
-<event start="T203" end="T204">KON</event>
-<event start="T204" end="T205">VVFIN</event>
-<event start="T207" end="T208">KON</event>
-<event start="T208" end="T209">ADV</event>
-<event start="T209" end="T210">ART</event>
-<event start="T210" end="T211">ART</event>
-<event start="T212" end="T213">ART</event>
-<event start="T213" end="T214">NN</event>
-<event start="T214" end="T215">VVPP</event>
-<event start="T215" end="T216">KON</event>
-<event start="T216" end="T217">ART</event>
-<event start="T217" end="T218">NN</event>
-<event start="T219" end="T220">VAFIN</event>
-<event start="T220" end="T221">ART</event>
-<event start="T221" end="T222">ADJA</event>
-<event start="T222" end="T223">NN</event>
-<event start="T223" end="T224">APPR</event>
-<event start="T224" end="T225">APPR</event>
-<event start="T225" end="T226">ART</event>
-<event start="T226" end="T227">NN</event>
-<event start="T227" end="T228">VVFIN</event>
-<event start="T230" end="T231">ADJD</event>
-<event start="T231" end="T232">VVPP</event>
-<event start="T233" end="T234">VVFIN</event>
-<event start="T234" end="T235">APPR</event>
-<event start="T235" end="T236">PPOSAT</event>
-<event start="T236" end="T237">NN</event>
-<event start="T238" end="T239">ADV</event>
-<event start="T239" end="T240">APPR</event>
-<event start="T240" end="T241">ART</event>
-<event start="T241" end="T242">NN</event>
-<event start="T242" end="T243">PTKZU</event>
-<event start="T243" end="T244">VVINF</event>
-<event start="T244" end="T245">KON</event>
-<event start="T245" end="T246">VVFIN</event>
-<event start="T246" end="T247">PTKMA</event>
-<event start="T247" end="T248">KON</event>
-<event start="T248" end="T249">ADV</event>
-<event start="T249" end="T250">PIS</event>
-<event start="T250" end="T251">VAFIN</event>
-<event start="T251" end="T252">ADJD</event>
-<event start="T252" end="T253">KON</event>
-<event start="T253" end="T254">PIS</event>
-<event start="T255" end="T256">VVFIN</event>
-<event start="T258" end="T259">PIS</event>
-<event start="T259" end="T260">ADJA</event>
-<event start="T260" end="T261">NN</event>
-<event start="T261" end="T262">VAFIN</event>
-<event start="T262" end="T263">ADV</event>
-<event start="T263" end="T264">VVPP</event>
-<event start="T264" end="T265">SEDM</event>
-<event start="T265" end="T266">ADJD</event>
-<event start="T266" end="T267">NGIRR</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
