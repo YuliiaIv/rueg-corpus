@@ -1,57 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url=""></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url=""/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
-<tli id="T0" time="0"/>
-<tli id="T1" time="1"/>
-<tli id="T2" time="2"/>
-<tli id="T3" time="3"/>
-<tli id="T4" time="4"/>
-<tli id="T5" time="5"/>
-<tli id="T6" time="6"/>
-<tli id="T7" time="7"/>
-<tli id="T8" time="8"/>
-<tli id="T9" time="9"/>
-<tli id="T10" time="10"/>
-<tli id="T11" time="11"/>
-<tli id="T12" time="12"/>
-<tli id="T13" time="13"/>
-<tli id="T14" time="14"/>
-<tli id="T15" time="15"/>
-<tli id="T16" time="16"/>
-<tli id="T17" time="17"/>
-<tli id="T18" time="18"/>
-<tli id="T19" time="19"/>
-<tli id="T20" time="20"/>
-<tli id="T21" time="21"/>
-<tli id="T22" time="22"/>
+<tli id="T0" time="0.0"/>
+<tli id="T1" time="1.0"/>
+<tli id="T2" time="2.0"/>
+<tli id="T3" time="3.0"/>
+<tli id="T4" time="4.0"/>
+<tli id="T5" time="5.0"/>
+<tli id="T6" time="6.0"/>
+<tli id="T7" time="7.0"/>
+<tli id="T8" time="8.0"/>
+<tli id="T9" time="9.0"/>
+<tli id="T10" time="10.0"/>
+<tli id="T11" time="11.0"/>
+<tli id="T12" time="12.0"/>
+<tli id="T13" time="13.0"/>
+<tli id="T14" time="14.0"/>
+<tli id="T15" time="15.0"/>
+<tli id="T16" time="16.0"/>
+<tli id="T17" time="17.0"/>
+<tli id="T18" time="18.0"/>
+<tli id="T19" time="19.0"/>
+<tli id="T20" time="20.0"/>
+<tli id="T21" time="21.0"/>
+<tli id="T22" time="22.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">мушина</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">мушина</event>
 <event start="T1" end="T2">уранил</event>
 <event start="T2" end="T3">мяач</event>
 <event start="T3" end="T4">.</event>
@@ -72,9 +70,7 @@
 <event start="T18" end="T19">мачина</event>
 <event start="T19" end="T20">в</event>
 <event start="T20" end="T21">зад</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">мужчина</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">мужчина</event>
 <event start="T1" end="T2">уронил</event>
 <event start="T2" end="T3">мяч</event>
 <event start="T3" end="T4">.</event>
@@ -94,9 +90,7 @@
 <event start="T18" end="T19">машина</event>
 <event start="T19" end="T20">в</event>
 <event start="T20" end="T21">зад</event>
-</tier>
-<tier id="TIE13" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">rus</event>
+</tier><tier id="TIE13" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">rus</event>
 <event start="T1" end="T2">rus</event>
 <event start="T2" end="T3">rus</event>
 <event start="T3" end="T4">rus</event>
@@ -116,38 +110,26 @@
 <event start="T18" end="T19">rus</event>
 <event start="T19" end="T20">rus</event>
 <event start="T20" end="T21">rus</event>
-</tier>
-<tier id="TIE14" speaker="dipl" category="line" type="a" display-name="dipl [line]">
-<event start="T0" end="T21">мушина уранил мяач. собака за нмечом бежала и вадител мащине остонавился. из за этова ему заехола мачина в зад</event>
-</tier>
-<tier id="TIE15" speaker="dipl" category="message" type="a" display-name="dipl [message]">
-<event start="T0" end="T21">1</event>
-</tier>
-<tier id="TIE12" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T4">cu</event>
+</tier><tier id="TIE14" speaker="dipl" category="line" type="a" display-name="dipl [line]"><event start="T0" end="T21">мушина уранил мяач. собака за нмечом бежала и вадител мащине остонавился. из за этова ему заехола мачина в зад</event>
+</tier><tier id="TIE15" speaker="dipl" category="message" type="a" display-name="dipl [message]"><event start="T0" end="T21">1</event>
+</tier><tier id="TIE12" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T4">cu</event>
 <event start="T4" end="T8">cu</event>
 <event start="T8" end="T13">cu</event>
 <event start="T13" end="T21">cu</event>
-</tier>
-<tier id="TIE2" speaker="norm" category="Animacy" type="a" display-name="norm [Animacy]">
-<event start="T0" end="T1">Anim</event>
+</tier><tier id="TIE2" speaker="norm" category="Animacy" type="a" display-name="norm [Animacy]"><event start="T0" end="T1">Anim</event>
 <event start="T2" end="T3">Inan</event>
 <event start="T4" end="T5">Anim</event>
-<event start="T6" end="T7">Anim</event>
+<event start="T6" end="T7">Inan</event>
 <event start="T9" end="T10">Anim</event>
 <event start="T10" end="T11">Inan</event>
 <event start="T15" end="T16">Inan</event>
 <event start="T18" end="T19">Inan</event>
 <event start="T20" end="T21">Inan</event>
-</tier>
-<tier id="TIE3" speaker="norm" category="Aspect" type="a" display-name="norm [Aspect]">
-<event start="T1" end="T2">Perf</event>
+</tier><tier id="TIE3" speaker="norm" category="Aspect" type="a" display-name="norm [Aspect]"><event start="T1" end="T2">Perf</event>
 <event start="T7" end="T8">Imp</event>
 <event start="T11" end="T12">Perf</event>
 <event start="T17" end="T18">Perf</event>
-</tier>
-<tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]">
-<event start="T0" end="T1">Nom</event>
+</tier><tier id="TIE4" speaker="norm" category="Case" type="a" display-name="norm [Case]"><event start="T0" end="T1">Nom</event>
 <event start="T2" end="T3">Acc</event>
 <event start="T4" end="T5">Nom</event>
 <event start="T6" end="T7">Ins</event>
@@ -157,9 +139,7 @@
 <event start="T16" end="T17">Dat</event>
 <event start="T18" end="T19">Nom</event>
 <event start="T20" end="T21">Acc</event>
-</tier>
-<tier id="TIE5" speaker="norm" category="Gender" type="a" display-name="norm [Gender]">
-<event start="T0" end="T1">Masc</event>
+</tier><tier id="TIE5" speaker="norm" category="Gender" type="a" display-name="norm [Gender]"><event start="T0" end="T1">Masc</event>
 <event start="T1" end="T2">Masc</event>
 <event start="T2" end="T3">Masc</event>
 <event start="T4" end="T5">Fem</event>
@@ -173,15 +153,11 @@
 <event start="T17" end="T18">Fem</event>
 <event start="T18" end="T19">Fem</event>
 <event start="T20" end="T21">Masc</event>
-</tier>
-<tier id="TIE6" speaker="norm" category="Mood" type="a" display-name="norm [Mood]">
-<event start="T1" end="T2">Ind</event>
+</tier><tier id="TIE6" speaker="norm" category="Mood" type="a" display-name="norm [Mood]"><event start="T1" end="T2">Ind</event>
 <event start="T7" end="T8">Ind</event>
 <event start="T11" end="T12">Ind</event>
 <event start="T17" end="T18">Ind</event>
-</tier>
-<tier id="TIE7" speaker="norm" category="Number" type="a" display-name="norm [Number]">
-<event start="T0" end="T1">Sing</event>
+</tier><tier id="TIE7" speaker="norm" category="Number" type="a" display-name="norm [Number]"><event start="T0" end="T1">Sing</event>
 <event start="T1" end="T2">Sing</event>
 <event start="T2" end="T3">Sing</event>
 <event start="T4" end="T5">Sing</event>
@@ -195,50 +171,38 @@
 <event start="T17" end="T18">Sing</event>
 <event start="T18" end="T19">Sing</event>
 <event start="T20" end="T21">Sing</event>
-</tier>
-<tier id="TIE8" speaker="norm" category="Person" type="a" display-name="norm [Person]">
-<event start="T16" end="T17">3</event>
-</tier>
-<tier id="TIE9" speaker="norm" category="Tense" type="a" display-name="norm [Tense]">
-<event start="T1" end="T2">Past</event>
+</tier><tier id="TIE8" speaker="norm" category="Person" type="a" display-name="norm [Person]"><event start="T16" end="T17">3</event>
+</tier><tier id="TIE9" speaker="norm" category="Tense" type="a" display-name="norm [Tense]"><event start="T1" end="T2">Past</event>
 <event start="T7" end="T8">Past</event>
 <event start="T11" end="T12">Past</event>
 <event start="T17" end="T18">Past</event>
-</tier>
-<tier id="TIE10" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]">
-<event start="T1" end="T2">Fin</event>
+</tier><tier id="TIE10" speaker="norm" category="VerbForm" type="a" display-name="norm [VerbForm]"><event start="T1" end="T2">Fin</event>
 <event start="T7" end="T8">Fin</event>
 <event start="T11" end="T12">Fin</event>
 <event start="T17" end="T18">Fin</event>
-</tier>
-<tier id="TIE11" speaker="norm" category="Voice" type="a" display-name="norm [Voice]">
-<event start="T1" end="T2">Act</event>
+</tier><tier id="TIE11" speaker="norm" category="Voice" type="a" display-name="norm [Voice]"><event start="T1" end="T2">Act</event>
 <event start="T7" end="T8">Act</event>
 <event start="T11" end="T12">Mid</event>
 <event start="T17" end="T18">Act</event>
-</tier>
-<tier id="TIE16" speaker="norm" category="mystem_gr" type="a" display-name="norm [mystem_gr]">
-<event start="T0" end="T1">S,m,anim</event>
-<event start="T1" end="T2">V,pf,tran</event>
-<event start="T2" end="T3">S,m,inan</event>
-<event start="T4" end="T5">S,f,anim</event>
+</tier><tier id="TIE16" speaker="norm" category="mystem_gr" type="a" display-name="norm [mystem_gr]"><event start="T0" end="T1">S</event>
+<event start="T1" end="T2">V,tran</event>
+<event start="T2" end="T3">S</event>
+<event start="T4" end="T5">S</event>
 <event start="T5" end="T6">PR</event>
-<event start="T6" end="T7">S,m,inan</event>
+<event start="T6" end="T7">S</event>
 <event start="T7" end="T8">V,intr</event>
 <event start="T8" end="T9">CONJ</event>
-<event start="T9" end="T10">S,m,anim</event>
-<event start="T10" end="T11">S,f,inan</event>
+<event start="T9" end="T10">S</event>
+<event start="T10" end="T11">S</event>
 <event start="T11" end="T12">V,intr</event>
-<event start="T13" end="T15">S,persn,f,anim</event>
-<event start="T15" end="T16">SPRO,sg,n,inan</event>
-<event start="T16" end="T17">SPRO,sg,3p,m</event>
+<event start="T13" end="T15">ADP</event>
+<event start="T15" end="T16">SPRO</event>
+<event start="T16" end="T17">SPRO</event>
 <event start="T17" end="T18">V,intr</event>
-<event start="T18" end="T19">S,f,inan</event>
+<event start="T18" end="T19">S</event>
 <event start="T19" end="T20">PR</event>
-<event start="T20" end="T21">S,m,inan</event>
-</tier>
-<tier id="TIE17" speaker="norm" category="mystem_lex" type="a" display-name="norm [mystem_lex]">
-<event start="T0" end="T1">мужчина</event>
+<event start="T20" end="T21">S</event>
+</tier><tier id="TIE17" speaker="norm" category="mystem_lex" type="a" display-name="norm [mystem_lex]"><event start="T0" end="T1">мужчина</event>
 <event start="T1" end="T2">уронить</event>
 <event start="T2" end="T3">мяч</event>
 <event start="T4" end="T5">собака</event>
@@ -248,18 +212,16 @@
 <event start="T8" end="T9">и</event>
 <event start="T9" end="T10">водитель</event>
 <event start="T10" end="T11">машина</event>
-<event start="T11" end="T12">останавливаться</event>
-<event start="T13" end="T15">изза</event>
+<event start="T11" end="T12">остановиться</event>
+<event start="T13" end="T15">из-за</event>
 <event start="T15" end="T16">это</event>
 <event start="T16" end="T17">он</event>
-<event start="T17" end="T18">заезжать</event>
+<event start="T17" end="T18">заезхать</event>
 <event start="T18" end="T19">машина</event>
 <event start="T19" end="T20">в</event>
 <event start="T20" end="T21">зад</event>
-</tier>
-<tier id="TIE18" speaker="norm" category="lemma" type="a" display-name="norm [lemma]">
-<event start="T0" end="T1">мужчина</event>
-<event start="T1" end="T2">уроинать</event>
+</tier><tier id="TIE18" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">мужчина</event>
+<event start="T1" end="T2">уронить</event>
 <event start="T2" end="T3">мяч</event>
 <event start="T3" end="T4">.</event>
 <event start="T4" end="T5">собака</event>
@@ -269,18 +231,16 @@
 <event start="T8" end="T9">и</event>
 <event start="T9" end="T10">водитель</event>
 <event start="T10" end="T11">машина</event>
-<event start="T11" end="T12">останавливаться</event>
+<event start="T11" end="T12">остановиться</event>
 <event start="T12" end="T13">.</event>
 <event start="T13" end="T15">из-за</event>
 <event start="T15" end="T16">это</event>
 <event start="T16" end="T17">он</event>
-<event start="T17" end="T18">ехать</event>
+<event start="T17" end="T18">заехать</event>
 <event start="T18" end="T19">машина</event>
 <event start="T19" end="T20">в</event>
 <event start="T20" end="T21">зад</event>
-</tier>
-<tier id="TIE19" speaker="norm" category="pos" type="a" display-name="norm [pos]">
-<event start="T0" end="T1">NOUN</event>
+</tier><tier id="TIE19" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">NOUN</event>
 <event start="T1" end="T2">VERB</event>
 <event start="T2" end="T3">NOUN</event>
 <event start="T3" end="T4">PUNCT</event>
@@ -300,6 +260,5 @@
 <event start="T18" end="T19">NOUN</event>
 <event start="T19" end="T20">ADP</event>
 <event start="T20" end="T21">NOUN</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
