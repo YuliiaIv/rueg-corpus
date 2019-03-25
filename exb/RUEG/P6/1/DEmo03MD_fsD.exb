@@ -216,7 +216,7 @@
 <event start="T1" end="T2">(-)</event>
 <event start="T2" end="T3">hallo</event>
 <event start="T3" end="T4">(-)</event>
-<event start="T4" end="T5">DEmo3MD</event>
+<event start="T4" end="T5">DEmo03MD</event>
 <event start="T5" end="T6">hier</event>
 <event start="T6" end="T7">ich</event>
 <event start="T7" end="T8">sollte</event>
@@ -398,7 +398,7 @@
 <event start="T183" end="T184">dank</event>
 </tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">äh</event>
 <event start="T2" end="T3">hallo</event>
-<event start="T4" end="T5">DEmo3MD</event>
+<event start="T4" end="T5">DEmo03MD</event>
 <event start="T5" end="T6">hier</event>
 <event start="T6" end="T7">ich</event>
 <event start="T7" end="T8">sollte</event>
@@ -727,7 +727,7 @@
 <event start="T183" end="T184">deu</event>
 </tier><tier id="TIE18" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T3">ä:hm (-) hallo </event>
 <event start="T3" end="T4">(-) </event>
-<event start="T4" end="T6">DEmo3MD hier </event>
+<event start="T4" end="T6">DEmo03MD hier </event>
 <event start="T6" end="T17">ich sollte mich zu:r fallnummer ef sechzehn als äh zeuge melden </event>
 <event start="T17" end="T18">(-) </event>
 <event start="T18" end="T29">und zwar hab ich den auffahlunfall ä:hm auf dem parkplatz beobachtet </event>
@@ -1072,12 +1072,12 @@
 <event start="T177" end="T178">Fin</event>
 </tier><tier id="TIE20" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">äh</event>
 <event start="T2" end="T3">hallo</event>
-<event start="T4" end="T5">Demo3md</event>
+<event start="T4" end="T5">Demo03md</event>
 <event start="T5" end="T6">hier</event>
 <event start="T6" end="T7">ich</event>
 <event start="T7" end="T8">sollen</event>
 <event start="T8" end="T9">ich</event>
-<event start="T9" end="T10">zur</event>
+<event start="T9" end="T10">zu</event>
 <event start="T10" end="T11">Fallnummer</event>
 <event start="T11" end="T13">F16</event>
 <event start="T13" end="T14">als</event>
@@ -1408,7 +1408,7 @@
 <event start="T9" end="T10">APPRART</event>
 <event start="T10" end="T11">NN</event>
 <event start="T11" end="T13">NE</event>
-<event start="T13" end="T14">ADV</event>
+<event start="T13" end="T14">KOKOM</event>
 <event start="T14" end="T15">NGEHS</event>
 <event start="T15" end="T16">NN</event>
 <event start="T16" end="T17">VVINF</event>
@@ -1432,7 +1432,7 @@
 <event start="T37" end="T38">KON</event>
 <event start="T38" end="T39">VAFIN</event>
 <event start="T39" end="T40">VVPP</event>
-<event start="T40" end="T41">KOKOM</event>
+<event start="T40" end="T41">KOUS</event>
 <event start="T41" end="T42">ART</event>
 <event start="T42" end="T43">NN</event>
 <event start="T43" end="T44">APPR</event>
@@ -1449,7 +1449,7 @@
 <event start="T55" end="T56">VVPP</event>
 <event start="T56" end="T57">VAFIN</event>
 <event start="T58" end="T59">KON</event>
-<event start="T59" end="T60">AVD</event>
+<event start="T59" end="T60">KOUS</event>
 <event start="T60" end="T61">ART</event>
 <event start="T61" end="T62">NN</event>
 <event start="T62" end="T63">ART</event>
@@ -1521,7 +1521,7 @@
 <event start="T135" end="T136">VVINF</event>
 <event start="T136" end="T137">KON</event>
 <event start="T137" end="T138">ADV</event>
-<event start="T138" end="T139">NGHES</event>
+<event start="T138" end="T139">PTKIFG</event>
 <event start="T139" end="T140">ADJD</event>
 <event start="T140" end="T141">APPR</event>
 <event start="T141" end="T142">ART</event>
@@ -1534,7 +1534,7 @@
 <event start="T150" end="T151">ADV</event>
 <event start="T151" end="T152">PTKIFG</event>
 <event start="T152" end="T153">VVPP</event>
-<event start="T153" end="T154">KOKOM</event>
+<event start="T153" end="T154">KOUS</event>
 <event start="T154" end="T155">PRF</event>
 <event start="T155" end="T156">NGHES</event>
 <event start="T156" end="T157">PIS</event>
@@ -1545,7 +1545,7 @@
 <event start="T162" end="T163">PPER</event>
 <event start="T163" end="T164">ADV</event>
 <event start="T164" end="T165">VVFIN</event>
-<event start="T165" end="T166">KOKOM</event>
+<event start="T165" end="T166">KOUS</event>
 <event start="T166" end="T167">VVFIN</event>
 <event start="T167" end="T168">PPER</event>
 <event start="T168" end="T169">NN</event>
