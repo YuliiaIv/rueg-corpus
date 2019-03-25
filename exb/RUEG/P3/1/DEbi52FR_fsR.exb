@@ -2,7 +2,7 @@
 <!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/1/DEbi52FR_fsR.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/1/DEbi52FR_fsR.wav"/><ud-meta-information><ud-information attribute-name="AutoSave">;C:\Users\olgab\EXMARaLDA_AutoBackup_2019_03_25_12_46_12.exb at 2019_03_25_12_46_12;C:\Users\olgab\EXMARaLDA_AutoBackup_2019_03_25_01_47_12.exb at 2019_03_25_01_47_13;C:\Users\olgab\EXMARaLDA_AutoBackup_2019_03_25_02_48_13.exb at 2019_03_25_02_48_13</ud-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
 <sex value="u"/>
 <languages-used></languages-used>
@@ -966,7 +966,7 @@
 <event start="T123" end="T124">Perf</event>
 <event start="T128" end="T129">Perf</event>
 <event start="T138" end="T139">Imp</event>
-<event start="T146" end="T147">Imp</event>
+<event start="T146" end="T147">Perf</event>
 <event start="T153" end="T154">Imp</event>
 <event start="T157" end="T158">Perf</event>
 <event start="T164" end="T165">Perf</event>
@@ -1050,9 +1050,7 @@
 <event start="T237" end="T238">Nom</event>
 <event start="T243" end="T244">X</event>
 <event start="T252" end="T253">Loc</event>
-</tier><tier id="TIE5" speaker="norm" category="Degree" type="a" display-name="norm [Degree]"><event start="T95" end="T96">Pos</event>
-<event start="T109" end="T110">Pos</event>
-<event start="T142" end="T143">Pos</event>
+</tier><tier id="TIE5" speaker="norm" category="Degree" type="a" display-name="norm [Degree]"><event start="T142" end="T143">Pos</event>
 <event start="T143" end="T144">Pos</event>
 <event start="T170" end="T171">Pos</event>
 <event start="T175" end="T176">Pos</event>
@@ -1326,7 +1324,7 @@
 <event start="T71" end="T72">Act</event>
 <event start="T85" end="T86">Act</event>
 <event start="T96" end="T97">Act</event>
-<event start="T104" end="T105">Mid</event>
+<event start="T104" end="T105">Act</event>
 <event start="T113" end="T114">Act</event>
 <event start="T116" end="T117">Act</event>
 <event start="T123" end="T124">Act</event>
@@ -1391,7 +1389,7 @@
 <event start="T80" end="T81">S</event>
 <event start="T82" end="T83">CONJ</event>
 <event start="T84" end="T85">S</event>
-<event start="T85" end="T86">V,intr</event>
+<event start="T85" end="T86">V,tran</event>
 <event start="T87" end="T88">PR</event>
 <event start="T88" end="T89">S</event>
 <event start="T89" end="T90">APRO</event>
@@ -1463,7 +1461,7 @@
 <event start="T191" end="T192">V,intr</event>
 <event start="T195" end="T196">PR</event>
 <event start="T196" end="T197">SPRO</event>
-<event start="T197" end="T198">V,ntr</event>
+<event start="T197" end="T198">V,intr</event>
 <event start="T199" end="T200">S</event>
 <event start="T201" end="T202">CONJ</event>
 <event start="T203" end="T204">S</event>
@@ -1489,7 +1487,7 @@
 <event start="T236" end="T237">CONJ</event>
 <event start="T237" end="T238">SPRO</event>
 <event start="T238" end="T239">ADV</event>
-<event start="T239" end="T240">V,tran</event>
+<event start="T239" end="T240">V,intr</event>
 <event start="T243" end="T244">S</event>
 <event start="T245" end="T246">CONJ</event>
 <event start="T249" end="T250">PART</event>

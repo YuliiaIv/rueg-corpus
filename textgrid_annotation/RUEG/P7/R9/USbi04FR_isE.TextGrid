@@ -1,260 +1,376 @@
-File type = "ooTextFile short"
+File type = "ooTextFile"
 Object class = "TextGrid"
 
-0.0
-24.756394999999884
-<exists>
-2
-"IntervalTier"
-"dipl|a|cu"
-0.0
-24.756394999999884
-12
-0.0
-0.7626119872861636
-"(-)"
-0.7626119872861636
-1.8203415191985641
-"fatima hi:"
-1.8203415191985641
-3.158532949522969
-"(--)"
-3.158532949522969
-4.587534657749302
-"just letting you know i=m running late"
-4.587534657749302
-6.674965508206242
-"i (-) witnessed a small accident"
-6.674965508206242
-7.7722964518541175
-"(--)"
-7.7722964518541175
-15.394862897825988
-"kinda sad that a: (-) silly unforunate w/ a: (--) a: small dog (-) was running after a ball"
-15.394862897825988
-18.704633653386498
-"and (-) a: a car stopped suddenly to avoiding hitting it"
-18.704633653386498
-20.299866154292886
-"and and the car behind rearended him"
-20.299866154292886
-20.82172386690695
-"(-)"
-20.82172386690695
-24.28531166262519
-"anyway (-) i=ll: (-) catch up with you soon (-) a/"
-24.28531166262519
-24.756394999999884
-"(-)"
-"IntervalTier"
-"dipl"
-0.0
-24.756394999999884
-69
-0.0
-0.7626119872861636
-"(-)"
-0.7626119872861636
-1.3608393668417587
-"fatima"
-1.3608393668417587
-1.8203415191985641
-"hi:"
-1.8203415191985641
-3.158532949522969
-"(--)"
-3.158532949522969
-3.375051393525109
-"just"
-3.375051393525109
-3.5708085458412637
-"letting"
-3.5708085458412637
-3.7339395061047256
-"you"
-3.7339395061047256
-3.911053120105056
-"know"
-3.911053120105056
-4.0229143500000015
-"i=m"
-4.0229143500000015
-4.200027964000332
-"running"
-4.200027964000332
-4.587534657749302
-"late"
-4.587534657749302
-4.871195343370005
-"i"
-4.871195343370005
-5.28
-"(-)"
-5.28
-5.83
-"witnessed"
-5.83
-5.86
-"a"
-5.86
-6.14
-"small"
-6.14
-6.674965508206242
-"accident"
-6.674965508206242
-7.7722964518541175
-"(--)"
-7.7722964518541175
-8.09
-"kinda"
-8.09
-8.32
-"sad"
-8.32
-8.53
-"that"
-8.53
-8.89
-"a:"
-8.89
-9.5
-"(-)"
-9.5
-9.73
-"silly"
-9.73
-10.69
-"unforunate"
-10.69
-10.73
-"w/"
-10.73
-10.78
-"a:"
-10.78
-10.82
-"(--)"
-10.82
-11.27
-"a:"
-11.27
-13.31
-"small"
-13.31
-13.39
-"dog"
-13.39
-13.51
-"(-)"
-13.51
-13.77
-"was"
-13.77
-14.64
-"running"
-14.64
-14.98
-"after"
-14.98
-15.01
-"a"
-15.01
-15.394862897825988
-"ball"
-15.394862897825988
-16.83
-"and"
-16.83
-16.87
-"(-)"
-16.87
-16.92
-"a:"
-16.92
-16.98
-"a"
-16.98
-17.19
-"car"
-17.19
-17.28
-"stopped"
-17.28
-17.33
-""
-17.33
-17.85
-"suddenly"
-17.85
-18.01
-"to"
-18.01
-18.36338328729247
-"avoiding"
-18.36338328729247
-18.606914506542925
-"hitting"
-18.606914506542925
-18.704633653386498
-"it"
-18.704633653386498
-18.89
-"and"
-18.89
-19.06
-"and"
-19.06
-19.16
-"the"
-19.16
-19.43
-"car"
-19.43
-19.67
-"behind"
-19.67
-20.12
-"rearended"
-20.12
-20.299866154292886
-"him"
-20.299866154292886
-20.82172386690695
-"(-)"
-20.82172386690695
-21.72
-"anyway"
-21.72
-21.75
-"(-)"
-21.75
-22.35
-"i=ll:"
-22.35
-22.66
-"(-)"
-22.66
-22.9
-"catch"
-22.9
-23.04
-"up"
-23.04
-23.19
-"with"
-23.19
-23.31
-"you"
-23.31
-23.57966156164881
-"soon"
-23.57966156164881
-24.12032417280771
-"(-)"
-24.12032417280771
-24.28531166262519
-"a/"
-24.28531166262519
-24.756394999999884
-"(-)"
+xmin = 0 
+xmax = 24.756394999999884 
+tiers? <exists> 
+size = 6 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "dipl|a|cu" 
+        xmin = 0 
+        xmax = 24.756394999999884 
+        intervals: size = 12 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7626119872861636 
+            text = "(-)" 
+        intervals [2]:
+            xmin = 0.7626119872861636 
+            xmax = 1.8203415191985641 
+            text = "fatima hi:" 
+        intervals [3]:
+            xmin = 1.8203415191985641 
+            xmax = 3.158532949522969 
+            text = "(--)" 
+        intervals [4]:
+            xmin = 3.158532949522969 
+            xmax = 4.587534657749302 
+            text = "just letting you know i=m running late" 
+        intervals [5]:
+            xmin = 4.587534657749302 
+            xmax = 6.674965508206242 
+            text = "i (-) witnessed a small accident" 
+        intervals [6]:
+            xmin = 6.674965508206242 
+            xmax = 7.7722964518541175 
+            text = "(--)" 
+        intervals [7]:
+            xmin = 7.7722964518541175 
+            xmax = 15.394862897825988 
+            text = "kinda sad that a: (-) silly unforunate w/ a: (--) a: small dog (-) was running after a ball" 
+        intervals [8]:
+            xmin = 15.394862897825988 
+            xmax = 18.704633653386498 
+            text = "and (-) a: a car stopped suddenly to avoiding hitting it" 
+        intervals [9]:
+            xmin = 18.704633653386498 
+            xmax = 20.299866154292886 
+            text = "and and the car behind rearended him" 
+        intervals [10]:
+            xmin = 20.299866154292886 
+            xmax = 20.82172386690695 
+            text = "(-)" 
+        intervals [11]:
+            xmin = 20.82172386690695 
+            xmax = 24.28531166262519 
+            text = "anyway (-) i=ll: (-) catch up with you soon (-) a/" 
+        intervals [12]:
+            xmin = 24.28531166262519 
+            xmax = 24.756394999999884 
+            text = "(-)" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "dipl" 
+        xmin = 0 
+        xmax = 24.756394999999884 
+        intervals: size = 68 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7626119872861636 
+            text = "(-)" 
+        intervals [2]:
+            xmin = 0.7626119872861636 
+            xmax = 1.3608393668417587 
+            text = "fatima" 
+        intervals [3]:
+            xmin = 1.3608393668417587 
+            xmax = 1.8203415191985641 
+            text = "hi:" 
+        intervals [4]:
+            xmin = 1.8203415191985641 
+            xmax = 3.158532949522969 
+            text = "(--)" 
+        intervals [5]:
+            xmin = 3.158532949522969 
+            xmax = 3.375051393525109 
+            text = "just" 
+        intervals [6]:
+            xmin = 3.375051393525109 
+            xmax = 3.5708085458412637 
+            text = "letting" 
+        intervals [7]:
+            xmin = 3.5708085458412637 
+            xmax = 3.6801482272706028 
+            text = "you" 
+        intervals [8]:
+            xmin = 3.6801482272706028 
+            xmax = 3.8335078632054964 
+            text = "know" 
+        intervals [9]:
+            xmin = 3.8335078632054964 
+            xmax = 3.9637188748483307 
+            text = "i=m" 
+        intervals [10]:
+            xmin = 3.9637188748483307 
+            xmax = 4.200027964000332 
+            text = "running" 
+        intervals [11]:
+            xmin = 4.200027964000332 
+            xmax = 4.587534657749302 
+            text = "late" 
+        intervals [12]:
+            xmin = 4.587534657749302 
+            xmax = 4.871195343370005 
+            text = "i" 
+        intervals [13]:
+            xmin = 4.871195343370005 
+            xmax = 5.28 
+            text = "(-)" 
+        intervals [14]:
+            xmin = 5.28 
+            xmax = 5.746425354173345 
+            text = "witnessed" 
+        intervals [15]:
+            xmin = 5.746425354173345 
+            xmax = 5.86 
+            text = "a" 
+        intervals [16]:
+            xmin = 5.86 
+            xmax = 6.14 
+            text = "small" 
+        intervals [17]:
+            xmin = 6.14 
+            xmax = 6.674965508206242 
+            text = "accident" 
+        intervals [18]:
+            xmin = 6.674965508206242 
+            xmax = 7.7722964518541175 
+            text = "(--)" 
+        intervals [19]:
+            xmin = 7.7722964518541175 
+            xmax = 8.004888564272587 
+            text = "kinda" 
+        intervals [20]:
+            xmin = 8.004888564272587 
+            xmax = 8.32 
+            text = "sad" 
+        intervals [21]:
+            xmin = 8.32 
+            xmax = 8.53 
+            text = "that" 
+        intervals [22]:
+            xmin = 8.53 
+            xmax = 8.89 
+            text = "a:" 
+        intervals [23]:
+            xmin = 8.89 
+            xmax = 9.5 
+            text = "(-)" 
+        intervals [24]:
+            xmin = 9.5 
+            xmax = 9.73 
+            text = "silly" 
+        intervals [25]:
+            xmin = 9.73 
+            xmax = 10.584854773614943 
+            text = "unforunate" 
+        intervals [26]:
+            xmin = 10.584854773614943 
+            xmax = 10.772937345987927 
+            text = "w/" 
+        intervals [27]:
+            xmin = 10.772937345987927 
+            xmax = 11.386375889727503 
+            text = "a:" 
+        intervals [28]:
+            xmin = 11.386375889727503 
+            xmax = 13.023351496359227 
+            text = "(--)" 
+        intervals [29]:
+            xmin = 13.023351496359227 
+            xmax = 13.406264492874639 
+            text = "a:" 
+        intervals [30]:
+            xmin = 13.406264492874639 
+            xmax = 13.736132389036488 
+            text = "small" 
+        intervals [31]:
+            xmin = 13.736132389036488 
+            xmax = 14.097829643599917 
+            text = "dog" 
+        intervals [32]:
+            xmin = 14.097829643599917 
+            xmax = 14.297486528118931 
+            text = "(-)" 
+        intervals [33]:
+            xmin = 14.297486528118931 
+            xmax = 14.413229649579229 
+            text = "was" 
+        intervals [34]:
+            xmin = 14.413229649579229 
+            xmax = 14.64 
+            text = "running" 
+        intervals [35]:
+            xmin = 14.64 
+            xmax = 14.916712227931523 
+            text = "after" 
+        intervals [36]:
+            xmin = 14.916712227931523 
+            xmax = 15.01 
+            text = "a" 
+        intervals [37]:
+            xmin = 15.01 
+            xmax = 15.394862897825988 
+            text = "ball" 
+        intervals [38]:
+            xmin = 15.394862897825988 
+            xmax = 15.899783635574703 
+            text = "and" 
+        intervals [39]:
+            xmin = 15.899783635574703 
+            xmax = 16.36275612141589 
+            text = "(-)" 
+        intervals [40]:
+            xmin = 16.36275612141589 
+            xmax = 16.776537780636456 
+            text = "a:" 
+        intervals [41]:
+            xmin = 16.776537780636456 
+            xmax = 16.98 
+            text = "a" 
+        intervals [42]:
+            xmin = 16.98 
+            xmax = 17.19 
+            text = "car" 
+        intervals [43]:
+            xmin = 17.19 
+            xmax = 17.52742955360358 
+            text = "stopped" 
+        intervals [44]:
+            xmin = 17.52742955360358 
+            xmax = 17.929636900678112 
+            text = "suddenly" 
+        intervals [45]:
+            xmin = 17.929636900678112 
+            xmax = 18.074315802503484 
+            text = "to" 
+        intervals [46]:
+            xmin = 18.074315802503484 
+            xmax = 18.30580204542408 
+            text = "avoiding" 
+        intervals [47]:
+            xmin = 18.30580204542408 
+            xmax = 18.55396985131562 
+            text = "hitting" 
+        intervals [48]:
+            xmin = 18.55396985131562 
+            xmax = 18.704633653386498 
+            text = "it" 
+        intervals [49]:
+            xmin = 18.704633653386498 
+            xmax = 18.89 
+            text = "and" 
+        intervals [50]:
+            xmin = 18.89 
+            xmax = 19.06 
+            text = "and" 
+        intervals [51]:
+            xmin = 19.06 
+            xmax = 19.16 
+            text = "the" 
+        intervals [52]:
+            xmin = 19.16 
+            xmax = 19.365887212213327 
+            text = "car" 
+        intervals [53]:
+            xmin = 19.365887212213327 
+            xmax = 19.67 
+            text = "behind" 
+        intervals [54]:
+            xmin = 19.67 
+            xmax = 20.12 
+            text = "rearended" 
+        intervals [55]:
+            xmin = 20.12 
+            xmax = 20.299866154292886 
+            text = "him" 
+        intervals [56]:
+            xmin = 20.299866154292886 
+            xmax = 20.82172386690695 
+            text = "(-)" 
+        intervals [57]:
+            xmin = 20.82172386690695 
+            xmax = 21.365403998012297 
+            text = "anyway" 
+        intervals [58]:
+            xmin = 21.365403998012297 
+            xmax = 21.75 
+            text = "(-)" 
+        intervals [59]:
+            xmin = 21.75 
+            xmax = 22.35 
+            text = "i=ll:" 
+        intervals [60]:
+            xmin = 22.35 
+            xmax = 22.66 
+            text = "(-)" 
+        intervals [61]:
+            xmin = 22.66 
+            xmax = 22.8816388891422 
+            text = "catch" 
+        intervals [62]:
+            xmin = 22.8816388891422 
+            xmax = 23.04 
+            text = "up" 
+        intervals [63]:
+            xmin = 23.04 
+            xmax = 23.168103114756438 
+            text = "with" 
+        intervals [64]:
+            xmin = 23.168103114756438 
+            xmax = 23.283846236216736 
+            text = "you" 
+        intervals [65]:
+            xmin = 23.283846236216736 
+            xmax = 23.57966156164881 
+            text = "soon" 
+        intervals [66]:
+            xmin = 23.57966156164881 
+            xmax = 24.12032417280771 
+            text = "(-)" 
+        intervals [67]:
+            xmin = 24.12032417280771 
+            xmax = 24.28531166262519 
+            text = "a/" 
+        intervals [68]:
+            xmin = 24.28531166262519 
+            xmax = 24.756394999999884 
+            text = "(-)" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "ip" 
+        xmin = 0 
+        xmax = 24.756394999999884 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 24.756394999999884 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "syllable" 
+        xmin = 0 
+        xmax = 24.756394999999884 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 24.756394999999884 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "pa" 
+        xmin = 0 
+        xmax = 24.756394999999884 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 24.756394999999884 
+            text = "" 
+    item [6]:
+        class = "TextTier" 
+        name = "comment" 
+        xmin = 0 
+        xmax = 24.756394999999884 
+        points: size = 0 

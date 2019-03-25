@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P4/3/DEbi01FT_isT.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P4/3/DEbi01FT_isT.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -77,16 +76,15 @@
 <tli id="T48" time="18.343389302983752"/>
 <tli id="T49" time="18.72700680272109"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">ee</event>
-<event start="T1" end="T2">bug&#252;n</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">ee</event>
+<event start="T1" end="T2">bugün</event>
 <event start="T2" end="T3">acayip</event>
 <event start="T3" end="T4">bi</event>
 <event start="T4" end="T5">olay</event>
 <event start="T5" end="T6">oldu</event>
 <event start="T6" end="T7">(-)</event>
 <event start="T7" end="T8">yolda</event>
-<event start="T8" end="T9">y&#252;r&#252;rken</event>
+<event start="T8" end="T9">yürürken</event>
 <event start="T9" end="T10">bi</event>
 <event start="T10" end="T11">tane</event>
 <event start="T11" end="T12">adamla</event>
@@ -98,7 +96,7 @@
 <event start="T17" end="T18">oldu</event>
 <event start="T18" end="T19">adam</event>
 <event start="T19" end="T20">topunu</event>
-<event start="T20" end="T21">d&#252;ş&#252;rd&#252;</event>
+<event start="T20" end="T21">düşürdü</event>
 <event start="T21" end="T22">tam</event>
 <event start="T22" end="T23">(-)</event>
 <event start="T23" end="T24">karşıda</event>
@@ -110,9 +108,9 @@
 <event start="T29" end="T30">(-)</event>
 <event start="T30" end="T31">işte</event>
 <event start="T31" end="T32">topunu</event>
-<event start="T32" end="T33">d&#252;ş&#252;rd&#252;ğ&#252;</event>
+<event start="T32" end="T33">düşürdüğü</event>
 <event start="T33" end="T34">an</event>
-<event start="T34" end="T35">k&#246;peği</event>
+<event start="T34" end="T35">köpeği</event>
 <event start="T35" end="T36">koştu</event>
 <event start="T36" end="T37">falan</event>
 <event start="T37" end="T38">iki</event>
@@ -123,47 +121,41 @@
 <event start="T42" end="T43">girdi</event>
 <event start="T43" end="T44">ya</event>
 <event start="T44" end="T45">çok</event>
-<event start="T45" end="T46">k&#246;t&#252;</event>
+<event start="T45" end="T46">kötü</event>
 <event start="T46" end="T47">bi</event>
 <event start="T47" end="T48">şey</event>
 <event start="T48" end="T49">oldu</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">ee</event>
-<event start="T1" end="T2">bug&#252;n</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T1" end="T2">bugün</event>
 <event start="T2" end="T3">acayip</event>
-<event start="T3" end="T4">bi</event>
+<event start="T3" end="T4">bir</event>
 <event start="T4" end="T5">olay</event>
 <event start="T5" end="T6">oldu</event>
-<event start="T6" end="T7">(-)</event>
 <event start="T7" end="T8">yolda</event>
-<event start="T8" end="T9">y&#252;r&#252;rken</event>
-<event start="T9" end="T10">bi</event>
+<event start="T8" end="T9">yürürken</event>
+<event start="T9" end="T10">bir</event>
 <event start="T10" end="T11">tane</event>
 <event start="T11" end="T12">adamla</event>
 <event start="T12" end="T13">kadın</event>
-<event start="T13" end="T14">geçiyodu</event>
+<event start="T13" end="T14">geçiyordu</event>
 <event start="T14" end="T15">abi</event>
 <event start="T15" end="T16">yolda</event>
 <event start="T16" end="T17">şey</event>
 <event start="T17" end="T18">oldu</event>
 <event start="T18" end="T19">adam</event>
 <event start="T19" end="T20">topunu</event>
-<event start="T20" end="T21">d&#252;ş&#252;rd&#252;</event>
+<event start="T20" end="T21">düşürdü</event>
 <event start="T21" end="T22">tam</event>
-<event start="T22" end="T23">(-)</event>
 <event start="T23" end="T24">karşıda</event>
 <event start="T24" end="T25">yolda</event>
-<event start="T25" end="T26">bi</event>
+<event start="T25" end="T26">bir</event>
 <event start="T26" end="T27">tane</event>
 <event start="T27" end="T28">kadın</event>
 <event start="T28" end="T29">vardı</event>
-<event start="T29" end="T30">(-)</event>
 <event start="T30" end="T31">işte</event>
 <event start="T31" end="T32">topunu</event>
-<event start="T32" end="T33">d&#252;ş&#252;rd&#252;ğ&#252;</event>
+<event start="T32" end="T33">düşürdüğü</event>
 <event start="T33" end="T34">an</event>
-<event start="T34" end="T35">k&#246;peği</event>
+<event start="T34" end="T35">köpeği</event>
 <event start="T35" end="T36">koştu</event>
 <event start="T36" end="T37">falan</event>
 <event start="T37" end="T38">iki</event>
@@ -174,13 +166,11 @@
 <event start="T42" end="T43">girdi</event>
 <event start="T43" end="T44">ya</event>
 <event start="T44" end="T45">çok</event>
-<event start="T45" end="T46">k&#246;t&#252;</event>
-<event start="T46" end="T47">bi</event>
+<event start="T45" end="T46">kötü</event>
+<event start="T46" end="T47">bir</event>
 <event start="T47" end="T48">şey</event>
 <event start="T48" end="T49">oldu</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">tur</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">tur</event>
 <event start="T1" end="T2">tur</event>
 <event start="T2" end="T3">tur</event>
 <event start="T3" end="T4">tur</event>
@@ -229,17 +219,14 @@
 <event start="T46" end="T47">tur</event>
 <event start="T47" end="T48">tur</event>
 <event start="T48" end="T49">tur</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T6">ee bug&#252;n acayip bi olay oldu</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T6">ee bugün acayip bi olay oldu</event>
 <event start="T6" end="T7">(-)</event>
-<event start="T7" end="T16">yolda y&#252;r&#252;rken bi tane adamla kadın geçiyodu abi yolda</event>
-<event start="T16" end="T21">şey oldu adam topunu d&#252;ş&#252;rd&#252; </event>
+<event start="T7" end="T16">yolda yürürken bi tane adamla kadın geçiyodu abi yolda</event>
+<event start="T16" end="T21">şey oldu adam topunu düşürdü </event>
 <event start="T21" end="T29">tam (-) karşıda yolda bi tane kadın vardı</event>
 <event start="T29" end="T30">(-)</event>
-<event start="T30" end="T37">işte topunu d&#252;ş&#252;rd&#252;ğ&#252; an k&#246;peği koştu falan </event>
+<event start="T30" end="T37">işte topunu düşürdüğü an köpeği koştu falan </event>
 <event start="T37" end="T44">iki tane araba arka arkaya girdi ya </event>
-<event start="T44" end="T49">çok k&#246;t&#252; bi şey oldu</event>
-</tier>
-</basic-body>
+<event start="T44" end="T49">çok kötü bi şey oldu</event>
+</tier></basic-body>
 </basic-transcription>
