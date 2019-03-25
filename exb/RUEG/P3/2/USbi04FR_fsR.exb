@@ -657,8 +657,8 @@
 <event start="T89" end="T90">PART</event>
 <event start="T90" end="T91">V,tran</event>
 <event start="T92" end="T93">PART</event>
-<event start="T94" end="T95">S,f,anim</event>
-<event start="T95" end="T96">S,f,inan</event>
+<event start="T94" end="T95">S</event>
+<event start="T95" end="T96">S</event>
 <event start="T97" end="T98">CONJ</event>
 <event start="T98" end="T99">ADV</event>
 <event start="T99" end="T100">V,intr</event>
@@ -666,13 +666,13 @@
 <event start="T101" end="T102">ADVPRO</event>
 <event start="T102" end="T103">PART</event>
 <event start="T103" end="T104">ANUM</event>
-<event start="T104" end="T105">S,f,inan</event>
+<event start="T104" end="T105">S</event>
 <event start="T105" end="T106">CONJ</event>
 <event start="T106" end="T107">PR</event>
-<event start="T107" end="T108">SPRO,sg,3p,f</event>
+<event start="T107" end="T108">SPRO</event>
 <event start="T109" end="T110">V,intr</event>
-<event start="T110" end="T111">SPRO,sg,n,inan</event>
-<event start="T111" end="T112">SPRO,pl</event>
+<event start="T110" end="T111">SPRO</event>
+<event start="T111" end="T112">SPRO</event>
 </tier><tier id="TIE19" speaker="norm" category="mystem_lex" type="a" display-name="norm [mystem_lex]"><event start="T1" end="T2">а</event>
 <event start="T2" end="T3">здрасте</event>
 <event start="T3" end="T4">это</event>
@@ -733,7 +733,7 @@
 <event start="T95" end="T96">машина</event>
 <event start="T97" end="T98">а</event>
 <event start="T98" end="T99">быстро</event>
-<event start="T99" end="T100">останавливаться</event>
+<event start="T99" end="T100">остановиться</event>
 <event start="T100" end="T101">а</event>
 <event start="T101" end="T102">потом</event>
 <event start="T102" end="T103">вот</event>
@@ -742,9 +742,9 @@
 <event start="T105" end="T106">а</event>
 <event start="T106" end="T107">с</event>
 <event start="T107" end="T108">она</event>
-<event start="T109" end="T110">сталкиваться</event>
+<event start="T109" end="T110">столкнуться</event>
 <event start="T110" end="T111">это</event>
-<event start="T111" end="T112">все</event>
+<event start="T111" end="T112">всё</event>
 </tier><tier id="TIE20" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T1" end="T2">а</event>
 <event start="T2" end="T3">здрасте</event>
 <event start="T3" end="T4">это</event>
@@ -805,7 +805,7 @@
 <event start="T95" end="T96">машина</event>
 <event start="T97" end="T98">а</event>
 <event start="T98" end="T99">быстро</event>
-<event start="T99" end="T100">останавливаться</event>
+<event start="T99" end="T100">остановиться</event>
 <event start="T100" end="T101">а</event>
 <event start="T101" end="T102">потом</event>
 <event start="T102" end="T103">вот</event>
@@ -814,9 +814,9 @@
 <event start="T105" end="T106">а</event>
 <event start="T106" end="T107">с</event>
 <event start="T107" end="T108">она</event>
-<event start="T109" end="T110">сталкиваться</event>
+<event start="T109" end="T110">столкнуться</event>
 <event start="T110" end="T111">это</event>
-<event start="T111" end="T112">весь</event>
+<event start="T111" end="T112">всё</event>
 </tier><tier id="TIE21" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T1" end="T2">CCONJ</event>
 <event start="T2" end="T3">INTJ</event>
 <event start="T3" end="T4">DET</event>
