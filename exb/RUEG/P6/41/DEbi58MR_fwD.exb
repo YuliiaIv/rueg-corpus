@@ -113,7 +113,7 @@
 <tli id="T85" time="85.0"/>
 <tli id="T86" time="86.0"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="tok" type="t" display-name="dipl [tok]"><event start="T0" end="T1">Fallnummer</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">Fallnummer</event>
 <event start="T1" end="T2">F16</event>
 <event start="T2" end="T3">:</event>
 <event start="T3" end="T4">Es</event>
@@ -812,7 +812,7 @@
 <event start="T71" end="T72">APPR</event>
 <event start="T72" end="T73">ADJA</event>
 <event start="T73" end="T74">NN</event>
-<event start="T74" end="T75">NE</event>
+<event start="T74" end="T75">$,</event>
 <event start="T75" end="T76">PWAV</event>
 <event start="T76" end="T77">ART</event>
 <event start="T77" end="T78">ADJA</event>
