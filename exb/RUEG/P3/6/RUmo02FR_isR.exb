@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- (c) http://www.rrz.uni-hamburg.de/exmaralda -->
 <basic-transcription>
 <head>
-<meta-information>
-<project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/6/RUmo02FR_isR.wav"></referenced-file><ud-meta-information/><comment></comment><transcription-convention></transcription-convention></meta-information>
-<speakertable>
-<speaker id="dipl">
+<meta-information><project-name></project-name><transcription-name></transcription-name><referenced-file url="../../../../textgrid/RUEG/P3/6/RUmo02FR_isR.wav"/><ud-meta-information></ud-meta-information><comment></comment><transcription-convention></transcription-convention></meta-information><speakertable><speaker id="dipl">
 <abbreviation>dipl</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
 <speaker id="norm">
 <abbreviation>norm</abbreviation>
-<sex value="u"></sex>
+<sex value="u"/>
 <languages-used></languages-used>
 <l1></l1>
 <l2></l2>
-<ud-speaker-information></ud-speaker-information>
+<ud-speaker-information>
+</ud-speaker-information>
 <comment></comment>
 </speaker>
-</speakertable>
-</head>
+</speakertable></head>
 <basic-body>
 <common-timeline>
 <tli id="T0" time="0.0"/>
@@ -82,8 +81,7 @@
 <tli id="T53" time="18.625259140679677"/>
 <tli id="T54" time="19.03668934240363"/>
 </common-timeline>
-<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]">
-<event start="T0" end="T1">(-)</event>
+<tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">привет</event>
 <event start="T2" end="T3">представляешь</event>
 <event start="T3" end="T4">я</event>
@@ -137,29 +135,22 @@
 <event start="T51" end="T52">просто</event>
 <event start="T52" end="T53">поцарапали</event>
 <event start="T53" end="T54">(-)</event>
-</tier>
-<tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]">
-<event start="T0" end="T1">(-)</event>
-<event start="T1" end="T2">привет</event>
+</tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T1" end="T2">привет</event>
 <event start="T2" end="T3">представляешь</event>
 <event start="T3" end="T4">я</event>
 <event start="T4" end="T5">только</event>
 <event start="T5" end="T6">что</event>
-<event start="T6" end="T7">(-)</event>
 <event start="T7" end="T8">видела</event>
 <event start="T8" end="T9">как</event>
 <event start="T9" end="T10">чуть</event>
 <event start="T10" end="T11">собаку</event>
 <event start="T11" end="T12">не</event>
 <event start="T12" end="T13">задавили</event>
-<event start="T13" end="T14">(-)</event>
 <event start="T14" end="T15">парень</event>
 <event start="T15" end="T16">шёл</event>
-<event start="T16" end="T17">(-)</event>
 <event start="T17" end="T18">иглал</event>
 <event start="T18" end="T19">с</event>
 <event start="T19" end="T20">мячом</event>
-<event start="T20" end="T21">(-)</event>
 <event start="T21" end="T22">и</event>
 <event start="T22" end="T23">уронил</event>
 <event start="T23" end="T24">его</event>
@@ -170,11 +161,9 @@
 <event start="T28" end="T29">хозяйка</event>
 <event start="T29" end="T30">успела</event>
 <event start="T30" end="T31">потянуть</event>
-<event start="T31" end="T32">(-)</event>
 <event start="T32" end="T33">и</event>
 <event start="T33" end="T34">машина</event>
 <event start="T34" end="T35">остановиться</event>
-<event start="T35" end="T36">(-)</event>
 <event start="T36" end="T37">но</event>
 <event start="T37" end="T38">правда</event>
 <event start="T38" end="T39">в</event>
@@ -184,38 +173,28 @@
 <event start="T42" end="T43">но</event>
 <event start="T43" end="T44">вроде</event>
 <event start="T44" end="T45">без</event>
-<event start="T45" end="T46">ш/</event>
 <event start="T46" end="T47">без</event>
 <event start="T47" end="T48">жертв</event>
-<event start="T48" end="T49">и:</event>
-<event start="T49" end="T50">(-)</event>
+<event start="T48" end="T49">и</event>
 <event start="T50" end="T51">ну</event>
 <event start="T51" end="T52">просто</event>
 <event start="T52" end="T53">поцарапали</event>
-<event start="T53" end="T54">(-)</event>
-</tier>
-<tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]">
-<event start="T0" end="T1">rus</event>
-<event start="T1" end="T2">rus</event>
+</tier><tier id="TIE2" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T1" end="T2">rus</event>
 <event start="T2" end="T3">rus</event>
 <event start="T3" end="T4">rus</event>
 <event start="T4" end="T5">rus</event>
 <event start="T5" end="T6">rus</event>
-<event start="T6" end="T7">rus</event>
 <event start="T7" end="T8">rus</event>
 <event start="T8" end="T9">rus</event>
 <event start="T9" end="T10">rus</event>
 <event start="T10" end="T11">rus</event>
 <event start="T11" end="T12">rus</event>
 <event start="T12" end="T13">rus</event>
-<event start="T13" end="T14">rus</event>
 <event start="T14" end="T15">rus</event>
 <event start="T15" end="T16">rus</event>
-<event start="T16" end="T17">rus</event>
 <event start="T17" end="T18">rus</event>
 <event start="T18" end="T19">rus</event>
 <event start="T19" end="T20">rus</event>
-<event start="T20" end="T21">rus</event>
 <event start="T21" end="T22">rus</event>
 <event start="T22" end="T23">rus</event>
 <event start="T23" end="T24">rus</event>
@@ -226,11 +205,9 @@
 <event start="T28" end="T29">rus</event>
 <event start="T29" end="T30">rus</event>
 <event start="T30" end="T31">rus</event>
-<event start="T31" end="T32">rus</event>
 <event start="T32" end="T33">rus</event>
 <event start="T33" end="T34">rus</event>
 <event start="T34" end="T35">rus</event>
-<event start="T35" end="T36">rus</event>
 <event start="T36" end="T37">rus</event>
 <event start="T37" end="T38">rus</event>
 <event start="T38" end="T39">rus</event>
@@ -240,18 +217,13 @@
 <event start="T42" end="T43">rus</event>
 <event start="T43" end="T44">rus</event>
 <event start="T44" end="T45">rus</event>
-<event start="T45" end="T46">rus</event>
 <event start="T46" end="T47">rus</event>
 <event start="T47" end="T48">rus</event>
 <event start="T48" end="T49">rus</event>
-<event start="T49" end="T50">rus</event>
 <event start="T50" end="T51">rus</event>
 <event start="T51" end="T52">rus</event>
 <event start="T52" end="T53">rus</event>
-<event start="T53" end="T54">rus</event>
-</tier>
-<tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]">
-<event start="T0" end="T1">(-)</event>
+</tier><tier id="TIE3" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T1">(-)</event>
 <event start="T1" end="T2">привет</event>
 <event start="T2" end="T3">представляешь</event>
 <event start="T3" end="T13">я только что (-) видела как чуть собаку не задавили</event>
@@ -266,6 +238,5 @@
 <event start="T42" end="T48">но вроде без ш/ без жертв</event>
 <event start="T48" end="T53">и: (-) ну просто поцарапали</event>
 <event start="T53" end="T54">(-)</event>
-</tier>
-</basic-body>
+</tier></basic-body>
 </basic-transcription>
