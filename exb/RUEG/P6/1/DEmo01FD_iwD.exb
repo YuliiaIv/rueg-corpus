@@ -209,6 +209,7 @@
 <event start="T88" end="T89">zusammengekracht</event>
 <event start="T89" end="T90">.</event>
 </tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">Hi</event>
+<event start="T1" end="T2">..</event>
 <event start="T2" end="T3">bin</event>
 <event start="T3" end="T4">ja</event>
 <event start="T4" end="T5">gerade</event>
@@ -225,13 +226,14 @@
 <event start="T15" end="T16">unterwegs</event>
 <event start="T16" end="T17">neben</event>
 <event start="T17" end="T18">mir</event>
+<event start="T18" end="T19">.</event>
 <event start="T19" end="T20">Der</event>
 <event start="T20" end="T21">Mann</event>
 <event start="T21" end="T22">hat</event>
 <event start="T22" end="T23">mit</event>
 <event start="T23" end="T24">dem</event>
 <event start="T24" end="T25">Ball</event>
-<event start="T25" end="T26">rumgespielt</event>
+<event start="T25" end="T26">herumgespielt</event>
 <event start="T26" end="T27">trotz</event>
 <event start="T27" end="T28">Straße</event>
 <event start="T28" end="T29">😡</event>
@@ -249,6 +251,7 @@
 <event start="T40" end="T41">ein</event>
 <event start="T41" end="T42">Hund</event>
 <event start="T42" end="T43">dabei</event>
+<event start="T43" end="T44">.</event>
 <event start="T44" end="T45">So</event>
 <event start="T45" end="T46">dann</event>
 <event start="T46" end="T47">kamen</event>
@@ -277,6 +280,7 @@
 <event start="T69" end="T70">der</event>
 <event start="T70" end="T71">Hund</event>
 <event start="T71" end="T72">nach</event>
+<event start="T72" end="T73">.</event>
 <event start="T73" end="T74">Weil</event>
 <event start="T74" end="T75">man</event>
 <event start="T75" end="T76">ja</event>
@@ -293,6 +297,7 @@
 <event start="T86" end="T87">Autos</event>
 <event start="T87" end="T88">schön</event>
 <event start="T88" end="T89">zusammengekracht</event>
+<event start="T89" end="T90">.</event>
 </tier><tier id="TIE15" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T3">deu</event>
 <event start="T3" end="T4">deu</event>
 <event start="T4" end="T5">deu</event>
@@ -585,6 +590,7 @@
 <event start="T83" end="T84">Fin</event>
 <event start="T88" end="T89">Fin</event>
 </tier><tier id="TIE18" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">hi</event>
+<event start="T1" end="T2">..</event>
 <event start="T2" end="T3">sein</event>
 <event start="T3" end="T4">ja</event>
 <event start="T4" end="T5">gerade</event>
@@ -601,13 +607,14 @@
 <event start="T15" end="T16">unterwegs</event>
 <event start="T16" end="T17">neben</event>
 <event start="T17" end="T18">ich</event>
+<event start="T18" end="T19">.</event>
 <event start="T19" end="T20">d</event>
 <event start="T20" end="T21">Mann</event>
 <event start="T21" end="T22">haben</event>
 <event start="T22" end="T23">mit</event>
 <event start="T23" end="T24">d</event>
 <event start="T24" end="T25">Ball</event>
-<event start="T25" end="T26">rumspielen</event>
+<event start="T25" end="T26">herumspielen</event>
 <event start="T26" end="T27">trotz</event>
 <event start="T27" end="T28">Straße</event>
 <event start="T28" end="T29">😡</event>
@@ -625,6 +632,7 @@
 <event start="T40" end="T41">ein</event>
 <event start="T41" end="T42">Hund</event>
 <event start="T42" end="T43">dabei</event>
+<event start="T43" end="T44">.</event>
 <event start="T44" end="T45">so</event>
 <event start="T45" end="T46">dann</event>
 <event start="T46" end="T47">kommen</event>
@@ -653,6 +661,7 @@
 <event start="T69" end="T70">d</event>
 <event start="T70" end="T71">Hund</event>
 <event start="T71" end="T72">nach</event>
+<event start="T72" end="T73">.</event>
 <event start="T73" end="T74">weil</event>
 <event start="T74" end="T75">man</event>
 <event start="T75" end="T76">ja</event>
@@ -669,6 +678,7 @@
 <event start="T86" end="T87">Auto</event>
 <event start="T87" end="T88">schön</event>
 <event start="T88" end="T89">zusammenkrachen</event>
+<event start="T89" end="T90">.</event>
 </tier><tier id="TIE19" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">NOUN</event>
 <event start="T2" end="T3">VERB</event>
 <event start="T3" end="T4">ADV</event>
@@ -755,6 +765,7 @@
 <event start="T87" end="T88">ADJ</event>
 <event start="T88" end="T89">VERB</event>
 </tier><tier id="TIE20" speaker="norm" category="pos_lang" type="a" display-name="norm [pos_lang]"><event start="T0" end="T1">NGIRR</event>
+<event start="T1" end="T2">$.</event>
 <event start="T2" end="T3">VAFIN</event>
 <event start="T3" end="T4">PTKMA</event>
 <event start="T4" end="T5">ADV</event>
@@ -771,6 +782,7 @@
 <event start="T15" end="T16">ADV</event>
 <event start="T16" end="T17">APPR</event>
 <event start="T17" end="T18">PPER</event>
+<event start="T18" end="T19">$.</event>
 <event start="T19" end="T20">ART</event>
 <event start="T20" end="T21">NN</event>
 <event start="T21" end="T22">VAFIN</event>
@@ -795,6 +807,7 @@
 <event start="T40" end="T41">ART</event>
 <event start="T41" end="T42">NN</event>
 <event start="T42" end="T43">ADV</event>
+<event start="T43" end="T44">$.</event>
 <event start="T44" end="T45">NGIRR</event>
 <event start="T45" end="T46">ADV</event>
 <event start="T46" end="T47">VVFIN</event>
@@ -822,7 +835,8 @@
 <event start="T68" end="T69">KON</event>
 <event start="T69" end="T70">ART</event>
 <event start="T70" end="T71">NN</event>
-<event start="T71" end="T72">PTKVZ</event>
+<event start="T71" end="T72">ADV</event>
+<event start="T72" end="T73">$.</event>
 <event start="T73" end="T74">KOUS</event>
 <event start="T74" end="T75">PIS</event>
 <event start="T75" end="T76">PTKMA</event>
@@ -839,5 +853,6 @@
 <event start="T86" end="T87">NN</event>
 <event start="T87" end="T88">ADJD</event>
 <event start="T88" end="T89">VVPP</event>
+<event start="T89" end="T90">$.</event>
 </tier></basic-body>
 </basic-transcription>
