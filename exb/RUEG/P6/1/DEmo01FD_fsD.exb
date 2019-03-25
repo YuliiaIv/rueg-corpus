@@ -141,7 +141,7 @@
 </common-timeline>
 <tier id="TIE0" speaker="dipl" category="dipl" type="t" display-name="dipl [dipl]"><event start="T0" end="T1">guten</event>
 <event start="T1" end="T2">tag</event>
-<event start="T2" end="T3">DEmo1FD</event>
+<event start="T2" end="T3">DEmo01FD</event>
 <event start="T3" end="T4">hier</event>
 <event start="T4" end="T5">(-)</event>
 <event start="T5" end="T6">isch</event>
@@ -251,7 +251,7 @@
 <event start="T110" end="T111">wiederhören</event>
 </tier><tier id="TIE1" speaker="norm" category="norm" type="t" display-name="norm [norm]"><event start="T0" end="T1">guten</event>
 <event start="T1" end="T2">Tag</event>
-<event start="T2" end="T3">DEmo1FD</event>
+<event start="T2" end="T3">DEmo01FD</event>
 <event start="T3" end="T4">hier</event>
 <event start="T5" end="T6">ich</event>
 <event start="T6" end="T7">rufe</event>
@@ -345,7 +345,7 @@
 <event start="T106" end="T107">ich</event>
 <event start="T107" end="T108">nur</event>
 <event start="T108" end="T109">aussagen</event>
-<event start="T110" end="T111">wiederhören</event>
+<event start="T110" end="T111">Wiederhören</event>
 </tier><tier id="TIE17" speaker="dipl" category="language" type="a" display-name="dipl [language]"><event start="T0" end="T1">deu</event>
 <event start="T1" end="T2">deu</event>
 <event start="T2" end="T3">deu</event>
@@ -444,7 +444,7 @@
 <event start="T108" end="T109">deu</event>
 <event start="T110" end="T111">deu</event>
 </tier><tier id="TIE16" speaker="dipl" category="cu" type="a" display-name="dipl [cu]"><event start="T0" end="T2">guten tag </event>
-<event start="T2" end="T4">DEmo1FD hier </event>
+<event start="T2" end="T4">DEmo01FD hier </event>
 <event start="T4" end="T5">(-) </event>
 <event start="T5" end="T19">isch rufe an wegen dem vorfall ef sechzehn (-) um meine aussage zu machen </event>
 <event start="T19" end="T38">und zwar ä:hm war das so dass: (-) ähm ein mann unterwegs war mit seiner frau und=n fußball </event>
@@ -635,9 +635,9 @@
 <event start="T105" end="T106">Fin</event>
 <event start="T108" end="T109">Inf</event>
 <event start="T110" end="T111">Fin</event>
-</tier><tier id="TIE18" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">guten</event>
+</tier><tier id="TIE18" speaker="norm" category="lemma" type="a" display-name="norm [lemma]"><event start="T0" end="T1">gut</event>
 <event start="T1" end="T2">Tag</event>
-<event start="T2" end="T3">Demo1fd</event>
+<event start="T2" end="T3">Demo01fd</event>
 <event start="T3" end="T4">hier</event>
 <event start="T5" end="T6">ich</event>
 <event start="T6" end="T7">rufen</event>
@@ -697,7 +697,7 @@
 <event start="T66" end="T67">äh</event>
 <event start="T68" end="T69">na</event>
 <event start="T69" end="T70">d</event>
-<event start="T71" end="T72">vorne</event>
+<event start="T71" end="T72">vorn</event>
 <event start="T72" end="T73">fahren</event>
 <event start="T73" end="T74">d</event>
 <event start="T74" end="T75">haben</event>
@@ -716,7 +716,7 @@
 <event start="T88" end="T89">d</event>
 <event start="T89" end="T90">hinter</event>
 <event start="T90" end="T91">wissen</event>
-<event start="T91" end="T92">Pkw</event>
+<event start="T91" end="T92">PKW</event>
 <event start="T92" end="T93">sein</event>
 <event start="T93" end="T94">dann</event>
 <event start="T94" end="T95">hinten</event>
@@ -731,7 +731,7 @@
 <event start="T106" end="T107">ich</event>
 <event start="T107" end="T108">nur</event>
 <event start="T108" end="T109">aussagen</event>
-<event start="T110" end="T111">wiederhören</event>
+<event start="T110" end="T111">Wiederhören</event>
 </tier><tier id="TIE19" speaker="norm" category="pos" type="a" display-name="norm [pos]"><event start="T0" end="T1">ADJ</event>
 <event start="T1" end="T2">NOUN</event>
 <event start="T2" end="T3">ADJ</event>
@@ -889,7 +889,7 @@
 <event start="T63" end="T64">VVPP</event>
 <event start="T65" end="T66">KON</event>
 <event start="T66" end="T67">NGHES</event>
-<event start="T68" end="T69">PTKAMA</event>
+<event start="T68" end="T69">NGIRR</event>
 <event start="T69" end="T70">PDS</event>
 <event start="T71" end="T72">ADV</event>
 <event start="T72" end="T73">VVFIN</event>
@@ -915,16 +915,16 @@
 <event start="T93" end="T94">ADV</event>
 <event start="T94" end="T95">ADV</event>
 <event start="T95" end="T96">VVPP</event>
-<event start="T97" end="T98">PTKMA</event>
+<event start="T97" end="T98">NGIRR</event>
 <event start="T99" end="T100">SEDM</event>
 <event start="T100" end="T101">NN</event>
 <event start="T101" end="T102">VAFIN</event>
 <event start="T102" end="T103">PIS</event>
-<event start="T104" end="T105">PTKMA</event>
+<event start="T104" end="T105">NGIRR</event>
 <event start="T105" end="T106">VMFIN</event>
 <event start="T106" end="T107">PPER</event>
 <event start="T107" end="T108">PTKIFG</event>
 <event start="T108" end="T109">VVINF</event>
-<event start="T110" end="T111">VVFIN</event>
+<event start="T110" end="T111">NN</event>
 </tier></basic-body>
 </basic-transcription>
